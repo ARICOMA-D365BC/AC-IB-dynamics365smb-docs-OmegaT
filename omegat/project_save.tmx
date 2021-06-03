@@ -88,10 +88,18 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>On-line provoz systému v cloudu má zásadní výhodu v nižších počátečních nákladech na implementaci, zajištěné bezpečnosti a snazších aktualizacích systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
+        <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Provoz informačního systému je možný v cloudu nebo ve vlastním prostředí.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111457Z" creationid="Janousek" creationdate="20210603T111457Z">
-        <seg>Provoz informačního systému je možný v cloudu nebo ve vlastním prostředí.</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111615Z" creationid="Janousek" creationdate="20210603T111457Z">
+        <seg>Operation of the information system is possible in the cloud or in your own environment.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
