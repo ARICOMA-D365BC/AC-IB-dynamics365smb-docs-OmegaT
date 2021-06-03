@@ -6,12 +6,28 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt; - rozšíření pro finance</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111913Z" creationid="Janousek" creationdate="20210603T111913Z">
+        <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt; - extension for finance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20210603T092136Z" creationid="kunes" creationdate="20210603T092136Z">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nasazení Microsoft Dynamics 365 Business Central od společnosti AUTOCONT je jednoduché a rychlé díky široké škále rozšiřujících modulů a oborových řešení.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111804Z" creationid="Janousek" creationdate="20210603T111804Z">
+        <seg>&lt;g1&gt;Deploying Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast with a wide range of extension modules and industry solutions.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28,6 +44,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110947Z" creationid="Janousek" creationdate="20210603T110947Z">
         <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>AUTOCONT ROZŠIŘUJÍCÍ MODULY</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111833Z" creationid="Janousek" creationdate="20210603T111833Z">
+        <seg>AUTOCONT EXTENSION MODULES</seg>
       </tuv>
     </tu>
     <tu>
@@ -60,6 +84,46 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111132Z" creationid="Janousek" creationdate="20210603T111132Z">
         <seg>Data is available anytime and from anywhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence obalů základ (EKOKOM)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111944Z" creationid="Janousek" creationdate="20210603T111944Z">
+        <seg>Evidence of packaging basis (EKOKOM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Faktoring</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111925Z" creationid="Janousek" creationdate="20210603T111925Z">
+        <seg>Factoring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Fiskální tiskárny</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111932Z" creationid="Janousek" creationdate="20210603T111932Z">
+        <seg>Fiscal printers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Insolvenční rejstřík</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111923Z" creationid="Janousek" creationdate="20210603T111923Z">
+        <seg>Insolvency register</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jednotlivé funcionality jsme seskupili do následujících balíčků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111907Z" creationid="Janousek" creationdate="20210603T111907Z">
+        <seg>We have grouped the individual functionalities into the following packages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100,6 +164,46 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111615Z" creationid="Janousek" creationdate="20210603T111457Z">
         <seg>Operation of the information system is possible in the cloud or in your own environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Sada rozšíření aplikace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111920Z" creationid="Janousek" creationdate="20210603T111920Z">
+        <seg>App Extension Set</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Standardní systém Dynamics 365 Business Central rozšiřujeme o řadu funkcionalit doplňujících legislativní požadavky a osvědčené postupy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111859Z" creationid="Janousek" creationdate="20210603T111859Z">
+        <seg>We are expanding the standard Dynamics 365 Business Central system with a range of functionality complementing legislative requirements and best practices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelé se mohou připojit z počítače, chytrého telefonu nebo tabletu s Google Android nebo Apple iOS.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111724Z" creationid="Janousek" creationdate="20210603T111724Z">
+        <seg>Users can connect from a computer, smartphone or tablet with Google Android or Apple iOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Více informací k Business Central naleznete na našich stránkách &lt;g1&gt;ACDynamics365.cz&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111742Z" creationid="Janousek" creationdate="20210603T111742Z">
+        <seg>More information about Business Central can be found on our &lt;g1&gt;website ACDynamics365.cz&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Více úhrad</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111930Z" creationid="Janousek" creationdate="20210603T111930Z">
+        <seg>More payments</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
