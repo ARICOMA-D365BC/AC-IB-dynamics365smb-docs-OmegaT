@@ -35,7 +35,7 @@ Výsledky účetních schémat se ukládají do seznamu v chronologickém sledu 
 
 Pak již stačí výsledný soubor naimportovat do elektronického formuláře finanční správy.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)   

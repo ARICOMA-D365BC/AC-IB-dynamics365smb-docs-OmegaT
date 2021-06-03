@@ -21,7 +21,7 @@ Pro export výkazu DPH použijte následující postup:
 3. Poté zvolte funkci **Export SK**.
 4. Vyplňte požadovaná pole a zvolte funkci **OK**, která vytvoří .xml soubor.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

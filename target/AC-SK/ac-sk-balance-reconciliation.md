@@ -42,7 +42,7 @@ Volitelně můžete:
 - Vytisknout částky v měně – vytiskne částky v měně zaúčtovaných dokladů
 - Filtrovat podle Zákazníka
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

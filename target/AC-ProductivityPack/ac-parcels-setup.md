@@ -155,7 +155,7 @@ Pro definice tiskárny je nutné:
 Tisk předávacího protokolu se tiskne automaticky po objednání svozu. Pokud uživatel nechce automatický tisk, stačí v Nastavení Balíkobotu vypnout Boolean - Tisk předávacích protokolů svozu. Tisk se provádí z Výchozí tiskárny dle Vašeho zařízení. Případně pokud máte nastavenou výchozí tiskárnu ve **Výběry tiskáren** jako zbytek Vašich tiskových sestav.
 
 
-## [přibližně]<g1>See also</g1>
+## See also
 [Zásilky](ac-parcels.md)  
 [AC Productivity Pack](ac-productivity-pack.md)  
 [AUTOCONT řešení](../index.md)

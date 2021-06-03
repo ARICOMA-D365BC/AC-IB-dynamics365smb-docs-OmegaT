@@ -39,7 +39,7 @@ Při vytvoření nové karty Zákazníka / Dodavatele je potřebné tabulku Polo
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Položky nespolehlivosti plátce** a poté vyberte související odkaz.
 2. Na stránce **Položky nespolehlivosti plátce** vyberte akci **Kontroluj všechny položky.**
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

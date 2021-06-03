@@ -34,7 +34,7 @@ Pro jednotlivé buňky účetního schématu je potřeba nastavit příslušné 
 4. Na kartě **Mapování souborů účetního schématu** v poli **Typ mapování** vyberte hodnotu Xml. Do polí účetního schématu zadejte odpovídající hodnoty elementů podle technických požadavků šablony xml.
 5. Po úpravách kartu zavřete.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)  

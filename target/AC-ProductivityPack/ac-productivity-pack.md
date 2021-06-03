@@ -35,7 +35,7 @@ Sada addonů pro rozšíření funkcionalit provozní části systému pro D365 
 |Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek. Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|[Zásilky](ac-parcels.md)|
 
 
-## [přibližně]<g1>See also</g1>
+## See also
 [AUTOCONT Řešení](../index.md)  
 [Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  
 [Slovak Legistive Pack](../AC-SK/ac-sk-legislative-pack.md)

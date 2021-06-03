@@ -134,7 +134,7 @@ Pokud chcete zobrazit jednotlivé stavy od přepravce využijte funkci na přehl
 - Při zadávání dat na kartě zásilky (automaticky pomocí načtení kódů, nebo ručně) je na kartě zásilky funkce **Ověřit data zásilky**. PO spuštění dostanete informaci, zda jsou předávané informace v pořádku.
 - Jedno expediční místo může být přiřazeno jedné lokaci. Vzniká vazba 1:1.
 
-## [přibližně]<g1>See also</g1>
+## See also
 [Nastavení zásilek](ac-parcels-setup.md)  
 [AC Productivity Pack](ac-productivity-pack.md)  
 [AUTOCONT řešení](../index.md)

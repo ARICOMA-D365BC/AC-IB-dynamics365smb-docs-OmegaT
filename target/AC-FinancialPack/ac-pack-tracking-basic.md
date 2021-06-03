@@ -34,6 +34,6 @@ Slouží jako podklad pro výkaz o produkci obalů pro společnost EKO-KOM, a. s
 Pokud chceme označit položky jako vykázané, je nutno pro možnost nevykázaných položek zatrhnout pole **Označit položky** a vyplnit pole **Číslo výpisu**.  
 Data použitá do výkazu lze filtrovat, např. podle Zúčtovacího data, Kódu pro vykazování jednotlivých položek apod.
 
-## [přibližně]<g1>See also</g1>
+## See also
 [Nastavení - Evidence obalů základ (EKOKOM)](ac-pack-tracking-basic-setup.md)  
 [Financial Pack](ac-finance-pack.md)

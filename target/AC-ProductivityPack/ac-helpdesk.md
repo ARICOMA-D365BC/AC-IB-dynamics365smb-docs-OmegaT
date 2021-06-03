@@ -105,6 +105,6 @@ Nabídka tiskových sestav přiřazených modulu HelpDesk.
    - Číslo, Nový požadavek, Uzavřený požadavek
 3. Potvrďte pomocí OK.
 
-## [přibližně]<g1>See also</g1>
+## See also
 [HelpDesk - nastavení](ac-helpdesk-setup.md)  
 [AC Productivity Pack](ac-productivity-pack.md)

@@ -31,7 +31,7 @@ Podle Zákona o dani z príjmov č. 595/2003 Z. z  může daňovník uplatnit ro
 > [!NOTE]
 > Na **Kartě DM** v daňové **Knize odpisů DM** zadejte do pole **Počáteční datum odepisování** vždy první den v měsíci.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

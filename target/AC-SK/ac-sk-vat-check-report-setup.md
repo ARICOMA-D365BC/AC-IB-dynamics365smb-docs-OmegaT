@@ -67,7 +67,7 @@ Pro jednotlivé sekce je potřeba nastavit sloupce, které budou exportovány do
 2. Označte řádek, pro který chcete nastavovat a poté zvolte funkci **Akce** - **Sekce** - **Nastavení sloupců sekcí výkazu**.
 3. Zadejte kódy dle plateného nařízení pro vykazování. V poli **Přiřazené pole v řádku výkazu** je nastavení z jakého systémového pole bude hodnota naplněna do Kontrolního výkazu.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)  

@@ -109,6 +109,6 @@ Po založení šablony je nutné nastavit tuto šablonu v Nastavení workflow.
 2. Do pole **Šablona workflow** helpdesku zvoli definovanou šablonu.
 3. Potvrďte pomocí OK.
 
-## [přibližně]<g1>See also</g1>
+## See also
 [HelpDesk](ac-helpdesk.md)  
 [AC Productivity Pack](ac-productivity-pack.md)

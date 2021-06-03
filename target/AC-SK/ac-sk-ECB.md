@@ -24,7 +24,7 @@ Do tabulky směnných kurzů se naimportuje kurz s datumem platnosti posunutým 
 4. Do pole **Vzorec data SK** zadejte hodnotu *1D* pro zajištění funkčnosti posunu datumu při importu.
 5. Potvrďte pomocí **OK**.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

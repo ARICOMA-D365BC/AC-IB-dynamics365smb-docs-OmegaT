@@ -25,7 +25,7 @@ Sada addonů pro rozšíření funkcionality financí pro D365 Business Central
 |Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|[Evidence obalů základ (EKOKOM)](ac-pack-tracking-basic.md)|
 |Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central. Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|[Evidence vratných obalů (Vratné obaly)](ac-pack-tracking-return-packing.md)|
 
-## [přibližně]<g1>See also</g1>
+## See also
 [AUTOCONT Řešení](../index.md)  
 [Productivity Pack](../AC-ProductivityPack/ac-productivity-pack.md)    
 [Slovak Legistive Pack](../AC-SK/ac-sk-legislative-pack.md)

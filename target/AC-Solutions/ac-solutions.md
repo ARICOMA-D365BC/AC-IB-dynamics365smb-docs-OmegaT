@@ -74,7 +74,7 @@ In addition to the expansion modules, the specialized industry solutions listed 
 
 
 
-## [přibližně]<g1>See also</g1>
+## See also
 [AC Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  
 [AC Productivity Pack](../AC-ProductivityPack/ac-productivity-pack.md)  
 [SK Legislative Pack](../AC-SK/ac-sk-legislative-pack.md)

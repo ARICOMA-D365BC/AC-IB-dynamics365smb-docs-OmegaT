@@ -64,6 +64,6 @@ Záznam stránky **Prvky výkazu obalů** tak může vypadat třeba takto:
 
 V každém založeném **Výkazu obalů** lze definovat výjimky, specifikované stavem řádků v Deníku zboží, které nebudou do výkazu zahrnuty. Pomocí vyhledávací funkce ![Žárovka, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat") vyhledejte **Výjimky prvku výkazu obalů**.  Výjimka je definována údaji zadanými do polí **Typ pohybu**, **ID pole**, **Hodnota** a **Pozice** (ve výkazu). Pro vytvoření výjimky je nutné specifikovat také **Kód prvku**.
 
-## [přibližně]<g1>See also</g1>
+## See also
 [Evidence obalů základ (EKOKOM)](ac-pack-tracking-basic.md)  
 [Financial Pack](ac-finance-pack.md)

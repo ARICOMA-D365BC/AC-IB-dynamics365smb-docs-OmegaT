@@ -31,7 +31,7 @@ AddOn Modul Slovak Localization doplňuje systém Dynamics 365 Business Central 
 |Odsouhlasení salda zákazníka a dodavatele.|[Odsouhlasení salda](ac-sk-balance-reconciliation.md)|
 |Uplatnění daňových odpisů dle počtu kalendárných měsíců dle Zákona o dani z příjmů.|[Daňové odpisy](ac-sk-tax-depreciation.md)|
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  

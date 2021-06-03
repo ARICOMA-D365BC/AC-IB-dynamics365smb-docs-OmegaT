@@ -38,7 +38,7 @@ Do XML schémat naimportujte aktuální šablonu XML schématu dle následujíc�
 6. V poli **Přiřazeno legislativě** vyberte hodnotu **SK**.
 7. Potvrďte pomocí tlačítka **OK**.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)

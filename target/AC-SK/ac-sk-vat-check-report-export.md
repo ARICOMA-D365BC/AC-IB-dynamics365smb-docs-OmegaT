@@ -46,7 +46,7 @@ Kontrolní výkaz je nutné uzavřít až po kontrole údajů. Po uzavření kon
 
 1. Na Kartě kontrolního výkazu DPH zvolte funkci **Uzavřít** pro jeho uzavření.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)  

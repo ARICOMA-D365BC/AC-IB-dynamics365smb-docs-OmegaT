@@ -95,7 +95,7 @@ V Nastavení financí a Nastavení účtování DPH je možné aktivovat systém
 2. Na kartě **Nastavení účtování DPH** můžete nastavit kontroly pro tuzemské samozdanění na jednotlivých kombinacích DPH účtoskupin v poli **Kontrola PDP**.
 3. Potvrďte pomocí tlačítka **OK**.
 
-## [přibližně]<g1>See also</g1>
+## See also
 
 [AUTOCONT Řešení](../index.md)  
 [SK Legislativní balíček](ac-sk-legislative-pack.md)   
