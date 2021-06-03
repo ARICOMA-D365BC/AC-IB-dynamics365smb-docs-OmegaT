@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="cs"/>
+  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="cs-CZ"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Controling Basic - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sunavcova" changedate="20210603T091949Z" creationid="sunavcova" creationdate="20210603T091949Z">
+        <seg>Controling Basic - Nastavení</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
