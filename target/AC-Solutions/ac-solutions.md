@@ -13,7 +13,7 @@ ms.author: v-makune
 
 # Microsoft Dynamics 365 Business Central
 
-Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience.. It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.
+Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience. It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.
 
 ![Microsoft Dynamics 365 Business Central](media/ACD365BC_SaaS_1280x720.png "Microsoft Dynamics 365 Business Central")
 
