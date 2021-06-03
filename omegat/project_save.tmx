@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt; - rozšíření pro produktivitu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112440Z" creationid="Janousek" creationdate="20210603T112440Z">
+        <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt; - productivity extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -88,10 +96,34 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Datové schránky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112448Z" creationid="Janousek" creationdate="20210603T112448Z">
+        <seg>Data boxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112444Z" creationid="Janousek" creationdate="20210603T112444Z">
+        <seg>Electronic invoicing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence obalů základ (EKOKOM)</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112230Z" creationid="Janousek" creationdate="20210603T111944Z">
         <seg>Pack Tracking Basic (EKOKOM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112513Z" creationid="Janousek" creationdate="20210603T112513Z">
+        <seg>Incoming Mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,6 +192,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Obecné parametry</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112520Z" creationid="Janousek" creationdate="20210603T112520Z">
+        <seg>General parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>On-line provoz systému v cloudu má zásadní výhodu v nižších počátečních nákladech na implementaci, zajištěné bezpečnosti a snazších aktualizacích systému.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
@@ -172,6 +212,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111615Z" creationid="Janousek" creationdate="20210603T111457Z">
         <seg>Operation of the information system is possible in the cloud or in your own environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikování SharePoint</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112531Z" creationid="Janousek" creationdate="20210603T112531Z">
+        <seg>SharePoint publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšíření fronty  úloh</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112558Z" creationid="Janousek" creationdate="20210603T112558Z">
+        <seg>Job Queue extension</seg>
       </tuv>
     </tu>
     <tu>
