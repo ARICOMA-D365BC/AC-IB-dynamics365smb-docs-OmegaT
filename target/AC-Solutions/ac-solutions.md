@@ -21,7 +21,7 @@ Data is available anytime and from anywhere. Operation of the information system
 
 More information about Business Central can be found on our [website ACDynamics365.cz](https://www.acdynamics365.cz/aplikace/provoz-mensi-firmy).
 
-**Deploying Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast with a wide range of extension modules and industry solutions.**
+**Implementing Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast thanks to a wide range of extension modules and industry solutions.**
 
 ## AUTOCONT EXTENSION MODULES
 
