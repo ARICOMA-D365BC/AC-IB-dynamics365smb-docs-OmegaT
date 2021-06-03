@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Prodejn&#237; pokladn&#237; doklady </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Prodejn&#237; pokladn&#237; doklady ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="prodejní-pokladní-doklady">Prodejní pokladní doklady</h1>
+
+<p>Fakturace lázeňských služeb probíhá na standardních prodejních dokladech (Prodejní faktura, Prodejní dobropis) a také na prodejních pokladních dokladech (Pokladní doklad, Pokladní dobropis), které byly vytvořeny v rámci lázeňského řešení. Pro tyto doklady jsou vytvářeny i sestavy na míru zákazníka. Pro rychlé vyřízení a co největší komfort uživatelů se využívá funkčnosti, která umožňuje některé informace přednastavit.</p>
+<h2 id="nastavení">NASTAVENÍ</h2>
+<h3 id="kódy-standardního-prodeje">Kódy standardního prodeje</h3>
+<p>Pro fakturaci lázeňských služeb na prodejních dokladech je třeba založit Kódy standardního prodeje. Jedná se o standardní funkčnost, která byla v rámci lázeňského řešení rozšířena o možnost práce s lázeňskými službami.
+Pro využití prodeje lázeňských služeb je třeba v řádcích standardního prodeje vyplnit pole:</p>
+<ul>
+<li>Typ = Účet</li>
+<li>Typ lázeňské služby = výběr z následujících hodnot
+<ul>
+<li>Doplňková služba</li>
+<li>Léčebný pobyt</li>
+<li>Ubytování</li>
+<li>Stravování</li>
+<li>Služba v restauraci</li>
+<li>Procedura</li>
+<li>Laboratoř</li>
+<li>Ošetřovatelská péče</li>
+<li>Poplatek</li>
+<li>Telefon</li>
+<li>Wellnes služba</li>
+</ul>
+</li>
+<li>Prodejní kód – toto pole může být vyplněno dvěma způsoby:
+<ul>
+<li>Konkrétní hodnotou v závislosti na typu služby – tato hodnota se pak dostane do prodejního dokladu. Výběrem konkrétní služby se zároveň doplní i Číslo, Popis a účto skupiny zboží.</li>
+<li>Prázdnou hodnotou – konkrétní služba se bude vybírat až na pokladním dokladu v závislosti na typu lázeňské služby</li>
+</ul>
+</li>
+</ul>
+<h3 id="prodejní-pokladní-doklady-1">Prodejní pokladní doklady</h3>
+<p><strong>Pokladna</strong><br>
+V závislosti na používaných měnách je nutno založit standardní pokladny ve Správě financí – Pokladna.</p>
+<p><strong>Pokladny pro prodejní doklady</strong><br>
+Tento číselník slouží k propojení číselné řady s prodejní pokladnou v různých měnách. Číselná řada by měla mít nastaveno výchozí číslování a vyplněnou příslušnou skupinu dokladů, aby se pro prodejní pokladní doklady a prodejní pokladní dobropisy daly přednastavit některé hodnoty (viz. Výchozí hodnoty dokladů). Zároveň musí mít číselná řada definované návaznosti a vztahy.</p>
+<p><strong>Kódy dle počítače</strong><br>
+Tento číselník slouží k propojení číselné řady pro prodejní pokladní doklady a prodejní pokladní dobropisy s konkrétním počítačem, který je reprezentován jménem počítače. To umožní uživateli založit prodejní pokladní doklad v definované číselné řadě na základě jeho počítače a nemusí vybírat číselnou řadu ručně.</p>
+<p><strong>Práva na data, Nastavení práv na data</strong><br>
+Příslušnému uživateli či skupině uživatelů, který bude zodpovědný za danou pokladnu, je třeba přiřa-dit práva na data, která jsou definována v Nastavení práv na data:</p>
+<ul>
+<li>Číselná řada – založení nové položky</li>
+<li>Bank.účet/pokladna – čtení</li>
+<li>Bank.účet/pokladna - účtování</li>
+<li>List deníku – účtování deníku zboží</li>
+<li>Lokace – účtování deníku zboží</li>
+</ul>
+<p><strong>Výchozí hodnoty dokladů</strong><br>
+Tato funkčnost umožňuje pro prodejní doklady reprezentované číselnou řadou nebo skupinou dokladů předdefinovat některé hodnoty, takže je uživatel nemusí při každém vytváření prodejního pokladního dokladu vypisovat ručně.
+Na základě číselné řady se zpravidla umožňuje předdefinovat dimenze hlavičky dokladu a lokace, na základě skupiny dokladů pak výchozí zákazník, zúčtovací datum (workdate), datum dokladu (workdate), datum DPH (workdate), výchozí kód platební podmínky, výchozí kód způsobu dodávky, výchozí kód měny, výchozí kód cenové hladiny apod.
+Tyto hodnoty se nastaví při vytvoření hlavičky prodejního pokladního dokladu, kde je uživatel může v případě potřeby změnit.</p>
+<h2 id="použití">POUŽITÍ</h2>
+<p>Prodej lázeňských služeb probíhá prostřednictvím <strong>Prodejního pokladního dokladu</strong>. Uživatel založí nový prodejní pokladní doklad. Pokud má nastavenou číselnou řadu dle počítače, výchozí hodnoty dokladů  a pokladnu pro prodejní doklady, pak se pro nový pokladní doklad automaticky přiřadí číslo z číselné řady, pokladna na základě výchozí měny, výchozí zákazník a lokace, dimenze, datumy.
+Lázeňskou službu uživatel vybere pomocí funkce „Kopie std.řádků prodeje“ v řádcích pokladního dokladu. Ve formuláři Řádky standardního prodeje uživatel může vybrat jeden či více přednastavených řádků. Vybrané řádky se zkopírují do pokladního dokladu, kde uživatel případně změní množství či vybere konkrétní službu v poli „Prodejní kód“, pokud byl přednastaven pouze „Typ lázeňské služby“, bez konkrétního „Prodejního kódu“.
+Další práce s pokladním dokladem probíhá standardně, zaúčtováním pokladního dokladu vzniká zápis do věcných položek, položek zákazníka, detailních položek zákazníka, DPH položek, položky bankovního účtu apod. v závislosti na skladbě pokladního dokladu.</p>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-spa-solution.html">AC Lázeňské řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-SPA/ac-spa-till-document.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

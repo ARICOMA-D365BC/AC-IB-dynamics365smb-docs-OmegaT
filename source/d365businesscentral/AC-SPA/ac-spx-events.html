@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Ud&#225;losti </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Ud&#225;losti ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="události">Události</h1>
+
+<p>Modul Události umožňuje vytvoření a odeslání události při vybraných operacích v různých oblastech systému.
+Příkladem využití událostí může být např. generování události při vzniku či přiřazení úkolu či činnosti, nebo při posunu termínu splnění úkolu, kontrole termínu vypršení smluv, generování a odeslání události při nedodání výsledků laboratoře, přihlášení a odhlášení uživatelů, změně pracovního data nebo změně záznamů v protokolu změn.
+Nástroj Události slouží k podání informace o nějakém procesu, který nastal a splňuje předem definované podmínky. Tato informace může v sobě mít odkaz na zdroj, ze kterého pochází.</p>
+<p><strong>Nastavení</strong></p>
+<p><strong>Obecné nastavení</strong> – záložka Události</p>
+<ul>
+<li>Zpracuj události po přihlášení</li>
+<li>Čas pro znovuotevření dispečera událostí (pokud uživatel událost nezpracuje, ale jen zavře, znovu se mu připomene po tomto čase) – možno nastavit pro jednotlivé uživatele</li>
+<li>Čas pro otevření pro nové události – možno nastavit pro jednotlivé uživatele</li>
+<li>Přípona zástupce</li>
+<li>Kód události přihlášení</li>
+<li>Kód události odhlášení</li>
+<li>Kód události změny prac. data</li>
+<li>Kód události uživatelsky zadaného oznámení</li>
+<li>Kód události notifikace standardního workflow</li>
+<li>Kód události fronty úloh – Informace</li>
+<li>Kód události fronty úloh – Chyba</li>
+</ul>
+<p><strong>Nastavení poštovního protokolu SMTP</strong></p>
+<ul>
+<li>SMTP server pro odesílání e-mailů</li>
+</ul>
+<p><strong>Prodejci</strong></p>
+<ul>
+<li>Upozornění na události přes e-mail</li>
+<li>E-mail</li>
+</ul>
+<p><strong>Nastavení uživatelů</strong> – záložka Události<br>
+Záložka obsahuje jednak informace o nezpracovaných událostech uživatele, jednak umožňuje nastavit události, které se budou generovat a zobrazovat pro daného uživatele a upravit výchozí nastavení zpracování událostí z Obecného nastavení přímo na míru konkrétního uživatele</p>
+<ul>
+<li>Zpracuj události po přihlášení</li>
+<li>Zobraz události po přihlášení</li>
+<li>Čas pro znovuotevření dispečera událostí (pokud uživatel událost nezpracuje, ale jen zavře, znovu se mu připomene po tomto čase)</li>
+<li>Čas pro otevření pro nové události</li>
+<li>Nepoužívat dispečera událostí</li>
+<li>Generuj událost přihl./odhlášení</li>
+<li>Zakázat změnu pracovního data</li>
+<li>Generuj událost zm. Prac. data</li>
+<li>Upozornění na události přes e-mail</li>
+<li>Nezpracovaná událost</li>
+<li>Nezpracované události chyb</li>
+<li>Nezpracované události úkolů</li>
+<li>Nezpracované informační události</li>
+<li>Nezpracované události změny stavu</li>
+<li>Nezpracované události varování</li>
+</ul>
+<p><strong>Zaměstnanci</strong></p>
+<ul>
+<li>Upozornění na události přes e-mail</li>
+<li>E-mail</li>
+</ul>
+<p><strong>Typy událostí</strong>
+Pro události je možné definovat několik typů, které je možno navázat na různá zdrojová data v systému, definovat způsob zpracování, upozornění, zobrazení a opakování příbuzné události.</p>
+<p><strong>Nastavení příjemců událostí</strong>
+Pro každý typ události je možno nastavit příjemce události, kterým může být:</p>
+<ul>
+<li>Uživatel</li>
+<li>Prodejce</li>
+<li>Skupina uživatelů</li>
+<li>Skupina příjemců – pro skupinu příjemců se definují členové skupiny příjemců události</li>
+</ul>
+<p><strong>Skupiny příjemců události</strong><br>
+Příjemcem události může být skupina příjemců, která je složena ze členů skupiny příjemců události. To umožňuje sestavit pro nějakou událost speciální tým. Členy skupiny příjemců mohou být:</p>
+<ul>
+<li>Uživatel</li>
+<li>Prodejce</li>
+<li>Skupina uživatelů</li>
+</ul>
+<p><strong>Mé události</strong><br>
+Z událostí uživatele je možné vytvořit pohled, který bude obsahovat pouze události daného uživatele a tento pohled se pak může zobrazovat v centru rolí, kde si jej uživatel může spravovat. Kromě seznamu událostí a základních informací o událostech se uživatel může prokliknout přímo ke zdrojovému záznamu a událost rychle vyřešit.</p>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-spa-solution.html">AC Lázeňské řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-SPA/ac-spx-events.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

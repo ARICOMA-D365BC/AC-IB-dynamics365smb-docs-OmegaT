@@ -1,0 +1,211 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>AUTOCONT SOLUTIONS - Parcels | Microsoft Docs </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="AUTOCONT SOLUTIONS - Parcels | Microsoft Docs ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="zásilky">Zásilky</h1>
+
+<p>Addon zásilek slouží k vytvořání zásilek a přímému tisku štítků vybraných dopravců, odesílání dat o zásilkách přepravci a objednání samotného svozu balíků. Pomocí totoho rozšíření je zrychlen proces zpracování a vytváření zásilek posílaných zákazníkům. Tento Addon využívá API služby Balíkobot.</p>
+<p>Tento addon je stavěn na základu načítání čárového kódu (čísel) účtovaných dokladů. Zásilky je možno vytvářet z účtovaných prodejních dodávek a faktur. Pokud uživatel bude vytvářet zásilku z účt. prodejní dodávky, zásilka se vytváří bez dobírky a z faktur s dobírkou.</p>
+<p>Seznam přepravců:</p>
+<ul>
+<li>Česká pošta s.p.</li>
+<li>DHL</li>
+<li>Direct Parcel Distribution CZ s.r.o.</li>
+<li>Geis CZ s.r.o.</li>
+<li>Gebrüder Weiss</li>
+<li>General Logistics Systems Czech Republic s.r.o.</li>
+<li>IN TIME SPEDICE s. r.o.</li>
+<li>Messenger</li>
+<li>Pošta bez hranic (Frogman s.r.o.)</li>
+<li>PPL CZ s.r.o.</li>
+<li>Slovenská pošta a.s.</li>
+<li>TNT</li>
+<li>TOPTRANS EU a.s.</li>
+<li>Uloženka s.r.o.</li>
+<li>UPS</li>
+<li>Zásilkovna s.r.o.</li>
+</ul>
+<h2 id="vytvoření-prodejní-objednávky">Vytvoření prodejní objednávky</h2>
+<p>Základním krokem procesu vytváření zásilek je prodejní objednávka. Data z prodejní objednávky se přenášejí do dalších dokladů, z kterých se vytváří zásilky, proto je nezbytné zadat bezchybně data již na počátku procesu. (Stejně tak se zásilky dají vytvářet z prodejních faktur.)</p>
+<h3 id="nutná-pole-k-zadání-před-vydáním-dokladu">Nutná pole k zadání před vydáním dokladu</h3>
+<ul>
+<li>Adresa zákazníka</li>
+<li>Kód přepravce, kód služby přepravce případně kód pobočky přepravce</li>
+<li>Zákazníkovo telefonní číslo, e-mail nebo jeden z těchto údajů</li>
+<li>Kód způsobu platby (pokud se jedná o dobírku), variabilní symbol</li>
+<li>Vaše reference (v případě, že Váš zákazník vyžaduje na štítek např.: své číslo objednávky)</li>
+</ul>
+<p>Systém nevydá doklad pokud není vyplněno telefonní číslo a/nebo e-mail! (viz. nastavení kontroly).
+Pokud na objednávce není vybraný žádný přepravce, kontrola na vydání dokladu (telefonní číslo a e-mail je vypnutá).</p>
+<h3 id="volitné-pole-k-zadání-před-vydáním-dokladu">Volitné pole k zadání před vydáním dokladu</h3>
+<p>Uživatel již v prodejní objednávce může zadat volitené parametry zásilky. K zadání slouží infomrační panel <strong>Parametry zásilky</strong> na kartě prodejní objednávky. Pomocí tlačítka vložit se otevře okno s parametry z nastavení, které je možno doplnit dle potřeby. Může se jednat například o:</p>
+<ul>
+<li>Kontrola věku adresáta.</li>
+<li>Kontakt na řidiče.</li>
+<li>Donáška do patra.</li>
+<li>Dopolední doručenní.</li>
+<li>A mnohé další.</li>
+</ul>
+<h2 id="karta-zásilky">Karta zásilky</h2>
+<p>Karta zásilky se skládá celkem z pěti částí.</p>
+<h3 id="hlavička-zásilky">Hlavička zásilky</h3>
+<p>V hlavičce dokladu jsou pouze povinné údaje potřebné k založení zásilky, pro zadání dalších údajů jako jsou rozměry nebo vzkaz řidiči je nutné využít podokno Parametry zásilky. Každý přepravce a služba přepravce má své specifické parametry, které v případně neplnosti dat nahlásí zpráva, co zásilce chybí za údaj.</p>
+<h3 id="řádky-zásilky">Řádky zásilky</h3>
+<p>Pro definici počtu balíků v rámci jedné zásilky existuje pole „Počet balíků“. Pokud se bude jednat o balíkovou přepravu (NE PALETOVOU), po zadání počtu balíků se vytvoří řádky zásilky, ke kterým budou přiřazeny jednotlivé štítky od dopravce. V případě paletové přepravy bude toto pole určovat množství jedné manipulační jednotky (nevytvoří se několik řádků, ale vznikne jeden řádek a vyplní se množství; např.: 3 palety).</p>
+<h3 id="parametry-zásilky">Parametry zásilky</h3>
+<p>Volitelné parametry zásilky.</p>
+<h3 id="připojené-doklady">Připojené doklady</h3>
+<p>V podookně připojené doklady je možné vidět všechny dodací listy nebo faktury, které byly vloženy do jedné zásilky (funkční pouze, když se zásilka posílá na jednu adresu)</p>
+<h3 id="obsah-zásilky">Obsah zásilky</h3>
+<p>Obsah zásilky je především pro odesílání mimo EU, kdy je nutné udávat informace o tom co je v zásilce.</p>
+<h2 id="vytvoření-nové-zásilky-z-účtovaného-dokladu">Vytvoření nové zásilky z účtovaného dokladu</h2>
+<p>Po zaúčtování dodání nastává proces vytvoření zásilky pro zákazníka. Jedním ze způsobů je vytvoření zásilky s dodacího listu nebo účtované faktury. Pomocí načítání čísla dokladu se automaticky předvyplní formulář <strong>Vytvořit zásilku</strong>. Tímto krokem uživatel nemusí ručně vypisovat údaje o zásilce.</p>
+<ol>
+<li>Vyberte ikonu <img src="media/ui-search/search_small.png" alt="Žárovky, která otevře funkci Řekněte mi" title="Řekněte mi, co chcete dělat">, zadejte <strong>Vytvořit zásilku</strong> a poté vyberte související odkaz.</li>
+<li>Vložte číslo účtovaného dokladu (účtovaná prodejní dodávka, účtovananá prodejní faktura) do pole <strong>Číslo dokladu</strong>. Nebo využijte funkci Skenovat kódy (v případě kdy máte čárový kód s číslem dokladu).</li>
+<li>Uživatel má možnost zadat počet balíků v rámci jedné zásilky.</li>
+<li>Vyberte funkci <strong>Vytvořit zásilku a vytisknout štítek</strong>.</li>
+<li>Zásilka je nyní vytvořena a zároveň je ve stavu <strong>Ke svozu</strong>, tzn. má již od dopravce přidělené číslo, štítek a data jsou na straně Balíkobotu).</li>
+</ol>
+<h2 id="ruční-vytvoření-zásilky">Ruční vytvoření zásilky</h2>
+<p>Zásilky lze vytvářet i ručně bez účtovaných dokladů, např.: pro odeslání dopisů, nebo dodatečného balíčku. Na přehledu zásilek se nachází funkce „Nový“, který otevře prázdnou kartu zásilky. Karta Zásilky a karta Vytvořit zásilku jsou skoro stejné. Při ručním vytváření zásilky, se nedá skenovat číslo účtovaného dokladu a údaje se musí vyplnit ručně. Při tomto vytváření je nutné zadat Stav na Nová a přídat jeden řádek. Po nachystání dat pro zásilku funkce „Přidat ke svozu“ zaeviduje zásilku v systému Balíkobotu. Poté je nutné ručně nechat vytisknout štítek.</p>
+<p>Pro ruční vytvoření zásilky jsou kroky následující:</p>
+<ol>
+<li>Na přehledu zásilek zvolit funkci <strong>Nový</strong></li>
+<li>Naplnit potřebná pole pro daného přepavce a jeho službu</li>
+<li>Funkce <strong>Přidat ke svozu</strong> (zásilka je ve stavu <strong>Ke svozu</strong> a je možné tisknout štítek)</li>
+<li>Funkce <strong>Tisk štítku</strong></li>
+<li>Zásilka je připravena k objednání svozu.</li>
+</ol>
+<h2 id="úprava-zásilky">Úprava zásilky</h2>
+<p>Upravovat zásilky lze pouze pokud jsou ve stavu <strong>Nová</strong>. Pokud je zásilka ve stavu <strong>Svozeno</strong> nelze ji již editovat. Pro úpravu/smazání informací zásilky, musí být ve stavu <strong>Ke svozu</strong>. Pomocí funkce Odebrat ze svozu se změní stav z <strong>ke svozu</strong> na <strong>Nová</strong>.</p>
+<p>Po tomto kroku je třeba uvědomit přepravce, že zásilku mažete nebo upravujete. V tento okamžik je zásilce odebráno číslo od přepravce a je smazán štítek. Po upravení dat uživatel použije funkci <strong>Přidat ke svozu</strong> a pro vytištění nového štítků použít funkci <strong>Tisk štítků</strong>.</p>
+<ol>
+<li>Vyberte ikonu <img src="media/ui-search/search_small.png" alt="Žárovky, která otevře funkci Řekněte mi" title="Řekněte mi, co chcete dělat">, zadejte <strong>Zásilky</strong> a poté vyberte související odkaz.</li>
+<li>Postavit se na řádek ze zásilkou a použít funkci <strong>Odebrat ze svozu</strong></li>
+<li>Otevřít danou zásilku (nyní má stav <strong>nová</strong>)</li>
+<li>Doplnit údaje/hodnoty o zásilce (Změna přepravce, počet balíků, hmotnost, rozměry...)</li>
+<li>Použít funkce <strong>Přidat ke svozu</strong> (zásilka je ve stavu <strong>Ke svozu</strong> a je možné tisknout štítek)</li>
+<li>Dále je nutné použít funkci <strong>Tisk štítku</strong></li>
+<li>Zásilka je připravena k <strong>objednání svozu</strong>.</li>
+</ol>
+<h2 id="objednání-svozu">Objednání svozu</h2>
+<p>Objednání svozu slouží k předání informace o Vašich zásilkách dopravci. Samotný proces objednání svozu je jednoduchý, slouží k tomu funkce „Objednat svoz“ na přehledu zásilek.</p>
+<p>Funkce zobrazí seznam přepravců s počtem zásilek, které ještě nebyly objednány ke svozu. Uživatel může objednat svoz pouze pro vybraného přepravce nebo pro všechny najednou.</p>
+<p>Pro objednání svozu je nutné udělat tyto kroky:</p>
+<ol>
+<li>Na přehledu zásilek vybrat funkci <strong>Objednat svoz</strong></li>
+<li>Na kartě objednat svozu zvolit, zda se bude objednávat svoz jednoho přepravce (<strong>Objenad svoz</strong>) nebo všech (<strong>Objednat všechny svozy</strong>).</li>
+<li>Po spuštění funkce se vytiskne <strong>Předávací protokol svozu</strong>.</li>
+</ol>
+<h2 id="tisk-předávacího-protokolu-svozu">Tisk předávacího protokolu svozu</h2>
+<p>Předávací protokol je generován ze strany přepravců.
+Tato sestava se může nastavit, aby se tiskla automaticky po objednání svozu. Nastavení automatického tisku je v okně <strong>Nastavení Balíkobotu</strong>. Pro dodatečný tisk předávacího protokolu vybraného přepravce slouží funkce se stejným názvem na přehledu zásilek, kdy stačí stát na jedné ze zásilek daného přepravce v daný den svozu. Poté se vytiskne soupiska všech zásilek od vybraného přepravce za určený den.</p>
+<p>Pro dodatečný tisk předávacího protokolu svozu:</p>
+<ol>
+<li>Stoupnout si na zásilky z daného svozu a použít funkci <strong>Tisk předávacího protokolu svozu</strong>.</li>
+<li>Otevře se PDF soubor, který se následně vytiskne z okna prohližeče.</li>
+</ol>
+<h2 id="sledování-zásilek">Sledování zásilek</h2>
+<p>Na přehledu zásilek lze na první pohled zahlédnout stav přepravy zásilky. Tento stav není strukturován a je pouze informativní bez detailu. Pro aktualizaco toho stavu na řádku zásilky slouží tlačítko <strong>Aktualizovat stav přepravy</strong>.</p>
+<p>Pokud chcete zobrazit jednotlivé stavy od přepravce využijte funkci na přehledu zásilek <strong>Sledování zásilky</strong>, která otevře stránku s jednotlivými stavy přepravy.</p>
+<h2 id="kontroly-a-omezení">Kontroly a omezení</h2>
+<ul>
+<li>Pokud jsou na prodejní objednávce vyplněny pole Kód přepravce a Kód služby přepravce, je nutné zadat telefonní číslo a e-mail příjemce. POkud pole nebudou vyplěny nelze doklad vydat.</li>
+<li>Při zadávání dat na kartě zásilky (automaticky pomocí načtení kódů, nebo ručně) je na kartě zásilky funkce <strong>Ověřit data zásilky</strong>. PO spuštění dostanete informaci, zda jsou předávané informace v pořádku.</li>
+<li>Jedno expediční místo může být přiřazeno jedné lokaci. Vzniká vazba 1:1.</li>
+</ul>
+<h2 id="viz-také">Viz také</h2>
+<p><a href="ac-parcels-setup.html">Nastavení zásilek</a><br>
+<a href="ac-productivity-pack.html">AC Productivity Pack</a><br>
+<a href="../index.html">AUTOCONT řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-ProductivityPack/ac-parcels.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Schvalov&#225;n&#237; doklad&#367; </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Schvalov&#225;n&#237; doklad&#367; ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="schvalování-dokladů">Schvalování dokladů</h1>
+
+<p>Schvalování dokladů v lázeňském řešení částečně využívá standardní funkčnost evidence pošty a rozšiřuje ji o věcnou a finanční likvidaci. Rovněž v procesu schvalování využívá vlastní workflow, které je více uživatelsky nastavitelné, co se týče kontroly a nastavování hodnot polí.
+Schvalování dokladů probíhá ve třech úrovních, a to na nákupních objednávkách, nákupních fakturách a interních dokladech.</p>
+<h3 id="schvalování-nákupních-objednávek">Schvalování nákupních objednávek</h3>
+<p>Schvalování nákupních objednávek probíhá přímo na nákupních objednávkách s využitím šablon workflow.</p>
+<p><strong>Šablony workflow</strong></p>
+<ul>
+<li>číslo tabulky = 38 – Nákupní hlavička</li>
+<li>Stavy workflow
+<ul>
+<li>Nastavovaná pole (Datum schválení, Tisk zakázán, Odeslání zakázáno, Účtování zakázáno, …) – zohlednění v sestavách</li>
+<li>Kontrolovaná pole (Stav, Číslo věřitele…)</li>
+<li>Akce (Write, RELEA/REOP, …)</li>
+</ul>
+</li>
+<li>Nastavení šablony na číselnou řadu NO</li>
+</ul>
+<p><strong>Schvalování nákupní objednávky</strong> probíhá změnou stavu v info panelu nákupní objednávky.</p>
+<h3 id="schvalování-nákupních-faktur">Schvalování nákupních faktur</h3>
+<p>Schvalování nákupních faktur probíhá přes evidenci došlé pošty (Oblasti – ProProduktivitu-Evidence pošty)<br>
+<strong>Šablony evidence pošty</strong></p>
+<ul>
+<li>Typ pošty = Došlá</li>
+<li>Číselná řada</li>
+<li>Číselná řada dokladu</li>
+<li>Kód šablony workflow</li>
+<li>Typ kontaktu = Dodavatel</li>
+<li>Typ dokladu = Faktura</li>
+<li>Kód typu události žádosti k věcné likvidaci faktur</li>
+<li>Kód typu události žádosti k finanční likvidaci faktur</li>
+<li>Skupiny pro likvidaci dokladů – povolené skupiny pro věcnou likvidaci.</li>
+<li>Nastavení finanční likvidace – nastavení limitů v měně pro typy uživatelů likvidace dle hodnot dimenzí</li>
+</ul>
+<p><strong>Nastavení kódů původu</strong></p>
+<ul>
+<li>Záložka PRAMEN - Věcná likvidace nákupních faktur – zde definovaný kód původu se pak kontroluje s Kódem původu v právech na data (dimenze), pokud jsou tato práva aktivována a nastavena.</li>
+</ul>
+<p><strong>Práva na data</strong></p>
+<ul>
+<li>INVENTORY-LOCATION – toto právo se kontroluje při věcné likvidaci zboží, které přišlo rovnou s fakturou a nepředchází mu nákupní příjemka. U zboží, které se objednává dopředu se věcná likvidace provádí u nákupních objednávek.</li>
+</ul>
+<p><strong>Šablony workflow</strong> (Oblasti – ProProduktivitu- WorkFlow – Nastavení)</p>
+<ul>
+<li>číslo tabulky = 52067961 – Evidence pošty</li>
+<li>Stavy workflow
+<ul>
+<li>Nastavovaná pole (Stav,  …)</li>
+<li>Kontrolovaná pole (Stav, Číslo dodavatele, Čas věcné likvidace, Čas finanční likvidace…)</li>
+<li>Akce (Write, Logování, …)</li>
+</ul>
+</li>
+</ul>
+<p>Schvalování nákupní faktury probíhá přes <strong>Kartu evidence pošty</strong>.</p>
+<ul>
+<li><p>Založení nové evidence pošty výběrem šablony – řada polí se předvyplní ze šablony</p>
+</li>
+<li><p>Doplnění informací z došlého dokladu (Datum DPH původního dokladu, Číslo externího dokladu, Částka bez DPH, Číslo dodavatele, …) – Povinnost vyplnění polí lze kontrolovat pomocí stavů workflow</p>
+</li>
+<li><p>Workflow probíhá dle nastavení šablony workflow pomocí změn stavů v info panelu evidence pošty. V záložce Stav je možno vyplnit odpovědnou osobu za další stav, do kterého se evidence pošle. Souslednost stavů a jejich odpovědných osob je pak zobrazena v záložce Protokol stavu.</p>
+</li>
+<li><p><strong>Věcná likvidace</strong></p>
+<ul>
+<li>probíhá v záložce Věcná likvidace Karty evidence pošty</li>
+<li>Je třeba rozdělit řádky dle dimenzí a vybrat Kódy skupin pro likvidaci. Nabízí se pouze skupiny definované pro danou šablonu evidence pošty. Pokud je definována pouze 1 skupina, rovnou se propíše do věcné likvidace při zakládání evidence pošty ze šablony.</li>
+<li>Pomocí nastavení událostí a akcí workflow se rozešlou požadavky na schválení, nebo je může uživatel odeslat pomocí akce Odeslat požadavek věcné likvidace</li>
+<li><strong>Schválení</strong>
+<ul>
+<li>Schválení uživatel provede tlačítkem Schválit</li>
+<li>Automaticky se zaškrtne pole Schváleno, vyplní se ID Schválil, Datum a čas schválení v řádku věcné likvidace a Čas věcné likvidace a Schválená částka likvidace v info panelu.</li>
+<li>Pokud je nastavena finanční likvidace, při schválení posledního řádku věcné likvidace se založí řádek či řádky finanční likvidace dle limitů a v infopanelu se naplní pole Počet neschválených pol.fin.likvidace</li>
+</ul>
+</li>
+<li><strong>Zrušení schválení</strong>
+<ul>
+<li>Uživatel provede tlačítkem Zrušit schválení</li>
+<li>Automaticky se vyprázdní schvalovací pole</li>
+<li>Zruší se finanční likvidace</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Finanční likvidace</strong></p>
+<ul>
+<li>probíhá v záložce Finanční likvidace Karty evidence pošty</li>
+<li>vzniká automaticky po schválení posledního řádku věcné likvidace</li>
+<li>počítá se vždy z cen bez DPH a kontroluje se, zda je uživatel členem schvalovací skupiny</li>
+<li>Pomocí nastavení událostí a zaškrtnutého pole „Automatický požadavek finanční likvidace“ v šabloně evidence pošty, se rozešlou požadavky na finanční likvidaci, nebo je může uživatel odeslat pomocí akce Odeslat požadavek finanční likvidace</li>
+<li><strong>Schválení</strong>
+<ul>
+<li>Uživatel provede tlačítkem Schválit</li>
+<li>Automaticky se vyplní ID uživatele likvidace, Čas likvidace v řádku finanční likvidace a Čas finanční likvidace v infopanelu. V infopanelu se zároveň změní hodnota v poli Počet neschválených pol. fin. likvidace</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Vytvoření dokladu</strong></p>
+<ul>
+<li>Provede uživatel pomocí akce „Vytvořit doklad“ z karty evidence pošty</li>
+<li>Funkce se řídí hodnotou v poli „Povol vytvoření dokladu“, kterou je možno nastavovat a kontrolovat pomocí nastavovaných a kontrolovaných polí jednotlivých stavů workflow</li>
+<li>Do dokladu se přenáší jen řádky, které mají vyplněno Typ + Číslo</li>
+<li>Vytvořený doklad je spojený s evidencí pošty přes Související doklady pošty (Navigace).</li>
+</ul>
+</li>
+<li><p><strong>Zaúčtování dokladu</strong></p>
+<ul>
+<li>Probíhá standardně nad nákupní fakturou</li>
+<li>Zaúčtováním nákupní faktury se změní i link v Souvisejících dokladech pošty na zaúčtovaný doklad.</li>
+</ul>
+</li>
+</ul>
+<h3 id="schvalování-interních-dokladů">Schvalování interních dokladů</h3>
+<p>Schvalování interních dokladů probíhá přes evidenci došlé pošty (Oblasti – ProProduktivitu-Evidence pošty)</p>
+<p><strong>Šablony evidence pošty</strong></p>
+<ul>
+<li>Typ pošty = Došlá</li>
+<li>Číselná řada</li>
+<li>Číselná řada dokladu</li>
+<li>Kód šablony workflow</li>
+<li>Typ dokladu = Interní doklad</li>
+<li>Název šablony deníku – slouží pro automatické vytvoření interního dokladu do finančního deníku pomocí akce „Vytvořit doklad“ v kartě evidence pošty</li>
+<li>Název listu deníku</li>
+<li>Kód typu události žádosti k věcné likvidaci faktur</li>
+<li>Kód typu události žádosti k finanční likvidaci faktur</li>
+<li>Skupiny pro likvidaci dokladů – povolené skupiny pro věcnou likvidaci.</li>
+<li>Nastavení finanční likvidace – nastavení limitů v měně pro typy uživatelů likvidace dle hodnot dimenzí</li>
+</ul>
+<p><strong>Nastavení kódů původu</strong></p>
+<ul>
+<li>Záložka PRAMEN - Věcná likvidace interních dokladů – zde definovaný kód původu se pak kontroluje s Kódem původu v právech na data (dimenze), pokud jsou tato práva aktivována a nastavena.</li>
+</ul>
+<p><strong>Práva na data</strong></p>
+<ul>
+<li>INVENTORY-LOCATION – toto právo se kontroluje při věcné likvidaci zboží, které přišlo rovnou s fakturou a nepředchází mu nákupní příjemka. U zboží, které se objednává dopředu se věcná likvidace provádí u nákupních objednávek.</li>
+</ul>
+<p><strong>Šablony workflow</strong> (Oblasti – ProProduktivitu- WorkFlow – Nastavení)</p>
+<ul>
+<li>číslo tabulky = 52067961 – Evidence pošty</li>
+<li>Stavy workflow
+<ul>
+<li>Nastavovaná pole (Stav,  …)</li>
+<li>Kontrolovaná pole (Stav, Číslo dodavatele, Čas věcné likvidace, Čas finanční likvidace…)</li>
+<li>Akce (Write, Logování, …)</li>
+</ul>
+</li>
+</ul>
+<p>Schvalování interních dokladů probíhá přes <strong>Kartu evidence pošty</strong>.</p>
+<ul>
+<li><p>Založení nové evidence pošty výběrem šablony pro typ dokladu = Interní doklady – řada polí se předvyplní ze šablony</p>
+</li>
+<li><p>Doplnění informací z došlého dokladu (Datum DPH původního dokladu, Číslo externího dokladu, Částka bez DPH, …) – Povinnost vyplnění polí lze kontrolovat pomocí stavů workflow a kontrolovaných polí.</p>
+</li>
+<li><p>Workflow probíhá dle nastavení šablony workflow pomocí změn stavů v info panelu evidence pošty. V záložce Stav je možno vyplnit odpovědnou osobu za další stav, do kterého se evidence pošle. Souslednost stavů a jejich odpovědných osob je pak zobrazena v záložce Protokol stavu.</p>
+</li>
+<li><p><strong>Věcná likvidace</strong></p>
+<ul>
+<li>probíhá v záložce Věcná likvidace Karty evidence pošty</li>
+<li>Je třeba rozdělit řádky dle dimenzí a vybrat Kódy skupin pro likvidaci. Nabízí se pouze skupiny definované pro danou šablonu evidence pošty. Pokud je definována pouze 1 skupina, rovnou se propíše do věcné likvidace při zakládání evidence pošty ze šablony.</li>
+<li>Pomocí nastavení událostí se rozešlou požadavky na schválení, nebo je může uživatel odeslat pomocí akce Odeslat požadavek věcné likvidace</li>
+<li><strong>Schválení</strong>
+<ul>
+<li>Schválení uživatel provede tlačítkem Schválit</li>
+<li>Automaticky se zaškrtne pole Schváleno, vyplní se ID Schválil, Datum a čas schválení v řádku věcné likvidace a Čas věcné likvidace a Schválená částka likvidace v info panelu.</li>
+<li>Pokud je nastavena finanční likvidace, při schválení posledního řádku věcné likvidace se založí řádek či řádky finanční likvidace dle limitů a v infopanelu se naplní pole Počet neschválených pol.fin.likvidace</li>
+</ul>
+</li>
+<li><strong>Zrušení schválení</strong>
+<ul>
+<li>Uživatel provede tlačítkem Zrušit schválení</li>
+<li>Automaticky se vyprázdní schvalovací pole</li>
+<li>Zruší se finanční likvidace</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Finanční likvidace</strong></p>
+<ul>
+<li>probíhá v záložce Finanční likvidace Karty evidence pošty</li>
+<li>vzniká automaticky po schválení posledního řádku věcné likvidace</li>
+<li>počítá se vždy z cen bez DPH a kontroluje se, zda je uživatel členem schvalovací skupiny</li>
+<li>Pomocí nastavení událostí se rozešlou požadavky na schválení, nebo je může uživatel odeslat pomocí akce Odeslat požadavek finanční likvidace</li>
+<li><strong>Schválení</strong>
+<ul>
+<li>Uživatel provede tlačítkem Schválit</li>
+<li>Automaticky se vyplní ID uživatele likvidace, Čas likvidace v řádku finanční likvidace a Čas finanční likvidace v infopanelu. V infopanelu se zároveň změní hodnota v poli Počet neschválených pol. fin. likvidace</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Vytvoření dokladu</strong></p>
+<ul>
+<li>Provede uživatel pomocí akce „Vytvořit doklad“ z karty evidence pošty</li>
+<li>Tím se vytvoří řádky v definované šabloně a listu finančního deníku</li>
+<li>Do dokladu se přenáší jen řádky, které mají vyplněno Typ + Číslo</li>
+<li>Vytvořený doklad je spojený s evidencí pošty přes Související doklady pošty (Navigace).</li>
+</ul>
+</li>
+<li><p><strong>Zaúčtování dokladu</strong></p>
+<ul>
+<li>Probíhá standardně nad finančním deníkem
+Zaúčtováním finančního deníku se změní i link v Souvisejících dokladech pošty na věcné položky</li>
+</ul>
+</li>
+</ul>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-spa-solution.html">AC Lázeňské řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-SPA/ac-spx-document-settlement.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

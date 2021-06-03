@@ -1,0 +1,169 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Spooler | Microsoft Docs </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Spooler | Microsoft Docs ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="nastavení-spooleru">Nastavení Spooleru</h1>
+
+<p>Spooler slouží pro komunikaci systému Business Central s externími systémy nebo datovými zdroji.</p>
+<h2 id="základní-nastavení-spooleru">Základní nastavení Spooleru</h2>
+<p>Pro nastavení spooleru postupujte následujícím způsobem:</p>
+<ol>
+<li>Vyberte ikonu <img src="media/ui-search/search_small.png" alt="Žárovky, která otevře funkci Řekněte mi" title="Řekněte mi, co chcete dělat">, zadejte <strong>Nastavení spooleru</strong> a klikněte na související odkaz.</li>
+<li>Otevře se stránka <strong>Nastavení spooleru</strong>, kde jsou nastavovací a informativní pole:
+<ul>
+<li><strong>Source System</strong>, které označuje zdrojový systém - jak se daný systém v komunikaci identifikuje.</li>
+<li><strong>Nezpracované In úlohy</strong> a *<em>Nezpracované Out úlohy</em> zobrazují počet nezpracovaných úloh v In Bufferu nebo Out Bufferu</li>
+<li><strong>Počítat velikost dokumentu IN Bufferu</strong> a Počítat velikost dokumentu OUT Bufferu určují, zda se mají počítat velikosti dokumentů zobrazovaných v IN a OUT Bufferech.</li>
+<li><strong>Archivovat IN Buffer při zpracování</strong> a <strong>Archivovat IN Buffer při expiraci</strong> určují, kdy a jestli se mají položky IN Bufferu archivovat.</li>
+<li><strong>Archivovat OUT Buffer při zpracování</strong> a <strong>Archivovat OUT Buffer při expiraci</strong> určují, kdy a jestli se mají položky OUT Bufferu archivovat.</li>
+<li><strong>Nehledat příchozí zprávu v archívu</strong> určuje, zda se má hledat příchozí zpráva dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.</li>
+<li><strong>Nehledat odpověď v archívu</strong> určuje, zda se má hledat odpověď dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.</li>
+<li><strong>Maximální počet položek v Bufferu</strong> omezuje počet položek. Pokud se zadá hodnota 0, jedná se o neomezený počet položek v Bufferech.</li>
+<li><strong>Pole Certifikát Pfx</strong> – pokud * tak pole zobrazuje, že je zde uložen elektronický podpis.</li>
+<li><strong>Pole Cesta k certifikátu Pfx</strong> se využívá, pokud není certifikát uložen přímo v databázi.</li>
+<li><strong>Heslo k certifikátu Pfx</strong> - vyplněno pokud se používá.</li>
+<li><strong>Nepovolit elektronické podepisování</strong> slouží k zapínání a vypínání použití elektronického podpisu. Volba nezaškrtnuto znamená nepoužívat elektronický podpis.</li>
+</ul>
+</li>
+</ol>
+<p><img src="media/spooler-setup.png" alt="Nastavení spooleru"></p>
+<ol start="3">
+<li>Pro import elektronického podpisu, použijte <strong>Certifikát Pfx</strong> a dále funkci <strong>Impotovat...</strong>.</li>
+<li>Podpis je možné dále zobrazit, exportovat nebo smazat pomocí funkcí <strong>Exportovat, Odstranit a Ukázat</strong>.</li>
+<li>Stránku následně můžete zavřít.</li>
+</ol>
+<h2 id="agenti-spooleru">Agenti Spooleru</h2>
+<p>Pro nastavení agentů spooleru postupujte následujícím způsobem:</p>
+<ol>
+<li>Vyberte ikonu <img src="media/ui-search/search_small.png" alt="Žárovky, která otevře funkci Řekněte mi" title="Řekněte mi, co chcete dělat">, zadejte <strong>Agenti</strong> a klikněte na související odkaz.
+Otevře se stránka <strong>Agenti</strong>, kde musíte vyplnit následující pole:
+<ul>
+<li>pole <strong>ID agenta a Popis</strong> slouží k evidenčnímu rozlišení agentů.</li>
+<li><strong>Typ</strong> rozlišuje agenty
+<ul>
+<li>IN - slouží pro příchozí komunikace. Přijímá zprávy z okolí a ukládá je do IN Bufferu.</li>
+<li>OUT - prochází OUT Buffer a odesílá zprávy do okolí.</li>
+<li>Procesní - prochází úlohy v IN Bufferu, zpracovává úlohy IN Bufferu a ukládá je do OUT Bufferu.</li>
+</ul>
+</li>
+<li><strong>ID codeunity agenta</strong> se nastaví automaticky, ale dá se přepsat na jinou.</li>
+<li><strong>Interval komunikace (s)</strong> slouží pro aktivní agenty. Určuje, v jakém časovém intervalu se aktivuje a vykonává činnost.</li>
+<li><strong>Přídavné parametry komunikace</strong> využívají v podstatě aktivní agenti. Někteří agenti mohou mít více parametrů. Např. Diskový agent může sbírat data z více adresářů.</li>
+<li>Pro IN Agenty slouží pole <strong>ID výchozí úlohy</strong>. Pokud se úloha Spooleru nenajde dle hlavičky XML, vezme se výchozí úloha.</li>
+<li><strong>Změnit agenta po počtu chyb</strong> je pouze pro OUT Agenty a Procesní Agenty. Pokud se agentovi nepodaří úlohu zpracovat (např. 5 chyb) lze nastavit do pole Změnit na agenta ID nového agenta, který se pokusí úlohu zpracovat.</li>
+<li><strong>Logovat</strong> určuje, zda a jak se zapisuje do aplikačního logu. Hodnoty mohou být Nikdy, Dle úlohy a Vždy.</li>
+<li><strong>Odpovídat pouze na XML</strong> je pro IN Agenty TCP a ukazuje, zda se bude odpovídat pouze na XML</li>
+<li><strong>Druh komunikace a Parametr komunikace</strong> je pouze pro IN Agenty. Parametr komunikace se nastavuje dle zvoleného druhu komunikace:
+<ul>
+<li>TCP – port [čárka] Timeout</li>
+<li>MSMQ – název MSMQ</li>
+<li>Pipe – název named PIPE</li>
+<li>HTTP – adresa http</li>
+<li>Disk – cesta [čárka] filtr souboru
+<ul>
+<li>Pro Diskového a HTTP (timer) In agenta je možné nastavit ID výchozí úlohy pro každý parametr komunikace, aby bylo možné rozlišit, jakým typem úlohy bude přijatá zpráva následně zpraco vána.</li>
+<li>Všichni agenti jsou buď tzv. pasivní, nebo aktivní. Aktivní agent se sám aktivuje a vykonává nějakou činnost. Pasivní agent čeká na podnět zvenčí, na nějaké přerušení systému a na tuto změnu reaguje.</li>
+<li>Pasivní agent běží sám na aplikačním serveru. IN Agent TCP a IN Agent MSMQ jsou pasivní agenti.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Po vyplnění polí je možno stránku zavřít.</li>
+<li>Pokud uživatel potřebuje spustit agenta ručně, může to povést ve skupině <strong>Zpracovat</strong> funkcí <strong>Spusť agenta</strong>.</li>
+</ol>
+<h2 id="úlohy-spooleru">Úlohy spooleru</h2>
+<p><a href="ac-spooler.html">Spooler</a>
+<a href="ac-productivity-pack.html">AC Productivity Pack</a><br>
+<a href="../index.html">AUTOCONT řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-ProductivityPack/ac-spooler-setup.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>AC Promis - transics </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="AC Promis - transics ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="ac-pm-transics">Integrace Transics</h1>
+
+<h2 id="transics">TRANSICS</h2>
+<p>Výměna dat s Transics probíhá na bázi webových služeb (web services). Z dostupných webových služeb jsou implementovány:</p>
+<ul>
+<li>Get_Vehicles</li>
+<li>Get_VehicleInfo_On_Date</li>
+<li>Insert_Planning</li>
+<li>Update_Planning</li>
+<li>Get_Planning_Modifications</li>
+<li>Cancel_Planning</li>
+<li>Get_Positions</li>
+<li>Get_ActivityList</li>
+<li>Get_ActivityReportDetail</li>
+<li>Get_RefuelReport</li>
+<li>Get_BorderCrossingReport</li>
+<li>Get_EcoMonitor_Report</li>
+</ul>
+<p>Z výše uvedených služeb jsou získávány následující informace:</p>
+<ul>
+<li>Položky pozic vozidel	- jedná se informativní údaj pro dispečera, je protokolována historie</li>
+<li>Denní pozice		- viz předchozí, ale za celý den, aby se doplnily případné chybějící informace (např. byla služba nějakou dobu nedostupná)</li>
+<li>Položky přechodů hranic	- tyto informace slouží jako pomocný údaj pro vyúčtování cestovních příkazů</li>
+<li>Položky tankování	 	- jedná se o informativní údaje, jak řidič zaznamenal informace o tom, že natankoval</li>
+<li>Položka Ecomonitorgu 	- informace o způsobu jízdy řidiče; slouží jako podklad pro reporting či zákaznické řešení pro hodnocení řidičů</li>
+<li>Položky aktivit Transics	- v kombinaci s Přechody hranic se tvoří data v tabulce Žurnál aktivit řidiče, což je primární výsledek celé integrace.
+Jedná se o následující typy aktivit:
+<ul>
+<li>Konzultace	- v závislosti na konkrétní instrukční, např. že začal vykládat, nakládat, …</li>
+<li>Extra Informace - lze evidovat doplňující informace, které bude řidič zadávat (dle konkrétní instrukční sady, musí být upraveno jako zákaznická úprava</li>
+<li>Anomálie</li>
+<li>Chyby</li>
+</ul>
+</li>
+</ul>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-pm-promis.html">AC ProMIS</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-ProMIS/ac-pm-transics.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

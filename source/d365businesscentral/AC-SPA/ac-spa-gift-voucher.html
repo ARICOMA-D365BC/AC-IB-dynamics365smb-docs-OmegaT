@@ -1,0 +1,194 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>P&#345;ehled d&#225;rkov&#253;ch pouk&#225;zek </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="P&#345;ehled d&#225;rkov&#253;ch pouk&#225;zek ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="přehled-dárkových-poukázek">Přehled dárkových poukázek</h1>
+
+<p>Dárkové poukázky jsou v systému evidovány na <strong>Kartě dárkové poukázky</strong>. Jednotlivé karty jsou číslovány automaticky na základě číselné řady definované v typu dárkové poukázky. Podle typu jsou také přístupné příslušné funkce, které lze s poukázkou daného typu provádět.
+Důležitá pole:</p>
+<ul>
+<li>Částka poukázky včetně DPH – jedná se o částku, na kterou se poukázka vztahuje a za kterou budou čerpány produkty</li>
+<li>Prodejní částka poukázky včetně DPH – jedná se o částku, za kterou bude DP prodaná. Automaticky se dotahuje částka z pole Částka poukázky včetně DPH, ale lze ji v tomto poli změnit. Pokud bude definována nižší částka, rozdíl nominální a prodejní hodnoty se při prodeji poukázky zaúčtuje na nový řádek s kontem slevy definovaným v poli Finanční konto prodejní slevy. Konto slevy se definuje v typu dárkové poukázky a při vytvoření dárkové poukázky se přenáší do Karty dárkové poukázky a odtud do prodejního dokladu, pokud je částka poukázky různá od prodejní částky poukázky.</li>
+<li>Použitý základ DPH a Základ DPH k použití – zobrazují částku bez DPH. Při uzavírání dárkové poukázky se kontroluje, zda je Základ DPH k použití nulový.</li>
+<li>Částka služeb včetně DPH – toto pole se plní u poukázek s typem účtování = „Prodej služby“ jako součet cen služeb poukázky. Výsledná hodnota je závislá na hodnotě v poli Datum ocenění a na cenové hladině definované v typu dárkové poukázky.</li>
+<li>Obchodní DPH účto skupina – doplňuje se automaticky při prodeji poukázky a na tuto hodnotu se pak kontroluje obchodní DPH účto skupina při užití poukázky.</li>
+<li>Číslo zaměstnance – je třeba vyplnit pro poukázky s typem účtování = „Dar společnosti“</li>
+<li>Záložka Klient/Plátce</li>
+</ul>
+<p>Jednotlivé funkce na Kartě dárkové poukázky se v pásu karet zpřístupňují nebo znepřístupňují na základě typu účtování.</p>
+<h2 id="vytvoření-dárkové-poukázky">Vytvoření dárkové poukázky</h2>
+<p>Dárkové poukázky je možno vytvořit několika způsoby, pomocí funkce:</p>
+<ul>
+<li>Vytvoř novou poukázku – tato funkce založí novou dárkovou poukázku stejného typu, jako má DP, na které stojí kurzor při zakládání nové DP</li>
+<li>Vytvoř novou poukázku s výběrem typu – umožňuje před založením nové DP vybrat typ nové DP</li>
+<li>Automatické založení ze sady poukázek – jednotlivé DP se založí automaticky se založením sady</li>
+</ul>
+<p>Vytvořením poukázky se nové poukázce přidělí číslo z číselné řady definované pro daný typ a doplní některé informace z typu poukázky. Další informace uživatel doplní v kartě DP.</p>
+<h2 id="vytvoření-sady-dárkové-poukázky">Vytvoření sady dárkové poukázky</h2>
+<p>Sadu dárkové poukázky lze vytvořit pomocí funkce „Vytvoř novou sadu“. Nové sadě se přidělí číslo z číselné řady definované pro daný typ sady a doplní se informace z typu sady. Zároveň se automaticky založí jednotlivé dárkové poukázky definované pro sadu.</p>
+<h2 id="výdejvrácení-dp-dar-společnosti">VÝDEJ/VRÁCENÍ DP (DAR SPOLEČNOSTI)</h2>
+<p>Funkce Výdeje a vrácení je přístupná z karty DP pouze pro dárkové poukázky s typem účtování = „Dar společnosti“. Vyžaduje vyplněné Číslo zaměstnance na Kartě DP.</p>
+<ul>
+<li>Výdej – založí položku DP typu prodej a umožní DP použít (vyplněná Částka k použití včetně DPH).</li>
+<li>Vrácení – založí položku DP typu Vrácení a DP uzavře.</li>
+</ul>
+<h2 id="prodej">PRODEJ</h2>
+<h3 id="prodej-dárkových-poukázek">Prodej dárkových poukázek</h3>
+<p>Prodej dárkových poukázek s typem účtování = Hodnota, Prodej služby se provádí na prodejním dokladu pomocí funkce „Navrhni prodej dárkových poukázek“. Na prodejní doklad se nabízí jen neuzavřené dárkové poukázky s typem účtování Hodnota a Prodej služby, které ještě nejsou prodané. Prodej se uskuteční za prodejní částku včetně DPH. Pokud je odlišná od nominální hodnoty poukázky, založí se další prodejní řádek na konto slevy definované v typu poukázky s rozdílovou částkou.
+Zaúčtováním prodejního dokladu</p>
+<ul>
+<li>vznikne položka DP typu Prodej na nominální částku poukázky, která se objeví i na kontě poukázky. Pokud při prodeji byla uplatněna sleva, částka slevy jde na konto slevy.</li>
+<li>Hodnota v poli Prodej na DP se změní na Ano</li>
+<li>Naplní se Částka k použití včetně DPH a DP je možno použít na čerpání produktů</li>
+</ul>
+<h3 id="storno-prodeje-dp">Storno prodeje DP</h3>
+<p>Storno prodeje DP se provádí na prodejním dobropisu či na prodejním pokladním dobropisu pomocí funkce „Navrhni prodej dárkových poukázek“. Na prodejní dobropis se nabízí jen neuzavřené dárkové poukázky s typem účtování Hodnota a Prodej služby s nenulovou částkou k použití včetně DPH.
+Zaúčtováním prodejního dobropisu</p>
+<ul>
+<li>vznikne položka DP typu Vrácení na nominální částku poukázky, která se objeví i na kontě poukázky. Pokud při prodeji byla uplatněna sleva, částka slevy se vrátí na konto slevy.</li>
+<li>Částka k použití včetně DPH se vynuluje</li>
+<li>DP se uzavře</li>
+</ul>
+<h3 id="prodej-sad-dárkových-poukázek">Prodej sad dárkových poukázek</h3>
+<p>Prodej sady dárkových poukázek se provádí na prodejním dokladu pomocí funkce „Navrhni prodej sad dárkových poukázek“. Je to jediné místo, kde se pracuje se sadou jako celkem. Na prodejní doklad se nabízí jen neuzavřené a neprodané sady dárkových poukázek.
+Zaúčtováním prodejního dokladu</p>
+<ul>
+<li>vzniknou položky DP typu Prodej na nominální částky poukázek</li>
+<li>Hodnota v poli Prodej na jednotlivých DP i v sadě DP se změní na Ano</li>
+<li>Naplní se Částky k použití včetně DPH a jednotlivé DP je možno použít na čerpání produktů</li>
+</ul>
+<h2 id="užití">UŽITÍ</h2>
+<h3 id="použití-dp-na-prodejním-dokladu">Použití DP na prodejním dokladu</h3>
+<p>Na prodejním dokladu lze použít otevřené platné DP s nenulovou částkou k použití včetně DPH. K použití slouží funkce:</p>
+<ul>
+<li><p>Připoj dárkovou poukázku</p>
+<ul>
+<li>Funkce připojí vybranou DP do prodejního dokladu max. do výše částky k použití včetně DPH</li>
+<li>Použitá částka z DP je zobrazena v poli Čerpaná částka dárkových poukázek (záložka Obecné na kartě prodejního dokladu). Do detailu použitých částek z jednotlivých DP připojených k dokladu je možno se dostat rozkliknutím této částky, nebo pomocí page Přiřazené dárkové poukázky (záložka Navigace v pásu karet prodejního dokladu).</li>
+</ul>
+</li>
+<li><p>Zruš připojení dárk. poukázek</p>
+<ul>
+<li>Tato funkce zruší přiřazení všech DP k prodejnímu dokladu, tudíž se vynuluje i pole Čerpaná částka dárkových poukázek</li>
+</ul>
+</li>
+<li><p>Test připojených dárk. poukázek</p>
+<ul>
+<li>Tato funkce otestuje připojení dárkových poukázek na prodejním dokladu a výsledek testu oznámí uživateli.</li>
+</ul>
+</li>
+</ul>
+<p>Zaúčtováním prodejního dokladu s připojenou DP:</p>
+<ul>
+<li>vznikne položka DP typu Použití na částku, která byla použita na dokladu a o tuto částku se sníží konto DP</li>
+<li>Hodnota v poli Užití na DP se změní na Ano</li>
+<li>Změní se Částka k použití včetně DPH</li>
+<li>Pokud se použije celá částka, dárková poukázka se uzavře</li>
+</ul>
+<h2 id="propadnutí">PROPADNUTÍ</h2>
+<p>Jakmile dárková poukázka pozbyde platnosti a vykazuje nenulový zůstatek, je možno účtovat propadnutí, které přeúčtuje zbylou částku z konta DP na konto výnosů propadnutí, které je definované v typu dárkové poukázky. Propadnutí je možné účtovat z karty či přehledu dárkových poukázek pomocí funkcí:</p>
+<ul>
+<li><p>Účtuj propadnutí</p>
+<ul>
+<li>funkce přeúčtuje zůstatek konkrétní propadlé DP z konta DP na konto výnosů propadnutí</li>
+<li>vytvoří položku DP typu propadnutí</li>
+<li>vynuluje Částku k použití včetně DPH</li>
+<li>uzavře DP</li>
+</ul>
+</li>
+<li><p>Účtuj propadnutí všech prošlých poukázek – zaúčtuje propadnutí pro všechny prošlé DP</p>
+</li>
+<li><p>Účtuj storno propadnutí</p>
+<ul>
+<li>funkce přeúčtuje zůstatek konkrétní propadlé DP z konta výnosů propadnutí na konto DP</li>
+<li>vytvoří položku DP typu propadnutí s opačným znaménkem</li>
+<li>naplní Částku k použití včetně DPH</li>
+<li>otevře DP</li>
+</ul>
+</li>
+</ul>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-spa-solution.html">AC Lázeňské řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-SPA/ac-spa-gift-voucher.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>

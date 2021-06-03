@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Parkovi&#353;t&#283; </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Parkovi&#353;t&#283; ">
+    <meta name="generator" content="docfx 2.55.0.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../TOC.html">
+    <meta property="docfx:tocrel" content="../TOC.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="png" src="../logo.png" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="parkoviště">Parkoviště</h1>
+
+<p>Evidence parkování umožňuje evidovat v systému parkovací kapacity a do nich umisťovat osoby, které na pobyt přijely autem a tisknout jim parkovací lístek. Evidence probíhá nad Ručními položkami klientského účtu.</p>
+<h2 id="nastavení">NASTAVENÍ</h2>
+<p><strong>Lázeňská služba</strong></p>
+<ul>
+<li>Služba parkování
+<ul>
+<li>Toto pole slouží pro aktivaci nástrojů pro kontrolu kapacit parkovacích míst</li>
+<li>Pro doplňkové služby, které se budou týkat parkování a budou vstupovat do eviden-ce parkovacích míst je třeba toto pole zaškrtnout</li>
+<li>Pokud pole není standardně zobrazeno, je nutno jej zobrazit</li>
+</ul>
+</li>
+</ul>
+<p><strong>Parkoviště</strong><br>
+Jedná se o číselník, kde je třeba definovat jednotlivá parkoviště a určit způsob kontroly jejich kapaci-ty. K tomu slouží pole Typ kontroly, které může nabývat hodnot:</p>
+<ul>
+<li>Žádná
+<ul>
+<li>u tohoto typu žádná kontrola neprobíhá</li>
+</ul>
+</li>
+<li>Celková kapacita
+<ul>
+<li>u tohoto typu kontroly se kontroluje pouze celková kapacita, tzn., že se zde neevidují jednotlivá stání, pouze se hlídá nepřekročení celkové kapacity parkoviště. Při evidenci se nemusí vyplňovat číslo stání.</li>
+</ul>
+</li>
+<li>Jednotlivá místa
+<ul>
+<li>u tohoto typu kontroly se kontroluje jak celková kapacita, tak i kapacita konkrétního místa (stání). Při evidenci se musí vyplňovat číslo stání.
+Pokud je zaškrtnuto pole Kontroluj SPZ vozidla, při účtování doplňkové služby typu Služba parkování se kontroluje vyplnění SPZ vozidla v evidenci.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Blokace parkoviště</strong><br>
+Přes tabulku Parkoviště je možno zablokovat příslušné parkovací místo či celé parkoviště na zvolené období pro případ oprav, parkování jiných vozidel než klientů apod.</p>
+<h2 id="použití">POUŽITÍ</h2>
+<p>Evidence parkovacích míst probíhá ve formuláři Ruční položky služeb, který je přístupný z Karty po-bytu klienta pomocí tlačítka „Doplňkové služby – ruční položky“ v pásu karet. Parkování se týkají sloupce:</p>
+<ul>
+<li>Služba parkování</li>
+<li>Kód parkoviště</li>
+<li>Číslo stání</li>
+<li>Počet vozidel</li>
+<li>SPZ vozidla
+Výběrem služby parkování se automaticky nastaví hodnota 1 do pole Počet vozidel, SPZ vozidla se doplní z osoby pobytu. Obě hodnoty je možné změnit.
+Zadáním Počátečního data a Koncového data se automaticky doplní hodnota do pole Množství. Množství služby se automaticky aktualizuje při změně období služy a počtu vozidel.
+Pokud je na daném parkovišti nastavena kontrola kapacity, při jejím překročení systém ohlásí chybovou hlášku: „Pro vybrané parkoviště/stání není v požadovaném termínu volná kapacita.“ Jedná se pouze o varovné hlášení, tzn., že jej uživatel může vědomě překročit. Jakmile pak odskočí ze zadáva-ného záznamu, záznamy, které překračují kapacitu, zčervenají.
+Pokud je počáteční a koncové datum služby v různém měsíci, je třeba spustit funkci Rozděl položku podle měsíců. To je důležité proto, že na klientský účet nelze zaúčtovat položku z různých měsíců. Funkce rozdělí záznam do tolika položek, do kolika měsíců zasahuje.
+Aby došlo k rozdělení položek, je třeba, aby korespondovalo Počáteční a Koncové datum s množstvím.</li>
+</ul>
+<p>Do evidence je možno zadat i minusovou položku ve smyslu storna. Při kontrole parkovacích kapacit se pak tato položka odečítá. Storna je tedy třeba vytvářet v této evidenci, ne až v položkách klient-ského účtu, aby se tak uvolnila obsazená kapacita parkoviště.</p>
+<h2 id="see-also">Viz také</h2>
+<p><a href="ac-spa-solution.html">AC Lázeňské řešení</a></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AutoContCZ/AC-IB-dynamics365smb-docs.cs-cz/blob/master/business-central/AC-SPA/ac-spa-parking-sites.md/#L1" class="contribution-link">Vylep&#353;it dokument</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>V t&#233;to sekci</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </div></div></body>
+</html>
