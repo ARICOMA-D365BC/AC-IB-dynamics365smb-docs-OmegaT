@@ -90,8 +90,16 @@
       <tuv lang="cs-CZ">
         <seg>Evidence obalů základ (EKOKOM)</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111944Z" creationid="Janousek" creationdate="20210603T111944Z">
-        <seg>Evidence of packaging basis (EKOKOM)</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112230Z" creationid="Janousek" creationdate="20210603T111944Z">
+        <seg>Pack Tracking Basic (EKOKOM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence vratných obalů (Vratné obaly)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112422Z" creationid="Janousek" creationdate="20210603T112158Z">
+        <seg>Pack Tracking - Return Packing</seg>
       </tuv>
     </tu>
     <tu>
