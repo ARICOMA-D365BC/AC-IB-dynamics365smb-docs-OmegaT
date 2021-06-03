@@ -6,6 +6,32 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20210603T092136Z" creationid="kunes" creationdate="20210603T092136Z">
+        <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Viz také&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20210603T092133Z" creationid="kunes" creationdate="20210603T092133Z">
+        <seg>&lt;g1&gt;See also&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Controling Basic</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20210603T092153Z" creationid="kunes" creationdate="20210603T092153Z">
+        <seg>Controling Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Controling Basic - Nastavení</seg>
       </tuv>
       <tuv lang="en-US" changeid="sunavcova" changedate="20210603T091949Z" creationid="sunavcova" creationdate="20210603T091949Z">
