@@ -38,6 +38,22 @@
         <seg>Controling Basic - Nastavení</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Microsoft Dynamics 365 Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T093025Z" creationid="Janousek" creationdate="20210603T093025Z">
+        <seg>Microsoft Dynamics 365 Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Microsoft Dynamics 365 Business Central je moderní informační systém pro malé a středně velké společnosti, které hledají jednoduché a snadno přizpůsobitelné řešení s komplexním pokrytím jejich potřeb a s intuitivním uživatelským prostředím.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T093732Z" creationid="Janousek" creationdate="20210603T093732Z">
+        <seg>Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user interface.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
