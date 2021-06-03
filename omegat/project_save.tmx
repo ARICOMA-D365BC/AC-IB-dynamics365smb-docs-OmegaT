@@ -24,6 +24,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T110947Z" creationid="Janousek" creationdate="20210603T110947Z">
+        <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
@@ -58,16 +66,16 @@
       <tuv lang="cs-CZ">
         <seg>Microsoft Dynamics 365 Business Central je moderní informační systém pro malé a středně velké společnosti, které hledají jednoduché a snadno přizpůsobitelné řešení s komplexním pokrytím jejich potřeb a s intuitivním uživatelským prostředím.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210603T093732Z" creationid="Janousek" creationdate="20210603T093732Z">
-        <seg>Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user interface.</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T110931Z" creationid="Janousek" creationdate="20210603T093732Z">
+        <seg>Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience..</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210603T110738Z" creationid="Janousek" creationdate="20210603T110738Z">
-        <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
+        <seg>It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
