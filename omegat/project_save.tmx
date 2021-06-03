@@ -14,10 +14,30 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;SK Legislative Pack&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112940Z" creationid="Janousek" creationdate="20210603T112940Z">
+        <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;SK Legislative Pack&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt; - rozšíření pro produktivitu</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112440Z" creationid="Janousek" creationdate="20210603T112440Z">
         <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt; - productivity extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Solutions&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112955Z" creationid="Janousek" creationdate="20210603T112955Z">
+        <seg>&lt;g1&gt;AC Solutions&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,6 +164,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doprava a logistika</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112855Z" creationid="Janousek" creationdate="20210603T112855Z">
+        <seg>Transport and logistics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112444Z" creationid="Janousek" creationdate="20210603T112444Z">
@@ -192,6 +220,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Farmaceutický a kosmetický průmysl</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112922Z" creationid="Janousek" creationdate="20210603T112922Z">
+        <seg>Pharmaceutical and cosmetics industry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Fiskální tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111932Z" creationid="Janousek" creationdate="20210603T111932Z">
@@ -204,6 +240,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112720Z" creationid="Janousek" creationdate="20210603T112720Z">
         <seg>HelpDesk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Holdingové společnosti</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112916Z" creationid="Janousek" creationdate="20210603T112916Z">
+        <seg>Holding companies</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,6 +276,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Lázeňství, hotelnictví a wellness</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112853Z" creationid="Janousek" creationdate="20210603T112853Z">
+        <seg>Spa, hotel and wellness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Microsoft Dynamics 365 Business Central</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T093025Z" creationid="Janousek" creationdate="20210603T093025Z">
@@ -248,10 +300,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Montážní výroba</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112910Z" creationid="Janousek" creationdate="20210603T112910Z">
+        <seg>Assembly production</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
         <seg>It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Neziskové organizace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112913Z" creationid="Janousek" creationdate="20210603T112913Z">
+        <seg>Nonprofit organizations</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,6 +380,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Servisní firmy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112915Z" creationid="Janousek" creationdate="20210603T112915Z">
+        <seg>Service companies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spooler</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
@@ -344,6 +420,30 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Velkoobchod a maloobchod, distribuce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
+        <seg>Wholesale and retail, distribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Viz také</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112935Z" creationid="Janousek" creationdate="20210603T112935Z">
+        <seg>[přibližně]&lt;g1&gt;See also&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vydavatelství</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112920Z" creationid="Janousek" creationdate="20210603T112920Z">
+        <seg>Publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Více informací k Business Central naleznete na našich stránkách &lt;g1&gt;ACDynamics365.cz&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111742Z" creationid="Janousek" creationdate="20210603T111742Z">
@@ -372,6 +472,30 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112808Z" creationid="Janousek" creationdate="20210603T112808Z">
         <seg>Parcels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>a řada dalších</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112931Z" creationid="Janousek" creationdate="20210603T112931Z">
+        <seg>and a number of other</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>media</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
+        <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řízení projektů a zakázek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112903Z" creationid="Janousek" creationdate="20210603T112903Z">
+        <seg>Project and order management</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
