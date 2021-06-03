@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Data jsou dostupná kdykoliv a odkudkoliv.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111132Z" creationid="Janousek" creationdate="20210603T111132Z">
+        <seg>Data is available anytime and from anywhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Microsoft Dynamics 365 Business Central</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T093025Z" creationid="Janousek" creationdate="20210603T093025Z">
@@ -76,6 +84,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
         <seg>It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Provoz informačního systému je možný v cloudu nebo ve vlastním prostředí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111457Z" creationid="Janousek" creationdate="20210603T111457Z">
+        <seg>Provoz informačního systému je možný v cloudu nebo ve vlastním prostředí.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
