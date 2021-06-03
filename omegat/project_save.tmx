@@ -40,6 +40,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;SK Legislative Pack&lt;/g1&gt; - rozšíření o Slovenskou legislativu a Slovenský jazyk</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112821Z" creationid="Janousek" creationdate="20210603T112821Z">
+        <seg>&lt;g1&gt;SK Legislative Pack&lt;/g1&gt; - extension to Slovak legislation and Slovak language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Viz také&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20210603T092133Z" creationid="kunes" creationdate="20210603T092133Z">
@@ -56,6 +64,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>AUTOCONT OBOROVÁ ŘEŠENÍ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112830Z" creationid="Janousek" creationdate="20210603T112830Z">
+        <seg>AUTOCONT INDUSTRY SOLUTIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AUTOCONT ROZŠIŘUJÍCÍ MODULY</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111833Z" creationid="Janousek" creationdate="20210603T111833Z">
@@ -68,6 +84,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Centrální číselníky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112732Z" creationid="Janousek" creationdate="20210603T112732Z">
+        <seg>Central Database</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,10 +128,34 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doprava - plánování</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112618Z" creationid="Janousek" creationdate="20210603T112618Z">
+        <seg>Transport - planning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Doprava - základ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112611Z" creationid="Janousek" creationdate="20210603T112611Z">
+        <seg>Transport - basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112444Z" creationid="Janousek" creationdate="20210603T112444Z">
         <seg>Electronic invoicing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence nářadí a pomůcek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112755Z" creationid="Janousek" creationdate="20210603T112755Z">
+        <seg>Production Tools</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,6 +200,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>HelpDesk</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112720Z" creationid="Janousek" creationdate="20210603T112720Z">
+        <seg>HelpDesk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Insolvenční rejstřík</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111923Z" creationid="Janousek" creationdate="20210603T111923Z">
@@ -164,6 +220,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111907Z" creationid="Janousek" creationdate="20210603T111907Z">
         <seg>We have grouped the individual functionalities into the following packages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kromě rozšiřujících modulů jsou k dispozici níže uvedená specializovaná oborová řešení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112848Z" creationid="Janousek" creationdate="20210603T112848Z">
+        <seg>In addition to the expansion modules, the specialized industry solutions listed below are available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,6 +288,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112713Z" creationid="Janousek" creationdate="20210603T112713Z">
+        <seg>Complaints Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Rozšíření fronty  úloh</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112558Z" creationid="Janousek" creationdate="20210603T112558Z">
@@ -236,6 +308,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111920Z" creationid="Janousek" creationdate="20210603T111920Z">
         <seg>App Extension Set</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spooler</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
+        <seg>Spooler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Správa upozornění</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112658Z" creationid="Janousek" creationdate="20210603T112658Z">
+        <seg>Notifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -268,6 +356,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111930Z" creationid="Janousek" creationdate="20210603T111930Z">
         <seg>More payments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>WorkFlow - řízení stavů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112633Z" creationid="Janousek" creationdate="20210603T112633Z">
+        <seg>WorkFlow - State Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zásilky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210603T112808Z" creationid="Janousek" creationdate="20210603T112808Z">
+        <seg>Parcels</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
