@@ -422,8 +422,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140633Z" creationid="Janousek" creationdate="20210625T140633Z">
-        <seg>&lt;g1&gt;Setup - Insolvency Register&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143454Z" creationid="Janousek" creationdate="20210625T140633Z">
+        <seg>&lt;g1&gt;Settings - Insolvency Register&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,16 +670,16 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Výkaz DPH&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142431Z" creationid="Janousek" creationdate="20210625T142431Z">
-        <seg>&lt;g1&gt;VAT statement&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143426Z" creationid="Janousek" creationdate="20210625T142431Z">
+        <seg>&lt;g1&gt;VAT Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Výkaz DPH - Nastavení&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143230Z" creationid="Janousek" creationdate="20210625T142434Z">
-        <seg>&lt;g1&gt;Settings - VAT Report&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143441Z" creationid="Janousek" creationdate="20210625T142434Z">
+        <seg>&lt;g1&gt;Settings - VAT Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
