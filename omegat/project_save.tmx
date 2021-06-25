@@ -34,6 +34,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141047Z" creationid="Janousek" creationdate="20210625T141047Z">
+        <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Productivity Pack&lt;/g1&gt; - rozšíření pro produktivitu</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112440Z" creationid="Janousek" creationdate="20210603T112440Z">
@@ -84,6 +92,38 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Datové schránky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141338Z" creationid="Janousek" creationdate="20210625T141338Z">
+        <seg>&lt;g1&gt;Data boxes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Elektronická fakturace – ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141059Z" creationid="Janousek" creationdate="20210625T141059Z">
+        <seg>&lt;g1&gt;Electronic invoicing - ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Elektronická fakturace – PDFXChange&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141330Z" creationid="Janousek" creationdate="20210625T141330Z">
+        <seg>&lt;g1&gt;Electronic invoicing - PDFXChange&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Elektronická fakturace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141052Z" creationid="Janousek" creationdate="20210625T141052Z">
+        <seg>&lt;g1&gt;Electronic invoicing&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence obalů základ (EKOKOM)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140735Z" creationid="Janousek" creationdate="20210625T140735Z">
@@ -128,6 +168,38 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T113603Z" creationid="Janousek" creationdate="20210603T111804Z">
         <seg>&lt;g1&gt;Implementing Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast thanks to a wide range of extension modules and industry solutions.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Datové schránky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141340Z" creationid="Janousek" creationdate="20210625T141340Z">
+        <seg>&lt;g1&gt;Settings - Data Boxes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Elektronická fakturace – ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141103Z" creationid="Janousek" creationdate="20210625T141103Z">
+        <seg>&lt;g1&gt;Settings - Electronic Invoicing - ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Elektronická fakturace – PDFXChange&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141334Z" creationid="Janousek" creationdate="20210625T141334Z">
+        <seg>&lt;g1&gt;Settings - Electronic Invoicing - PDFXChange&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Elektronická fakturace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141055Z" creationid="Janousek" creationdate="20210625T141055Z">
+        <seg>&lt;g1&gt;Settings - Electronic invoicing&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
