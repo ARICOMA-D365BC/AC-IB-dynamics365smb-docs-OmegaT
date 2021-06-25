@@ -96,6 +96,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>AC - Slovak Legistive Pack</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135031Z" creationid="Janousek" creationdate="20210625T135031Z">
+        <seg>AC - Slovak Legislative Pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AC Financial Pack</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T131844Z" creationid="Janousek" creationdate="20210625T131844Z">
@@ -124,6 +132,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>AddOn Modul Slovak Localization doplňuje systém Dynamics 365 Business Central CZ o funkcionality pro podporu slovenské legislativy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135129Z" creationid="Janousek" creationdate="20210625T135129Z">
+        <seg>The Slovak Localization module complements the Dynamics 365 Business Central CZ system with functionalities to support Slovak legislation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -572,6 +588,14 @@ The Insolvency Register is a public list that records statutory data on entities
 | Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer. |&lt;g6&gt;Fiscal printers&lt;/g6&gt;|
 | Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system. |&lt;g7&gt;Pack Tracking Basic (EKOKOM)&lt;/g7&gt;|
 Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Česká funkcionalita z větší části pokrývá i slovenské legislativní požadavky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135231Z" creationid="Janousek" creationdate="20210625T135231Z">
+        <seg>For the most part, the Czech functionality also covers Slovak legislative requirements.</seg>
       </tuv>
     </tu>
     <tu>
