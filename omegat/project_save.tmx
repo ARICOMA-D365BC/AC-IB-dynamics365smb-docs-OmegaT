@@ -448,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
+        <seg>Allows monitoring of the circulation of returnable packaging and pallet management. |&lt;g8&gt;Pack Tracking - Returnable packaging&lt;/g8&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Uživatelé se mohou připojit z počítače, chytrého telefonu nebo tabletu s Google Android nebo Apple iOS.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111724Z" creationid="Janousek" creationdate="20210603T111724Z">
