@@ -278,8 +278,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrolní výkaz DPH&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144833Z" creationid="Janousek" creationdate="20210625T142441Z">
-        <seg>&lt;g1&gt;VAT Control Statement&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T145158Z" creationid="Janousek" creationdate="20210625T142441Z">
+        <seg>&lt;g1&gt;VAT Control Report&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
