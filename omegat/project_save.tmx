@@ -46,9 +46,9 @@
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131925Z" creationid="Janousek" creationdate="20210625T131925Z">
-        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2 /&gt;
-&lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4 /&gt;
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T134534Z" creationid="Janousek" creationdate="20210625T131925Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
       </tuv>
     </tu>
@@ -562,8 +562,8 @@
 |Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|&lt;g7&gt;Evidence obalů základ (EKOKOM)&lt;/g7&gt;|
 |Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T132758Z" creationid="Janousek" creationdate="20210625T132758Z">
-        <seg>| See | Also | &lt;x1 /&gt;
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T134515Z" creationid="Janousek" creationdate="20210625T132758Z">
+        <seg>| See | Also |&lt;x1/&gt;
 | - | - |
 | Controlling basic extension set. |&lt;g2&gt;Cotroling Basic&lt;/g2&gt;|
 The Insolvency Register is a public list that records statutory data on entities undergoing insolvency proceedings in the Czech Republic. |&lt;g3&gt;Insolvency Register&lt;/g3&gt;|
