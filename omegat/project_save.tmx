@@ -42,6 +42,18 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131925Z" creationid="Janousek" creationdate="20210625T131925Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2 /&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4 /&gt;
+&lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -80,6 +92,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110947Z" creationid="Janousek" creationdate="20210603T110947Z">
         <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>AC Financial Pack</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131844Z" creationid="Janousek" creationdate="20210625T131844Z">
+        <seg>AC Financial Pack</seg>
       </tuv>
     </tu>
     <tu>
@@ -252,6 +272,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Import směnných kurzů z ECB</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131659Z" creationid="Janousek" creationdate="20210625T131659Z">
+        <seg>Import směnných kurzů z ECB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Insolvenční rejstřík</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111923Z" creationid="Janousek" creationdate="20210603T111923Z">
@@ -372,6 +400,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Sada addonů pro rozšíření funkcionality financí pro D365 Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131952Z" creationid="Janousek" creationdate="20210625T131952Z">
+        <seg>Addon set to extend finance functionality for D365 Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Sada rozšíření aplikace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111920Z" creationid="Janousek" creationdate="20210603T111920Z">
@@ -456,6 +492,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111930Z" creationid="Janousek" creationdate="20210603T111930Z">
         <seg>More payments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výkaz Intrastat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
+        <seg>Výkaz Intrastat</seg>
       </tuv>
     </tu>
     <tu>
