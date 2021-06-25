@@ -50,10 +50,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Slovak Legistive Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142403Z" creationid="Janousek" creationdate="20210625T142403Z">
+        <seg>&lt;g1&gt;AC Slovak Legistive Pack&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Solutions&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112955Z" creationid="Janousek" creationdate="20210603T112955Z">
         <seg>&lt;g1&gt;AC Solutions&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ADVANCED&lt;/g1&gt;&lt;x2/&gt;This functionality is only available with the Advanced experience.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142528Z" creationid="Janousek" creationdate="20210625T142528Z">
+        <seg>&lt;g1&gt;ADVANCED&lt;/g1&gt;&lt;x2/&gt; This functionality is only available with the Advanced experience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108,6 +124,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Daňové odpisy&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142509Z" creationid="Janousek" creationdate="20210625T142509Z">
+        <seg>&lt;g1&gt;Tax depreciation&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Doprava - plánování&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141904Z" creationid="Janousek" creationdate="20210625T141904Z">
@@ -120,6 +144,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141836Z" creationid="Janousek" creationdate="20210625T141730Z">
         <seg>&lt;g1&gt;Transport - Basic&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;EDI konektor základ&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142356Z" creationid="Janousek" creationdate="20210625T142356Z">
+        <seg>&lt;g1&gt;EDI connector base&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -180,6 +212,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Export Výkazu DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142410Z" creationid="Janousek" creationdate="20210625T142410Z">
+        <seg>&lt;g1&gt;Export VAT Statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Faktoring&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140637Z" creationid="Janousek" creationdate="20210625T140637Z">
@@ -208,6 +248,38 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
         <seg>&lt;g1&gt;Insolvency Register&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Institut nespolehlivosti plátce&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142502Z" creationid="Janousek" creationdate="20210625T142502Z">
+        <seg>&lt;g1&gt;Institute of the payer's unreliability&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Intrastat&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142447Z" creationid="Janousek" creationdate="20210625T142447Z">
+        <seg>&lt;g1&gt;Intrastat&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrolní výkaz DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142441Z" creationid="Janousek" creationdate="20210625T142441Z">
+        <seg>&lt;g1&gt;VAT control statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrolní výkaz DPH - Nastavení&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142444Z" creationid="Janousek" creationdate="20210625T142444Z">
+        <seg>&lt;g1&gt;VAT Control Statement - Setup&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -252,6 +324,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - EDI konektor základ&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142400Z" creationid="Janousek" creationdate="20210625T142400Z">
+        <seg>&lt;g1&gt;Settings - EDI connector base&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Elektronická fakturace – ISDOC&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141103Z" creationid="Janousek" creationdate="20210625T141103Z">
@@ -276,6 +356,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Evidence nářadí a pomůcek&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142306Z" creationid="Janousek" creationdate="20210625T142306Z">
+        <seg>&lt;g1&gt;Settings - Production Tools&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Evidence obalů základ (EKOKOM)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140836Z" creationid="Janousek" creationdate="20210625T140836Z">
@@ -296,6 +384,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141046Z" creationid="Janousek" creationdate="20210625T140846Z">
         <seg>&lt;g1&gt;Settings - Pack Tracking (Returnable packaging)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Export Výkazu DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142413Z" creationid="Janousek" creationdate="20210625T142413Z">
+        <seg>&lt;g1&gt;Setup - Export VAT Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,10 +516,34 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142328Z" creationid="Janousek" creationdate="20210625T142328Z">
+        <seg>&lt;g1&gt;Settings - Parcels&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení exportu VIES a Intrastat.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142419Z" creationid="Janousek" creationdate="20210625T142419Z">
+        <seg>&lt;g1&gt;VIES and Intrastat export settings.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141536Z" creationid="Janousek" creationdate="20210625T141536Z">
         <seg>&lt;g1&gt;General parameters&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Odsouhlasení salda&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142507Z" creationid="Janousek" creationdate="20210625T142507Z">
+        <seg>&lt;g1&gt;Balance reconciliation&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -460,10 +580,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Rozvaha a výkaz zisku zrát&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142427Z" creationid="Janousek" creationdate="20210625T142427Z">
+        <seg>&lt;g1&gt;Balance sheet and profit and loss account&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141554Z" creationid="Janousek" creationdate="20210625T141554Z">
         <seg>&lt;g1&gt;Job Queue Extension&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;SEPA platby&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142451Z" creationid="Janousek" creationdate="20210625T142451Z">
+        <seg>&lt;g1&gt;SEPA payments&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -500,6 +636,22 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Statutární výkazy - Nastavení&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142429Z" creationid="Janousek" creationdate="20210625T142429Z">
+        <seg>&lt;g1&gt;Statutory statements - Settings&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;VIES&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142449Z" creationid="Janousek" creationdate="20210625T142449Z">
+        <seg>&lt;g1&gt;VIES&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Viz také&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20210603T092133Z" creationid="kunes" creationdate="20210603T092133Z">
@@ -516,6 +668,22 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Výkaz DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142431Z" creationid="Janousek" creationdate="20210625T142431Z">
+        <seg>&lt;g1&gt;VAT statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Výkaz DPH - Nastavení&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142434Z" creationid="Janousek" creationdate="20210625T142434Z">
+        <seg>&lt;g1&gt;VAT Report - Settings&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;WorkFlow - kontrolované tabulky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141947Z" creationid="Janousek" creationdate="20210625T141947Z">
@@ -528,6 +696,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141921Z" creationid="Janousek" creationdate="20210625T141921Z">
         <seg>&lt;g1&gt;WorkFlow - state control&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142316Z" creationid="Janousek" creationdate="20210625T142316Z">
+        <seg>&lt;g1&gt;Parcels&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,6 +896,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133906Z" creationid="Janousek" creationdate="20210625T133906Z">
         <seg>Fiskální tiskárny - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>For more information, see [Customizing Your Business Central Experience](../ui-experiences.md)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142554Z" creationid="Janousek" creationdate="20210625T142554Z">
+        <seg>For more information, see [Customizing Your Business Central Experience] (../ui-experiences.md)</seg>
       </tuv>
     </tu>
     <tu>
