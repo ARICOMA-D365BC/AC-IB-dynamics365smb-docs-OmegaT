@@ -214,8 +214,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence vratných obalů (Vratné obaly)&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141036Z" creationid="Janousek" creationdate="20210625T140841Z">
-        <seg>&lt;g1&gt;Pack Tracking (Returnable packaging)&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T145239Z" creationid="Janousek" creationdate="20210625T140841Z">
+        <seg>&lt;g1&gt;Pack Tracking - Returnable packaging&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,8 +390,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Evidence vratných obalů (Vratné obaly)&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141046Z" creationid="Janousek" creationdate="20210625T140846Z">
-        <seg>&lt;g1&gt;Settings - Pack Tracking (Returnable packaging)&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T145248Z" creationid="Janousek" creationdate="20210625T140846Z">
+        <seg>&lt;g1&gt;Settings - Pack Tracking - Returnable packaging&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
