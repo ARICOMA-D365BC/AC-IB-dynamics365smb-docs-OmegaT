@@ -582,8 +582,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Rozvaha a výkaz zisku zrát&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142427Z" creationid="Janousek" creationdate="20210625T142427Z">
-        <seg>&lt;g1&gt;Balance sheet and profit and loss account&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143133Z" creationid="Janousek" creationdate="20210625T142427Z">
+        <seg>&lt;g1&gt;Balance sheet and income statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
