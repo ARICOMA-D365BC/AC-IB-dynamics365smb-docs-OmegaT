@@ -612,8 +612,8 @@
 |Odsouhlasení salda zákazníka a dodavatele.|&lt;g12&gt;Odsouhlasení salda&lt;/g12&gt;|
 |Uplatnění daňových odpisů dle počtu kalendárných měsíců dle Zákona o dani z příjmů.|&lt;g13&gt;Daňové odpisy&lt;/g13&gt;|</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140010Z" creationid="Janousek" creationdate="20210625T135647Z">
-        <seg>See also
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140422Z" creationid="Janousek" creationdate="20210625T135647Z">
+        <seg>|See| also|
 | - | - |
 |Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |&lt;g1&gt;Balance Sheet and Profit and Loss Statement&lt;/g1&gt;|
 |Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |&lt;g2&gt;Statutory Statements - Settings&lt;/g2&gt;|
