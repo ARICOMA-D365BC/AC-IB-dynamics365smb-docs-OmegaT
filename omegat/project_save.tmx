@@ -536,6 +536,30 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>|Viz|Také|&lt;x1/&gt;
+|-|-|
+|Sada rozšíření pro finance (Controling basic).|&lt;g2&gt;Cotroling Basic&lt;/g2&gt;|
+|Insolvenční rejstřík je veřejný seznam, do kterého se zapisují zákonem stanovené údaje o subjektech, které v České republice procházejí insolvenčním řízením.|&lt;g3&gt;Insolvenční rejstřík&lt;/g3&gt;|
+|Faktoring rozšiřuje možnosti oblasti Správa financí systému Dynamics 365 Business Central o možnost evidence a účtování postoupení pohledávek a vytváření faktoringových smluv.|&lt;g4&gt;Faktoring&lt;/g4&gt;|
+|Více úhrad rozšiřuje standard prodejních dokladů, kdy namísto jednoho způsobu platby je možné definovat více způsobů.|&lt;g5&gt;Více úhrad&lt;/g5&gt;|
+|Fiskální tiskárny slouží k vytvoření a tisku pokladního dokladu na fiskální tiskárně firmy VAROS.|&lt;g6&gt;Fiskální tiskárny&lt;/g6&gt;|
+|Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|&lt;g7&gt;Evidence obalů základ (EKOKOM)&lt;/g7&gt;|
+|Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T132758Z" creationid="Janousek" creationdate="20210625T132758Z">
+        <seg>| See | Also | &lt;x1 /&gt;
+| - | - |
+| Controlling basic extension set. |&lt;g2&gt;Cotroling Basic&lt;/g2&gt;|
+The Insolvency Register is a public list that records statutory data on entities undergoing insolvency proceedings in the Czech Republic. |&lt;g3&gt;Insolvency Register&lt;/g3&gt;|
+| Factoring extends the capabilities of the Dynamics 365 Business Central Financial Management area with the ability to record and post receivables assignment and create factoring contracts. |&lt;g4&gt;Factoring&lt;/g4&gt;|
+| Multiple payments extends the standard of sales documents, where instead of one method of payment it is possible to define more methods. |&lt;g5&gt;Multiple payments&lt;/g5&gt;|
+| Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer. |&lt;g6&gt;Fiscal printers&lt;/g6&gt;|
+| Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system. |&lt;g7&gt;Pack Tracking Basic (EKOKOM)&lt;/g7&gt;|
+Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Řízení projektů a zakázek</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112903Z" creationid="Janousek" creationdate="20210603T112903Z">
