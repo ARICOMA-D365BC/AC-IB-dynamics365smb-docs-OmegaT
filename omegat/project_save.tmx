@@ -132,6 +132,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence pošty&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141347Z" creationid="Janousek" creationdate="20210625T141347Z">
+        <seg>&lt;g1&gt;Mail records&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence vratných obalů (Vratné obaly)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141036Z" creationid="Janousek" creationdate="20210625T140841Z">
@@ -212,6 +220,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Evidence pošty&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141533Z" creationid="Janousek" creationdate="20210625T141533Z">
+        <seg>&lt;g1&gt;Settings - Mail records&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Evidence vratných obalů (Vratné obaly)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141046Z" creationid="Janousek" creationdate="20210625T140846Z">
@@ -244,6 +260,38 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Obecné parametry&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141538Z" creationid="Janousek" creationdate="20210625T141538Z">
+        <seg>&lt;g1&gt;Settings - General Parameters&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Publikační šablony&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141603Z" creationid="Janousek" creationdate="20210625T141603Z">
+        <seg>&lt;g1&gt;Settings - Publishing Templates&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Publikování SharePoint&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141543Z" creationid="Janousek" creationdate="20210625T141543Z">
+        <seg>&lt;g1&gt;Settings - SharePoint Publishing&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141558Z" creationid="Janousek" creationdate="20210625T141558Z">
+        <seg>&lt;g1&gt;Settings - Job Queue Extension&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Sada rozšíření aplikace&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140620Z" creationid="Janousek" creationdate="20210625T140620Z">
@@ -256,6 +304,46 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
         <seg>&lt;g1&gt;Settings - Multiple Payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Obecné parametry&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141536Z" creationid="Janousek" creationdate="20210625T141536Z">
+        <seg>&lt;g1&gt;General parameters&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikační šablony&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141601Z" creationid="Janousek" creationdate="20210625T141601Z">
+        <seg>&lt;g1&gt;Publishing templates&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikování SharePoint&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141541Z" creationid="Janousek" creationdate="20210625T141541Z">
+        <seg>&lt;g1&gt;SharePoint publishing&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikování úkolů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141643Z" creationid="Janousek" creationdate="20210625T141643Z">
+        <seg>&lt;g1&gt;Publication Tasks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141554Z" creationid="Janousek" creationdate="20210625T141554Z">
+        <seg>&lt;g1&gt;Job Queue Extension&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
