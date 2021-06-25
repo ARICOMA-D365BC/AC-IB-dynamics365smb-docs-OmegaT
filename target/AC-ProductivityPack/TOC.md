@@ -68,7 +68,7 @@
 ## [Settings - Statutory statements](../AC-SK/ac-sk-balance-sheet-income-statement-setup.md)
 ## [VAT Statement](../AC-SK/ac-sk-vat-statement-export.md)
 ### [Settings - VAT Statement](../AC-SK/ac-sk-vat-statement-setup.md)
-## [VAT control statement](../AC-SK/ac-sk-vat-check-report-export.md)
+## [VAT Control Statement](../AC-SK/ac-sk-vat-check-report-export.md)
 ### [Settings - VAT Control Statement](../AC-SK/ac-sk-vat-check-report-setup.md)
 ## [Intrastat](../AC-SK/ac-sk-intrastat.md)
 ## [VIES](../AC-SK/ac-sk-vies.md)
