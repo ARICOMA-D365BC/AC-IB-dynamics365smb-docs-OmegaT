@@ -15,7 +15,7 @@ ms.author: v-makune
 
 The Slovak Localization module complements the Dynamics 365 Business Central CZ system with functionalities to support Slovak legislation. For the most part, the Czech functionality also covers Slovak legislative requirements. This module then complements only the differential functionalities, to cover the specific requirements of Slovak legislation.
 
-See also
+|See| also|
 | - | - |
 |Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |[Balance Sheet and Profit and Loss Statement](ac-sk-balance-sheet-income-statement.md)|
 |Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |[Statutory Statements - Settings](ac-sk-balance-sheet-income-statement-setup.md)|
