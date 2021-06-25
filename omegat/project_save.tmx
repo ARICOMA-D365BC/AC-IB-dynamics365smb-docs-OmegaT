@@ -50,6 +50,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Slovak Legislative Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144622Z" creationid="Janousek" creationdate="20210625T144622Z">
+        <seg>&lt;g1&gt;AC Slovak Legislative Pack&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Slovak Legistive Pack&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142806Z" creationid="Janousek" creationdate="20210625T142403Z">
@@ -428,6 +436,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Kontrolní výkaz DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144754Z" creationid="Janousek" creationdate="20210625T144754Z">
+        <seg>&lt;g1&gt;Settings - VAT Control Report&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Obecné parametry&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141538Z" creationid="Janousek" creationdate="20210625T141538Z">
@@ -468,6 +484,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Rozšíření fronty úloh (Job Queue)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144605Z" creationid="Janousek" creationdate="20210625T144605Z">
+        <seg>&lt;g1&gt;Settings - Job Queue Extension&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141558Z" creationid="Janousek" creationdate="20210625T141558Z">
@@ -500,10 +524,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Statutární výkazy&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144652Z" creationid="Janousek" creationdate="20210625T144652Z">
+        <seg>&lt;g1&gt;Settings - Statutory statements&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Více úhrad&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
         <seg>&lt;g1&gt;Settings - Multiple Payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Výkaz DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144717Z" creationid="Janousek" creationdate="20210625T144717Z">
+        <seg>&lt;g1&gt;Settings - VAT Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,6 +624,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143133Z" creationid="Janousek" creationdate="20210625T142427Z">
         <seg>&lt;g1&gt;Balance sheet and income statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Rozvaha a výkaz zisku ztrát&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144646Z" creationid="Janousek" creationdate="20210625T144646Z">
+        <seg>&lt;g1&gt;Balance sheet and income statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Rozšíření fronty úloh (Job Queue)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T144557Z" creationid="Janousek" creationdate="20210625T144557Z">
+        <seg>&lt;g1&gt;Job Queue Extension&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
