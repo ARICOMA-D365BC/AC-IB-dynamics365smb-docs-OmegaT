@@ -82,6 +82,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142207Z" creationid="Janousek" creationdate="20210625T142207Z">
+        <seg>&lt;g1&gt;Central Database&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -140,6 +148,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence nářadí a pomůcek&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142259Z" creationid="Janousek" creationdate="20210625T142259Z">
+        <seg>&lt;g1&gt;Production Tools&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence obalů základ (EKOKOM)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140735Z" creationid="Janousek" creationdate="20210625T140735Z">
@@ -180,6 +196,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142154Z" creationid="Janousek" creationdate="20210625T142154Z">
+        <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
@@ -192,6 +216,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T113603Z" creationid="Janousek" creationdate="20210603T111804Z">
         <seg>&lt;g1&gt;Implementing Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast thanks to a wide range of extension modules and industry solutions.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Centrální číselníky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142222Z" creationid="Janousek" creationdate="20210625T142222Z">
+        <seg>&lt;g1&gt;Settings - Central Database&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - HelpDesk&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142156Z" creationid="Janousek" creationdate="20210625T142156Z">
+        <seg>&lt;g1&gt;Settings - HelpDesk&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140633Z" creationid="Janousek" creationdate="20210625T140633Z">
@@ -324,6 +364,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Reklamace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142151Z" creationid="Janousek" creationdate="20210625T142151Z">
+        <seg>&lt;g1&gt;Settings - Complaints Management&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141558Z" creationid="Janousek" creationdate="20210625T141558Z">
@@ -340,6 +388,22 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Spooler&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142237Z" creationid="Janousek" creationdate="20210625T142229Z">
+        <seg>&lt;g1&gt;Settings - Spooler&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Správa upozornění&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142055Z" creationid="Janousek" creationdate="20210625T142055Z">
+        <seg>&lt;g1&gt;Settings - Notifications&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Více úhrad&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
@@ -350,8 +414,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - WorkFlow - řízení stavů&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141924Z" creationid="Janousek" creationdate="20210625T141924Z">
-        <seg>&lt;g1&gt;Settings - WorkFlow - state control&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142006Z" creationid="Janousek" creationdate="20210625T141924Z">
+        <seg>&lt;g1&gt;Settings - WorkFlow - Linker Tables&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -388,6 +452,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Reklamace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142128Z" creationid="Janousek" creationdate="20210625T142128Z">
+        <seg>&lt;g1&gt;Complaints Management&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141554Z" creationid="Janousek" creationdate="20210625T141554Z">
@@ -408,6 +480,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140610Z" creationid="Janousek" creationdate="20210625T140610Z">
         <seg>&lt;g1&gt;Application extension set&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Spooler&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142234Z" creationid="Janousek" creationdate="20210625T142224Z">
+        <seg>&lt;g1&gt;Spooler&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Správa upozornění&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142034Z" creationid="Janousek" creationdate="20210625T142034Z">
+        <seg>&lt;g1&gt;Notifications&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
