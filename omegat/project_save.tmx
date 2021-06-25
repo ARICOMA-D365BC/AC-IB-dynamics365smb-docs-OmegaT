@@ -472,6 +472,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tento modul pak doplňuje pouze rozdílové funkcionality, pro pokrytí specifických požadavků slovenské legislativy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135249Z" creationid="Janousek" creationdate="20210625T135249Z">
+        <seg>This module then complements only the differential functionalities, to cover the specific requirements of Slovak legislation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
@@ -564,6 +572,42 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>|Viz|Také|
+|-|-|
+|Export statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g1&gt;Rozvaha a výkaz zisku zrát&lt;/g1&gt;|
+|Nastavení exportu statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g2&gt;Statutární výkazy - nastavení&lt;/g2&gt;|
+|Zpracování a export Výkazu DPH.|&lt;g3&gt;Výkaz DPH&lt;/g3&gt;|
+|Nastavení Výkazu DPH.|&lt;g4&gt;Výkaz DPH - nastavení&lt;/g4&gt;|
+|Zpracování a export Kontrolního výkazu DPH.|&lt;g5&gt;Kontrolní výkaz DPH&lt;/g5&gt;|
+|Nastavení Kontrolního výkazu DPH.|&lt;g6&gt;Kontrolní výkaz DPH - nastavení&lt;/g6&gt;|
+|Export Intrastatu.|&lt;g7&gt;Intrastat&lt;/g7&gt;|
+|Export Souhrnného hlášení.|&lt;g8&gt;VIES&lt;/g8&gt;|
+|Nastavení SEPA platebního styku.|&lt;g9&gt;SEPA platby&lt;/g9&gt;|
+|Nastavení posunu datumu směnných kurzů ECB.|&lt;g10&gt;ECB&lt;/g10&gt;|
+|Import dat pro podnikatelské subjekty, u kterých nastaly důvody pro zrušení registrace platitele daně z přidané hodnoty.|&lt;g11&gt;Institut nespolehlivosti plátce&lt;/g11&gt;|
+|Odsouhlasení salda zákazníka a dodavatele.|&lt;g12&gt;Odsouhlasení salda&lt;/g12&gt;|
+|Uplatnění daňových odpisů dle počtu kalendárných měsíců dle Zákona o dani z příjmů.|&lt;g13&gt;Daňové odpisy&lt;/g13&gt;|</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135647Z" creationid="Janousek" creationdate="20210625T135647Z">
+        <seg>See also
+| - | - |
+| Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |&lt;g1&gt;Balance Sheet and Profit and Loss Statement&lt;/g1&gt;|
+| Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |&lt;g2&gt;Statutory Statements - Settings&lt;/g2&gt;|
+Processing and Exporting a VAT Statement. |&lt;g3&gt;VAT Statement&lt;/g3&gt;|
+| VAT Report Settings. |&lt;g4&gt;VAT Report Settings&lt;/g4&gt;|
+Processing and exporting VAT Control Report.&lt;g5&gt;VAT Control Report&lt;/g5&gt;|
+| VAT Control Report Settings |&lt;g6&gt;VAT Control Report Settings&lt;/g6&gt;|
+| Intrastat export. |&lt;g7&gt;Intrastat&lt;/g7&gt;|
+Export of the Summary Report.&lt;g8&gt;VIES&lt;/g8&gt;|
+| SEPA payment settings. |&lt;g9&gt;SEPA payments&lt;/g9&gt;|
+| Setting the ECB exchange rate shift date.&lt;g10&gt;ECB&lt;/g10&gt;|
+Import of data for business entities for which there were grounds for deregistration of value added tax payer |Institute of unreliability of the payer
+Reconciliation of customer and supplier balance |&lt;g12&gt;Reconciliation of balance&lt;/g12&gt;|
+| Application of tax depreciation according to the number of calendar months according to the Income Tax Act. |&lt;g13&gt;Tax depreciation&lt;/g13&gt;|</seg>
       </tuv>
     </tu>
     <tu>
