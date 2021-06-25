@@ -278,8 +278,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrolní výkaz DPH - Nastavení&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142444Z" creationid="Janousek" creationdate="20210625T142444Z">
-        <seg>&lt;g1&gt;VAT Control Statement - Setup&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143240Z" creationid="Janousek" creationdate="20210625T142444Z">
+        <seg>&lt;g1&gt;Settings - VAT Control Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,8 +390,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Export Výkazu DPH&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142413Z" creationid="Janousek" creationdate="20210625T142413Z">
-        <seg>&lt;g1&gt;Setup - Export VAT Statement&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143148Z" creationid="Janousek" creationdate="20210625T142413Z">
+        <seg>&lt;g1&gt;Settings - Export VAT Statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,8 +526,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení exportu VIES a Intrastat.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142419Z" creationid="Janousek" creationdate="20210625T142419Z">
-        <seg>&lt;g1&gt;VIES and Intrastat export settings.&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143203Z" creationid="Janousek" creationdate="20210625T142419Z">
+        <seg>&lt;g1&gt;Settings - VIES and Intrastat export.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,8 +638,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Statutární výkazy - Nastavení&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142429Z" creationid="Janousek" creationdate="20210625T142429Z">
-        <seg>&lt;g1&gt;Statutory statements - Settings&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143217Z" creationid="Janousek" creationdate="20210625T142429Z">
+        <seg>&lt;g1&gt;Settings - Statutory statements&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,8 +678,8 @@
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Výkaz DPH - Nastavení&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T142434Z" creationid="Janousek" creationdate="20210625T142434Z">
-        <seg>&lt;g1&gt;VAT Report - Settings&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T143230Z" creationid="Janousek" creationdate="20210625T142434Z">
+        <seg>&lt;g1&gt;Settings - VAT Report&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
