@@ -1,5 +1,5 @@
 # [AC Solutions](../ac-solutions/ac-solutions.md)
-# [přibližně]AC Financial Pack
+# [AC Financial Pack](../AC-FinancialPack/ac-finance-pack.md)
 ## [Application extension set](../AC-FinancialPack/ac-controling-basic.md)
 ### [Settings - Application extension set](../AC-FinancialPack/ac-controling-basic-setup.md)
 ## [Insolvency Register](../AC-FinancialPack/ac-insolvence-register.md)
@@ -59,7 +59,7 @@
 ### [Settings - Parcels](../AC-productivitypack/ac-parcels-setup.md)
 ## [EDI connector base](../AC-productivitypack/ac-edi-connector-basic.md)
 ### [Settings - EDI connector base](../AC-productivitypack/ac-edi-connector-basic-setup.md)
-# [AC Slovak Legistive Pack](ac-sk-legislative-pack.md)
+# [AC Slovak Legislative Pack](ac-sk-legislative-pack.md)
 ## [Balance sheet and profit and loss account](ac-sk-balance-sheet-income-statement.md)
 ## [Statutory statements - Settings](ac-sk-balance-sheet-income-statement-setup.md)
 ## [VAT statement](ac-sk-vat-statement-export.md)
