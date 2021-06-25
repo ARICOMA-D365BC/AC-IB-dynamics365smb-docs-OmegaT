@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140552Z" creationid="Janousek" creationdate="20210625T140552Z">
+        <seg>[přibližně]AC Financial Pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt; - rozšíření pro finance</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111913Z" creationid="Janousek" creationdate="20210603T111913Z">
@@ -76,10 +84,90 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence obalů základ (EKOKOM)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140735Z" creationid="Janousek" creationdate="20210625T140735Z">
+        <seg>&lt;g1&gt;Pack Tracking Basic (EKOKOM)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Faktoring&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140637Z" creationid="Janousek" creationdate="20210625T140637Z">
+        <seg>&lt;g1&gt;Factoring&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Fiskální tiskárny&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140700Z" creationid="Janousek" creationdate="20210625T140700Z">
+        <seg>&lt;g1&gt;Fiscal printers&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
+        <seg>&lt;g1&gt;Insolvency Register&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nasazení Microsoft Dynamics 365 Business Central od společnosti AUTOCONT je jednoduché a rychlé díky široké škále rozšiřujících modulů a oborových řešení.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T113603Z" creationid="Janousek" creationdate="20210603T111804Z">
         <seg>&lt;g1&gt;Implementing Microsoft Dynamics 365 Business Central from AUTOCONT is easy and fast thanks to a wide range of extension modules and industry solutions.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Evidence obalů základ (EKOKOM)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140836Z" creationid="Janousek" creationdate="20210625T140836Z">
+        <seg>&lt;g1&gt;Settings - Pack Tracking Basic (EKOKOM)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Faktoring&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140639Z" creationid="Janousek" creationdate="20210625T140639Z">
+        <seg>&lt;g1&gt;Settings - Factoring&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140704Z" creationid="Janousek" creationdate="20210625T140704Z">
+        <seg>&lt;g1&gt;Settings - Fiscal Printers&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Insolvenční rejstřík&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140633Z" creationid="Janousek" creationdate="20210625T140633Z">
+        <seg>&lt;g1&gt;Setup - Insolvency Register&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Sada rozšíření aplikace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140620Z" creationid="Janousek" creationdate="20210625T140620Z">
+        <seg>&lt;g1&gt;Settings - Application extension set&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Více úhrad&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
+        <seg>&lt;g1&gt;Settings - Multiple Payments&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -92,10 +180,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Sada rozšíření aplikace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140610Z" creationid="Janousek" creationdate="20210625T140610Z">
+        <seg>&lt;g1&gt;Application extension set&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Viz také&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20210603T092133Z" creationid="kunes" creationdate="20210603T092133Z">
         <seg>&lt;g1&gt;See also&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Více úhrad&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140650Z" creationid="Janousek" creationdate="20210625T140650Z">
+        <seg>&lt;g1&gt;Multiple payments&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
