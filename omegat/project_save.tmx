@@ -46,8 +46,8 @@
 &lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Productivity Pack&lt;/g5&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T135652Z" creationid="Janousek" creationdate="20210625T135652Z">
-        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140030Z" creationid="Janousek" creationdate="20210625T135652Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Productivity Pack&lt;/g5&gt;</seg>
       </tuv>
@@ -432,6 +432,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112558Z" creationid="Janousek" creationdate="20210603T112558Z">
         <seg>Job Queue extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>SEPA Platby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140038Z" creationid="Janousek" creationdate="20210625T140038Z">
+        <seg>SEPA Platby</seg>
       </tuv>
     </tu>
     <tu>
