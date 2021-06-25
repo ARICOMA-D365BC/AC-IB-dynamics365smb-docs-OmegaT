@@ -15,7 +15,7 @@ ms.author: v-makune
 
 Addon set to extend finance functionality for D365 Business Central
 
-| See | Also | <x1 />
+| See | Also |  
 | - | - |
 | Controlling basic extension set. |[Cotroling Basic](ac-controling-basic.md)|
 The Insolvency Register is a public list that records statutory data on entities undergoing insolvency proceedings in the Czech Republic. |[Insolvency Register](ac-insolvence-register.md)|
@@ -26,7 +26,7 @@ The Insolvency Register is a public list that records statutory data on entities
 Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central. Allows monitoring of the circulation of returnable packaging and pallet management. |[Pack Tracking - Returnable packaging](ac-pack-tracking-return-packing.md)|
 
 ## See also
-[AUTOCONT Solution](../index.md)<x2 />
-[Productivity Pack](../AC-ProductivityPack/ac-productivity-pack.md)<x4 />
+[AUTOCONT Solution](../index.md)  
+[Productivity Pack](../AC-ProductivityPack/ac-productivity-pack.md)    
 [Slovak Legistive Pack](../AC-SK/ac-sk-legislative-pack.md)
 
