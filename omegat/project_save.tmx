@@ -100,6 +100,22 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Doprava - plánování&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141904Z" creationid="Janousek" creationdate="20210625T141904Z">
+        <seg>&lt;g1&gt;Transport - Planning&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Doprava - základ&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141836Z" creationid="Janousek" creationdate="20210625T141730Z">
+        <seg>&lt;g1&gt;Transport - Basic&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Elektronická fakturace – ISDOC&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141059Z" creationid="Janousek" creationdate="20210625T141059Z">
@@ -184,6 +200,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141340Z" creationid="Janousek" creationdate="20210625T141340Z">
         <seg>&lt;g1&gt;Settings - Data Boxes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Doprava - plánování&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141916Z" creationid="Janousek" creationdate="20210625T141916Z">
+        <seg>&lt;g1&gt;Settings - Transport - Planning&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Doprava - základ&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141842Z" creationid="Janousek" creationdate="20210625T141819Z">
+        <seg>&lt;g1&gt;Settings - Transport - Basic&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Publikování úkolů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141705Z" creationid="Janousek" creationdate="20210625T141705Z">
+        <seg>&lt;g1&gt;Settings - Publication Tasks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Rozšíření frontyúloh (Job Queue)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141558Z" creationid="Janousek" creationdate="20210625T141558Z">
@@ -304,6 +344,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
         <seg>&lt;g1&gt;Settings - Multiple Payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - WorkFlow - řízení stavů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141924Z" creationid="Janousek" creationdate="20210625T141924Z">
+        <seg>&lt;g1&gt;Settings - WorkFlow - state control&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,6 +424,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140650Z" creationid="Janousek" creationdate="20210625T140650Z">
         <seg>&lt;g1&gt;Multiple payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;WorkFlow - kontrolované tabulky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141947Z" creationid="Janousek" creationdate="20210625T141947Z">
+        <seg>&lt;g1&gt;WorkFlow - Linker Tables&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;WorkFlow - řízení stavů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20210625T141921Z" creationid="Janousek" creationdate="20210625T141921Z">
+        <seg>&lt;g1&gt;WorkFlow - state control&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
