@@ -892,6 +892,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace ISDOC</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T085104Z" creationid="Janousek" creationdate="20220331T085104Z">
+        <seg>[přibližně]&lt;g1&gt;Electronic invoicing - ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence nářadí a pomůcek</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112755Z" creationid="Janousek" creationdate="20210603T112755Z">
