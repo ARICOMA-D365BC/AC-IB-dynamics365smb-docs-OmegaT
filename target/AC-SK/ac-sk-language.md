@@ -11,17 +11,17 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Slovenský jazyk pro Business Central
+# Slovak language for Business Central
 
-Tato nápověda Vám pomůže nastavit Business Central do slovenského jazyka.
+This help will help you set up Business Central in the Slovak language.
 
-Pro změnu jazyka postupujte tímto způsobem:
-1. Nainstalujte aplikaci **AC SK Language**.
-2. Spusťte a přihlašte se do Business Central.
-3. Otevřete stránku **Nákup produktu firmy AUTOCONT** a aktivujte **AC SK Language** (povinné pro příští aktualizaci).
-4. Klikněte na ikonu **Nastavení**, zvolte **Má nastavení** a vyberte jazyk: Slovenština.
-5. Jakmile proběhne aktualizace Business Central v prohlížeči, budete mít Business Central ve slovenštině.
+To change the language, follow these steps:
+1. Install **the AC SK Language** application.
+2. Launch and sign in to Business Central.
+3. Open **the AUTOCONT Product Purchase** page and activate **AC SK Language** (required for the next update).
+4. Click the **Settings**icon, select **My Settings**, and select a language: Slovak.
+5. As soon as the Business Central is updated in the browser, you will have Business Central in Slovak language.
 
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)

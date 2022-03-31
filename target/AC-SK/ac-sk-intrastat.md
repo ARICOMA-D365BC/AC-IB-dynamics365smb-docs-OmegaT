@@ -47,5 +47,5 @@ Nastavení slouží pro mapování polí v aplikaci na uzly .xml. Tato tabulka j
 
 
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)

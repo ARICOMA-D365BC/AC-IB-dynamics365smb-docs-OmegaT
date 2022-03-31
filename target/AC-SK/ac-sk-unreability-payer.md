@@ -51,5 +51,5 @@ Tato kontrola se provede automaticky při akci Vydání, které není povoleno, 
 4. Zapněte **Automaticky aktualizovat pro vytvoření položky fronty úloh**. Systém nabídne otevření Karty položky fronty úloh, kde je možné změnit parametry spouštění. Výchozím nastavení je aktualizace jednou denně ve 20:00 hod.
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)

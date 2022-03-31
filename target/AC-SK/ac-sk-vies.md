@@ -40,5 +40,5 @@ Do XML schémat naimportujte aktuální šablonu XML schématu dle následujíc�
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)

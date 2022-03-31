@@ -33,5 +33,5 @@ Podle Zákona o dani z príjmov č. 595/2003 Z. z  může daňovník uplatnit ro
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)
