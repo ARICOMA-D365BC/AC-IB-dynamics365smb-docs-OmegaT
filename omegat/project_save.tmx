@@ -106,6 +106,16 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T161258Z" creationid="Janousek" creationdate="20220331T161258Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislative Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142207Z" creationid="Janousek" creationdate="20210625T142207Z">
@@ -1012,10 +1022,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jakmile proběhne aktualizace Business Central v prohlížeči, budete mít Business Central ve slovenštině.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T161010Z" creationid="Janousek" creationdate="20220331T161010Z">
+        <seg>As soon as the Business Central is updated in the browser, you will have Business Central in Slovak language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jednotlivé funcionality jsme seskupili do následujících balíčků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111907Z" creationid="Janousek" creationdate="20210603T111907Z">
         <seg>We have grouped the individual functionalities into the following packages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Klikněte na ikonu &lt;g1&gt;Nastavení&lt;/g1&gt;, zvolte &lt;g2&gt;Má nastavení&lt;/g2&gt; a vyberte jazyk: Slovenština.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160943Z" creationid="Janousek" creationdate="20220331T160943Z">
+        <seg>Click the &lt;g1&gt;Settings&lt;/g1&gt;icon, select &lt;g2&gt;My Settings&lt;/g2&gt;, and select a language: Slovak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,6 +1130,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
         <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevřete stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt; a aktivujte &lt;g2&gt;AC SK Language&lt;/g2&gt; (povinné pro příští aktualizaci).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160920Z" creationid="Janousek" creationdate="20220331T160920Z">
+        <seg>Open &lt;g1&gt;the AUTOCONT Product Purchase&lt;/g1&gt; page and activate &lt;g2&gt;AC SK Language&lt;/g2&gt; (required for the next update).</seg>
       </tuv>
     </tu>
     <tu>
