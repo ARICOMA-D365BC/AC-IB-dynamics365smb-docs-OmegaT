@@ -16,7 +16,7 @@ Po importu modulu je třeba provést vytvoření Šablony evidence pošty na str
 
 - Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony evidence pošty** a poté vyberte související odkaz.
 
-Na stránce **Šablony evidence pošty** je třeba vytvořit šablony pro **Typy pošty** - Odeslaná a Došlá pošta. Dále je možno zaškrtnout, jestli se má **Kontrolovat číslo externího dokladu**, **Otevřít kartu dokladu po vytvoření**, **Pouze jeden doklad**, **Vytvořit došlý doklad**, **Přenášet dimenze do dokladu**.
+Na stránce **Šablony evidence pošty** je třeba vytvořit šablony pro **Typy pošty** - Odeslaná a Došlá pošta. Dále je možno zaškrtnout, jestli se má **Kontrolovat číslo externího dokladu**, **Otevřít kartu dokladu po vytvoření**, **Pouze jeden doklad**, **Vytvořit došlý doklad** nebo **Přenášet dimenze do dokladu**.
 
 ![Nastavení šablony](media/IM-layout.png)
 
@@ -36,7 +36,7 @@ Pokud chcete používat modul **Evidence pošty**, je potřebné správně nasta
 
 ### Nastavení šablony řízení stavů
 
-Nejprve je třeba nastavit Nastavení šablonu řízení stavů *(detailněji viz. modul - Workflow)*.
+Nejprve je třeba nastavit šablonu řízení stavů *(detailněji viz. modul - Workflow)*.
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony řízení stavů** a poté vyberte související odkaz.
 2. Na stránce **Šablony řízení stavů** zvolte funkci **Nový**.
@@ -57,7 +57,7 @@ Pro aktivní řádek lze specifikovat **Akce Řízení stavů**, **Kontrolovaná
 ### Nastavení řízení stavů pro Evidenci pošty
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení řízení stavů** a poté vyberte související odkaz.
-2. Na stránce **Nastavení řízení stavů** zadejte do pole **Číslo tabulky** číslo 52067961, které označuje tabulku Evidence pošty
+2. Na stránce **Nastavení řízení stavů** zadejte do pole **Číslo tabulky** číslo 52067961, které označuje tabulku Evidence pošty.
 3. V poli **Šablony Řízení stavů** vyberte příslušnou šablonu pro řízení stavů pro Evidenci pošty.
 
 ![Šablony řízení stavů](media/IM-mail-mgt-setup.png)
@@ -70,7 +70,7 @@ Pokud chcete používat modul **Evidence pošty** i v modulu **Marketing** je po
 ### Nastavení šablon interakce
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení šablony interakce** a poté vyberte související odkaz.
-2. Na stránce **Nastavení šablony interakce** vyberte do pole **Příchozí pošta, Odchozí pošta** správné šablony interakce.
+2. Na stránce **Nastavení šablony interakce** vyberte do pole **Příchozí pošta** a **Odchozí pošta** správné šablony interakce.
 
 ### Šablony interakce
 
@@ -83,7 +83,7 @@ Pokud chcete používat modul **Evidence pošty** i v modulu **Marketing** je po
 
 
 
-**See also**
+## See also
 
 [Evidence pošty](ac-incoming-mail.md)  
 [Productivity Pack](ac-productivity-pack.md)

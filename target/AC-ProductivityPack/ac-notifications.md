@@ -16,8 +16,6 @@ Add-on modul Správa upozornění umožňuje systémové upozorňování na stav
 
 Základem použití modulu je definování sledovaných stavů a událostí v systému, na které je třeba upozornit uživatele nebo na ně určitým způsobem reagovat. Kromě sledování aktuální události lze sledovat i vývoj události v čase.
 
-![Správa upozornění](media/notification.png "Správa upozornění")
-
 **See also**
 
 [Správa upozornění - nastavení](ac-notifications-setup.md)  

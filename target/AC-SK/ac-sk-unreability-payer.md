@@ -12,33 +12,43 @@ ms.author: v-makune
 ---
 
 # Institut nespolehlivosti plátce
+> Aktualizace: 03.03.2022
 
-Funkcionalita zahrnuje systémové kontroly, které upozorňují uživatele na nespolehlivého plátce DPH při zpracování dokladů.
+Funkcionalita zahrnuje systémové kontroly, které upozorňují uživatele na nespolehlivého plátce DPH při zpracování dokladů. Dále obsahuje kontroly, zda je použitý bankovní účet partnera registrovaný pro podnikání v SR dle zákona 222/2004 Z.z.
 
-Seznam subjektů, u kterých nastaly důvody pro zrušení registrace platitele daně z přidané hodnoty, je dostupný na webových stránkách Finanční správy:
+Seznam subjektů, u kterých nastaly důvody pro zrušení registrace platitele daně z přidané hodnoty, je dostupný na webových stránkách Finanční správy. Pro automatizaci stahování je třeba, aby se zákazník registroval na portále [OpenData FS API](https://opendata.financnasprava.sk/page/openapi).
 
-https://www.financnasprava.sk/sk/elektronicke-sluzby/verejne-sluzby/zoznamy/exporty-z-online-informacnych
+V záznamech Finanční správy SR pak automatická úloha hledá dodavatele či zákazníky evidovanév systému, vytváří vlastní záznamy (tzv. Položky nespolehlivosti plátce) a vůči těmto pak provádí kontroly při zpracování dokladů.
 
-Soubor "Zoznam platiteľov dane z pridanej hodnoty, u kterých nastali dôvody na zrušenie registrácie pre DPH.zip (csv)" je potřeba uložit a naimportovat do systému.
+Jako spolehlivá je označena společnost, která není uvedena v seznamu a která má zveřejněný alespoň
+jeden bankovní účet pro podnikání na Slovensku.
 
-## Import souboru
+> [!NOTE]
+> Kontrola nespolehlivosti plátce DPH v případě zákazníků je omezena pouze na kontrolu na
+> Platebním příkazu.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Položky nespolehlivosti plátce** a poté vyberte související odkaz.
-2. Na stránce **Položky nespolehlivosti plátce** vyberte akci **Hromadné načtení nespolehlivosti dod.**
-3. Otevře se okno **Volba importu podle legislativy**, kde je nutné vybrat **SK** a potvrdit pomocí tlačítka **OK**.
-4. Dále se otevře okno **Import nespolehlivosti plátců DPH z aplikace Excel**, kde uživatel zvolí zda se mají smazat extistující položky pomcí zakšrtávacího tlačítka **Smazat existující položky**.
+## Ověření nového dodavatele
+Mohou existovat scénáře, kdy je třeba provést okamžitou kontrolu nespolehlivosti plátce. Pro tyto případy použijte na stránce Karta dodavatele akci Kontrola nespolehlivosti plátce DPH.
 
-Po vytvoření **položek nespolehlivosti plátce** systém zkontroluje údaje na kartách zákazníků (Datum kontroly nespolehlivosti, Nespolehlivý plátce DPH) / dodavatelů a dohledá a vepíše na karty zákazníků nebo dodavatelů nacházejících se v uvedeném seznamu do pole **Nespolehlivý plátce** – ANO.
+## Nákupní doklad
+Kontrola nespolehlivost plátce DPH se provádí při vložení či změně dodavatele (resp. Čísla věřitele) na nákupním dokladu. Uživateli se pak zobrazí na dokladu notifikace.
 
-V případě, že se zákazník / dodavatel v uvedeném v seznamu nenachází, zůstane údaj Nespolehlivý plátce prázdný. Do pole **Datum kontroly nespolehlivosti** se přenáší datum importu údajů ze souboru.
+Při spuštění akce Vydání dochází ke kontrole bankovního účtu na záložce Detaily platby, zda-li je v seznamu dodavatelem zveřejněných účtů pro podnikání na Slovensku.
 
-## Aktualizace nespolehlivosti plátce
+## Platební příkaz
+> [!WARNING]
+> Dostupné od verze 2022 Wave 1
 
-Při vytvoření nové karty Zákazníka / Dodavatele je potřebné tabulku Položky nespolehlivosti aktualizovat.
+Před odesláním požadavku na schválení Platebního příkazu spusťte funkci Kontrola nespolehlivosti plátce DPH, která na řádcích nastaví příznak Zveřejněný bankovní účet (a také příznak Nespolehlivý plátce DPH).
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Položky nespolehlivosti plátce** a poté vyberte související odkaz.
-2. Na stránce **Položky nespolehlivosti plátce** vyberte akci **Kontroluj všechny položky.**
+Tato kontrola se provede automaticky při akci Vydání, které není povoleno, pokud některý z řádků nevyhovuje kontrole.
 
+## Nastavení aktualizace nespolehlivosti plátce
+
+1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení služby nespolehlivého plátce** a poté vyberte související odkaz.
+2. Spusťte funkci **Nastavit výchozí webovou službu SK**, která naplní URL služby.
+3. V poli API klíč služby OpenDataFS zadejte hodnotu klíče vygenerovaného na portále **[OpenData FS API](https://opendata.financnasprava.sk/page/openapi)**.
+4. Zapněte **Automaticky aktualizovat pro vytvoření položky fronty úloh**. Systém nabídne otevření Karty položky fronty úloh, kde je možné změnit parametry spouštění. Výchozím nastavení je aktualizace jednou denně ve 20:00 hod.
 ## See also
 
 [AUTOCONT Řešení](../index.md)  

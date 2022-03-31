@@ -33,12 +33,12 @@ Funkcionalita umožňuje zpracování Kontrolního výkazu DPH a jeho export do 
 Uživatelsky je možné otevřít jednotlivé řádky kontrolního výkazu k editaci. Po ukončení úprav je potřebné položky v KV přepočítat.
 
 1. Na Kartě kontrolního výkazu DPH zvolte funkci **Úpravy** pro editaci.
-2. Po dokončení úprav zavřete okno. Systém se automaticky zeptá, zda požadujete Přepočítat součtové řádky. Potvrďte **Ano**.
+2. Po dokončení úprav zavřete okno. Systém se automaticky zeptá, zda požadujete Přepočítat součtové řádky. Potvrďte  pomocí možnosti **Ano**.
 
 ## Export Kontrolního výkazu DPH do XML
 
 1. Na Kartě kontrolního výkazu DPH zvolte funkci **Náhled**.
-2. Poté zvolte **Export do XML** a dotaz systému potvrďte **Ano**.
+2. Poté zvolte **Export do XML** a dotaz systému potvrďte pomocí možnosti **Ano**.
 
 ## Uzavření Kontrolního výkazu DPH
 

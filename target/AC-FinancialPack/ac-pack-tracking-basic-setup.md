@@ -46,9 +46,9 @@ Lze tak například vytvořit tabulku s těmito hodnotami:
 |----------|----------|----------|----------|
 | EKO-KOM | P1 | 1 | Obaly pro jedno použití |
 | EKO-KOM | P1 | 2 | Obaly pro opakované použití |
-| EKO-KOM | P2 | 1 | zpoplatněné |
-| EKO-KOM | P2 | 2 | předplacené |
-| EKO-KOM | P2 | 3 | neplacené |
+| EKO-KOM | P2 | 1 | Zpoplatněné |
+| EKO-KOM | P2 | 2 | Předplacené |
+| EKO-KOM | P2 | 3 | Neplacené |
 
 ## Založení prvků ve Výkazu obalů (definice vlastního výkazu)
 

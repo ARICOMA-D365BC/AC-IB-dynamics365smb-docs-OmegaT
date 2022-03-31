@@ -17,19 +17,20 @@ The Slovak Localization module complements the Dynamics 365 Business Central CZ 
 
 |See| also|
 | - | - |
-|Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |[Balance Sheet and Profit and Loss Statement](ac-sk-balance-sheet-income-statement.md)|
-|Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |[Statutory Statements - Settings](ac-sk-balance-sheet-income-statement-setup.md)|
-Processing and Exporting a VAT Statement. |[VAT Statement](ac-sk-vat-statement-export.md)|
-|VAT Report Settings. |[VAT Report Settings](ac-sk-vat-statement-setup.md)|
-Processing and exporting VAT Control Report.[VAT Control Report](ac-sk-vat-check-report-export.md)|
-|VAT Control Report Settings |[VAT Control Report Settings](ac-sk-vat-check-report-setup.md)|
-| Intrastat export. |[Intrastat](ac-sk-intrastat.md)|
-Export of the Summary Report.[VIES](ac-sk-vies.md)|
-|SEPA payment settings. |[SEPA payments](ac-sk-sepa.md)|
-|Setting the ECB exchange rate shift date.[ECB](ac-sk-ECB.md)|
+|Slovak language layer for Business Central|[Slovak language layer for Business Central](ac-sk-language.md)|
+|Export of Statutory Statements - Balance Sheet and Profit and Loss Statement|[Balance Sheet and Profit and Loss Statement](ac-sk-balance-sheet-income-statement.md)|
+|Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement.|[Statutory Statements - Settings](ac-sk-balance-sheet-income-statement-setup.md)|
+|Processing and Exporting a VAT Statement.|[VAT Statement](ac-sk-vat-statement-export.md)|
+|VAT Report Settings.|[VAT Report Settings](ac-sk-vat-statement-setup.md)|
+|Processing and exporting VAT Control Report.|[VAT Control Report](ac-sk-vat-check-report-export.md)|
+|VAT Control Report Settings|[VAT Control Report Settings](ac-sk-vat-check-report-setup.md)|
+|Intrastat export|[Intrastat](ac-sk-intrastat.md)|
+|Export of the Summary Report.|[VIES](ac-sk-vies.md)|
+|SEPA payment settings.|[SEPA payments](ac-sk-sepa.md)|
+|Setting the ECB exchange rate shift date.|[ECB](ac-sk-ECB.md)|
 |Import of data for business entities for which there were grounds for deregistration of value added tax payer.|[Institute of unreliability of the payer](ac-sk-unreability-payer.md)|
-|Reconciliation of customer and vendor balance |[Reconciliation of the balance](ac-sk-balance-reconciliation.md)|
-|Application of tax depreciation according to the number of calendar months according to the Income Tax Act. |[Tax depreciation](ac-sk-tax-depreciation.md)|
+|Reconciliation of customer and vendor balance|[Reconciliation of the balance](ac-sk-balance-reconciliation.md)|
+|Application of tax depreciation according to the number of calendar months according to the Income Tax Act.|[Tax depreciation](ac-sk-tax-depreciation.md)|
 
 ## See also
 

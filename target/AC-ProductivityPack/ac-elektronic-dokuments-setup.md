@@ -1,5 +1,5 @@
 ---
-title: Electronic documents Setup | Microsoft Docs
+title: AUTOCONT SOLUTIONS - Nastavení Elektronické komunikace | Microsoft Docs
 description: Electronic documents Setup
 author: ac-kunes
 ms.service: dynamics365-business-central
@@ -11,6 +11,11 @@ ms.search.keywords: Czech, Electronic documents setup, additional functions
 ms.author: v-makune
 ---
 # Elektronická fakturace - Nastavení
+
+## Nastavení ISDOC
+## Nastavení PDFXChange
+
+## 
 
 **See also**
 

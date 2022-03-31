@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Publikování úkolů
 
-Add-on modul Publikační úkoly je rozšiřující modul k Publikování Sharepoint. Rozšiřuje možnosti publikování ve dvou úrovních:
+Add-on modul **Publikační úkoly** je rozšiřující modul k Publikování Sharepoint. Rozšiřuje možnosti publikování ve dvou úrovních:
 - základní publikování úkolů a jejich parametrů
 - publikování úkolů na základě rozšířených nastavení prostřednictvím publikačních šablon (vyžaduje modul Publikační šablony).
 
