@@ -1068,6 +1068,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nainstalujte aplikaci &lt;g1&gt;AC SK Language&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160815Z" creationid="Janousek" creationdate="20220331T160815Z">
+        <seg>Install &lt;g1&gt;the AC SK Language&lt;/g1&gt; application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení Centrálních číselníků</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
@@ -1096,6 +1104,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
         <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro změnu jazyka postupujte tímto způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160747Z" creationid="Janousek" creationdate="20220331T160747Z">
+        <seg>To change the language, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1188,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Slovenský jazyk pro Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160638Z" creationid="Janousek" creationdate="20220331T160638Z">
+        <seg>Slovak language for Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spooler</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
@@ -1188,10 +1212,26 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spusťte a přihlašte se do Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160843Z" creationid="Janousek" creationdate="20220331T160843Z">
+        <seg>Launch and sign in to Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Standardní systém Dynamics 365 Business Central rozšiřujeme o řadu funkcionalit doplňujících legislativní požadavky a osvědčené postupy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111859Z" creationid="Janousek" creationdate="20210603T111859Z">
         <seg>We are expanding the standard Dynamics 365 Business Central system with a range of functionality complementing legislative requirements and best practices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato nápověda Vám pomůže nastavit Business Central do slovenského jazyka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T160703Z" creationid="Janousek" creationdate="20220331T160703Z">
+        <seg>This help will help you set up Business Central in the Slovak language.</seg>
       </tuv>
     </tu>
     <tu>
