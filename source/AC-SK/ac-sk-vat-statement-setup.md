@@ -43,10 +43,13 @@ Pro Výkaz DPH od roku 2018 to je **52068861**, pro Výkaz DPH do roku 2017 to j
 Pro nastavení využijte následující postup:
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony výkazu DPH** a poté vyberte související odkaz.
-2. Na kartě **Šablony výkazu DPH** vyberte ve sloupci **Formát XML SK** možnost **Použij XML schéma**.
-3. Na kartě **Šablony výkazu DPH** zvolte sekci **Navigace**, potom **Šablona** a otevřete **Názvy výkazů**.
-4. Na kartě **DPH Výkaz DPH** vyberte pro každý řádek příslušné schéma, která bude použito při exportu – pole **XML schéma**.
+2. Na stránce **Šablony výkazu DPH** vyberte ve sloupci **Formát XML SK** možnost **Použij XML schéma**.
+3. Na stránce **Šablony výkazu DPH** zvolte sekci **Související**, potom **Šablona** a otevřete **Názvy výkazů**.
+4. Na stránce **DPH Výkaz DPH** vyberte pro každý řádek příslušné schéma, která bude použito při exportu – pole **XML schéma**.
 5. Potvrďte pomocí tlačítka **OK**.
+
+Příklad můžete vidět na obrázku níže:
+![Import nespolehlivých plátců DPH z xml formátu](media/VAT_statement-template.png)
 
 ## Nastavení řádků výkazu DPH
 
@@ -62,6 +65,9 @@ Pro zajištění správného vykazování DPH je potřeba nastavit pole v řádc
 
 3. Potvrďte pomocí tlačítka **OK**.
 
+Příklad můžete vidět na obrázku níže:
+![Import nespolehlivých plátců DPH z xml formátu](media/VAT_statement.png)
+
 ## Nastavení kódů původu pro interní opravní doklady
 
 Pro nastavení využijte následující postup:
@@ -69,7 +75,8 @@ Pro nastavení využijte následující postup:
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení kódů původu** a poté vyberte související odkaz.
 2. Na záložce Prodej zadejte do pole **Prodejní interní dobropis** hodnotu INTCREDIT a do pole **Prodejní vrubopis** hodnotu DEBITNOTE. Hodnoty musí být nejdříve zadané v Kódech původu.
 3. Na záložce Nákup zadejte do pole **Nákupní interní dobropis** hodnotu INTCREDIT a do pole **Nákupní vrubopis** hodnotu DEBITNOTE. Hodnoty musí být nejdříve zadané v Kódech původu.
-4. Potvrďte pomocí tlačítka **OK**.
+
+![Import nespolehlivých plátců DPH z xml formátu](media/setup_source_code.png)
 
 ## Nastavení tuzemského samozdanění
 

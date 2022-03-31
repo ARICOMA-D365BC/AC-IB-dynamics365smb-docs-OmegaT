@@ -35,6 +35,7 @@ XML schéma ke Kontrolnímu výkazu DPH je potřebné do aplikace naimportovat d
 6. do pole **Přiřazeno legislativě** vyberte hodnotu **SK**.
 7. Potvrďte pomocí tlačítka **OK**.
 
+
 ## Nastavení řádků výkazu DPH - rozšíření
 
 Pro zajištění správného vykazování Kontrolního výkazu DPH je potřeba nastavit pole v řádcích výkazu DPH:
@@ -48,6 +49,8 @@ Pro zajištění správného vykazování Kontrolního výkazu DPH je potřeba n
 - Sekce kontrolního výkazu DPH
 - Sekce kontrolního výkazu DPH pro fyzické osoby
 
+![Import nespolehlivých plátců DPH z xml formátu](media/VAT_check_report.png)
+
 3. Potvrďte pomocí tlačítka **OK**.
 
 ## Nastavení sekcí kontrolního výkazu DPH
@@ -57,14 +60,15 @@ Pro nastavení využijte následující postup:
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Sekce kontrolního výkazu DPH** a poté vyberte související odkaz.
 2. Nastavte kódy sekcí dle platných nařízení pro vykazování.
 3. Pro vykazování přijatých zjednodušených faktur je potřeba nastavit **Kód sekce pod limit** a **Kód sekce nad limit**. Zároveň se vyplní i pole **Limit částky DPH** a **Platnost limitu od**.
-4. Potvrďte pomocí tlačítka **OK**.
+
+![Import nespolehlivých plátců DPH z xml formátu](media/VAT_check_report_section.png)
 
 ## Nastavení sloupců sekcí kontrolního výkazu DPH
 
 Pro jednotlivé sekce je potřeba nastavit sloupce, které budou exportovány do xml souboru.
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Sekce kontrolního výkazu DPH** a poté vyberte související odkaz.
-2. Označte řádek, pro který chcete nastavovat a poté zvolte funkci **Akce** - **Sekce** - **Nastavení sloupců sekcí výkazu**.
+2. Označte řádek, pro který chcete nastavovat sloupce a poté zvolte funkci **Akce** -> **Sekce** -> **Nastavení sloupců sekcí výkazu**.
 3. Zadejte kódy dle plateného nařízení pro vykazování. V poli **Přiřazené pole v řádku výkazu** je nastavení z jakého systémového pole bude hodnota naplněna do Kontrolního výkazu.
 
 ## Viz také

@@ -17,6 +17,7 @@ ms.author: v-makune
 
 |Viz|Také|
 |-|-|
+|Slovenská jazyková vrstva pro Business Central|[Slovenský jazyk pro Business Central](ac-sk-language.md)|
 |Export statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|[Rozvaha a výkaz zisku zrát](ac-sk-balance-sheet-income-statement.md)|
 |Nastavení exportu statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|[Statutární výkazy - nastavení](ac-sk-balance-sheet-income-statement-setup.md)|
 |Zpracování a export Výkazu DPH.|[Výkaz DPH](ac-sk-vat-statement-export.md)|
