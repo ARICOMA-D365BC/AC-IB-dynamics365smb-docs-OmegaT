@@ -1068,6 +1068,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Centrálních číselníků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
+        <seg>[přibližně]&lt;g1&gt;Settings - Central Database&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Neziskové organizace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112913Z" creationid="Janousek" creationdate="20210603T112913Z">
