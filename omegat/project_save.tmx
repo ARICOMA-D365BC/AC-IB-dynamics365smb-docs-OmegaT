@@ -1336,6 +1336,44 @@ Export of the Summary Report.&lt;g8&gt;VIES&lt;/g8&gt;|
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>|Viz|Také|
+|-|-|
+|Slovenská jazyková vrstva pro Business Central|&lt;g1&gt;Slovenský jazyk pro Business Central&lt;/g1&gt;|
+|Export statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g2&gt;Rozvaha a výkaz zisku zrát&lt;/g2&gt;|
+|Nastavení exportu statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g3&gt;Statutární výkazy - nastavení&lt;/g3&gt;|
+|Zpracování a export Výkazu DPH.|&lt;g4&gt;Výkaz DPH&lt;/g4&gt;|
+|Nastavení Výkazu DPH.|&lt;g5&gt;Výkaz DPH - nastavení&lt;/g5&gt;|
+|Zpracování a export Kontrolního výkazu DPH.|&lt;g6&gt;Kontrolní výkaz DPH&lt;/g6&gt;|
+|Nastavení Kontrolního výkazu DPH.|&lt;g7&gt;Kontrolní výkaz DPH - nastavení&lt;/g7&gt;|
+|Export Intrastatu.|&lt;g8&gt;Intrastat&lt;/g8&gt;|
+|Export Souhrnného hlášení.|&lt;g9&gt;VIES&lt;/g9&gt;|
+|Nastavení SEPA platebního styku.|&lt;g10&gt;SEPA platby&lt;/g10&gt;|
+|Nastavení posunu datumu směnných kurzů ECB.|&lt;g11&gt;ECB&lt;/g11&gt;|
+|Import dat pro podnikatelské subjekty, u kterých nastaly důvody pro zrušení registrace platitele daně z přidané hodnoty.|&lt;g12&gt;Institut nespolehlivosti plátce&lt;/g12&gt;|
+|Odsouhlasení salda zákazníka a dodavatele.|&lt;g13&gt;Odsouhlasení salda&lt;/g13&gt;|
+|Uplatnění daňových odpisů dle počtu kalendárných měsíců dle Zákona o dani z příjmů.|&lt;g14&gt;Daňové odpisy&lt;/g14&gt;|</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T090156Z" creationid="Janousek" creationdate="20220331T090156Z">
+        <seg>|See| also|
+| - | - |
+|Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |Balance Sheet and Profit and Loss Statement|
+|Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |Statutory Statements - Settings|
+Processing and Exporting a VAT Statement.|VAT Statement|
+|VAT Report Settings. |VAT Report Settings|
+Processing and exporting VAT Control Report.|VAT Control Report|
+|VAT Control Report Settings | VAT Control Report Settings|
+| Intrastat export | Intrastat|
+| Export of the Summary Report.|VIES|
+|SEPA payment settings.|SEPA payments|
+|Setting the ECB exchange rate shift date.|ECB|
+|Import of data for business entities for which there were grounds for deregistration of value added tax payer.|Institute of unreliability of the payer|
+|Reconciliation of customer and vendor balance |Reconciliation of the balance|
+|Application of tax depreciation according to the number of calendar months according to the Income Tax Act.
+|Tax depreciation| </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>|Viz|Také|&lt;x1/&gt;
 |-|-|
 |Sada rozšíření pro finance (Controling basic).|&lt;g2&gt;Cotroling Basic&lt;/g2&gt;|
