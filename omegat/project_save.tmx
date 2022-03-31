@@ -1361,23 +1361,23 @@ Export of the Summary Report.&lt;g8&gt;VIES&lt;/g8&gt;|
 |Odsouhlasení salda zákazníka a dodavatele.|&lt;g13&gt;Odsouhlasení salda&lt;/g13&gt;|
 |Uplatnění daňových odpisů dle počtu kalendárných měsíců dle Zákona o dani z příjmů.|&lt;g14&gt;Daňové odpisy&lt;/g14&gt;|</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220331T090156Z" creationid="Janousek" creationdate="20220331T090156Z">
+      <tuv lang="en-US" changeid="Janousek" changedate="20220331T091819Z" creationid="Janousek" creationdate="20220331T090156Z">
         <seg>|See| also|
 | - | - |
-|Export of Statutory Statements - Balance Sheet and Profit and Loss Statement |Balance Sheet and Profit and Loss Statement|
-|Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement. |Statutory Statements - Settings|
-Processing and Exporting a VAT Statement.|VAT Statement|
-|VAT Report Settings. |VAT Report Settings|
-Processing and exporting VAT Control Report.|VAT Control Report|
-|VAT Control Report Settings | VAT Control Report Settings|
-| Intrastat export | Intrastat|
-| Export of the Summary Report.|VIES|
-|SEPA payment settings.|SEPA payments|
-|Setting the ECB exchange rate shift date.|ECB|
-|Import of data for business entities for which there were grounds for deregistration of value added tax payer.|Institute of unreliability of the payer|
-|Reconciliation of customer and vendor balance |Reconciliation of the balance|
-|Application of tax depreciation according to the number of calendar months according to the Income Tax Act.
-|Tax depreciation| </seg>
+|Slovak language layer for Business Central|&lt;g1&gt;Slovak language layer for Business Central&lt;/g1&gt;|
+|Export of Statutory Statements - Balance Sheet and Profit and Loss Statement|&lt;g2&gt;Balance Sheet and Profit and Loss Statement&lt;/g2&gt;|
+|Statutory Statement Export Settings - Balance Sheet and Profit and Loss Statement.|&lt;g3&gt;Statutory Statements - Settings&lt;/g3&gt;|
+|Processing and Exporting a VAT Statement.|&lt;g4&gt;VAT Statement&lt;/g4&gt;|
+|VAT Report Settings.|&lt;g5&gt;VAT Report Settings&lt;/g5&gt;|
+|Processing and exporting VAT Control Report.|&lt;g6&gt;VAT Control Report&lt;/g6&gt;|
+|VAT Control Report Settings|&lt;g7&gt;VAT Control Report Settings&lt;/g7&gt;|
+|Intrastat export|&lt;g8&gt;Intrastat&lt;/g8&gt;|
+|Export of the Summary Report.|&lt;g9&gt;VIES&lt;/g9&gt;|
+|SEPA payment settings.|&lt;g10&gt;SEPA payments&lt;/g10&gt;|
+|Setting the ECB exchange rate shift date.|&lt;g11&gt;ECB&lt;/g11&gt;|
+|Import of data for business entities for which there were grounds for deregistration of value added tax payer.|&lt;g12&gt;Institute of unreliability of the payer&lt;/g12&gt;|
+|Reconciliation of customer and vendor balance|&lt;g13&gt;Reconciliation of the balance&lt;/g13&gt;|
+|Application of tax depreciation according to the number of calendar months according to the Income Tax Act.|&lt;g14&gt;Tax depreciation&lt;/g14&gt;|</seg>
       </tuv>
     </tu>
     <tu>
