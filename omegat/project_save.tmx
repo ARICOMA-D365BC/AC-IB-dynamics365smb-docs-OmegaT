@@ -1384,6 +1384,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; zavřete stránku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122054Z" creationid="kunes" creationdate="20220401T122054Z">
+        <seg>Choose &lt;g1&gt;Close&lt;/g1&gt; to close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
@@ -1404,6 +1412,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121806Z" creationid="kunes" creationdate="20220401T121806Z">
         <seg>In the next step, enter other methods of payment and the amount paid in that way in the lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli Vrátit hotovost (LM) zjistěte částku, jakou máte zákazníkovi vrátit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122007Z" creationid="kunes" creationdate="20220401T122007Z">
+        <seg>In the Return Cash Amt. (LCY) field, determine the amount that you should return to the customer.</seg>
       </tuv>
     </tu>
     <tu>
