@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
+Modul tvoří základ pro podporu maloobchodního prodeje formou Cash&amp;Carry.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115508Z" creationid="kunes" creationdate="20220401T115508Z">
+        <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
+The module forms the basis for supporting retail sales in the form of Cash&amp;Carry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AC Financial Pack&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142726Z" creationid="Janousek" creationdate="20210625T140552Z">
@@ -1014,6 +1024,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita není dostupná na objednávkách (obecně na prodejních/nákupních dokladech, kde je možná částečná fakturace).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115513Z" creationid="kunes" creationdate="20220401T115513Z">
+        <seg>The functionality is not available on purchase orders (generally on sales/purchase documents where partial invoicing is possible).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkcionalita rozšiřuje možnosti nastavení pravidel uživatelům i v případě použití jednoho způsobu platby, a to jak na prodejních tak i nákupních dokladech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115146Z" creationid="kunes" creationdate="20220401T115146Z">
@@ -1118,6 +1136,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Možnost definice více způsobů plateb není standardně k dispozici na žádném nákupním dokladu, ale je možné je tam doplnit v rámci zákaznického rozšíření funkcionality.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115537Z" creationid="kunes" creationdate="20220401T115537Z">
+        <seg>The option to define multiple payment methods is not available by default on any purchase document, but can be added there as part of the customer extension functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na dokladech prodejní faktura či prodejní dobropis je namísto jednoho způsobu platby je nově možné definovat více způsobů, typicky část úhrady platební kartou a část v hotovosti.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
@@ -1146,6 +1172,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
         <seg>[přibližně]&lt;g1&gt;Settings - Central Database&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nejběžnější je však &lt;g1&gt;použití Pokladny jako protiúčtu&lt;/g1&gt;, které umožňuje kombinovat použití Více způsobů plateb a Pokladních dokladů a přináší s sebou výhody v oblasti zaokrouhlování (je automaticky řešeno až na pokladním dokladu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
+        <seg>However, the most common is the use of &lt;g1&gt;the Cashier as a counter-account&lt;/g1&gt;, which allows combining the use of Multiple Payment Methods and Cash Receipts and brings with it rounding advantages (it is automatically resolved only on the cash receipt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,6 +1220,22 @@
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
         <seg>Then it is also possible to use the functionality of the module and define the combination of payment on the posted invoice (credit memo) or on the issued advance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud si ji na tyto doklady přidáte, pak si musíte ošetřit programově či metodicky potenciálně konfliktní stavy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115528Z" creationid="kunes" creationdate="20220401T115528Z">
+        <seg>If you add it to these documents, then you must treat potentially conflicting states programmatically or methodically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro evidenci protiúčtu vyrovnání je možné používat všechny tři možnosti protiúčtů, které obsahuje lokalizace (Finanční účet, Bankovní účet, Pokladna).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
+        <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1532,6 +1582,14 @@ The Insolvency Register is a public list that records statutory data on entities
 | Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer. |&lt;g6&gt;Fiscal printers&lt;/g6&gt;|
 | Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system. |&lt;g7&gt;Pack Tracking Basic (EKOKOM)&lt;/g7&gt;|
 Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Účtování prodejní faktury s více způsoby úhrady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115647Z" creationid="kunes" creationdate="20220401T115647Z">
+        <seg>Posting a sales invoice with multiple payment methods</seg>
       </tuv>
     </tu>
     <tu>
