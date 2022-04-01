@@ -6,6 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Obdobný postup lze použít na stránce Účtovaný prodejní dobropis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122423Z" creationid="kunes" creationdate="20220401T122423Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+A similar procedure can be used on the Posted Sales Credit Memo page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pokud nezadáte částku v hotovosti, musíte v řádcích zadat částky přesně do výše částky dokladu (tedy tak, aby v poli Zůstatek byla hodnota nula).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122148Z" creationid="kunes" creationdate="20220401T122148Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Ff you do not enter a cash amount, you must enter amounts in the rows exactly up to the amount of the receipt (i.e., so that the Balance field is zero).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
 Modul tvoří základ pro podporu maloobchodního prodeje formou Cash&amp;Carry.</seg>
       </tuv>
@@ -792,6 +812,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Rozpis platby&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122227Z" creationid="kunes" creationdate="20220401T122227Z">
+        <seg>&lt;x1/&gt;Payment Schedule&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AC - Slovak Legistive Pack</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135031Z" creationid="Janousek" creationdate="20210625T135031Z">
@@ -900,6 +928,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112448Z" creationid="Janousek" creationdate="20210603T112448Z">
         <seg>Data boxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dodatečná úhrada zaúčtované prodejní faktury</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122235Z" creationid="kunes" creationdate="20220401T122235Z">
+        <seg>Additional payment of the posted sales invoice</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,6 +1196,30 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Prodejní faktura spusťte funkci Účtovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122115Z" creationid="kunes" creationdate="20220401T122115Z">
+        <seg>On the Sales Invoice page, run the Post function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Rozpis platby spusťte funkci Účtovat pro zaúčtování jedné či více vyrovnávacích položek (typicky pokladních dokladů).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122408Z" creationid="kunes" creationdate="20220401T122408Z">
+        <seg>On the Payment Schedule page, run the Post function to post one or more balancing items (typically cash receipts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Účtovaná prodejní faktura spusťte funkci &lt;g1&gt;Rozpis platby&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122339Z" creationid="kunes" creationdate="20220401T122339Z">
+        <seg>On the Posted Sales Invoice page, choose the &lt;g1&gt;Payment Schedule&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -1172,6 +1232,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160815Z" creationid="Janousek" creationdate="20220331T160815Z">
         <seg>Install &lt;g1&gt;the AC SK Language&lt;/g1&gt; application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Najděte příslušný doklad a otevřete jeho kartu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122307Z" creationid="kunes" creationdate="20220401T122307Z">
+        <seg>Find the relevant document and open its card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,6 +1520,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Účtované prodejní faktury&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122247Z" creationid="kunes" creationdate="20220401T122247Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Posted Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
