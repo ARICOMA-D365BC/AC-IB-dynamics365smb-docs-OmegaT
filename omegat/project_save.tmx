@@ -1328,8 +1328,8 @@
       <tuv lang="cs-CZ">
         <seg>Více úhrad</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210603T111930Z" creationid="Janousek" creationdate="20210603T111930Z">
-        <seg>More payments</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115042Z" creationid="Janousek" creationdate="20210603T111930Z">
+        <seg>Multiple payment methods</seg>
       </tuv>
     </tu>
     <tu>
