@@ -213,7 +213,7 @@ Pro tyto kombinace musí být nastaveno (kromě jiného):
 
 ### Více DIČ zákazníků
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Zákazníci** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Customers** and then choose the related link.
 2. Vyberte akci  Země/oblasti registrace.
 3. Zadejte kód země a DIČ pro vybraného zákazníka.
 4. Dále doplňte DPH obch. účtoskupinu, která se má použít v případě prodeje zákazníkovi do této země.

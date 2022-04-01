@@ -81,7 +81,7 @@ Funkcionalita Platebních kalendářů je k dispozici v prodeji i v nákup
 **Účtování prodejní faktury s platebním kalendářem**
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Prodejní faktur** a poté vyberte související odkaz.
-2. Vytvořte novou prodejní fakturu dle vašich zvyklostí. V poli **Datum splatnosti** definujte nejzašší datum pro platební kalendář.
+2. Create a new sales invoice according to your conventions. V poli **Datum splatnosti** definujte nejzašší datum pro platební kalendář.
 3. Spusťte akci **Platební kalendář**.
 4. Spusťte funkci **Generovat platby**.
 5. Definujte počet dílčích plateb a systém dopočte pole s částkami plateb. Poslední platbu systém dopočte do celkové výše faktury.
@@ -102,7 +102,7 @@ Po zaúčtování prodejní faktury (či objednávky) vzniknou navíc položky z
 
 **Vytvoření platebního kalendáře k zaúčtované faktuře**
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účtované prodejní faktury** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Posted Sales Invoices** and then choose the related link.
 2. Spusťte akci **Platební kalendář**.
 3. V řádcích definujte vlastní rozpis splátek.
 4. Vyrovnejte zůstatek faktury a zaúčtujte platební kalendář funkcí **Účtovat**.

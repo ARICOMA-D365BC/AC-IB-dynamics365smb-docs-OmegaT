@@ -32,7 +32,7 @@ We have grouped the individual functionalities into the following packages.
 - App Extension Set
 - Insolvency register
 - Factoring
-- More payments
+- Multiple payment methods
 - Fiscal printers
 - Pack Tracking Basic (EKOKOM)
 - Pack Tracking - Return Packing
