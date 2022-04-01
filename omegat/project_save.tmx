@@ -1012,6 +1012,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Evidence úhrady – zjednodušený režim</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122523Z" creationid="kunes" creationdate="20220401T122523Z">
+        <seg>Records of payment – simplified regime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence úhrady – zjednodušený režim se záměnou Způsobu platby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122643Z" creationid="kunes" creationdate="20220401T122619Z">
+        <seg>Records of payment – simplified mode with substitution of payment method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Faktoring</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111925Z" creationid="Janousek" creationdate="20210603T111925Z">
@@ -1116,10 +1132,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je-li doklad nezaokrouhlený, zaokrouhlení částky hotovosti k vrácení probíhá až při účtování vyrovnání prostřednictvím nastaveného zaokrouhlení ve funkcionalitě Pokladní doklady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122435Z" creationid="kunes" creationdate="20220401T122435Z">
+        <seg>If the receipt is unrounded, rounding of the cash to be refunded takes place only when posting the settlement through the rounding set in the Cash Receipts functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jednotlivé funcionality jsme seskupili do následujících balíčků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111907Z" creationid="Janousek" creationdate="20210603T111907Z">
         <seg>We have grouped the individual functionalities into the following packages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Když je ale takových kódů (z důvodů požadavků na evidenci) více, je třeba zajistit zaúčtování dokladu s kódem příslušným uživateli, který doklad účtuje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122733Z" creationid="kunes" creationdate="20220401T122733Z">
+        <seg>However, when there are more than one such code (due to record keeping requirements), it is necessary to ensure that the document is posted with the code appropriate to the user posting the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,6 +1232,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122115Z" creationid="kunes" creationdate="20220401T122115Z">
         <seg>On the Sales Invoice page, run the Post function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Prodejní faktura vyberte v poli &lt;g1&gt;Kód způsobu platby&lt;/g1&gt; odpovídající hodnotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122615Z" creationid="kunes" creationdate="20220401T122615Z">
+        <seg>On the Sales Invoice page, select the appropriate value in the &lt;g1&gt;Payment Method Code&lt;/g1&gt; field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,6 +1332,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ověřte, že je zapnuta volba &lt;g1&gt;Kontrola způsobu platby na prod.dokl&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T123828Z" creationid="kunes" creationdate="20220401T123828Z">
+        <seg>Verify that check &lt;g1&gt;Check Payment Method On Sales Documents&lt;/g1&gt; is turned on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pak je možné využít i funkčnost modulu a definovat kombinaci úhrady na zaúčtované faktuře (dobropisu) či na vystavené záloze.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
@@ -1304,6 +1352,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115528Z" creationid="kunes" creationdate="20220401T115528Z">
         <seg>If you add it to these documents, then you must treat potentially conflicting states programmatically or methodically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poměrně běžnou praxí je, že na kartách zákazníků je definován preferovaný či povolený způsob platby (typicky úhrada v hotovosti).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122702Z" creationid="kunes" creationdate="20220401T122702Z">
+        <seg>It is a relatively common practice that the preferred or allowed payment method (typically cash payment) is defined on customer cards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1556,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V případě zapnutého Kontrola způsobu platby na prod.dokl.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122811Z" creationid="kunes" creationdate="20220401T122811Z">
+        <seg>If "Check payment method on sales document" is enabled,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě, že zákazník chce provést vyrovnání dokladu při účtování pouze jedním způsobem, např. bankovní kartou, lze použít zjednodušený režim zadáním vybraného Kódu způsobu platby přímo v hlavičce dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122536Z" creationid="kunes" creationdate="20220401T122536Z">
+        <seg>In case the customer wants to settle the document when charging by one method only, e.g. by bank card, the simplified mode can be used by entering the selected Payment Method Code directly in the document header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Velkoobchod a maloobchod, distribuce</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
@@ -1512,6 +1584,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115740Z" creationid="Janousek" creationdate="20210603T112935Z">
         <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení více způsobů plateb&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122854Z" creationid="kunes" creationdate="20220401T122854Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Multiple Payment Methods Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,6 +1696,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>provede změnu systém automaticky (viz &lt;g1&gt;Nastavení způsobů platby&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T122831Z" creationid="kunes" creationdate="20220401T122831Z">
+        <seg>the system will make the change automatically (see &lt;g1&gt;Setting up Payment Methods&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
