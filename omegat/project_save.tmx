@@ -1276,6 +1276,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Najděte příslušného zákazníka a otevřete jeho kartu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124250Z" creationid="kunes" creationdate="20220401T124250Z">
+        <seg>Find the relevant customer and open their card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Najděte příslušný doklad a otevřete jeho kartu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122307Z" creationid="kunes" creationdate="20220401T122307Z">
@@ -1492,6 +1500,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spuštěním akce Nový vytvořte nový doklad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124423Z" creationid="kunes" creationdate="20220401T124423Z">
+        <seg>Run the New action to create a new document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Standardní systém Dynamics 365 Business Central rozšiřujeme o řadu funkcionalit doplňujících legislativní požadavky a osvědčené postupy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111859Z" creationid="Janousek" creationdate="20210603T111859Z">
@@ -1544,6 +1560,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121806Z" creationid="kunes" creationdate="20220401T121806Z">
         <seg>In the next step, enter other methods of payment and the amount paid in that way in the lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Kód způsobu platby&lt;/g1&gt; nastavte způsob, který má nastavenu hodnotu Hotovost ve sloupci Typ operace pokladny, ale který nemá definovaný &lt;g2&gt;Kód platebního místa&lt;/g2&gt; (viz „Hotově“ dle obrázku v &lt;g3&gt;Nastavení způsobů platby&lt;/g3&gt;)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124413Z" creationid="kunes" creationdate="20220401T124413Z">
+        <seg>In the &lt;g1&gt;Payment Method Code&lt;/g1&gt; field, set the method that has the value Cash set in the Cashier Operation Type column, but that does not have a &lt;g2&gt;Payment Location Code&lt;/g2&gt; defined (see "Cash" as shown in the &lt;g3&gt;Payment Method Settings&lt;/g3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,6 +1640,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Zákazníci&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124236Z" creationid="kunes" creationdate="20220401T124236Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Customers&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
