@@ -572,6 +572,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Více úhad&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124705Z" creationid="kunes" creationdate="20220401T124705Z">
+        <seg>&lt;g1&gt;Multiple payment methods - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Více úhrad&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140655Z" creationid="Janousek" creationdate="20210625T140655Z">
@@ -980,6 +990,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Evidence EET přímo z rozpisu platby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124458Z" creationid="kunes" creationdate="20220401T124458Z">
+        <seg>EET records directly from the Payment Schedule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence nářadí a pomůcek</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112755Z" creationid="Janousek" creationdate="20210603T112755Z">
@@ -1228,6 +1246,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Prodejní faktura spusťte akci Vydat a poté spusťte funkci Rozpis platby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124636Z" creationid="kunes" creationdate="20220401T124636Z">
+        <seg>On the Sales Invoice page, run the Release action and then run the Payment Schedule function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Prodejní faktura spusťte funkci Vydat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124449Z" creationid="kunes" creationdate="20220401T124449Z">
+        <seg>On the Sales invoice page, start the release function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte funkci Účtovat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122115Z" creationid="kunes" creationdate="20220401T122115Z">
@@ -1240,6 +1274,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122615Z" creationid="kunes" creationdate="20220401T122615Z">
         <seg>On the Sales Invoice page, select the appropriate value in the &lt;g1&gt;Payment Method Code&lt;/g1&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Prodejní faktura zadejte zákazníka (viz výše)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124436Z" creationid="kunes" creationdate="20220401T124436Z">
+        <seg>On the Sales Invoice page, enter the customer (see above)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,6 +1394,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T123828Z" creationid="kunes" creationdate="20220401T123828Z">
         <seg>Verify that check &lt;g1&gt;Check Payment Method On Sales Documents&lt;/g1&gt; is turned on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ověřte, že je zapnuta volba Povolit registraci EET.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124605Z" creationid="kunes" creationdate="20220401T124605Z">
+        <seg>Verify that the Enable EET registration option is enabled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1550,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spusťte akci Registrovat EET.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124651Z" creationid="kunes" creationdate="20220401T124651Z">
+        <seg>Start the Register EET action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spuštěním akce Nový vytvořte nový doklad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124423Z" creationid="kunes" creationdate="20220401T124423Z">
@@ -1564,6 +1622,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V některých případech je požadováno vytvoření evidence EET (legislativa v ČR) již na rozpisu platby, tedy ještě před zaúčtováním dokladu (např. pro tisk podkladů pro realizaci dobírky, apod.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124547Z" creationid="kunes" creationdate="20220401T124459Z">
+        <seg>In some cases, it is required to create a register of EET (legislation in the Czech Republic) already on the payment schedule, i.e. before the document is posted (e.g. for printing documents for the implementation of cash on delivery, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli &lt;g1&gt;Kód způsobu platby&lt;/g1&gt; nastavte způsob, který má nastavenu hodnotu Hotovost ve sloupci Typ operace pokladny, ale který nemá definovaný &lt;g2&gt;Kód platebního místa&lt;/g2&gt; (viz „Hotově“ dle obrázku v &lt;g3&gt;Nastavení způsobů platby&lt;/g3&gt;)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124413Z" creationid="kunes" creationdate="20220401T124413Z">
@@ -1592,6 +1658,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122811Z" creationid="kunes" creationdate="20220401T122811Z">
         <seg>If "Check payment method on sales document" is enabled,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě zapnutého Povolit registraci EET je na rozpisu platby dostupná akce Registrovat EET, resp. Storno EET (viz &lt;g1&gt;Nastavení způsobů platby&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124557Z" creationid="kunes" creationdate="20220401T124557Z">
+        <seg>If Enable EET registration is enabled, the Register EET action is available on the payment schedule, resp. Cancel EET (see &lt;g1&gt;Payment Methods Settings&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1692,6 +1766,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Více úhrad - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124709Z" creationid="kunes" creationdate="20220401T124709Z">
+        <seg>Více úhrad - nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Výkaz Intrastat</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
@@ -1712,6 +1794,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142601Z" creationid="Janousek" creationdate="20210625T142601Z">
         <seg>You can change how certain UI elements are displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte alespoň jeden řádek faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124442Z" creationid="kunes" creationdate="20220401T124442Z">
+        <seg>Enter at least one invoice line.</seg>
       </tuv>
     </tu>
     <tu>
