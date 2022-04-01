@@ -842,8 +842,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>Addon &lt;g1&gt;Více způsobů plateb&lt;/g1&gt; rozšiřuje standard prodejních dokladů v oblasti vyrovnání dokladu přímo při účtování.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220401T115114Z" creationid="kunes" creationdate="20220401T115114Z">
-        <seg>&lt;g1&gt;The Multiple Payment Methods &lt;/g1&gt; module extends the standard of sales documents in the area of balancing the document directly during posting.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T120228Z" creationid="kunes" creationdate="20220401T115114Z">
+        <seg>&lt;g1&gt;The Multiple Payment Methods&lt;/g1&gt; module extends the standard of sales documents in the area of balancing the document directly during posting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,6 +1152,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Prodejní faktura&lt;/g1&gt; spusťte akci &lt;g2&gt;Vydat&lt;/g2&gt; a poté spusťte funkci &lt;g3&gt;Rozpis platby&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T120210Z" creationid="kunes" creationdate="20220401T120210Z">
+        <seg>On the &lt;g1&gt;Sales Invoice&lt;/g1&gt; page, choose &lt;g2&gt;Release&lt;/g2&gt; and then run &lt;g3&gt;Payment Schedule&lt;/g3&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -1428,6 +1436,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112920Z" creationid="Janousek" creationdate="20210603T112920Z">
         <seg>Publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořte novou prodejní fakturu dle vašich zvyklostí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T120102Z" creationid="kunes" creationdate="20220401T120029Z">
+        <seg>Create a new sales invoice according to your conventions.</seg>
       </tuv>
     </tu>
     <tu>
