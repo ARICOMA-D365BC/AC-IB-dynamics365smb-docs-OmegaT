@@ -830,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Addon &lt;g1&gt;Více způsobů plateb&lt;/g1&gt; rozšiřuje standard prodejních dokladů v oblasti vyrovnání dokladu přímo při účtování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115114Z" creationid="kunes" creationdate="20220401T115114Z">
+        <seg>&lt;g1&gt;The Multiple Payment Methods &lt;/g1&gt; module extends the standard of sales documents in the area of balancing the document directly during posting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktualizace 01.04.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
+        <seg>Update 01.04.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Centrální číselníky</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112732Z" creationid="Janousek" creationdate="20210603T112732Z">
@@ -850,6 +866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110614Z" creationid="sunavcova" creationdate="20210603T091949Z">
         <seg>Controling Basic - Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Cílem je omezení chybovosti uživatelů prostřednictvím jejich přiřazení k určitým „pokladním místům“.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115157Z" creationid="kunes" creationdate="20220401T115157Z">
+        <seg>The aim is to reduce user errors by assigning users to specific "payment places".</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita rozšiřuje možnosti nastavení pravidel uživatelům i v případě použití jednoho způsobu platby, a to jak na prodejních tak i nákupních dokladech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115146Z" creationid="kunes" creationdate="20220401T115146Z">
+        <seg>The functionality extends the possibilities of setting rules to users even if one payment method is used, both on sales and purchase documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>HelpDesk</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112720Z" creationid="Janousek" creationdate="20210603T112720Z">
@@ -1086,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na dokladech prodejní faktura či prodejní dobropis je namísto jednoho způsobu platby je nově možné definovat více způsobů, typicky část úhrady platební kartou a část v hotovosti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
+        <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -1138,6 +1178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160920Z" creationid="Janousek" creationdate="20220331T160920Z">
         <seg>Open &lt;g1&gt;the AUTOCONT Product Purchase&lt;/g1&gt; page and activate &lt;g2&gt;AC SK Language&lt;/g2&gt; (required for the next update).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pak je možné využít i funkčnost modulu a definovat kombinaci úhrady na zaúčtované faktuře (dobropisu) či na vystavené záloze.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
+        <seg>Then it is also possible to use the functionality of the module and define the combination of payment on the posted invoice (credit memo) or on the issued advance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1338,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111724Z" creationid="Janousek" creationdate="20210603T111724Z">
         <seg>Users can connect from a computer, smartphone or tablet with Google Android or Apple iOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V praxi se ale stává, že zákazník chce uhradit na místě v hotovosti doklad, který měl být uhrazen bankovním převodem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T115215Z" creationid="kunes" creationdate="20220401T115215Z">
+        <seg>In practice, however, it happens that a customer wants to pay on the spot in cash a receipt that should have been paid by bank transfer.</seg>
       </tuv>
     </tu>
     <tu>
