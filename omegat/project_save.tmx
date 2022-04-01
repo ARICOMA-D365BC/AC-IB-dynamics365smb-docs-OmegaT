@@ -1400,6 +1400,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V dalším kroku zadejte do řádků další způsoby úhrady a částku hrazenou daným způsobem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T121806Z" creationid="kunes" creationdate="20220401T121806Z">
+        <seg>In the next step, enter other methods of payment and the amount paid in that way in the lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V praxi se ale stává, že zákazník chce uhradit na místě v hotovosti doklad, který měl být uhrazen bankovním převodem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115215Z" creationid="kunes" creationdate="20220401T115215Z">
@@ -1426,8 +1434,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktury&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220401T120027Z" creationid="kunes" creationdate="20220401T120027Z">
-        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoice&lt;/g4&gt; and then choose the related link.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1484,6 +1492,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142601Z" creationid="Janousek" creationdate="20210625T142601Z">
         <seg>You can change how certain UI elements are displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte částku v hotovosti, kterou jste obdrželi od zákazníka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T121728Z" creationid="kunes" creationdate="20220401T121728Z">
+        <seg>Enter the amount of cash you received from the customer.</seg>
       </tuv>
     </tu>
     <tu>
