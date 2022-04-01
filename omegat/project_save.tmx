@@ -1332,6 +1332,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ověřte, že je na přihlášeném uživateli nastaven &lt;g1&gt;Kód platebního místa&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T124228Z" creationid="kunes" creationdate="20220401T124228Z">
+        <seg>Verify that &lt;g1&gt;Payment Place Code&lt;/g1&gt; is set on the logged-in user login.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ověřte, že je zapnuta volba &lt;g1&gt;Kontrola způsobu platby na prod.dokl&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T123828Z" creationid="kunes" creationdate="20220401T123828Z">
@@ -1584,6 +1592,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115740Z" creationid="Janousek" creationdate="20210603T112935Z">
         <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení uživatelů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220401T123840Z" creationid="kunes" creationdate="20220401T123840Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;User Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
