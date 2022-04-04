@@ -316,6 +316,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrola způsobu platby na nák.dokl.&lt;/g1&gt; – dtto, ale pro nákupní doklady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083016Z" creationid="kunes" creationdate="20220404T083016Z">
+        <seg>&lt;g1&gt;Check Payment Method On Purchase Documents &lt;/g1&gt; dtto, but for purchase documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrola způsobu platby na prod.dokl.&lt;/g1&gt; – tímto lze nastavit, aby systém při akci Vydání na prodejním dokladu kontroloval, je-li použit odpovídající Způsob platby (tedy s přiřazeným Platebním místem stejným jako má nastaven uživatel, který akci Vydání spustil).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082849Z" creationid="kunes" creationdate="20220404T082849Z">
+        <seg>&lt;g1&gt;•	Check Payment Method On Sales Documents &lt;/g1&gt; – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrolní výkaz DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T145158Z" creationid="Janousek" creationdate="20210625T142441Z">
@@ -634,6 +650,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142507Z" creationid="Janousek" creationdate="20210625T142507Z">
         <seg>&lt;g1&gt;Balance reconciliation&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povolit registraci EET&lt;/g1&gt; – zapíná kontrolu, že v řádcích Rozpisu platby lze použít pouze takové, které mají nastaven sloupec Kód platebního zařízení EET.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083042Z" creationid="kunes" creationdate="20220404T083042Z">
+        <seg>&lt;g1&gt;Allow EET Register &lt;/g1&gt; – enables checking that only rows in the Payment Schedule can be used that have the EET Cash Register Code column set.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1214,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je nutné, pokud chcete např. umožnit přijímat i cizí měnu na pokladních místech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082822Z" creationid="kunes" creationdate="20220404T082822Z">
+        <seg>It is necessary if you want to allow, for example, to accept foreign currency at POS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je-li doklad nezaokrouhlený, zaokrouhlení částky hotovosti k vrácení probíhá až při účtování vyrovnání prostřednictvím nastaveného zaokrouhlení ve funkcionalitě Pokladní doklady.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122435Z" creationid="kunes" creationdate="20220401T122435Z">
@@ -1498,6 +1530,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081727Z" creationid="kunes" creationdate="20220404T081604Z">
         <seg>Payment places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082900Z" creationid="kunes" creationdate="20220404T082900Z">
+        <seg>If everything is set correctly, the system will change the Payment Method on the document, otherwise the system will display an error message.</seg>
       </tuv>
     </tu>
     <tu>
