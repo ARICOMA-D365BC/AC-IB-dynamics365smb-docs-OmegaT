@@ -1166,6 +1166,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedná se o číselníky:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081541Z" creationid="kunes" creationdate="20220404T081541Z">
+        <seg>These are code lists:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Když je ale takových kódů (z důvodů požadavků na evidenci) více, je třeba zajistit zaúčtování dokladu s kódem příslušným uživateli, který doklad účtuje.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122733Z" creationid="kunes" creationdate="20220401T122733Z">
@@ -1458,6 +1466,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112531Z" creationid="Janousek" creationdate="20210603T112531Z">
         <seg>SharePoint publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Před tím, než budete moci používat funkcionality více způsobů plateb ve vašich obchodních procesech, musíte provést základní nastavení modulu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
+        <seg>Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings.</seg>
       </tuv>
     </tu>
     <tu>
