@@ -14,54 +14,54 @@ ms.author: AC MartinKunes
 # Více úhrad - nastavení
 > Update 01.04.2022
 
-Před tím, než budete moci používat funkcionality více způsobů plateb ve vašich obchodních procesech, musíte provést základní nastavení modulu. Jedná se o číselníky:
+Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings. These are code lists:
 
-- Způsoby platby
-- Platební místa
-- Nastavení uživatelů
+- Payment Methods
+- Payment places
+- User setup
 
-## Nastavení Způsobů platby
+## Payment Methods settings
 
-V seznamu Způsoby plateb vytvořte kódy reprezentující používané způsoby plateb (např. hotovost, karta, stravenky,… dle platné legislativy a dle očekávaného rozsahu použití ve firmě) tak, aby bylo možné následně definovat úhradu zákazníkem v požadované struktuře.
+In the Payment methods list, create codes that represent the payment methods you use (e.g., cash, card, meal vouchers,... according to valid legislation and according to the expected scope of use in the company) so that it is possible to subsequently define the payment by the customer in the required structure.
 
-Existuje-li ve firmě více přepážek či poboček, je obvyklé evidovat operace na těchto místech odděleně. V takovém případě je třeba vydefinovat pro každý způsob úhrady i příslušný počet protiúčtů. Protiúčtem může být finanční účet či bankovní účet, nicméně nejčastěji se používá karta pokladny.
+If there are several counters or branches in the company, it is customary to record operations in these places separately. In this case, it is necessary to define the appropriate number of counter-accounts for each method of payment. The counter-account can be a financial account or a bank account, but the cash register card is most often used.
 
-Dále je třeba definovat *Typ pokladní operace* pro další kontrolní mechanismy funkcionality. Vždy musí existovat řádek s typem „Hotovost“, který systém použije při zadání přijaté částky v hotovosti pro vytvoření řádku rozpisu plateb.
+In addition, the  *Cash Desk Operation Type* needs to be defined for other control mechanisms of the functionality. There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.
 
-Při ručním vytváření řádků Rozpisu platby je Kód způsobu platby filtrován dle Kódu platebního místa přiřazeného uživateli (viz dále).
+When manually creating Payment Schedule rows, the Payment Method Code is filtered by the Payment Location Code assigned to the user (see below).
 
-![Způsoby plateb](media/multiple_payment_methonds_overview.png)
+![Payment Methods](media/multiple_payment_methonds_overview.png)
 
-## Nastavení platebních míst
+## Settings up Payment Places
 
-Pokud si firma vydefinuje způsoby plateb s více pokladnami, může být pro ni výhodné pojmenovat si jednotlivá fyzická pokladní místa a definovat uživatele, které na nich pracují.
+If a company defines payment methods with multiple cash registers, it can be advantageous for the company to name the individual physical cash points and define the users that work on them.
 
-V seznamu Platební místa si vydefinujte všechna místa, kde mohou zákazníci hradit své závazky vůči vaší firmě.
+In the Payment places list, define all the locations where customers can pay their obligations to your business. 
 
-V seznamu Nastavení uživatelů přiřaďte vybraným uživatelům obsluhujícím zákazníky příslušný kód platebního místa. Tímto přiřazením docílíte usměrňování chování uživatelů s cílem zamezit chybám z nepozornosti. **Viz: Přiřazení způsobů plateb k uživatelům.**
+In the User Settings list, assign the appropriate payment places code to the selected users serving customers. This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users. **See: Assign payment methods to users.**
 
 Přiřazením Kódu platebního místa na způsobu platby docílíte větší kontroly uživatelů, aby nebylo možné omylem provést úhradu vůči protiúčtu, který není uživateli přiřazen.
 
 
-## Nastavení Více způsobů plateb
+## Setting up Multiple Payment Methods
 
-Popis jednotlivých parametrů:
-- **Povolit více typů hotovosti** – dovolí definovat více způsobů plateb se stejným typem pokladní operace a pro stejné platební místo. Je nutné, pokud chcete např. umožnit přijímat i cizí měnu na pokladních místech.
-- **Kontrola způsobu platby na prod.dokl.** – tímto lze nastavit, aby systém při akci Vydání na prodejním dokladu kontroloval, je-li použit odpovídající Způsob platby (tedy s přiřazeným Platebním místem stejným jako má nastaven uživatel, který akci Vydání spustil). Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.
-- **Kontrola způsobu platby na nák.dokl.** – dtto, ale pro nákupní doklady.
-- **Povolit registraci EET** – zapíná kontrolu, že v řádcích Rozpisu platby lze použít pouze takové, které mají nastaven sloupec Kód platebního zařízení EET.
-- **Kontrolovat fiskální tiskárnu** – tímto nastavením se zapíná vynucení použití funkcionality integrace s tzv. Fiskálními tiskárnami, jejich použití je povinné v legislativním prostředí Slovenské republiky (viz [Fiskální tiskárny](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-fiscal-printers.html)).
+Description of individual parameters:
+- **Enable Multiple Cash Operation Types** – allows you to define multiple payment methods with the same cash transaction type and for the same payment location.  It is necessary if you want to allow, for example, to accept foreign currency at POS.
+- **Check Payment Method On Sales Documents** – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action). If everything is set correctly, the system will change the Payment Method on the document, otherwise the system will display an error message.
+- **Check Payment Method On Purchase Documents** dtto, but for purchase documents.
+- **Allow EET Register** – enables checking that only rows in the Payment Schedule can be used that have the EET Cash Register Code column set.
+- **Check Fiscal Printer** – this setting enables the enforcement of the use of the integration functionality with the so-called Fiscal Printers, their use is mandatory in the legislative environment of the Slovak Republic (see [Fiscal Printers](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-fiscal-printers.html)).
 
-Na záložce Číslování lze nastavit číselnou řadu pro doklady platby. Tato se použije pouze v případě, že použijete způsob platby s jiným protiúčtem než Pokladna (pokladny mají vlastní číselné řady viz [Nastavení číselných řad pro příjmové a výdajové doklady](https://docs.microsoft.com/cs-cz/dynamics365/business-central/localfunctionality/czech/ui-extensions-cash-desk-localization-cz#nastaven%C3%AD-%C4%8D%C3%ADseln%C3%BDch-%C5%99ad-pro-p%C5%99%C3%ADjmov%C3%A9-a-v%C3%BDdajov%C3%A9-doklady)).
+On the Numbering tab, you can set the number series for payment documents. . This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see [Cash Desk Localization for Czech](https://docs.microsoft.com/cs-cz/dynamics365/business-central/localfunctionality/czech/ui-extensions-cash-desk-localization-cz#nastaven%C3%AD-%C4%8D%C3%ADseln%C3%BDch-%C5%99ad-pro-p%C5%99%C3%ADjmov%C3%A9-a-v%C3%BDdajov%C3%A9-doklady)).
 
-## Přiřazení způsobů plateb k uživatelům
+## Assigning payment methods to users
 
-Z důvodů lepší kontroly nakládání s hotovostí či ceninami je obvykle požadována samostatná evidence pro každého uživatele. Aby se omezila chybovost, je možné každému uživateli přiřadit jeho vlastní Kód platebního místa.
+In order to better control the handling of cash or valuables, separate records are usually required for each user. To reduce error rate, each user can be assigned his own Payment Place Code.
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **User Setup** and then choose the related link.
-2. Na stránce Nastavení uživatelů vyberte ve sloupci Kód platebního místa požadovanou hodnotu.
+2. On the User Settings page, select the desired value in the Payment Point Code column.
 
 
 ## See also
 
-[Více úhad](ac-multiple-payment-methods.md)  
+[Multiple payment methods](ac-multiple-payment-methods.md)  
 [Financial Pack](ac-finance-pack.md)

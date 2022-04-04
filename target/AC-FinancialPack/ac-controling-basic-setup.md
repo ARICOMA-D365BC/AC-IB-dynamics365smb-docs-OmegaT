@@ -41,7 +41,7 @@ Manuální aktualizaci provedete pomocí funkce Aktualizace stavu CreditCheck ta
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Aktualizace stavu CreditCheck** a poté vyberte související odkaz.
 2. Službu spustíte pomocí tlačítka Ok.
 
-### Nastavení uživatelů
+### User setup
 
 V nastavení uživatelů na záložce Obecné je nový boolean „**Povolit změnu stavu CreditCheck**“, který po-kud jej má uživatel zaškrtnut, pak mu umožní zrušit naimportovaný stav.
 
