@@ -830,6 +830,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Způsoby plateb&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082115Z" creationid="kunes" creationdate="20220404T082115Z">
+        <seg>&lt;x1/&gt;Payment Methods&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AC - Slovak Legistive Pack</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135031Z" creationid="Janousek" creationdate="20210625T135031Z">
@@ -974,6 +982,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je třeba definovat &lt;g1&gt;Typ pokladní operace&lt;/g1&gt; pro další kontrolní mechanismy funkcionality.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082014Z" creationid="kunes" creationdate="20220404T082014Z">
+        <seg>In addition, the  &lt;g1&gt;Cash Desk Operation Type&lt;/g1&gt; needs to be defined for other control mechanisms of the functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112444Z" creationid="Janousek" creationdate="20210603T112444Z">
@@ -1042,6 +1058,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122643Z" creationid="kunes" creationdate="20220401T122619Z">
         <seg>Records of payment – simplified mode with substitution of payment method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Existuje-li ve firmě více přepážek či poboček, je obvyklé evidovat operace na těchto místech odděleně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081855Z" creationid="kunes" creationdate="20220404T081855Z">
+        <seg>If there are several counters or branches in the company, it is customary to record operations in these places separately.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1502,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Protiúčtem může být finanční účet či bankovní účet, nicméně nejčastěji se používá karta pokladny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081936Z" creationid="kunes" creationdate="20220404T081936Z">
+        <seg>The counter-account can be a financial account or a bank account, but the cash register card is most often used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Provoz informačního systému je možný v cloudu nebo ve vlastním prostředí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111615Z" creationid="Janousek" creationdate="20210603T111457Z">
@@ -1498,6 +1530,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
         <seg>Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při ručním vytváření řádků Rozpisu platby je Kód způsobu platby filtrován dle Kódu platebního místa přiřazeného uživateli (viz dále).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082105Z" creationid="kunes" creationdate="20220404T082105Z">
+        <seg>When manually creating Payment Schedule rows, the Payment Method Code is filtered by the Payment Location Code assigned to the user (see below).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1766,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V takovém případě je třeba vydefinovat pro každý způsob úhrady i příslušný počet protiúčtů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081925Z" creationid="kunes" creationdate="20220404T081925Z">
+        <seg>In this case, it is necessary to define the appropriate number of counter-accounts for each method of payment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Velkoobchod a maloobchod, distribuce</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
@@ -1826,6 +1874,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
         <seg>Výkaz Intrastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vždy musí existovat řádek s typem „Hotovost“, který systém použije při zadání přijaté částky v hotovosti pro vytvoření řádku rozpisu plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082041Z" creationid="kunes" creationdate="20220404T082041Z">
+        <seg>There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.</seg>
       </tuv>
     </tu>
     <tu>
