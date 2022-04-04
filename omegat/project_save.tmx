@@ -318,16 +318,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola způsobu platby na nák.dokl.&lt;/g1&gt; – dtto, ale pro nákupní doklady.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T083016Z" creationid="kunes" creationdate="20220404T083016Z">
-        <seg>&lt;g1&gt;Check Payment Method On Purchase Documents &lt;/g1&gt; dtto, but for purchase documents.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083413Z" creationid="kunes" creationdate="20220404T083016Z">
+        <seg>&lt;g1&gt;Check Payment Method On Purchase Documents&lt;/g1&gt; dtto, but for purchase documents.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola způsobu platby na prod.dokl.&lt;/g1&gt; – tímto lze nastavit, aby systém při akci Vydání na prodejním dokladu kontroloval, je-li použit odpovídající Způsob platby (tedy s přiřazeným Platebním místem stejným jako má nastaven uživatel, který akci Vydání spustil).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T082849Z" creationid="kunes" creationdate="20220404T082849Z">
-        <seg>&lt;g1&gt;•	Check Payment Method On Sales Documents &lt;/g1&gt; – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083406Z" creationid="kunes" creationdate="20220404T082849Z">
+        <seg>&lt;g1&gt;Check Payment Method On Sales Documents&lt;/g1&gt; – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action).</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,16 +664,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povolit registraci EET&lt;/g1&gt; – zapíná kontrolu, že v řádcích Rozpisu platby lze použít pouze takové, které mají nastaven sloupec Kód platebního zařízení EET.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T083042Z" creationid="kunes" creationdate="20220404T083042Z">
-        <seg>&lt;g1&gt;Allow EET Register &lt;/g1&gt; – enables checking that only rows in the Payment Schedule can be used that have the EET Cash Register Code column set.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083419Z" creationid="kunes" creationdate="20220404T083042Z">
+        <seg>&lt;g1&gt;Allow EET Register&lt;/g1&gt; – enables checking that only rows in the Payment Schedule can be used that have the EET Cash Register Code column set.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povolit více typů hotovosti&lt;/g1&gt; – dovolí definovat více způsobů plateb se stejným typem pokladní operace a pro stejné platební místo.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T082806Z" creationid="kunes" creationdate="20220404T082806Z">
-        <seg>&lt;g1&gt;•	Enable Multiple Cash Operation Types&lt;/g1&gt; – allows you to define multiple payment methods with the same cash transaction type and for the same payment location. </seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083354Z" creationid="kunes" creationdate="20220404T082806Z">
+        <seg>&lt;g1&gt;Enable Multiple Cash Operation Types&lt;/g1&gt; – allows you to define multiple payment methods with the same cash transaction type and for the same payment location. </seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +814,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Více úhad&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083623Z" creationid="kunes" creationdate="20220404T083623Z">
+        <seg>&lt;g1&gt;Multiple payment methods&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Více úhrad&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140650Z" creationid="Janousek" creationdate="20210625T140650Z">
@@ -914,6 +924,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115433Z" creationid="Janousek" creationdate="20210603T111833Z">
         <seg>AUTOCONT EXTENSION MODULES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aby se omezila chybovost, je možné každému uživateli přiřadit jeho vlastní Kód platebního místa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083547Z" creationid="kunes" creationdate="20220404T083547Z">
+        <seg>To reduce error rate, each user can be assigned his own Payment Place Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1352,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení uživatelů vyberte ve sloupci Kód platebního místa požadovanou hodnotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083608Z" creationid="kunes" creationdate="20220404T083608Z">
+        <seg>On the User Settings page, select the desired value in the Payment Point Code column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte akci Vydat a poté spusťte funkci Rozpis platby.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124636Z" creationid="kunes" creationdate="20220401T124636Z">
@@ -1646,6 +1672,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Přiřazení způsobů plateb k uživatelům</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083447Z" creationid="kunes" creationdate="20220404T083345Z">
+        <seg>Assigning payment methods to users</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Přiřazením Kódu platebního místa na způsobu platby docílíte větší kontroly uživatelů, aby nebylo možné omylem provést úhradu vůči protiúčtu, který není uživateli přiřazen.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082507Z" creationid="kunes" creationdate="20220404T082507Z">
@@ -1776,8 +1810,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>Tato se použije pouze v případě, že použijete způsob platby s jiným protiúčtem než Pokladna (pokladny mají vlastní číselné řady viz &lt;g1&gt;Nastavení číselných řad pro příjmové a výdajové doklady&lt;/g1&gt;).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T083343Z" creationid="kunes" creationdate="20220404T083343Z">
-        <seg>. This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see&lt;g1&gt;Cash Desk Localization for Czech&lt;/g1&gt;).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083427Z" creationid="kunes" creationdate="20220404T083343Z">
+        <seg>. This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see &lt;g1&gt;Cash Desk Localization for Czech&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,6 +2076,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142601Z" creationid="Janousek" creationdate="20210625T142601Z">
         <seg>You can change how certain UI elements are displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Z důvodů lepší kontroly nakládání s hotovostí či ceninami je obvykle požadována samostatná evidence pro každého uživatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083523Z" creationid="kunes" creationdate="20220404T083523Z">
+        <seg>In order to better control the handling of cash or valuables, separate records are usually required for each user.</seg>
       </tuv>
     </tu>
     <tu>
