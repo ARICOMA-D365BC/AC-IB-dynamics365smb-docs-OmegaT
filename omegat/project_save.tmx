@@ -1350,6 +1350,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Způsobů platby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081751Z" creationid="kunes" creationdate="20220404T081751Z">
+        <seg>Payment Methods settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení uživatelů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081744Z" creationid="kunes" creationdate="20220404T081723Z">
+        <seg>User setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nejběžnější je však &lt;g1&gt;použití Pokladny jako protiúčtu&lt;/g1&gt;, které umožňuje kombinovat použití Více způsobů plateb a Pokladních dokladů a přináší s sebou výhody v oblasti zaokrouhlování (je automaticky řešeno až na pokladním dokladu).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
@@ -1418,6 +1434,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
         <seg>Then it is also possible to use the functionality of the module and define the combination of payment on the posted invoice (credit memo) or on the issued advance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Platební místa</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081727Z" creationid="kunes" creationdate="20220404T081604Z">
+        <seg>Payment places</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1718,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V seznamu Způsoby plateb vytvořte kódy reprezentující používané způsoby plateb (např. hotovost, karta, stravenky,… dle platné legislativy a dle očekávaného rozsahu použití ve firmě) tak, aby bylo možné následně definovat úhradu zákazníkem v požadované struktuře.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081823Z" creationid="kunes" creationdate="20220404T081823Z">
+        <seg>In the Payment methods list, create codes that represent the payment methods you use (e.g., cash, card, meal vouchers,... according to valid legislation and according to the expected scope of use in the company) so that it is possible to subsequently define the payment by the customer in the required structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Velkoobchod a maloobchod, distribuce</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
@@ -1826,6 +1858,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121728Z" creationid="kunes" creationdate="20220401T121728Z">
         <seg>Enter the amount of cash you received from the customer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Způsoby platby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T081550Z" creationid="kunes" creationdate="20220404T081550Z">
+        <seg>Payment Methods</seg>
       </tuv>
     </tu>
     <tu>
