@@ -1382,6 +1382,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení platebních míst</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082214Z" creationid="kunes" creationdate="20220404T082152Z">
+        <seg>Settings up Payment Places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení uživatelů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081744Z" creationid="kunes" creationdate="20220404T081723Z">
@@ -1466,6 +1474,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081727Z" creationid="kunes" creationdate="20220404T081604Z">
         <seg>Payment places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud si firma vydefinuje způsoby plateb s více pokladnami, může být pro ni výhodné pojmenovat si jednotlivá fyzická pokladní místa a definovat uživatele, které na nich pracují.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082223Z" creationid="kunes" creationdate="20220404T082205Z">
+        <seg>If a company defines payment methods with multiple cash registers, it can be advantageous for the company to name the individual physical cash points and define the users that work on them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1694,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tímto přiřazením docílíte usměrňování chování uživatelů s cílem zamezit chybám z nepozornosti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082436Z" creationid="kunes" creationdate="20220404T082436Z">
+        <seg>By assigning a Payment Place Code to a payment method, you achieve greater control over users so that payment cannot be made by mistake against a balance account that is not assigned to the user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
@@ -1754,6 +1778,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122536Z" creationid="kunes" creationdate="20220401T122536Z">
         <seg>In case the customer wants to settle the document when charging by one method only, e.g. by bank card, the simplified mode can be used by entering the selected Payment Method Code directly in the document header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V seznamu Nastavení uživatelů přiřaďte vybraným uživatelům obsluhujícím zákazníky příslušný kód platebního místa.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082405Z" creationid="kunes" creationdate="20220404T082405Z">
+        <seg>In the User Settings list, assign the appropriate payment places code to the selected users serving customers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V seznamu Platební místa si vydefinujte všechna místa, kde mohou zákazníci hradit své závazky vůči vaší firmě.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T082232Z" creationid="kunes" creationdate="20220404T082232Z">
+        <seg>In the Payment places list, define all the locations where customers can pay their obligations to your business. </seg>
       </tuv>
     </tu>
     <tu>
