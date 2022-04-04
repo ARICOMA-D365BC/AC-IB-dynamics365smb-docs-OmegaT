@@ -348,6 +348,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrolovat fiskální tiskárnu&lt;/g1&gt; – tímto nastavením se zapíná vynucení použití funkcionality integrace s tzv. Fiskálními tiskárnami, jejich použití je povinné v legislativním prostředí Slovenské republiky (viz &lt;g2&gt;Fiskální tiskárny&lt;/g2&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083135Z" creationid="kunes" creationdate="20220404T083135Z">
+        <seg>&lt;g1&gt;Check Fiscal Printer&lt;/g1&gt; – this setting enables the enforcement of the use of the integration functionality with the so-called Fiscal Printers, their use is mandatory in the legislative environment of the Slovak Republic (see &lt;g2&gt;Fiscal Printers&lt;/g2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nasazení Microsoft Dynamics 365 Business Central od společnosti AUTOCONT je jednoduché a rychlé díky široké škále rozšiřujících modulů a oborových řešení.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T113603Z" creationid="Janousek" creationdate="20210603T111804Z">
@@ -1382,6 +1390,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na záložce Číslování lze nastavit číselnou řadu pro doklady platby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083146Z" creationid="kunes" creationdate="20220404T083146Z">
+        <seg>On the Numbering tab, you can set the number series for payment documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -1754,6 +1770,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160703Z" creationid="Janousek" creationdate="20220331T160703Z">
         <seg>This help will help you set up Business Central in the Slovak language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato se použije pouze v případě, že použijete způsob platby s jiným protiúčtem než Pokladna (pokladny mají vlastní číselné řady viz &lt;g1&gt;Nastavení číselných řad pro příjmové a výdajové doklady&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220404T083343Z" creationid="kunes" creationdate="20220404T083343Z">
+        <seg>. This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see&lt;g1&gt;Cash Desk Localization for Czech&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
