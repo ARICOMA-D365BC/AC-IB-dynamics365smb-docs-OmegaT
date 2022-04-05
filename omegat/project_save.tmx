@@ -936,6 +936,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Obecné parametry&lt;/g1&gt; umožňuje přidat ke kartám &lt;g2&gt;zboží&lt;/g2&gt; nebo &lt;g3&gt;dlouhodobého majetku&lt;/g3&gt; v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121044Z" creationid="kunes" creationdate="20220405T121044Z">
+        <seg>The &lt;g1&gt;General Parameters&lt;/g1&gt; add-on module allows you to add an unlimited number of new parameters to &lt;g2&gt;Item&lt;/g2&gt; and &lt;g3&gt;Fixed Assest&lt;/g3&gt; in Dynamics 365 Business Central for detailed sorting and filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
@@ -964,6 +972,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
         <seg>Update 01.04.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktualizace 17.03.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T120945Z" creationid="kunes" creationdate="20220405T120945Z">
+        <seg>Update 17.03.2022</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,6 +1336,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul obsahuje průvodce pro snadné zadávání hodnot parametrů ručním zadáním nebo výběrem z připravených číselníků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121106Z" creationid="kunes" creationdate="20220405T121106Z">
+        <seg>The module contains a wizard for easy entry of parameter values by manually entering or selecting from the prepared lists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Montážní výroba</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112910Z" creationid="Janousek" creationdate="20210603T112910Z">
@@ -1340,6 +1364,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
         <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu vyberte určitý dlouhodobý majetek, u kterého chcete zobrazit parametry.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121226Z" creationid="kunes" creationdate="20220405T121226Z">
+        <seg>In the overview, select the specific fixed asset for which you want to view parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,6 +1544,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Náhled obecných parametrů záznamu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121119Z" creationid="kunes" creationdate="20220405T121119Z">
+        <seg>Preview of general record parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Obecné parametry</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112520Z" creationid="Janousek" creationdate="20210603T112520Z">
@@ -1564,6 +1604,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
         <seg>Then it is also possible to use the functionality of the module and define the combination of payment on the posted invoice (credit memo) or on the issued advance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Parametry lze dle účelu seskupovat do šablon.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121053Z" creationid="kunes" creationdate="20220405T121053Z">
+        <seg>Parameters can be grouped into templates according to the purpose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1676,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160747Z" creationid="Janousek" creationdate="20220331T160747Z">
         <seg>To change the language, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zobrazení seznamu uložených obecných parametrů k danému záznamu (v tomto případě k dlouhodobému majetku) s filtrem na danou entitu postupujte tímto způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121201Z" creationid="kunes" creationdate="20220405T121201Z">
+        <seg>To view a list of saved general parameters for a given record (in this case, fixed assets) with a filter on a given entity, do the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1964,6 +2020,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115740Z" creationid="Janousek" creationdate="20210603T112935Z">
         <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Dlouhodobý majetek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121217Z" creationid="kunes" creationdate="20220405T121217Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Fixed Asset&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
