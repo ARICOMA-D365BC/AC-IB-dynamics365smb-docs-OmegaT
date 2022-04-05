@@ -7,6 +7,16 @@
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Funkcionalita nabízí více možností, ale pro obecné parametry jsou vhodné následující datové typy &lt;g2&gt;Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130019Z" creationid="kunes" creationdate="20220405T130019Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The functionality offers more options, but the following data types &lt;g2&gt;Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID&lt;/g2&gt;are suitable for general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Obdobný postup lze použít na stránce Účtovaný prodejní dobropis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122423Z" creationid="kunes" creationdate="20220401T122423Z">
@@ -1076,6 +1086,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Defince hodnot parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130031Z" creationid="kunes" creationdate="20220405T130031Z">
+        <seg>Define parameter values</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dodatečná úhrada zaúčtované prodejní faktury</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122235Z" creationid="kunes" creationdate="20220401T122235Z">
@@ -1476,6 +1494,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na přehledu vyberte parametr, kterému chcete nastavit hodnoty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130159Z" creationid="kunes" creationdate="20220405T130159Z">
+        <seg>In the overview, select the parameter for which you want to set values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu vyberte určitý dlouhodobý majetek, u kterého chcete zobrazit parametry.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121226Z" creationid="kunes" creationdate="20220405T121226Z">
@@ -1852,6 +1878,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro definici hodnot parametrů postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130034Z" creationid="kunes" creationdate="20220405T130034Z">
+        <seg>To define parameter values, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro evidenci protiúčtu vyrovnání je možné používat všechny tři možnosti protiúčtů, které obsahuje lokalizace (Finanční účet, Bankovní účet, Pokladna).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
@@ -1992,6 +2026,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112558Z" creationid="Janousek" creationdate="20210603T112558Z">
         <seg>Job Queue extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>S použitím metody zadávání Tabulka souvisí naplnění polí ID tabulky a ID pole a s použitím metody zadávání Funkce souvisí naplnění ID funkce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130026Z" creationid="kunes" creationdate="20220405T130026Z">
+        <seg>Using the Table input method is related to populating the Table ID and Field ID fields, and using the Function input method is related to populating the Function ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,6 +2410,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122121Z" creationid="kunes" creationdate="20220405T121631Z">
         <seg>In the Related section, in the &lt;g1&gt;Fixed assets&lt;/g1&gt; group, select &lt;g2&gt;General Parameters&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Parametr&lt;/g1&gt; funkci &lt;g2&gt;Hodnoty&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130803Z" creationid="kunes" creationdate="20220405T130803Z">
+        <seg>In the Related section, select the &lt;g2&gt;Values ​​&lt;/g2&gt;function in the &lt;g1&gt;Parameter&lt;/g1&gt; group.</seg>
       </tuv>
     </tu>
     <tu>
