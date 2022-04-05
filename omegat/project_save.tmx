@@ -656,6 +656,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Obecné parametry - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125700Z" creationid="kunes" creationdate="20220405T125700Z">
+        <seg>&lt;g1&gt;General Parameters - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141536Z" creationid="Janousek" creationdate="20210625T141536Z">
@@ -894,6 +904,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
         <seg>&lt;x1/&gt;General parameters of the card&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Přehled obecných parametrů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130008Z" creationid="kunes" creationdate="20220405T130008Z">
+        <seg>&lt;x1/&gt;Overview of general parameters&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1276,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>HelpDesk - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125702Z" creationid="kunes" creationdate="20220405T125702Z">
+        <seg>HelpDesk - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hodnoty vyplníte do polí řádku průvodce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123141Z" creationid="kunes" creationdate="20220405T123141Z">
@@ -1438,6 +1464,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123055Z" creationid="kunes" creationdate="20220405T122642Z">
         <seg>On the list in the Actions section, use the &lt;g1&gt;Insert General Parameters&lt;/g1&gt;function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu vyberte funkci &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125922Z" creationid="kunes" creationdate="20220405T125922Z">
+        <seg>In the overview, select &lt;g1&gt;New&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1650,6 +1684,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Obecné parametry - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125841Z" creationid="kunes" creationdate="20220405T125841Z">
+        <seg>General Parameters - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Objeví se &lt;g2&gt;průvodce&lt;/g2&gt;, pomocí kterého se ke konkrétní kartě vybere šablona (pokud jich je pro danou entitu definováno více než jedna), povinné a nepovinné parametry a nastaví se hodnoty těchto parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
@@ -1838,6 +1880,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123315Z" creationid="kunes" creationdate="20220405T123315Z">
         <seg>To search by parameters for fixed assets, continue as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro založení číselníku obecných parametrů pokračujte tímto způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
+        <seg>To create a code list of general parameters, proceed as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2332,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Obecné parametry&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125914Z" creationid="kunes" creationdate="20220405T125914Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Parameters&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktury&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
@@ -2402,6 +2460,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte &lt;g1&gt;Kód&lt;/g1&gt; pro parametr, &lt;g2&gt;Popis&lt;/g2&gt;, &lt;g3&gt;Datový typ&lt;/g3&gt; a &lt;g4&gt;Metodu zadávání&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130003Z" creationid="kunes" creationdate="20220405T130003Z">
+        <seg>Enter the &lt;g1&gt;Code&lt;/g1&gt; for the parameter, &lt;g2&gt;Description&lt;/g2&gt;, &lt;g3&gt;Data Type&lt;/g3&gt; and &lt;g4&gt;Input Method&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte alespoň jeden řádek faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124442Z" creationid="kunes" creationdate="20220401T124442Z">
@@ -2414,6 +2480,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121728Z" creationid="kunes" creationdate="20220401T121728Z">
         <seg>Enter the amount of cash you received from the customer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Založení a nastavení obecných parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
+        <seg>Creating and setting up general parameters</seg>
       </tuv>
     </tu>
     <tu>
