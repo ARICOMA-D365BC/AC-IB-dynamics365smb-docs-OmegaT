@@ -880,6 +880,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Obecné parametry karty&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
+        <seg>&lt;x1/&gt;General parameters of the card&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Rozpis platby&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122227Z" creationid="kunes" creationdate="20220401T122227Z">
@@ -1640,6 +1648,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud má karta nastaveno více šablony parametrů, můžete mezi nimi přepínat, nebo zobrazit všechny hodnoty pomocí smazání filtru na přehledu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122233Z" creationid="kunes" creationdate="20220405T122233Z">
+        <seg>If a card has multiple parameter templates set up, you can switch between them, or view all values by deleting the filter on the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud si firma vydefinuje způsoby plateb s více pokladnami, může být pro ni výhodné pojmenovat si jednotlivá fyzická pokladní místa a definovat uživatele, které na nich pracují.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082223Z" creationid="kunes" creationdate="20220404T082205Z">
@@ -1676,6 +1692,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
         <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vložení obecných parametrů ke zboží nebo dlouhodobého majetku se používá akce &lt;g1&gt;Vložení obecných parametrů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122602Z" creationid="kunes" creationdate="20220405T122602Z">
+        <seg>To insert general parameters to an item or fixed asset, the &lt;g1&gt;Insert General Parameters&lt;/g1&gt; action is used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,6 +2040,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ve spodní části uvidíte seznam paramtrů a jejich hodnoty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122144Z" creationid="kunes" creationdate="20220405T122144Z">
+        <seg>At the bottom you will see a list of parameters and their values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Velkoobchod a maloobchod, distribuce</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
@@ -2028,6 +2060,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115740Z" creationid="Janousek" creationdate="20210603T112935Z">
         <seg>See also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vložení a změna obecných parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122247Z" creationid="kunes" creationdate="20220405T122247Z">
+        <seg>Insert and change General Parameters</seg>
       </tuv>
     </tu>
     <tu>
