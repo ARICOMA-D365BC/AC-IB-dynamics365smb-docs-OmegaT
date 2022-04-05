@@ -26,6 +26,16 @@ Ff you do not enter a cash amount, you must enter amounts in the rows exactly up
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Stejný postup je použit jak pro vložení, tak i pro změnu parametrů nebo hodnot obecných parametrů daného záznamu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123234Z" creationid="kunes" creationdate="20220405T123224Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The same procedure is used both for inserting and for changing parameters or values ​​of general parameters of a given record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
 Modul tvoří základ pro podporu maloobchodního prodeje formou Cash&amp;Carry.</seg>
       </tuv>
@@ -1224,10 +1234,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalitu obecných parametrů lze využít k vyhledání „podobných“ záznamů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123301Z" creationid="kunes" creationdate="20220405T123301Z">
+        <seg>The functionality of general parameters can be used to search for "similar" records.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>HelpDesk</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112720Z" creationid="Janousek" creationdate="20210603T112720Z">
         <seg>HelpDesk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Hodnoty vyplníte do polí řádku průvodce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123141Z" creationid="kunes" creationdate="20220405T123141Z">
+        <seg>You fill in the values in the fields of the wizard line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,6 +1290,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jako první vyplníte &lt;g1&gt;Šablonu obecných parametrů&lt;/g1&gt;, poté &lt;g2&gt;Hodnotu&lt;/g2&gt; a nakonec &lt;g3&gt;Popis&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123153Z" creationid="kunes" creationdate="20220405T123153Z">
+        <seg>Fill in the &lt;g1&gt;General Parameters Template&lt;/g1&gt;first, then the &lt;g2&gt;Value&lt;/g2&gt;, and finally the &lt;g3&gt;Description&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je nutné, pokud chcete např. umožnit přijímat i cizí měnu na pokladních místech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082822Z" creationid="kunes" creationdate="20220404T082822Z">
@@ -1292,6 +1326,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081541Z" creationid="kunes" creationdate="20220404T081541Z">
         <seg>These are code lists:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jinými slovy vyhledání těch záznamů dané entity, které mají například přiřazeny stejné parametry nebo mají stejné hodnoty některých parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123310Z" creationid="kunes" creationdate="20220405T123310Z">
+        <seg>In other words, finding those records of a given entity that have, for example, the same parameters assigned to them or have the same values ​​of some parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,6 +1414,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
         <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu v sekci Akce vyberte funkci &lt;g1&gt;Filtrovat dle Obecných parametrů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125529Z" creationid="kunes" creationdate="20220405T125529Z">
+        <seg>In the overview, in the Actions section, select &lt;g1&gt;Filter by General Parameters&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,10 +1610,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nyní v dalším okně můžete vyplnit &lt;g1&gt;Nepovinné obecné parametry&lt;/g1&gt; obdobným způsobem jako u povinných.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123216Z" creationid="kunes" creationdate="20220405T123216Z">
+        <seg>Now in the next window you can fill in the &lt;g1&gt;Optional general parameters&lt;/g1&gt; in a similar way as for the mandatory ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Náhled obecných parametrů záznamu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121119Z" creationid="kunes" creationdate="20220405T121119Z">
         <seg>Preview of general record parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Následně k vyplnění řádků, tedy k zadání &lt;g2&gt;Povinných obecných parametrů&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123135Z" creationid="kunes" creationdate="20220405T123135Z">
+        <seg>Subsequently, to fill in the lines, i.e. to enter &lt;g2&gt;Mandatory General Parameters&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,6 +1722,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po zadání parametrů klikněte na tlačítko &lt;g1&gt;Dokončit&lt;/g1&gt;, tím se nastavování uloží.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123223Z" creationid="kunes" creationdate="20220405T123223Z">
+        <seg>After entering the parameters, click on the &lt;g1&gt;Finish&lt;/g1&gt;button to save the settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082900Z" creationid="kunes" creationdate="20220404T082900Z">
@@ -1728,6 +1802,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vyhledání dle parametrů u dlouhodobého majetku pokračujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123315Z" creationid="kunes" creationdate="20220405T123315Z">
+        <seg>To search by parameters for fixed assets, continue as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro změnu jazyka postupujte tímto způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160747Z" creationid="Janousek" creationdate="20220331T160747Z">
@@ -1756,6 +1838,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111615Z" creationid="Janousek" creationdate="20210603T111457Z">
         <seg>Operation of the information system is possible in the cloud or in your own environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Průvodce vložení obecných parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123109Z" creationid="kunes" creationdate="20220405T123109Z">
+        <seg>General Parameters Insertion Wizard</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,6 +1970,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spustí se průvodce pro vkládání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123059Z" creationid="kunes" creationdate="20220405T123059Z">
+        <seg>The Insertion Wizard starts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spusťte a přihlašte se do Business Central.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160843Z" creationid="Janousek" creationdate="20220331T160843Z">
@@ -1968,6 +2066,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V dalším kroku klikněte na &lt;g1&gt;Další&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123200Z" creationid="kunes" creationdate="20220405T123200Z">
+        <seg>Click &lt;g1&gt;Next&lt;/g1&gt;in the next step.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V dalším kroku zadejte do řádků další způsoby úhrady a částku hrazenou daným způsobem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121806Z" creationid="kunes" creationdate="20220401T121806Z">
@@ -2004,6 +2110,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115215Z" creationid="kunes" creationdate="20220401T115215Z">
         <seg>In practice, however, it happens that a customer wants to pay on the spot in cash a receipt that should have been paid by bank transfer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V prvním kroku průvodce budete vyzvání k vybrání &lt;g1&gt;Šablony&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123120Z" creationid="kunes" creationdate="20220405T123120Z">
+        <seg>n the first step of the wizard, you will be prompted to select &lt;g1&gt;Template&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,6 +2270,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112920Z" creationid="Janousek" creationdate="20210603T112920Z">
         <seg>Publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyhledávání záznamů dle obecných parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123252Z" creationid="kunes" creationdate="20220405T123252Z">
+        <seg>Searching records by General Parameters</seg>
       </tuv>
     </tu>
     <tu>
