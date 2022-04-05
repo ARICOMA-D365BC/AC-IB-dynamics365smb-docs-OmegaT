@@ -1034,6 +1034,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dalším krokem je vybrání podle kterých parametrů bude systém filtrovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125546Z" creationid="kunes" creationdate="20220405T125546Z">
+        <seg>The next step is to select by which parameters the system will filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Data jsou dostupná kdykoliv a odkudkoliv.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111132Z" creationid="Janousek" creationdate="20210603T111132Z">
@@ -1658,6 +1666,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se Vám okno kde v prvním kroku vybere &lt;g1&gt;Šablonu parametrů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125538Z" creationid="kunes" creationdate="20220405T125538Z">
+        <seg>A window will open where in the first step you will select &lt;g1&gt;Parameter Template&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se Vám okno, kde v horní části můžete vidět název šablony.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122133Z" creationid="kunes" creationdate="20220405T122133Z">
@@ -1762,6 +1778,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí &lt;g1&gt;OK&lt;/g1&gt; spustíte filtrování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
+        <seg>Use &lt;g1&gt;OK&lt;/g1&gt; to start filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poměrně běžnou praxí je, že na kartách zákazníků je definován preferovaný či povolený způsob platby (typicky úhrada v hotovosti).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122702Z" creationid="kunes" creationdate="20220401T122702Z">
@@ -1774,6 +1798,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro &lt;g1&gt;zrušení filtru&lt;/g1&gt; vyhledávání klikněte v přehledu v sekci Akce na funkci &lt;g2&gt;Vymazat filtry Obecných parametrů&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125644Z" creationid="kunes" creationdate="20220405T125644Z">
+        <seg>To &lt;g1&gt;clear the search filter&lt;/g1&gt;, click &lt;g2&gt;Clear General Parameters Filters&lt;/g2&gt;in the Actions section of the report.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1862,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081936Z" creationid="kunes" creationdate="20220404T081936Z">
         <seg>The counter-account can be a financial account or a bank account, but the cash register card is most often used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Provedete to tak, že kliknete na &lt;g1&gt;tři tečky&lt;/g1&gt; v řádku u Filtru obecných parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125611Z" creationid="kunes" creationdate="20220405T125611Z">
+        <seg>To do this, click on the &lt;g1&gt;three dots&lt;/g1&gt; in the line next to the General Parameters Filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2102,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111724Z" creationid="Janousek" creationdate="20210603T111724Z">
         <seg>Users can connect from a computer, smartphone or tablet with Google Android or Apple iOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V dalším dialogovém okně vyberete parametry, podle kterých chcete filtrovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T125617Z" creationid="kunes" creationdate="20220405T125617Z">
+        <seg>In the next dialog box, select the parameters you want to filter by.</seg>
       </tuv>
     </tu>
     <tu>
