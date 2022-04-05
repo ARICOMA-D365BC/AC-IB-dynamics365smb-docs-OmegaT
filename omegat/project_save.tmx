@@ -1568,6 +1568,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se Vám okno, kde v horní části můžete vidět název šablony.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122133Z" creationid="kunes" creationdate="20220405T122133Z">
+        <seg>A window will open where you can see the name of the template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevřete stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt; a aktivujte &lt;g2&gt;AC SK Language&lt;/g2&gt; (povinné pro příští aktualizaci).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160920Z" creationid="Janousek" creationdate="20220331T160920Z">
