@@ -902,6 +902,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Hodnoty obecných parametrů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130809Z" creationid="kunes" creationdate="20220405T130809Z">
+        <seg>&lt;x1/&gt;Hodnoty obecných parametrů&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110947Z" creationid="Janousek" creationdate="20210603T110947Z">
@@ -1746,6 +1754,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122133Z" creationid="kunes" creationdate="20220405T122133Z">
         <seg>A window will open where you can see the name of the template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se okno pro zadání hodnot vybraného parametru, kde vyplníte řádky dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T130808Z" creationid="kunes" creationdate="20220405T130808Z">
+        <seg>A window for entering the values of the selected parameter will open, where you will fill in the rows as needed.</seg>
       </tuv>
     </tu>
     <tu>
