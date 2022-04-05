@@ -1376,6 +1376,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na přehledu v sekci Akce, použijte funkci &lt;g1&gt;Vložení obecných parametrů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T123055Z" creationid="kunes" creationdate="20220405T122642Z">
+        <seg>On the list in the Actions section, use the &lt;g1&gt;Insert General Parameters&lt;/g1&gt;function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu vyberte určitý dlouhodobý majetek, u kterého chcete zobrazit parametry.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121226Z" creationid="kunes" creationdate="20220405T121226Z">
@@ -1568,6 +1576,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Objeví se &lt;g2&gt;průvodce&lt;/g2&gt;, pomocí kterého se ke konkrétní kartě vybere šablona (pokud jich je pro danou entitu definováno více než jedna), povinné a nepovinné parametry a nastaví se hodnoty těchto parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
+        <seg>A &lt;g2&gt;wizard&lt;/g2&gt;will appear, which will select a template (if more than one is defined for a given entity), mandatory and optional parameters for a particular tab, and set the values ​​of these parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>On-line provoz systému v cloudu má zásadní výhodu v nižších počátečních nákladech na implementaci, zajištěné bezpečnosti a snazších aktualizacích systému.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
@@ -1692,6 +1708,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
         <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vložení nebo úpravu obecných parametrů postupjte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T122637Z" creationid="kunes" creationdate="20220405T122637Z">
+        <seg>To insert or edit general parameters, do the following:</seg>
       </tuv>
     </tu>
     <tu>
