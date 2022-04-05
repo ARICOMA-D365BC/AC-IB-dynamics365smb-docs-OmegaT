@@ -2072,6 +2072,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Dlouhodobý majetek&lt;/g1&gt; funkci &lt;g2&gt;Obecné parametry&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220405T121631Z" creationid="kunes" creationdate="20220405T121631Z">
+        <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Dlouhodobý majetek&lt;/g1&gt; funkci &lt;g2&gt;Obecné parametry&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vydavatelství</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112920Z" creationid="Janousek" creationdate="20210603T112920Z">
