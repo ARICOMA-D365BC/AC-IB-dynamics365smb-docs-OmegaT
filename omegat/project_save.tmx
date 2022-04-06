@@ -904,8 +904,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Hodnoty obecných parametrů&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220405T130809Z" creationid="kunes" creationdate="20220405T130809Z">
-        <seg>&lt;x1/&gt;Hodnoty obecných parametrů&lt;x2/&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101404Z" creationid="kunes" creationdate="20220405T130809Z">
+        <seg>&lt;x1/&gt;General Parameter Values&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1366,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je však možné hodnoty definovat i u parametrů zadávaných Ručním vstupem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101643Z" creationid="kunes" creationdate="20220406T101643Z">
+        <seg>However, it is also possible to define values for parameters entered by Manual input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je-li doklad nezaokrouhlený, zaokrouhlení částky hotovosti k vrácení probíhá až při účtování vyrovnání prostřednictvím nastaveného zaokrouhlení ve funkcionalitě Pokladní doklady.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122435Z" creationid="kunes" creationdate="20220401T122435Z">
@@ -1650,6 +1658,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081751Z" creationid="kunes" creationdate="20220404T081751Z">
         <seg>Payment Methods settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení hodnot parametru je nezbytné zejména u parametrů s &lt;g1&gt;Metodou zadávání – Výběr&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101632Z" creationid="kunes" creationdate="20220406T101545Z">
+        <seg>Setting parameter values is necessary especially for parameters with &lt;g1&gt;Input method - Selection&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2448,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Parametr&lt;/g1&gt; funkci &lt;g2&gt;Hodnoty&lt;/g2&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220405T130803Z" creationid="kunes" creationdate="20220405T130803Z">
-        <seg>In the Related section, select the &lt;g2&gt;Values ​​&lt;/g2&gt;function in the &lt;g1&gt;Parameter&lt;/g1&gt; group.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101555Z" creationid="kunes" creationdate="20220405T130803Z">
+        <seg>In the Related section, select the &lt;g2&gt;Values&lt;/g2&gt; function in the &lt;g1&gt;Parameter&lt;/g1&gt; group.</seg>
       </tuv>
     </tu>
     <tu>
