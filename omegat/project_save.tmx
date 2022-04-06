@@ -910,6 +910,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Metoda zadávání - Výběr&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101716Z" creationid="kunes" creationdate="20220406T101716Z">
+        <seg>&lt;x1/&gt;Input Method - Selection&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Microsoft Dynamics 365 Business Central&lt;x2/&gt;Microsoft Dynamics 365 Business Central&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110947Z" creationid="Janousek" creationdate="20210603T110947Z">
@@ -930,6 +938,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130008Z" creationid="kunes" creationdate="20220405T130008Z">
         <seg>&lt;x1/&gt;Overview of general parameters&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Překlady parametrů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101904Z" creationid="kunes" creationdate="20220406T101904Z">
+        <seg>&lt;x1/&gt;Parameter translations&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1114,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130031Z" creationid="kunes" creationdate="20220405T130031Z">
         <seg>Define parameter values</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definice překladů hodnot parametru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101908Z" creationid="kunes" creationdate="20220406T101908Z">
+        <seg>Define translations of parameter values</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definice překladů parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101727Z" creationid="kunes" creationdate="20220406T101727Z">
+        <seg>Definition of parameter translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1350,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hodnoty zadané v nastavení pak slouží pro zjednodušení zadávání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101705Z" creationid="kunes" creationdate="20220406T101705Z">
+        <seg>The values entered in the settings are then used to simplify input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Holdingové společnosti</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112916Z" creationid="Janousek" creationdate="20210603T112916Z">
@@ -1514,6 +1554,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130159Z" creationid="kunes" creationdate="20220405T130159Z">
         <seg>In the overview, select the parameter for which you want to set values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu vyberte parametr, kterému chcete nastavit překlady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101740Z" creationid="kunes" creationdate="20220406T101740Z">
+        <seg>In the report, select the parameter you want to set up translations for.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1830,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se okno pro zadání překladů vybraného parametru, kde vyplníte &lt;g1&gt;Kód jazyka&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt; dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101852Z" creationid="kunes" creationdate="20220406T101852Z">
+        <seg>A window will open for entering translations of the selected parameter, where you will fill in the &lt;g1&gt;Language Code&lt;/g1&gt; and &lt;g2&gt;Descriptionpis&lt;/g2&gt; as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevřete stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt; a aktivujte &lt;g2&gt;AC SK Language&lt;/g2&gt; (povinné pro příští aktualizaci).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160920Z" creationid="Janousek" creationdate="20220331T160920Z">
@@ -1914,6 +1970,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130034Z" creationid="kunes" creationdate="20220405T130034Z">
         <seg>To define parameter values, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro definici překladů hodnot parametrů postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101914Z" creationid="kunes" creationdate="20220406T101914Z">
+        <seg>To define translations of parameter values, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro definici překladů parametrů postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101733Z" creationid="kunes" creationdate="20220406T101733Z">
+        <seg>To define parameter translations, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,10 +2518,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Hodnota&lt;/g1&gt; a na přehldu hodnot funkci &lt;g2&gt;Překlady&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101955Z" creationid="kunes" creationdate="20220406T101955Z">
+        <seg>In the Related section, in the &lt;g1&gt;Value&lt;/g1&gt; group, and select &lt;g2&gt;Translations&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Parametr&lt;/g1&gt; funkci &lt;g2&gt;Hodnoty&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101555Z" creationid="kunes" creationdate="20220405T130803Z">
         <seg>In the Related section, select the &lt;g2&gt;Values&lt;/g2&gt; function in the &lt;g1&gt;Parameter&lt;/g1&gt; group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Parametr&lt;/g1&gt; funkci &lt;g2&gt;Překlady&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101816Z" creationid="kunes" creationdate="20220406T101816Z">
+        <seg>In the Related section, in the &lt;g1&gt;Parameter&lt;/g1&gt; group select &lt;g2&gt;Translations&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2658,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
         <seg>Creating and setting up general parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zde je kromě takto zadaných hodnot možné při vložení obecných parametrů zadat i libovolné jiné hodnoty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
+        <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
       </tuv>
     </tu>
     <tu>
