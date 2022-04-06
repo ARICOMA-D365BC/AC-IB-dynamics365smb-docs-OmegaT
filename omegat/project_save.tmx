@@ -942,6 +942,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Překlady hodnot parametru&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102040Z" creationid="kunes" creationdate="20220406T102040Z">
+        <seg>&lt;x1/&gt;Parameter value translations&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Překlady parametrů&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101904Z" creationid="kunes" creationdate="20220406T101904Z">
@@ -962,6 +970,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082115Z" creationid="kunes" creationdate="20220404T082115Z">
         <seg>&lt;x1/&gt;Payment Methods&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablony obecných parametrů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102232Z" creationid="kunes" creationdate="20220406T102232Z">
+        <seg>&lt;x1/&gt;General parameter template&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1750,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení šablon obecných parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
+        <seg>Set up general parameter templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nejběžnější je však &lt;g1&gt;použití Pokladny jako protiúčtu&lt;/g1&gt;, které umožňuje kombinovat použití Více způsobů plateb a Pokladních dokladů a přináší s sebou výhody v oblasti zaokrouhlování (je automaticky řešeno až na pokladním dokladu).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
@@ -1826,6 +1850,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130808Z" creationid="kunes" creationdate="20220405T130808Z">
         <seg>A window for entering the values of the selected parameter will open, where you will fill in the rows as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se okno pro zadání překladů hodnot vybraného parametru, kde vyplníte &lt;g1&gt;Kód jazyka&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt; dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102023Z" creationid="kunes" creationdate="20220406T102023Z">
+        <seg>A window for entering translations of the values of the selected parameter will open, where you will fill in &lt;g1&gt;the Language Code&lt;/g1&gt; and &lt;g2&gt;Description&lt;/g2&gt; as needed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2026,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
         <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavení šablon obecných parametrů pro použití na vybraných entitách pokračujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102106Z" creationid="kunes" creationdate="20220406T102106Z">
+        <seg>To set up general parameter templates for use on selected entities, proceed as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2550,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony obecných parametrů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102141Z" creationid="kunes" creationdate="20220406T102141Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Parameter Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte v sekci Související, ve skupině &lt;g1&gt;Dlouhodobý majetek&lt;/g1&gt; funkci &lt;g2&gt;Obecné parametry&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122121Z" creationid="kunes" creationdate="20220405T121631Z">
@@ -2638,6 +2686,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte &lt;g1&gt;Název šablony&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;ID tabulky&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102216Z" creationid="kunes" creationdate="20220406T102216Z">
+        <seg>Enter &lt;g1&gt;Name&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Table ID&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte alespoň jeden řádek faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124442Z" creationid="kunes" creationdate="20220401T124442Z">
@@ -2650,6 +2706,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121728Z" creationid="kunes" creationdate="20220401T121728Z">
         <seg>Enter the amount of cash you received from the customer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadání parametrů pro vybranou šablonu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220406T102241Z" creationid="kunes" creationdate="20220406T102241Z">
+        <seg>Enter parameters for the selected template</seg>
       </tuv>
     </tu>
     <tu>
