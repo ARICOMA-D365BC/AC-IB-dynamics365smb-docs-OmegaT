@@ -1746,6 +1746,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedním ze způsobů je vytvoření zásilky s dodacího listu nebo účtované faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T110432Z" creationid="kunes" creationdate="20220407T110432Z">
+        <seg>One way is to create a shipment from a delivery note or a charged invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jinými slovy vyhledání těch záznamů dané entity, které mají například přiřazeny stejné parametry nebo mají stejné hodnoty některých parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123310Z" creationid="kunes" creationdate="20220405T123310Z">
@@ -2370,6 +2378,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po zaúčtování dodání nastává proces vytvoření zásilky pro zákazníka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T110422Z" creationid="kunes" creationdate="20220407T110422Z">
+        <seg>After posting the shipment, the process of creating a shipment for the customer begins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082900Z" creationid="kunes" creationdate="20220404T082900Z">
@@ -2430,6 +2446,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
         <seg>Use &lt;g1&gt;OK&lt;/g1&gt; to start filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí načítání čísla dokladu se automaticky předvyplní formulář &lt;g1&gt;Vytvořit zásilku&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T110452Z" creationid="kunes" creationdate="20220407T110452Z">
+        <seg>By retrieving the invoice number, the &lt;g1&gt;Create Parcel&lt;/g1&gt; form is automatically pre-populated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3262,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123252Z" creationid="kunes" creationdate="20220405T123252Z">
         <seg>Searching records by General Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření nové zásilky z účtovaného dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T110405Z" creationid="kunes" creationdate="20220407T110405Z">
+        <seg>Creating a new shipment from a posted document</seg>
       </tuv>
     </tu>
     <tu>
