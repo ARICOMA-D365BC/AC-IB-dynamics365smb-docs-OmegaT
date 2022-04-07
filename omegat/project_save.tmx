@@ -3482,6 +3482,18 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>|
+|&lt;g3&gt;Obsah zásilky&lt;/g3&gt;|Obsah zásilky je především pro odesílání mimo EU, kdy je nutné udávat informace o tom co je v zásilce.|
+|&lt;g4&gt;Přílohy zásilky&lt;/g4&gt;|Slouží k připojení pdf dokladů k zásilce.|</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T110353Z" creationid="kunes" creationdate="20220407T110353Z">
+        <seg>|
+|&lt;g3&gt;Contents of shipment&lt;/g3&gt;|The contents of a shipment are mainly for shipments outside the EU, where it is necessary to give information about what is in the shipment.|
+|&lt;g4&gt;Parcel Attachments&lt;/g4&gt;|Used to attach pdf documents to a shipment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>|Viz|Také|
 |-|-|
 |Export statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g1&gt;Rozvaha a výkaz zisku zrát&lt;/g1&gt;|
