@@ -1016,6 +1016,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>AC Parcels - Integrace Balíkobot</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104148Z" creationid="kunes" creationdate="20220407T104148Z">
+        <seg>AC Parcels - Balikobot Integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AUTOCONT OBOROVÁ ŘEŠENÍ</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112830Z" creationid="Janousek" creationdate="20210603T112830Z">
@@ -1072,6 +1080,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Addon zásilek slouží k vytvoření zásilek a přímému tisku štítků vybraných dopravců, odesílání dat o zásilkách přepravci a objednání samotného svozu balíků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104217Z" creationid="kunes" creationdate="20220407T104217Z">
+        <seg>The AC Parcels addon is used to create shipments and directly print labels of selected shipping angent, send shipment data to the shipping angent and order the actual parcel collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Airway</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104342Z" creationid="kunes" creationdate="20220407T104342Z">
+        <seg>Airway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace 01.04.2022</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
@@ -1084,6 +1108,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T120945Z" creationid="kunes" creationdate="20220405T120945Z">
         <seg>Update 17.03.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktualizace: 08.03.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104153Z" creationid="kunes" creationdate="20220407T104153Z">
+        <seg>Update: 08.03.2022</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,10 +2032,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud uživatel vytvoří zásilku z účt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104307Z" creationid="kunes" creationdate="20220407T104307Z">
+        <seg>If the user will create a shipment from</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí &lt;g1&gt;OK&lt;/g1&gt; spustíte filtrování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
         <seg>Use &lt;g1&gt;OK&lt;/g1&gt; to start filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí totoho rozšíření je zrychlen proces zpracování a vytváření zásilek posílaných zákazníkům.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104226Z" creationid="kunes" creationdate="20220407T104226Z">
+        <seg>With this extension, the process of processing and creating shipments sent to customers is accelerated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2304,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Seznam přepravců:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104327Z" creationid="kunes" creationdate="20220407T104327Z">
+        <seg>List of shipping angents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Slovenský jazyk pro Business Central</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160638Z" creationid="Janousek" creationdate="20220331T160638Z">
@@ -2332,6 +2388,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083427Z" creationid="kunes" creationdate="20220404T083343Z">
         <seg>. This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see &lt;g1&gt;Cash Desk Localization for Czech&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento Addon využívá API služby Balíkobot.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104234Z" creationid="kunes" creationdate="20220407T104234Z">
+        <seg>This addon uses the API of the Balikobot service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento addon je stavěn na základě načítání čárového kódu (čísel) účtovaných dokladů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104243Z" creationid="kunes" creationdate="20220407T104243Z">
+        <seg>This addon is built on the basis of reading barcode (numbers) of charged documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +2872,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zásilky je možno vytvářet z účtovaných prodejních dodávek a faktur.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104253Z" creationid="kunes" creationdate="20220407T104253Z">
+        <seg>Shipments can be created from posted sales shipments and invoices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>a řada dalších</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112931Z" creationid="Janousek" creationdate="20210603T112931Z">
@@ -2812,6 +2892,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>prodejní dodávky, zásilka se vytvoří bez dobírky, naopak pokud ji vytvoří z faktury, tak se zásilka vytvoří s dobírkou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104319Z" creationid="kunes" creationdate="20220407T104319Z">
+        <seg>an invoiced sales delivery, the shipment will be created without COD and from invoices with COD.</seg>
       </tuv>
     </tu>
     <tu>
