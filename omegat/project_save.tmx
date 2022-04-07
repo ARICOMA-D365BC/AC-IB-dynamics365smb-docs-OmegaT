@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>(Stejně tak se zásilky dají vytvářet z prodejních faktur.)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104454Z" creationid="kunes" creationdate="20220407T104454Z">
+        <seg>(Similarly, shipments can be created from sales invoices.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>(viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104618Z" creationid="kunes" creationdate="20220407T104618Z">
+        <seg>(See</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Funkcionalita nabízí více možností, ale pro obecné parametry jsou vhodné následující datové typy &lt;g2&gt;Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID&lt;/g2&gt;.</seg>
       </tuv>
@@ -984,6 +1000,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Vytvoření objednávky&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104508Z" creationid="kunes" creationdate="20220407T104508Z">
+        <seg>&lt;x1/&gt;Creating a order&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Způsoby plateb&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082115Z" creationid="kunes" creationdate="20220404T082115Z">
@@ -1088,6 +1112,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Adresa zákazníka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104537Z" creationid="kunes" creationdate="20220407T104537Z">
+        <seg>Customer address</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Airway</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104342Z" creationid="kunes" creationdate="20220407T104342Z">
@@ -1152,6 +1184,78 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>DB Schenker</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
+        <seg>DB Schenker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DHL</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104344Z" creationid="kunes" creationdate="20220407T104344Z">
+        <seg>DHL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DHL DE</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104345Z" creationid="kunes" creationdate="20220407T104345Z">
+        <seg>DHL DE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DHL Freight</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104345Z" creationid="kunes" creationdate="20220407T104345Z">
+        <seg>DHL Freight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DHL Freight Euroconnect</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104345Z" creationid="kunes" creationdate="20220407T104345Z">
+        <seg>DHL Freight Euroconnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DHL Parcel Europe</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104345Z" creationid="kunes" creationdate="20220407T104345Z">
+        <seg>DHL Parcel Europe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DPD</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104346Z" creationid="kunes" creationdate="20220407T104346Z">
+        <seg>DPD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>DSV</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104346Z" creationid="kunes" creationdate="20220407T104346Z">
+        <seg>DSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dachser</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
+        <seg>Dachser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dalším krokem je vybrání podle kterých parametrů bude systém filtrovat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125546Z" creationid="kunes" creationdate="20220405T125546Z">
@@ -1164,6 +1268,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111132Z" creationid="Janousek" creationdate="20210603T111132Z">
         <seg>Data is available anytime and from anywhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Data z prodejní objednávky se přenášejí do dalších dokladů, z kterých se vytváří zásilky, proto je nezbytné zadat bezchybně data již na počátku procesu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104446Z" creationid="kunes" creationdate="20220407T104446Z">
+        <seg>he data from the sales order is transferred to the other documents from which the shipments are created, so it is essential to enter the data correctly at the beginning of the process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1344,6 +1456,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Fedex</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
+        <seg>Fedex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Fiskální tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111932Z" creationid="Janousek" creationdate="20210603T111932Z">
@@ -1356,6 +1476,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133906Z" creationid="Janousek" creationdate="20210625T133906Z">
         <seg>Fiskální tiskárny - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Fofr</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
+        <seg>Fofr</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,6 +1524,38 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123301Z" creationid="kunes" creationdate="20220405T123301Z">
         <seg>The functionality of general parameters can be used to search for "similar" records.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>GLS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
+        <seg>GLS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Gebrüder Weiss CZ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
+        <seg>Gebrüder Weiss CZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Gebrüder Weiss SK</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
+        <seg>Gebrüder Weiss SK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Geis</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
+        <seg>Geis</seg>
       </tuv>
     </tu>
     <tu>
@@ -1452,6 +1612,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111923Z" creationid="Janousek" creationdate="20210603T111923Z">
         <seg>Insolvency register</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>JAPO Transport</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
+        <seg>JAPO Transport</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,10 +1712,58 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kód přepravce, kód služby přepravce případně kód pobočky přepravce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104543Z" creationid="kunes" creationdate="20220407T104543Z">
+        <seg>Shipping Agent Code, Shipping Angent Service Code or Shipping Angent Branch Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kód způsobu platby (pokud se jedná o dobírku), variabilní symbol</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104554Z" creationid="kunes" creationdate="20220407T104554Z">
+        <seg>Payment method code (if COD), variable symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Liftago</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
+        <seg>Liftago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Lockers.ai</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
+        <seg>Lockers.ai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Lázeňství, hotelnictví a wellness</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112853Z" creationid="Janousek" creationdate="20210603T112853Z">
         <seg>Spa, hotel and wellness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Magyar Posta</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
+        <seg>Magyar Posta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Messenger</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
+        <seg>Messenger</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,6 +2048,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nutná pole k zadání před vydáním dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104528Z" creationid="kunes" creationdate="20220407T104528Z">
+        <seg>Required fields to be entered before issuing a document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nyní v dalším okně můžete vyplnit &lt;g1&gt;Nepovinné obecné parametry&lt;/g1&gt; obdobným způsobem jako u povinných.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123216Z" creationid="kunes" creationdate="20220405T123216Z">
@@ -1968,6 +2192,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>PPL</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
+        <seg>PPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pak je možné využít i funkčnost modulu a definovat kombinaci úhrady na zaúčtované faktuře (dobropisu) či na vystavené záloze.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
@@ -2012,6 +2244,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122233Z" creationid="kunes" creationdate="20220405T122233Z">
         <seg>If a card has multiple parameter templates set up, you can switch between them, or view all values by deleting the filter on the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud na objednávce není vybrán žádný přepravce, kontrola je na vydání dokladu (telefonní číslo a e-mail) vypnutá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104641Z" creationid="kunes" creationdate="20220407T104641Z">
+        <seg>If no shipping angent is selected on the order, the check to release the document (phone number and email is disabled).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2308,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pošta Bez Hranic</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
+        <seg>Pošta Bez Hranic</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,6 +2488,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Raben</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
+        <seg>Raben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Reklamace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112713Z" creationid="Janousek" creationdate="20210603T112713Z">
@@ -2268,6 +2524,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140038Z" creationid="Janousek" creationdate="20210625T140038Z">
         <seg>SEPA Platby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>SK Parcel Service</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
+        <seg>SK Parcel Service</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,6 +2576,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Slovenská pošta</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
+        <seg>Slovenská pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Slovenský jazyk pro Business Central</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160638Z" creationid="Janousek" creationdate="20220331T160638Z">
@@ -2324,6 +2596,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
         <seg>Spooler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spring</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
+        <seg>Spring</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,6 +2656,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Systém nevydá doklad pokud není vyplněno telefonní číslo a/nebo e-mail!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104615Z" creationid="kunes" creationdate="20220407T104615Z">
+        <seg>Business Central will not release a receipt if the phone number and/or email is not filled in!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>TNT</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
+        <seg>TNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato nápověda Vám pomůže nastavit Business Central do slovenského jazyka.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160703Z" creationid="Janousek" creationdate="20220331T160703Z">
@@ -2424,10 +2720,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Top Trans</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
+        <seg>Top Trans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tímto přiřazením docílíte usměrňování chování uživatelů s cílem zamezit chybám z nepozornosti.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082530Z" creationid="kunes" creationdate="20220404T082436Z">
         <seg>This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>UPS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
+        <seg>UPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,6 +2888,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vaše reference (v případě, že Váš zákazník vyžaduje na štítek např.: své číslo objednávky)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104600Z" creationid="kunes" creationdate="20220407T104600Z">
+        <seg>Your references (if your customer requires a label, e.g.: your order number).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ve spodní části uvidíte seznam paramtrů a jejich hodnoty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122144Z" creationid="kunes" creationdate="20220405T122144Z">
@@ -2604,6 +2924,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122247Z" creationid="kunes" creationdate="20220405T122247Z">
         <seg>Insert and change General Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Volitelná pole k zadání před vydáním dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104650Z" creationid="kunes" creationdate="20220407T104650Z">
+        <seg>Optional field to be entered before the document is released</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,6 +3056,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vytvoření prodejní objednávky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104401Z" creationid="kunes" creationdate="20220407T104401Z">
+        <seg>Creating a sales order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vytvořte novou prodejní fakturu dle vašich zvyklostí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T120102Z" creationid="kunes" creationdate="20220401T120029Z">
@@ -2772,6 +3108,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082041Z" creationid="kunes" creationdate="20220404T082041Z">
         <seg>There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>We Do</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
+        <seg>We Do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>We Do Uloženka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
+        <seg>We Do Uloženka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,6 +3216,30 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zákazníkovo telefonní číslo, e-mail nebo jeden z těchto údajů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104548Z" creationid="kunes" creationdate="20220407T104548Z">
+        <seg>Customer's phone number, email or one of the following.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základním krokem procesu vytváření zásilek je prodejní objednávka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104436Z" creationid="kunes" creationdate="20220407T104436Z">
+        <seg>The basic step of the shipment creation process is the sales order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zásilkovna</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104352Z" creationid="kunes" creationdate="20220407T104352Z">
+        <seg>Zásilkovna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112808Z" creationid="Janousek" creationdate="20210603T112808Z">
@@ -2892,6 +3268,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>nastavení kontroly).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104630Z" creationid="kunes" creationdate="20220407T104630Z">
+        <seg>check settings).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,6 +3406,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135231Z" creationid="Janousek" creationdate="20210625T135231Z">
         <seg>For the most part, the Czech functionality also covers Slovak legislative requirements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Česká pošta</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
+        <seg>Česká pošta</seg>
       </tuv>
     </tu>
     <tu>
