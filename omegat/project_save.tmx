@@ -312,6 +312,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Financial Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114623Z" creationid="kunes" creationdate="20220411T114623Z">
+        <seg>&lt;g1&gt;Financial Pack&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Fiskální tiskárny&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140700Z" creationid="Janousek" creationdate="20210625T140700Z">
@@ -1550,6 +1558,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Finance - Přenesená daňová povinnost</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114543Z" creationid="kunes" creationdate="20220411T114543Z">
+        <seg>Finance - Tax liability transferred</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Fiskální tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111932Z" creationid="Janousek" creationdate="20210603T111932Z">
@@ -1726,6 +1742,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Insolvenční rejstřík - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114628Z" creationid="kunes" creationdate="20220411T114628Z">
+        <seg>Insolvenční rejstřík - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>JAPO Transport</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
@@ -1850,6 +1874,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105131Z" creationid="kunes" creationdate="20220407T105131Z">
         <seg>Each shipping angent and shipping angent service has its own specific parameters that will report a message if the data is incomplete, indicating what data is missing from the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kdy?</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114455Z" creationid="kunes" creationdate="20220411T114455Z">
+        <seg>When?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2254,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nahrazeno</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114556Z" creationid="kunes" creationdate="20220411T114556Z">
+        <seg>Replaced</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nainstalujte aplikaci &lt;g1&gt;AC SK Language&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160815Z" creationid="Janousek" creationdate="20220331T160815Z">
@@ -2402,6 +2442,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
         <seg>A &lt;g2&gt;wizard&lt;/g2&gt;will appear, which will select a template (if more than one is defined for a given entity), mandatory and optional parameters for a particular tab, and set the values ​​of these parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Odstraněné funkce z AC Financial Pack</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114422Z" creationid="kunes" creationdate="20220411T114422Z">
+        <seg>Odstraněné funkce z AC Financial Pack</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,6 +3049,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Protože byla z CZ lokalizace vypuštěna základní funkcionalita pro tvorbu prodejních skonto dobropisů, není již rozšiřující funkcionalita součástí modulu Sada rozšíření aplikace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114615Z" creationid="kunes" creationdate="20220411T114615Z">
+        <seg>Since the basic functionality for creating sales credit notes has been omitted from the CZ localization, the extended functionality is no longer part of the Application Extension Set module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Provedete to tak, že kliknete na &lt;g1&gt;tři tečky&lt;/g1&gt; v řádku u Filtru obecných parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125611Z" creationid="kunes" creationdate="20220405T125611Z">
@@ -3249,6 +3305,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Skonto dobropisy pro CZ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114551Z" creationid="kunes" creationdate="20220411T114551Z">
+        <seg>Discount credits for CZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Sledování zásilek</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112900Z" creationid="kunes" creationdate="20220411T112900Z">
@@ -3273,10 +3337,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Smazáno</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114501Z" creationid="kunes" creationdate="20220411T114501Z">
+        <seg>Deleted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spooler</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
         <seg>Spooler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spotřební daň</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114621Z" creationid="kunes" creationdate="20220411T114621Z">
+        <seg>Excise duty</seg>
       </tuv>
     </tu>
     <tu>
@@ -3397,6 +3477,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114003Z" creationid="kunes" creationdate="20220411T114003Z">
         <seg>This page contains a list and description of features that have been removed from the AC Financial Pack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato stránka obsahuje seznam funkcionalit, které byly přesunuty, odstraněny nebo nahrazeny z AC Financial Packu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114445Z" creationid="kunes" creationdate="20220411T114445Z">
+        <seg>This page contains a list of features that have been moved, removed or replaced from the AC Financial Pack.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3733,6 +3821,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112927Z" creationid="Janousek" creationdate="20210603T112927Z">
         <seg>Wholesale and retail, distribution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Viditelný poplatek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114449Z" creationid="kunes" creationdate="20220411T114449Z">
+        <seg>Visible fee</seg>
       </tuv>
     </tu>
     <tu>
