@@ -754,6 +754,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povolen protokol aktivity&lt;/g1&gt; - Spuštění sledování logu aktivity</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120539Z" creationid="kunes" creationdate="20220411T120539Z">
+        <seg>&lt;g1&gt;Activity Log Enabled&lt;/g1&gt; - Starts activity log tracking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povolit registraci EET&lt;/g1&gt; – zapíná kontrolu, že v řádcích Rozpisu platby lze použít pouze takové, které mají nastaven sloupec Kód platebního zařízení EET.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083419Z" creationid="kunes" creationdate="20220404T083042Z">
@@ -798,6 +806,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142128Z" creationid="Janousek" creationdate="20210625T142128Z">
         <seg>&lt;g1&gt;Complaints Management&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Režim ladění&lt;/g1&gt; – Umožňuje odchytávání zpráv v komunikaci s danou službou</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123638Z" creationid="kunes" creationdate="20220411T123638Z">
+        <seg>&lt;g1&gt;Debug Mode&lt;/g1&gt; – Allows you to intercept messages in communication with the service</seg>
       </tuv>
     </tu>
     <tu>
