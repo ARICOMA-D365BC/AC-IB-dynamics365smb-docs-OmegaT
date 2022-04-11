@@ -1382,6 +1382,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole Číslená řada vyberte patřičnou číselnou řadu pro zásilky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T115250Z" creationid="kunes" creationdate="20220411T115250Z">
+        <seg>In the Number Series field, select the appropriate number series for shipments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dodatečná úhrada zaúčtované prodejní faktury</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122235Z" creationid="kunes" creationdate="20220401T122235Z">
@@ -1810,6 +1818,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T161010Z" creationid="Janousek" creationdate="20220331T161010Z">
         <seg>As soon as the Business Central is updated in the browser, you will have Business Central in Slovak language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jakmile vše vyplníte a kliknete na &lt;g1&gt;Dokončit&lt;/g1&gt;, asistovaný průvoce se zavře a začnou se synchronizovat master data.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T115309Z" creationid="kunes" creationdate="20220411T115309Z">
+        <seg>Once you have filled in everything and clicked &lt;g1&gt;Finish&lt;/g1&gt;, the assisted guide will close and the master data will begin to synchronize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3445,6 +3461,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110637Z" creationid="kunes" creationdate="20220407T110637Z">
         <seg>Manual Parcel creation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ruční úprava nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T115947Z" creationid="kunes" creationdate="20220411T115310Z">
+        <seg>Manual adjustment of settings</seg>
       </tuv>
     </tu>
     <tu>
