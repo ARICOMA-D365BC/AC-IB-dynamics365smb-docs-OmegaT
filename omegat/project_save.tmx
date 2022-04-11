@@ -2602,6 +2602,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Použijte funkce &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; (zásilka je ve stavu &lt;g2&gt;Ke svozu&lt;/g2&gt; a je možné tisknout štítek).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112410Z" creationid="kunes" creationdate="20220411T112410Z">
+        <seg>Use the &lt;g1&gt;Add to collection&lt;/g1&gt; function (the shipment is in the &lt;g2&gt;For collection&lt;/g2&gt; status and the label can be printed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pošta Bez Hranic</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
