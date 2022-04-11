@@ -972,6 +972,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení AC Parcels&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120127Z" creationid="kunes" creationdate="20220411T120127Z">
+        <seg>&lt;x1/&gt;AC Parcels settings&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Obecné parametry karty&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
@@ -1570,6 +1578,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114939Z" creationid="kunes" creationdate="20220411T114939Z">
         <seg>Expedition places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Expediční místo je místo Vašeho skladu odkud jsou expedovány zásilky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120000Z" creationid="kunes" creationdate="20220411T120000Z">
+        <seg>The Expedition Places are locations of your warehouses from where shipments are dispatched.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2198,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě dané lokace je potřeba vybrat expediční místo, které je spjaté s daným API.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120137Z" creationid="kunes" creationdate="20220411T120137Z">
+        <seg>On the tab of the given location it is necessary to select the dispatch place that is connected with the given API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu v sekci Akce vyberte funkci &lt;g1&gt;Filtrovat dle Obecných parametrů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125529Z" creationid="kunes" creationdate="20220405T125529Z">
@@ -2226,6 +2250,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121226Z" creationid="kunes" creationdate="20220405T121226Z">
         <seg>In the overview, select the specific fixed asset for which you want to view parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu vybrat funkci &lt;g1&gt;Nový&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120041Z" creationid="kunes" creationdate="20220411T120041Z">
+        <seg>Choose the function &lt;g1&gt;New&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2750,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevřít kartu požadované lokace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120210Z" creationid="kunes" creationdate="20220411T120210Z">
+        <seg>Open the desired location tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ověřte, že je na přihlášeném uživateli nastaven &lt;g1&gt;Kód platebního místa&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124228Z" creationid="kunes" creationdate="20220401T124228Z">
@@ -2882,6 +2922,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113834Z" creationid="kunes" creationdate="20220411T113834Z">
         <seg>Continue processing the next shipment or close the form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud bude více lokací, je nutné na každé nastavit příslušné expediční místo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120141Z" creationid="kunes" creationdate="20220411T120141Z">
+        <seg>If there are more locations, it is necessary to set the appropriate dispatch point for each.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3230,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro každé expediční místo je nutné jiné API, dále je expediční místo spojeno s jednou lokací Vaší společnosti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
+        <seg>A different API is required for each expedition place, and the expedition place is associated with one location of your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení šablon obecných parametrů pro použití na vybraných entitách pokračujte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102106Z" creationid="kunes" creationdate="20220406T102106Z">
@@ -3205,6 +3261,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
 &lt;Překladač Microsoft Translator&gt;
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro přiřazení expedičního místa lokaci je zapotřebí nastavit &lt;g1&gt;Kód Expedičního místa&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120158Z" creationid="kunes" creationdate="20220411T120158Z">
+        <seg>To assign a shipping location to a location, you need to set the &lt;g1&gt;Expedition Places Code&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,6 +3873,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Toto slouží k omezení chybovosti uživatelů, aby nemohli spojit do zásilky doklady s různými expedičními místy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120145Z" creationid="kunes" creationdate="20220411T120145Z">
+        <seg>This serves to reduce the error rate of users so that they cannot combine documents with different shipping points into the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tímto krokem uživatel nemusí ručně vypisovat údaje o zásilce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110501Z" creationid="kunes" creationdate="20220407T110501Z">
@@ -3861,6 +3933,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110543Z" creationid="kunes" creationdate="20220407T110543Z">
         <seg>The user has the option to enter the number of packages within a shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatel může mít několik expedičních míst.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120007Z" creationid="kunes" creationdate="20220411T120007Z">
+        <seg>A user can have several expedition places.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,6 +4289,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Expediční místa&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120026Z" creationid="kunes" creationdate="20220411T120026Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Expedition Places&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Lokace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120206Z" creationid="kunes" creationdate="20220411T120206Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Locations&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení uživatelů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T123840Z" creationid="kunes" creationdate="20220401T123840Z">
@@ -4357,6 +4453,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123252Z" creationid="kunes" creationdate="20220405T123252Z">
         <seg>Searching records by General Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplnit pole &lt;g1&gt;Kód expedičního místa&lt;/g1&gt; v záložce Obecné</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120223Z" creationid="kunes" creationdate="20220411T120223Z">
+        <seg>Fill in &lt;g1&gt;Expedition Places Code&lt;/g1&gt; field on the General tab</seg>
       </tuv>
     </tu>
     <tu>
@@ -4513,6 +4617,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadat &lt;g1&gt;Kód&lt;/g1&gt; pro expediční místo, popis, adresu a &lt;g2&gt;Název uživatele a heslo&lt;/g2&gt; k Vašemu API.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120103Z" creationid="kunes" creationdate="20220411T120103Z">
+        <seg>Insert &lt;g1&gt;Code&lt;/g1&gt; for expedition place, description, address and &lt;g2&gt;User Name and password&lt;/g2&gt; to yours API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte &lt;g1&gt;Kód&lt;/g1&gt; pro parametr, &lt;g2&gt;Popis&lt;/g2&gt;, &lt;g3&gt;Datový typ&lt;/g3&gt; a &lt;g4&gt;Metodu zadávání&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130003Z" creationid="kunes" creationdate="20220405T130003Z">
@@ -4557,6 +4669,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
         <seg>Creating and setting up general parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zavřít přehled expedičních míst pomocí OK</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120110Z" creationid="kunes" creationdate="20220411T120110Z">
+        <seg>Close the list of Expedition places.</seg>
       </tuv>
     </tu>
     <tu>
