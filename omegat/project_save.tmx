@@ -1818,6 +1818,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Klikněte na řádek ze zásilkou a použijte funkci &lt;g1&gt;Odebrat ze svozu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111147Z" creationid="kunes" creationdate="20220411T111147Z">
+        <seg>Choose on the consignment line and use the &lt;g1&gt;Remove from collection&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontakt na řidiče</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104757Z" creationid="kunes" creationdate="20220407T104757Z">
@@ -2338,6 +2346,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevřete danou zásilku (nyní má stav &lt;g1&gt;Nová&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111451Z" creationid="kunes" creationdate="20220411T111451Z">
+        <seg>Open the Parcel (it now has a status of &lt;g1&gt;New&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevřete stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt; a aktivujte &lt;g2&gt;AC SK Language&lt;/g2&gt; (povinné pro příští aktualizaci).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160920Z" creationid="Janousek" creationdate="20220331T160920Z">
@@ -2406,6 +2422,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
         <seg>Once the data for the shipment is set up, the "Add to Shipment" function will register the shipment in the Balikobot system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po tomto kroku je třeba informovat přepravce, že zásilku mažete nebo upravujete.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111053Z" creationid="kunes" creationdate="20220411T111053Z">
+        <seg>After this step, you must notify the shipper that you are deleting or editing the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po upravení dat uživatel použije funkci &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; a pro vytištění nového štítků použije funkci &lt;g2&gt;Tisk štítků&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111128Z" creationid="kunes" creationdate="20220411T111128Z">
+        <seg>Once the data has been edited, the user will use the &lt;g1&gt;For Collection&lt;/g1&gt; function and use the &lt;g2&gt;Print Labels&lt;/g2&gt; function to print the new label.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2526,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
         <seg>Use &lt;g1&gt;OK&lt;/g1&gt; to start filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce Odebrat ze svozu se změní stav z &lt;g4&gt;Ke svozu&lt;/g4&gt; na &lt;g5&gt;Nová&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111041Z" creationid="kunes" creationdate="20220411T111041Z">
+        <seg>Use the Remove From Shipment function to change the status from For &lt;g4&gt;Collection&lt;/g4&gt; to &lt;g5&gt;New&lt;/g5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3234,6 +3274,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V tento okamžik je zásilce odebráno číslo od přepravce a je smazán štítek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111104Z" creationid="kunes" creationdate="20220411T111104Z">
+        <seg>At this point, the shipment number is removed from the carrier and the label is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vaše reference (v případě, že Váš zákazník vyžaduje na štítek např.: své číslo objednávky)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104600Z" creationid="kunes" creationdate="20220407T104600Z">
@@ -3350,6 +3398,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124236Z" creationid="kunes" creationdate="20220401T124236Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Customers&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Zásilky&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111135Z" creationid="kunes" creationdate="20220411T111135Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
