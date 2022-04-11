@@ -2582,6 +2582,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení přepravců</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124014Z" creationid="kunes" creationdate="20220411T124014Z">
+        <seg>Shipping Agents setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení tisku</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115001Z" creationid="kunes" creationdate="20220411T115001Z">
@@ -3236,6 +3244,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113829Z" creationid="kunes" creationdate="20220411T113829Z">
         <seg>Use &lt;g1&gt;Create a Shipment&lt;/g1&gt; or &lt;g2&gt;Create a Shipment and Print a Label&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Povolit nebo zakázat Protokol aktivity</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124000Z" creationid="kunes" creationdate="20220411T124000Z">
+        <seg>Enable or disable Activity Log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Povolit nebo zakázat automatický tisk protokolů svozu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123952Z" creationid="kunes" creationdate="20220411T123952Z">
+        <seg>Enable or disable automatic printing of collection reports</seg>
       </tuv>
     </tu>
     <tu>
@@ -3931,6 +3955,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tento balíček obsahuje data, která se nestahují z API Balíkobotu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124122Z" creationid="kunes" creationdate="20220411T124122Z">
+        <seg>This package contains data that is not downloaded from the Balíkobot API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tento modul pak doplňuje pouze rozdílové funkcionality, pro pokrytí specifických požadavků slovenské legislativy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135249Z" creationid="Janousek" creationdate="20210625T135249Z">
@@ -4555,6 +4587,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vybrat kód výchozího expedičního místa</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123934Z" creationid="kunes" creationdate="20220411T123934Z">
+        <seg>Select default Expedition Places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vybrat číselnou řadu pro zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123852Z" creationid="kunes" creationdate="20220411T123852Z">
@@ -4847,6 +4887,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123717Z" creationid="kunes" creationdate="20220411T123717Z">
         <seg>Basic settings are made using the application setup wizard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní číselník se nahrává pomocí RapidStart balíčku pro Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124110Z" creationid="kunes" creationdate="20220411T124110Z">
+        <seg>The basic codebook is loaded using the RapidStart package for Business Central.</seg>
       </tuv>
     </tu>
     <tu>
