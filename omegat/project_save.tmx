@@ -1410,6 +1410,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je nutné použít funkci &lt;g1&gt;Tisk štítku&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112425Z" creationid="kunes" creationdate="20220411T112425Z">
+        <seg>Next, use the &lt;g1&gt;Print Label&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je třeba definovat &lt;g1&gt;Typ pokladní operace&lt;/g1&gt; pro další kontrolní mechanismy funkcionality.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082014Z" creationid="kunes" creationdate="20220404T082014Z">
@@ -1566,6 +1574,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142554Z" creationid="Janousek" creationdate="20210625T142554Z">
         <seg>For more information, see [Customizing Your Business Central Experience] (../ui-experiences.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Funkce zobrazí seznam přepravců s počtem zásilek, které ještě nebyly objednány ke svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112525Z" creationid="kunes" creationdate="20220411T112525Z">
+        <seg>The function will display a list of carriers with the number of shipments that have not yet been ordered for collection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +2002,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě Objednání svozu zvolte, zda se bude objednávat svoz jednoho přepravce (&lt;g1&gt;Objenad svoz&lt;/g1&gt;) nebo všech (&lt;g2&gt;Objednat všechny svozy&lt;/g2&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112612Z" creationid="kunes" creationdate="20220411T112612Z">
+        <seg>On the Order Pickup tab, select whether to order a pickup from one carrier (&lt;g1&gt;Order Collection&lt;/g1&gt;) or all carriers (&lt;g2&gt;Order All Collections&lt;/g2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu v sekci Akce vyberte funkci &lt;g1&gt;Filtrovat dle Obecných parametrů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125529Z" creationid="kunes" creationdate="20220405T125529Z">
@@ -2038,6 +2062,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110653Z" creationid="kunes" creationdate="20220407T110653Z">
         <seg>On the shipment overview there is a "New" function which opens a blank shipment card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu zásilek vybrat funkci &lt;g1&gt;Objednat svoz&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112554Z" creationid="kunes" creationdate="20220411T112554Z">
+        <seg>In the shipment overview, select the &lt;g1&gt;Order Collection&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2322,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Objednání svozu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112452Z" creationid="kunes" creationdate="20220411T112452Z">
+        <seg>Ordering Collection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Objednání svozu slouží k předání informace o Vašich zásilkách dopravci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112506Z" creationid="kunes" creationdate="20220411T112506Z">
+        <seg>Order collection is used to pass information about your shipments to the carrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Objeví se &lt;g2&gt;průvodce&lt;/g2&gt;, pomocí kterého se ke konkrétní kartě vybere šablona (pokud jich je pro danou entitu definováno více než jedna), povinné a nepovinné parametry a nastaví se hodnoty těchto parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
@@ -2430,6 +2478,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
         <seg>Once the data for the shipment is set up, the "Add to Shipment" function will register the shipment in the Balikobot system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po spuštění funkce se vytiskne &lt;g1&gt;Předávací protokol svozu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112624Z" creationid="kunes" creationdate="20220411T112624Z">
+        <seg>When the function is initiated, the &lt;g1&gt;Handover report&lt;/g1&gt; will print.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,6 +2730,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro objednání svozu je nutné udělat tyto kroky:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112544Z" creationid="kunes" creationdate="20220411T112544Z">
+        <seg>In order to order a collection, the following steps are required:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vložení nebo úpravu obecných parametrů postupjte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122637Z" creationid="kunes" creationdate="20220405T122637Z">
@@ -2794,6 +2858,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Předávací protokol je generován ze strany přepravců.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112716Z" creationid="kunes" creationdate="20220411T112716Z">
+        <seg>The handover report is generated by the haulers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Při ručním vytváření zásilky, se nedá skenovat číslo účtovaného dokladu a údaje se musí vyplnit ručně.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T105907Z" creationid="kunes" creationdate="20220407T114200Z">
@@ -2910,6 +2982,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T085154Z" creationid="Janousek" creationdate="20220331T085154Z">
         <seg>Sada rozšíření pro Finance - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Samotný proces objednání svozu je jednoduchý, slouží k tomu funkce „Objednat svoz“ na přehledu zásilek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112512Z" creationid="kunes" creationdate="20220411T112512Z">
+        <seg>The process of ordering a collection is simple, it is done using the "Order collection" function on the shipment overview.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +3146,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tisk předávacího protokolu svozu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112632Z" creationid="kunes" creationdate="20220411T112632Z">
+        <seg>Printing the collection report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; zavřete stránku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122054Z" creationid="kunes" creationdate="20220401T122054Z">
@@ -3134,6 +3222,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110543Z" creationid="kunes" creationdate="20220407T110543Z">
         <seg>The user has the option to enter the number of packages within a shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatel může objednat svoz pouze pro vybraného přepravce nebo pro všechny najednou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112531Z" creationid="kunes" creationdate="20220411T112531Z">
+        <seg>The user can order a collection only for the selected shipper or for all of them at once.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,6 +3790,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110631Z" creationid="kunes" creationdate="20220407T110631Z">
         <seg>The shipment is now created and is also in the &lt;g1&gt;For collection&lt;/g1&gt; status, i.e. it has already been assigned a number by the shipping agent. The label and data are on the Balikobot side).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zásilka je připravena k &lt;g1&gt;objednání svozu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112438Z" creationid="kunes" creationdate="20220411T112438Z">
+        <seg>The shipment is ready for &lt;g1&gt;Order Collection&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
