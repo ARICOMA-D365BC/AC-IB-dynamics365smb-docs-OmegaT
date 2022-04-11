@@ -360,6 +360,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Hmotnost na řádku&lt;/g1&gt; - Hmotnost musí být vyplěna v řádku zásilky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125045Z" creationid="kunes" creationdate="20220411T125045Z">
+        <seg>&lt;g1&gt;Weight on line&lt;/g1&gt; - Weight must be filled in the shipment line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
@@ -1002,6 +1010,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Služby ČP&lt;/g1&gt; – Pouze pro Českou poštu - dlouhý textový řetězec služeb pošty nad danou zásilkou
+o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125124Z" creationid="kunes" creationdate="20220411T125124Z">
+        <seg>&lt;g1&gt;Services of ČP&lt;/g1&gt; – Only for Czech Post service - a long text string of postal services above the parcel
+o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Spooler&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142234Z" creationid="Janousek" creationdate="20210625T142224Z">
@@ -1070,6 +1088,46 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082452Z" creationid="kunes" creationdate="20220404T082452Z">
         <seg>&lt;g1&gt;See: Assign payment methods to users.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit cenu zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125037Z" creationid="kunes" creationdate="20220411T125037Z">
+        <seg>&lt;g1&gt;Enforce Shipment Price&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit dobírku zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125039Z" creationid="kunes" creationdate="20220411T125039Z">
+        <seg>&lt;g1&gt;Force cash on delivery&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit hmotnost zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125032Z" creationid="kunes" creationdate="20220411T125032Z">
+        <seg>&lt;g1&gt;Enforce Shipment Weight&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit objem zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125035Z" creationid="kunes" creationdate="20220411T125035Z">
+        <seg>&lt;g1&gt;Force shipment volume&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit variabilní symbol zásilky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125041Z" creationid="kunes" creationdate="20220411T125041Z">
+        <seg>&lt;g1&gt;Enforce shipment variable symbol&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2888,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení způsobu platby - Dobírka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125148Z" creationid="kunes" creationdate="20220411T125148Z">
+        <seg>Payment method settings - Cash on delivery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -3148,6 +3214,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121053Z" creationid="kunes" creationdate="20220405T121053Z">
         <seg>Parameters can be grouped into templates according to the purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Parametry pro jednotlivé přepravce jsou stahovány z API balíkobotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125144Z" creationid="kunes" creationdate="20220411T125144Z">
+        <seg>Parameters for individual shipping agents are downloaded from the package package API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Parametry zásilek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125129Z" creationid="kunes" creationdate="20220411T125129Z">
+        <seg>Shipment parameters</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3670,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
         <seg>A different API is required for each expedition place, and the expedition place is associated with one location of your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavení a používání funkce zásilka na dobírku je zapotřebí nastavit na způsobu platby booeal &lt;g1&gt;Dobírka&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125159Z" creationid="kunes" creationdate="20220411T125159Z">
+        <seg>To set up and use the cash on delivery function, it is necessary to set up booeal &lt;g1&gt;Cash on delivery&lt;/g1&gt; on the payment method.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4775,6 +4865,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110516Z" creationid="kunes" creationdate="20220407T110516Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Create Parcel&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Způsob platby&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130217Z" creationid="kunes" creationdate="20220411T130217Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Payment Method&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
