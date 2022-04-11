@@ -1198,6 +1198,18 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Zásilky&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;AUTOCONT řešení&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T131008Z" creationid="kunes" creationdate="20220411T130959Z">
+        <seg>&lt;g1&gt;AC Parcels&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;AUTOCONT Solutions&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Čísla zásilek&lt;/g1&gt; - Číselná řada pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
@@ -1532,6 +1544,22 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115011Z" creationid="kunes" creationdate="20220411T115011Z">
         <seg>Automatic updates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Automatické připojení faktury k zásilce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130926Z" creationid="kunes" creationdate="20220411T130926Z">
+        <seg>Automatically attach an invoice to a shipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Automatické vytváření PLT dokladů zapnete vybárním pole &lt;g1&gt;Vytvořit PLT dokument&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130947Z" creationid="kunes" creationdate="20220411T130947Z">
+        <seg>To turn on automatic PLT document creation, select the &lt;g1&gt;Create PLT Document&lt;/g1&gt;field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2612,22 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na přehledu přepravců vyberte přepravce, u kterého chcete službu zapnout.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130908Z" creationid="kunes" creationdate="20220411T130908Z">
+        <seg>On the carriers overview, select the carrier for which you want to turn on the service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu přepravců vyberte přepravce, u kterého chcete zapnout automatické vytváření dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130943Z" creationid="kunes" creationdate="20220411T130943Z">
+        <seg>In the carriers overview, select the carrier for which you want to turn on automatic document creation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu v sekci Akce vyberte funkci &lt;g1&gt;Filtrovat dle Obecných parametrů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125529Z" creationid="kunes" creationdate="20220405T125529Z">
@@ -2676,6 +2720,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110353Z" creationid="kunes" creationdate="20220411T110353Z">
         <seg>Select the &lt;g1&gt;New&lt;/g1&gt; function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Konfigurace rozšíření&lt;/g1&gt; aktivujte přepínač &lt;g2&gt;Povolit požadavky HttpClient&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130841Z" creationid="kunes" creationdate="20220411T130841Z">
+        <seg>On the &lt;g1&gt;Extension Configuration&lt;/g1&gt; page, enable the &lt;g2&gt;Enable HttpClient requests&lt;/g2&gt; switch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2820,6 +2872,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
         <seg>[přibližně]&lt;g1&gt;Settings - Central Database&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení PaperLess Trade</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130851Z" creationid="kunes" creationdate="20220411T130851Z">
+        <seg>PaperLess Trade settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,6 +3326,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Paperless Trade slouží k odeslání elektronické faktury (případě pro-forma Faktury) pro celní řízení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130859Z" creationid="kunes" creationdate="20220411T130859Z">
+        <seg>Paperless Trade is used to send an electronic invoice (in the case of a pro-forma invoice) for customs clearance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Parametry lze dle účelu seskupovat do šablon.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121053Z" creationid="kunes" creationdate="20220405T121053Z">
@@ -3310,6 +3378,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
         <seg>Once the data for the shipment is set up, the "Add to Shipment" function will register the shipment in the Balikobot system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po nastavení můžete přehled zavřít</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130922Z" creationid="kunes" creationdate="20220411T130922Z">
+        <seg>After setup, you can close the page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po nastavení můžete přehled zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130953Z" creationid="kunes" creationdate="20220411T130953Z">
+        <seg>Once set up, you can close the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3610,6 +3694,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poté stránku můžete zavřít a spustit znovu Asistovaného průvodce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130846Z" creationid="kunes" creationdate="20220411T130846Z">
+        <seg>You can then close the page and run the Guided Wizard again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Potřebné kroky pro ruční vytvoření zásilky:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110342Z" creationid="kunes" creationdate="20220411T110342Z">
@@ -3821,10 +3913,34 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro správné fungování Paperless Trade musíte k zásilce připojit PDF soubor faktury (pro-forma faktury).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130930Z" creationid="kunes" creationdate="20220411T130930Z">
+        <seg>For Paperless Trade to work properly, you must attach a PDF file of the invoice (pro-forma invoice) to the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro správné fungování addonu Zásilek je zapotřebí nastavit několik oblastí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114850Z" creationid="kunes" creationdate="20220411T114850Z">
         <seg>There are several areas that need to be set up for the AC Parcel addon to work properly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro správné nastavení pokračujte títmo způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130938Z" creationid="kunes" creationdate="20220411T130938Z">
+        <seg>To make the correct settings, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro správné nastavení postupujte tímto způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130903Z" creationid="kunes" creationdate="20220411T130903Z">
+        <seg>To set it up correctly, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4265,6 +4381,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160638Z" creationid="Janousek" creationdate="20220331T160638Z">
         <seg>Slovak language for Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Službu zapnete vybráním pole &lt;g1&gt;Paperless Trade&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130912Z" creationid="kunes" creationdate="20220411T130912Z">
+        <seg>To turn on the service, select the &lt;g1&gt;Paperless Trade&lt;/g1&gt; field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,6 +4909,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113729Z" creationid="kunes" creationdate="20220411T113729Z">
         <seg>If you create a shipment from a posted sales shipment, you must insert the PDF manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě vytváření zásilky z účtované prodejní faktury je možné vygenerovat doklad a připojit ho automaticky při vytváření zásilky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130935Z" creationid="kunes" creationdate="20220411T130935Z">
+        <seg>In the case of creating a shipment from a billed sales invoice, it is possible to generate a document and attach it automatically when creating the shipment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5457,6 +5589,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
         <seg>Creating and setting up general parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zapnutí Paperless Trade u přepravce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130855Z" creationid="kunes" creationdate="20220411T130855Z">
+        <seg>Turn on Paperless Trade at the carrier</seg>
       </tuv>
     </tu>
     <tu>
