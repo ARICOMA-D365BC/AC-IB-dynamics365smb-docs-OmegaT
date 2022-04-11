@@ -1362,6 +1362,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doplňte údaje/hodnoty o zásilce (Změna přepravce, Počet balíků, Hmotnost, Rozměry...).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112350Z" creationid="kunes" creationdate="20220411T111453Z">
+        <seg>Add data/values about the shipment (change of carrier, number of packages, weight, dimensions...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dopolední doručenní.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104838Z" creationid="kunes" creationdate="20220407T104838Z">
