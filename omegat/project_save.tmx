@@ -140,6 +140,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ADR jednotky přepravce&lt;/g1&gt; – Tabulka ADR jednotek přepravce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124759Z" creationid="kunes" creationdate="20220411T124759Z">
+        <seg>&lt;g1&gt;ADR units of the carrier&lt;/g1&gt; – Table of ADR units of the carrier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;ADVANCED&lt;/g1&gt;&lt;x2/&gt;This functionality is only available with the Advanced experience.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142528Z" creationid="Janousek" creationdate="20210625T142528Z">
@@ -428,6 +436,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120425Z" creationid="kunes" creationdate="20220411T120425Z">
         <seg>&lt;g1&gt;Default Expediton Place Code&lt;/g1&gt; - Specifies the API credentials and shipment location from where the parcel will be shipped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Manipulační jednotky&lt;/g1&gt; - Tabulka manipulačních jednotek paletové přepravy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124747Z" creationid="kunes" creationdate="20220411T124747Z">
+        <seg>&lt;g1&gt;Handling units&lt;/g1&gt; - Table of pallet handling units</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +846,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124507Z" creationid="kunes" creationdate="20220411T124507Z">
         <seg>&lt;g1&gt;Enabled for Balíkobot&lt;/g1&gt; - Carrier is enabled and can be used</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povoleno pro Balíkobot&lt;/g1&gt; - Službu je možné používat (ve výchozím stavu povoleno)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125025Z" creationid="kunes" creationdate="20220411T125025Z">
+        <seg>&lt;g1&gt;Enabled for Balikobot&lt;/g1&gt; - The service can be used (enabled by default)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1386,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115129Z" creationid="kunes" creationdate="20220411T115129Z">
         <seg>Address</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Adresa URL sledování balíku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124809Z" creationid="kunes" creationdate="20220411T124809Z">
+        <seg>Package Tracking URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2054,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Integrační služba</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124815Z" creationid="kunes" creationdate="20220411T124815Z">
+        <seg>Integration service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Integrační služby: Balíkobot.cz</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115232Z" creationid="kunes" creationdate="20220411T115232Z">
@@ -2058,6 +2098,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102627Z" creationid="kunes" creationdate="20220405T123153Z">
         <seg>Fill in the &lt;g1&gt;General Parameters Template&lt;/g1&gt; first, then the &lt;g2&gt;Value&lt;/g2&gt;, and finally the &lt;g3&gt;Description&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Je možné vynutit určité nastavení pro jednotlivé služby přepravce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124912Z" creationid="kunes" creationdate="20220411T124850Z">
+        <seg>It is possible to force certain settings for individual Shipping Agents services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2310,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kód Balíkobot</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124818Z" creationid="kunes" creationdate="20220411T124818Z">
+        <seg>Balíkobot code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kód balíkobot</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115237Z" creationid="kunes" creationdate="20220411T115237Z">
@@ -2410,6 +2466,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120137Z" creationid="kunes" creationdate="20220411T120137Z">
         <seg>On the tab of the given location it is necessary to select the dispatch place that is connected with the given API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na následující stránce vyplňte pole dle pořeby:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125013Z" creationid="kunes" creationdate="20220411T124953Z">
+        <seg>Fill in the fields on the following page as needed:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2786,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124014Z" creationid="kunes" creationdate="20220411T124014Z">
         <seg>Shipping Agents setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení služeb přepravců</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124834Z" creationid="kunes" creationdate="20220411T124834Z">
+        <seg>Set up Shipping Agent Services</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3320,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud přidáte přepravce až poté, co byla provedeno prvnotní nastavení pomocí asistovaného nastavení, je nutné správně vyplnit pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124804Z" creationid="kunes" creationdate="20220411T124804Z">
+        <seg>If you add a carrier after the first setup has been made using assisted setup, you must fill in the fields correctly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud se bude jednat o balíkovou přepravu (NE PALETOVOU), po zadání počtu balíků se vytvoří řádky zásilky, ke kterým budou přiřazeny jednotlivé štítky od dopravce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105155Z" creationid="kunes" creationdate="20220407T105155Z">
@@ -3340,6 +3420,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poté je nutné použít funkci &lt;g1&gt;Synronizace master dat&lt;/g1&gt;!</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124827Z" creationid="kunes" creationdate="20220411T124827Z">
+        <seg>Then you need to use &lt;g1&gt;the Synronization function of master data&lt;/g1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3500,6 +3588,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
         <seg>A different API is required for each expedition place, and the expedition place is associated with one location of your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavení musíte:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124919Z" creationid="kunes" creationdate="20220411T124916Z">
+        <seg>To set it up, you must:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3935,6 +4031,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160638Z" creationid="Janousek" creationdate="20220331T160638Z">
         <seg>Slovak language for Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Služby přepravců se stahují automaticky pomocí API Balíkobotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124859Z" creationid="kunes" creationdate="20220411T124847Z">
+        <seg>Shipping Agent Services are downloaded automatically using the Balikobot API.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4439,6 +4543,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081823Z" creationid="kunes" creationdate="20220404T081823Z">
         <seg>In the Payment methods list, create codes that represent the payment methods you use (e.g., cash, card, meal vouchers,... according to valid legislation and according to the expected scope of use in the company) so that it is possible to subsequently define the payment by the customer in the required structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V seznamu vyberte požadovaného přepravce a zvolte funkci &lt;g1&gt;Služby přepravce&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T125006Z" creationid="kunes" creationdate="20220411T124951Z">
+        <seg>Select the desired carrier from the list and select &lt;g1&gt;Shipping Agent Services&lt;/g1&gt; feature</seg>
       </tuv>
     </tu>
     <tu>
