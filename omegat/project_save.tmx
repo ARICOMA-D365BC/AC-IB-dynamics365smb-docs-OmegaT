@@ -400,6 +400,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kód výchozího expedičního místa&lt;/g1&gt; - Výchozí expediční místo, odkud budou odváženy zásilky (viz další kapitola)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120425Z" creationid="kunes" creationdate="20220411T120425Z">
+        <seg>&lt;g1&gt;Default Expediton Place Code&lt;/g1&gt; - Specifies the API credentials and shipment location from where the parcel will be shipped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Mezdí doba odezvy&lt;/g1&gt; – Určuje dobu timeoutu komunikace v jednotlivé zprávě</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120523Z" creationid="kunes" creationdate="20220411T120523Z">
+        <seg>&lt;g1&gt;Limit Response Time&lt;/g1&gt; – Specifies the timeout of communication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nasazení Microsoft Dynamics 365 Business Central od společnosti AUTOCONT je jednoduché a rychlé díky široké škále rozšiřujících modulů a oborových řešení.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T113603Z" creationid="Janousek" creationdate="20210603T111804Z">
@@ -866,6 +882,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Tisk předávací protokolů svozu&lt;/g1&gt; – Automatický tisk předávacích protokolu po objednání svozu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120439Z" creationid="kunes" creationdate="20220411T120439Z">
+        <seg>&lt;g1&gt;Print Handover After Order&lt;/g1&gt; – Automatic print of Handover protocols after collection order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;VIES&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142449Z" creationid="Janousek" creationdate="20210625T142449Z">
@@ -908,6 +932,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Výchozí název tiskárny&lt;/g1&gt; – Určuje tiskárnu štítků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120509Z" creationid="kunes" creationdate="20220411T120509Z">
+        <seg>&lt;g1&gt;Default Printer Name&lt;/g1&gt; – Specifies the printer for printing labels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Výkaz DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143426Z" creationid="Janousek" creationdate="20210625T142431Z">
@@ -944,6 +976,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142316Z" creationid="Janousek" creationdate="20210625T142316Z">
         <seg>&lt;g1&gt;Parcels&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla zásilek&lt;/g1&gt; - Číselná řada pro zásilky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
+        <seg>&lt;g1&gt;Parcels No.&lt;/g1&gt; - Specifies the No. Series for parcels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1098,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102232Z" creationid="kunes" creationdate="20220406T102232Z">
         <seg>&lt;x1/&gt;General parameter template&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Nastavení AC Parcels&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120343Z" creationid="kunes" creationdate="20220411T120343Z">
+        <seg>&lt;x2/&gt;AC Parcels settings&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,8 +2512,8 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>Nastavení Zásilek</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220411T114944Z" creationid="kunes" creationdate="20220411T114944Z">
-        <seg>Shipment Settings</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120317Z" creationid="kunes" creationdate="20220411T114944Z">
+        <seg>Parcels settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2706,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113959Z" creationid="kunes" creationdate="20220411T113959Z">
         <seg>Removed features from the AC Productivity Pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Okno nastavení Zásilek obsahuje:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120351Z" creationid="kunes" creationdate="20220411T120351Z">
+        <seg>Parcels Management Setup page contain:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4701,6 +4757,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104548Z" creationid="kunes" creationdate="20220407T104548Z">
         <seg>Customer's phone number, email or one of the following.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní nastavení Balíkobotu je nutné provést na stránce &lt;g1&gt;Nastavení Zásilek&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T120334Z" creationid="kunes" creationdate="20220411T120334Z">
+        <seg>Basic Package Setup must be made on the &lt;g1&gt;Parcels Settings&lt;/g1&gt;page.</seg>
       </tuv>
     </tu>
     <tu>
