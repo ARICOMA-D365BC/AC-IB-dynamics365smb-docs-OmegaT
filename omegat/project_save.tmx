@@ -1142,6 +1142,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Addon se prvotně nastavuje pomocí průvodce a poté je možné nastavení měnit ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114854Z" creationid="kunes" creationdate="20220411T114854Z">
+        <seg>The addon is initially set up using the wizard and then the settings can be changed manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Addon zásilek slouží k vytvoření zásilek a přímému tisku štítků vybraných dopravců, odesílání dat o zásilkách přepravci a objednání samotného svozu balíků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104217Z" creationid="kunes" creationdate="20220407T104217Z">
@@ -1530,6 +1538,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081855Z" creationid="kunes" creationdate="20220404T081855Z">
         <seg>If there are several counters or branches in the company, it is customary to record operations in these places separately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Expediční místa</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114939Z" creationid="kunes" creationdate="20220411T114939Z">
+        <seg>Expedition places</seg>
       </tuv>
     </tu>
     <tu>
@@ -2286,6 +2302,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení - AC Parcels - Integrace Balíkobot</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114726Z" creationid="kunes" creationdate="20220411T114726Z">
+        <seg>Setup - AC Parcels - Balíkobot Integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení Centrálních číselníků</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
@@ -2306,6 +2330,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081751Z" creationid="kunes" creationdate="20220404T081751Z">
         <seg>Payment Methods settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení Zásilek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114944Z" creationid="kunes" creationdate="20220411T114944Z">
+        <seg>Shipment Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,6 +2474,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
         <seg>A &lt;g2&gt;wizard&lt;/g2&gt;will appear, which will select a template (if more than one is defined for a given entity), mandatory and optional parameters for a particular tab, and set the values ​​of these parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Oblasti nastavení addonu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114927Z" creationid="kunes" creationdate="20220411T114927Z">
+        <seg>Addon settings areas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2981,6 +3021,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
 &lt;Překladač Microsoft Translator&gt;
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro správné fungování addonu Zásilek je zapotřebí nastavit několik oblastí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114850Z" creationid="kunes" creationdate="20220411T114850Z">
+        <seg>There are several areas that need to be set up for the AC Parcel addon to work properly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4537,6 +4585,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
         <seg>Česká pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číslenou řada</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T114933Z" creationid="kunes" creationdate="20220411T114933Z">
+        <seg>Numbered series</seg>
       </tuv>
     </tu>
     <tu>
