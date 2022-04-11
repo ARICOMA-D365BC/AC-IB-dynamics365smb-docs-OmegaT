@@ -1504,10 +1504,26 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Automatická aktualizace master dat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130438Z" creationid="kunes" creationdate="20220411T130438Z">
+        <seg>Automatic master data update</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Automatické aktualizace</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115011Z" creationid="kunes" creationdate="20220411T115011Z">
         <seg>Automatic updates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Automatikcká aktualizace master dat spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje všechna data ze strany Balíkobotu (Ve výchozím stavu v neděli ve 14:00).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130444Z" creationid="kunes" creationdate="20220411T130444Z">
+        <seg>The automatic update of the master data starts a procedure on the job queue, which updates all data from Balikobot in a certain period of time (By default on Sunday at 14:00).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,6 +1972,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124636Z" creationid="kunes" creationdate="20220411T124636Z">
         <seg>Functions over shipping agents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Funkce tisk štítků je nastavená, aby tiskla na definové tiskárně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130335Z" creationid="kunes" creationdate="20220411T130335Z">
+        <seg>The Print Labels feature is set to print to a defined printer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3194,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>PDF reader</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130241Z" creationid="kunes" creationdate="20220411T130241Z">
+        <seg>PDF reader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>PPL</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
@@ -3434,6 +3466,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud uživatel nechce automatický tisk, stačí v Nastavení Balíkobotu vypnout Boolean - Tisk předávacích protokolů svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130420Z" creationid="kunes" creationdate="20220411T130420Z">
+        <seg>If the user does not want automatic printing, just turn off Boolean - Printing handover protocols in the Balíkobot Settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud uživatel vytvoří zásilku z účt.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104307Z" creationid="kunes" creationdate="20220407T104307Z">
@@ -3610,6 +3650,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro definice tiskárny je nutné:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130339Z" creationid="kunes" creationdate="20220411T130339Z">
+        <seg>To define a printer, it is necessary:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro definici hodnot parametrů postupujte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130034Z" creationid="kunes" creationdate="20220405T130034Z">
@@ -3690,6 +3738,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro nastavení tisku štítku je potřeba nastavit ID sestavy a přidělit uživateli tiskárnu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130324Z" creationid="kunes" creationdate="20220411T130324Z">
+        <seg>To set up label printing, you need to set the report ID and assign a printer to the user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení šablon obecných parametrů pro použití na vybraných entitách pokračujte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102106Z" creationid="kunes" creationdate="20220406T102106Z">
@@ -3713,6 +3769,14 @@ These data are updated manually using the "Resynchronize master data" function.<
 &lt;Překladač Microsoft Translator&gt;
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro práci se štítky doporučujeme Foxit pdf a také ho mít nastavený jako výchozí program pro PDF soubory.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130252Z" creationid="kunes" creationdate="20220411T130252Z">
+        <seg>To work with labels, we recommend Foxit pdf and also have it set as the default program for PDF files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3749,6 +3813,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro tisk na tiskárně pro štítky se nemusí vybírat pozice tisku štítku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130313Z" creationid="kunes" creationdate="20220411T130313Z">
+        <seg>The label printing position does not need to be selected for printing to the label printer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro tisk štítků je zapotřebí mít nainstalovaný PDF reader.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130247Z" creationid="kunes" creationdate="20220411T130247Z">
+        <seg>You need to have a PDF reader installed to print labels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vložení nebo úpravu obecných parametrů postupjte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122637Z" creationid="kunes" creationdate="20220405T122637Z">
@@ -3777,6 +3857,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
         <seg>To create a code list of general parameters, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zapnutí této funkce postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130448Z" creationid="kunes" creationdate="20220411T130448Z">
+        <seg>To enable this feature, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,6 +4057,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082507Z" creationid="kunes" creationdate="20220404T082507Z">
         <seg>Přiřazením Kódu platebního místa na způsobu platby docílíte větší kontroly uživatelů, aby nebylo možné omylem provést úhradu vůči protiúčtu, který není uživateli přiřazen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Případně pokud máte nastavenou výchozí tiskárnu ve &lt;g1&gt;Výběry tiskáren&lt;/g1&gt; jako zbytek Vašich tiskových sestav.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130431Z" creationid="kunes" creationdate="20220411T130431Z">
+        <seg>Alternatively, if you have the default printer set in &lt;g1&gt;Printer Selections&lt;/g1&gt; as the rest of your print reports.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,10 +4445,26 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tisk předávacího protokolu se tiskne automaticky po objednání svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130415Z" creationid="kunes" creationdate="20220411T130415Z">
+        <seg>Printing of the handover protocol is printed automatically after ordering the collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tisk předávacího protokolu svozu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112632Z" creationid="kunes" creationdate="20220411T112632Z">
         <seg>Printing the collection report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tisk se provádí z Výchozí tiskárny dle Vašeho zařízení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130425Z" creationid="kunes" creationdate="20220411T130425Z">
+        <seg>Printing is done from the Default Printer according to your device.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4469,6 +4581,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Nastavení zásilek zapněte "Automatická aktualizace master dat".</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130610Z" creationid="kunes" creationdate="20220411T130610Z">
+        <seg>In Parcels Management Setup, turn on "Run Master Data Sync. Task".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V addonu AC Parcels můžete využít funkce k automatického vytvoření a přiložení PDF faktury k zásilce za předpokladu vytváření zásilky z účtované prodejní faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113715Z" creationid="kunes" creationdate="20220411T113715Z">
@@ -4521,6 +4641,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105124Z" creationid="kunes" creationdate="20220407T105124Z">
         <seg>The document header contains only the mandatory data needed to create a shipment, to enter other data such as dimensions or a message to the driver, you must use the Shipment Parameters pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V klientské zóně (https://client.balikobot.cz/) uživatel musí nastavit, zda se bude tisknout ve formátu na celou stránku nebo dle pozic na papíru velikosti A4. Vše záleží na tom, na jaké tiskárně se bude tisknout.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130309Z" creationid="kunes" creationdate="20220411T130309Z">
+        <seg>In the client zone (https://client.balikobot.cz/), the user must set whether to print in full page format or according to positions on A4 size paper. It all depends on what printer it will be printed on.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4877,6 +5005,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Výběry tiskáren&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130358Z" creationid="kunes" creationdate="20220411T130358Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Printer Selections&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Způsob platby&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130217Z" creationid="kunes" creationdate="20220411T130217Z">
@@ -4969,6 +5105,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112834Z" creationid="kunes" creationdate="20220411T112834Z">
         <seg>Stand on the shipments from that collection and use the &lt;g1&gt;Collection Handover Protocol&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vybrat ID uživatele, ID sestavy 52068430 a Název tiskárny</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130410Z" creationid="kunes" creationdate="20220411T130410Z">
+        <seg>Select User ID, Report ID 52068430, and Printer Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -5101,6 +5245,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Výběr formátu tisku – klientská zóna</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130258Z" creationid="kunes" creationdate="20220411T130258Z">
+        <seg>Print Format Selection - Client Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výběr tiskárny</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130316Z" creationid="kunes" creationdate="20220411T130316Z">
+        <seg>Printer selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Výkaz Intrastat</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
@@ -5221,6 +5381,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zavřete přehled způsobu platby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130238Z" creationid="kunes" creationdate="20220411T130238Z">
+        <seg>Close the payment method overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zavřít přehled expedičních míst pomocí OK</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120110Z" creationid="kunes" creationdate="20220411T120110Z">
@@ -5241,6 +5409,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081550Z" creationid="kunes" creationdate="20220404T081550Z">
         <seg>Payment Methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zvolit &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130405Z" creationid="kunes" creationdate="20220411T130405Z">
+        <seg>Choose &lt;g1&gt;New&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5457,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124110Z" creationid="kunes" creationdate="20220411T124110Z">
         <seg>The basic codebook is loaded using the RapidStart package for Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základním krokem nastavení tisku štítků je definice jakým způsobem se budou generovat PDF se štítky ze strany Balíkobotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130302Z" creationid="kunes" creationdate="20220411T130302Z">
+        <seg>The basic step in setting up label printing is to define how the PDF with labels will be generated by Package.</seg>
       </tuv>
     </tu>
     <tu>
