@@ -1754,6 +1754,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedno expediční místo může být přiřazeno jedné lokaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113557Z" creationid="kunes" creationdate="20220411T113557Z">
+        <seg>One shipping point can be assigned to one location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jednotlivé funcionality jsme seskupili do následujících balíčků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111907Z" creationid="Janousek" creationdate="20210603T111907Z">
@@ -1878,6 +1886,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104823Z" creationid="kunes" creationdate="20220407T104823Z">
         <seg>Checking the age of the addressee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontroly a omezení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113427Z" creationid="kunes" creationdate="20220411T113427Z">
+        <seg>Controls and restrictions</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2522,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po spuštění dostanete informaci, zda jsou předávané informace v pořádku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113545Z" creationid="kunes" creationdate="20220411T113545Z">
+        <seg>After running it, you will be informed if the information transmitted is correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po spuštění funkce se vytiskne &lt;g1&gt;Předávací protokol svozu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112624Z" creationid="kunes" creationdate="20220411T112624Z">
@@ -2546,6 +2570,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete zobrazit jednotlivé stavy od přepravce využijte funkci na přehledu zásilek &lt;g1&gt;Sledování zásilky&lt;/g1&gt;, která otevře stránku s jednotlivými stavy přepravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113411Z" creationid="kunes" creationdate="20220411T113411Z">
+        <seg>If you want to view individual shipment statuses from the shipper, use the &lt;g1&gt;Track Status&lt;/g1&gt; function on the shipment overview to open the individual shipment status page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082900Z" creationid="kunes" creationdate="20220404T082900Z">
@@ -2562,6 +2594,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud jsou na prodejní objednávce vyplněny pole Kód přepravce a Kód služby přepravce, je nutné zadat telefonní číslo a e-mail příjemce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113450Z" creationid="kunes" creationdate="20220411T113450Z">
+        <seg>If the Shipping agent Code and Shipping agent Service Code fields are filled out on the sales order, you must enter the recipient's phone number and email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud má karta nastaveno více šablony parametrů, můžete mezi nimi přepínat, nebo zobrazit všechny hodnoty pomocí smazání filtru na přehledu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122233Z" creationid="kunes" creationdate="20220405T122233Z">
@@ -2574,6 +2614,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104641Z" creationid="kunes" creationdate="20220407T104641Z">
         <seg>If no shipping angent is selected on the order, the check to release the document (phone number and email is disabled).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud pole nebudou vyplěny nelze doklad vydat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113513Z" creationid="kunes" creationdate="20220411T113513Z">
+        <seg>If the fields are not filled in the receipt cannot be released.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,6 +2990,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110314Z" creationid="kunes" creationdate="20220411T110314Z">
         <seg>In this creation, you must enter Status on "New" and add one line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při zadávání dat na kartě zásilky (automaticky pomocí načtení kódů, nebo ručně) je na kartě zásilky funkce &lt;g1&gt;Ověřit data zásilky&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113540Z" creationid="kunes" creationdate="20220411T113540Z">
+        <seg>When entering data on the shipment card (automatically by retrieving codes or manually) there is a &lt;g1&gt;Check Data&lt;/g1&gt; function on the shipment card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3766,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T120102Z" creationid="kunes" creationdate="20220401T120029Z">
         <seg>Create a new sales invoice according to your conventions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vzniká vazba 1:1.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113600Z" creationid="kunes" creationdate="20220411T113600Z">
+        <seg>A 1:1 relationship is created.</seg>
       </tuv>
     </tu>
     <tu>
