@@ -2434,6 +2434,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je zásilka ve stavu &lt;g2&gt;Svozeno&lt;/g2&gt; nelze ji již editovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110544Z" creationid="kunes" creationdate="20220411T110544Z">
+        <seg>If a shipment is in the &lt;g2&gt;Collected&lt;/g2&gt; state, it can no longer be edited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud má karta nastaveno více šablony parametrů, můžete mezi nimi přepínat, nebo zobrazit všechny hodnoty pomocí smazání filtru na přehledu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122233Z" creationid="kunes" creationdate="20220405T122233Z">
@@ -2658,6 +2666,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro úpravu/smazání informací zásilky, musí být zásilka ve stavu &lt;g3&gt;Ke svozu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T111014Z" creationid="kunes" creationdate="20220411T111014Z">
+        <seg>In order to edit/delete shipment information, the shipment must be in the &lt;g3&gt;For Collection&lt;/g3&gt; status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Protiúčtem může být finanční účet či bankovní účet, nicméně nejčastěji se používá karta pokladny.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081936Z" creationid="kunes" creationdate="20220404T081936Z">
@@ -2670,6 +2686,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125611Z" creationid="kunes" creationdate="20220405T125611Z">
         <seg>To do this, click on the &lt;g1&gt;three dots&lt;/g1&gt; in the line next to the General Parameters Filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Proveďte funkci &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; (zásilka je ve stavu &lt;g2&gt;Ke svozu&lt;/g2&gt; a je možné tisknout štítek).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110433Z" creationid="kunes" creationdate="20220411T110433Z">
+        <seg>The &lt;g1&gt;Add&lt;/g1&gt; to collection function (the shipment is in the &lt;g2&gt;For collection&lt;/g2&gt; status and the label can be printed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Proveďte funkci &lt;g1&gt;Tisk štítku&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110453Z" creationid="kunes" creationdate="20220411T110453Z">
+        <seg>Use the &lt;g1&gt;Print label&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,6 +3054,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
         <seg>Allows monitoring of the circulation of returnable packaging and pallet management. |&lt;g8&gt;Pack Tracking - Returnable packaging&lt;/g8&gt;|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Upravovat zásilky lze pouze pokud jsou ve stavu &lt;g1&gt;Nová&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110531Z" creationid="kunes" creationdate="20220411T110531Z">
+        <seg>You can edit shipments only if they are in the &lt;g1&gt;New&lt;/g1&gt; status.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,6 +3626,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zásilka je připravena k objednání svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110459Z" creationid="kunes" creationdate="20220411T110459Z">
+        <seg>The shipment is ready to be ordered for collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zásilkovna</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104352Z" creationid="kunes" creationdate="20220407T104352Z">
@@ -3778,6 +3826,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |-|-|
 |&lt;g1&gt;Shipment Parameters&lt;/g1&gt;|Shipment Parameters Selectable.|
 |&lt;g2&gt;Attached documents&lt;/g2&gt;|In the Attached documents subpage it is possible to see all delivery notes or invoices that have been inserted in one shipment (only functional when the shipment is sent to one address).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Úprava zásilky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110508Z" creationid="kunes" creationdate="20220411T110508Z">
+        <seg>Shipment modification</seg>
       </tuv>
     </tu>
     <tu>
