@@ -1698,6 +1698,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Infomace o účtu a kontrola platných přepravců</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113610Z" creationid="kunes" creationdate="20220411T113610Z">
+        <seg>Account information and checking of valid carriers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Insolvenční rejstřík</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111923Z" creationid="Janousek" creationdate="20210603T111923Z">
@@ -2078,6 +2086,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112914Z" creationid="kunes" creationdate="20220411T112914Z">
         <seg>In the shipment overview you can see at a glance the status of the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na přehledu zásilek použijte funkci &lt;g1&gt;Vytvořit zásilku&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113802Z" creationid="kunes" creationdate="20220411T113802Z">
+        <seg>Use the &lt;g1&gt;Create Shipment&lt;/g1&gt;feature in your shipment list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2498,6 +2514,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Paperless Trade</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113658Z" creationid="kunes" creationdate="20220411T113658Z">
+        <seg>Paperless Trade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Paperless Trade slouží k odeslání elektronické faktury (případě pro-forma Faktury) pro celní řízení zakódované v PDF BASE64.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113703Z" creationid="kunes" creationdate="20220411T113703Z">
+        <seg>Paperless Trade is used to send an electronic invoice (in the case of a pro-forma Invoice) for a customs procedure encoded in PDF BASE64.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Parametry lze dle účelu seskupovat do šablon.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121053Z" creationid="kunes" creationdate="20220405T121053Z">
@@ -2518,6 +2550,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
         <seg>Once the data for the shipment is set up, the "Add to Shipment" function will register the shipment in the Balikobot system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po ověření účtu vyskočí hláška &lt;g1&gt;Připojení ke službě bylo úspěšné.&lt;/g1&gt; a zobrazí se Vám inforace o účtu a Aktivní dopravci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113652Z" creationid="kunes" creationdate="20220411T113652Z">
+        <seg>After verifying your account, the message &lt;g1&gt;Service connection successful.&lt;/g1&gt; will pop up and you'll see information about your account and Active Carriers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2606,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110422Z" creationid="kunes" creationdate="20220407T110422Z">
         <seg>After posting the shipment, the process of creating a shipment for the customer begins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokračujte ve zpracování další zásilky nebo formulář zavřete.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113834Z" creationid="kunes" creationdate="20220411T113834Z">
+        <seg>Continue processing the next shipment or close the form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2770,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poté můžete okno zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113656Z" creationid="kunes" creationdate="20220411T113656Z">
+        <seg>You can then close the window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poté se vytiskne soupiska všech zásilek od vybraného přepravce za určený den.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112808Z" creationid="kunes" creationdate="20220411T112808Z">
@@ -2742,6 +2798,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112410Z" creationid="kunes" creationdate="20220411T112410Z">
         <seg>Use the &lt;g1&gt;Add to collection&lt;/g1&gt; function (the shipment is in the &lt;g2&gt;For collection&lt;/g2&gt; status and the label can be printed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Použijte funkci &lt;g1&gt;Vytvořit zásilku&lt;/g1&gt; nebo &lt;g2&gt;Vytvořit zásilku a tiskout štítek&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113829Z" creationid="kunes" creationdate="20220411T113829Z">
+        <seg>Use &lt;g1&gt;Create a Shipment&lt;/g1&gt; or &lt;g2&gt;Create a Shipment and Print a Label&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2902,17 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112544Z" creationid="kunes" creationdate="20220411T112544Z">
         <seg>In order to order a collection, the following steps are required:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro ověření Vašeho účtu zda se jedná o testovací nebo produkční a výpis přepravců pokračujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113621Z" creationid="kunes" creationdate="20220411T113621Z">
+        <seg>To verify your account as a test or production account and to list the carriers, proceed as follows:
+&lt;Překladač Microsoft Translator&gt;
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +3033,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
         <seg>Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Předpokladem pro použití je správné nastavení Paperless trade.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113748Z" creationid="kunes" creationdate="20220411T113748Z">
+        <seg>A prerequisite for use is the correct setting of Paperless trade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3210,6 +3293,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Systém automaticky vygeneruje PDF faktury a připojí k zásilce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113820Z" creationid="kunes" creationdate="20220411T113820Z">
+        <seg>The system automatically generates PDF invoices and attaches them to the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Systém nevydá doklad pokud není vyplněno telefonní číslo a/nebo e-mail!</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104615Z" creationid="kunes" creationdate="20220407T104615Z">
@@ -3378,6 +3469,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V addonu AC Parcels můžete využít funkce k automatického vytvoření a přiložení PDF faktury k zásilce za předpokladu vytváření zásilky z účtované prodejní faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113715Z" creationid="kunes" creationdate="20220411T113715Z">
+        <seg>In the AC Parcels addon, you can use the function to automatically create and attach a PDF invoice to a shipment, provided that the shipment is created from a billed sales invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V dalším dialogovém okně vyberete parametry, podle kterých chcete filtrovat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125617Z" creationid="kunes" creationdate="20220405T125617Z">
@@ -3454,6 +3553,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105202Z" creationid="kunes" creationdate="20220407T105202Z">
         <seg>In the case of a pallet shipment, this field will specify the quantity of one handling unit (multiple lines will not be created, but one line will be created and the quantity will be filled in; e.g.: 3 pallets).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě vytváření zásilky z účtované prodejní dodávky musíte PDF vkládat ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113729Z" creationid="kunes" creationdate="20220411T113729Z">
+        <seg>If you create a shipment from a posted sales shipment, you must insert the PDF manually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3677,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vložte číslo účtované dodávky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113908Z" creationid="kunes" creationdate="20220411T113908Z">
+        <seg>Enter the number of posted sales shipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vložte číslo účtované faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113815Z" creationid="kunes" creationdate="20220411T113815Z">
+        <seg>Enter the number of the posted sales invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vložte číslo účtovaného dokladu (účtovaná prodejní dodávka, účtovananá prodejní faktura) do pole &lt;g1&gt;Číslo dokladu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110532Z" creationid="kunes" creationdate="20220407T110532Z">
@@ -3634,6 +3757,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přepravci&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113631Z" creationid="kunes" creationdate="20220411T113631Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Shipping Agents&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vytvořit zásilku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110516Z" creationid="kunes" creationdate="20220407T110516Z">
@@ -3670,6 +3801,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102141Z" creationid="kunes" creationdate="20220406T102141Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Parameter Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte jednoho z vašich přepravců a klikněte na funkci &lt;g1&gt;Test spojení&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113641Z" creationid="kunes" creationdate="20220411T113641Z">
+        <seg>Select one of your carriers and click On &lt;g1&gt;Connection Test&lt;/g1&gt; function</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +3897,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104401Z" creationid="kunes" creationdate="20220407T104401Z">
         <seg>Creating a sales order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření zásilky z účtované prodejní dodávky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113846Z" creationid="kunes" creationdate="20220411T113846Z">
+        <seg>Create a shipment from a posted sales shipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření zásilky z účtované projdení faktury</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113744Z" creationid="kunes" creationdate="20220411T113744Z">
+        <seg>Create a shipment from a posted sales invoice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +4009,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083523Z" creationid="kunes" creationdate="20220404T083523Z">
         <seg>In order to better control the handling of cash or valuables, separate records are usually required for each user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Za účely kontroly Vašich předplacených přepravců jsme implementovali metodu WHOIAM, který vypisuje informace o Vašem API připojení a seznam aktivních přepravců.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113617Z" creationid="kunes" creationdate="20220411T113617Z">
+        <seg>To check your prepaid carriers, we have implemented the WHOIAM method, which lists information about your API connection and a list of active carriers.</seg>
       </tuv>
     </tu>
     <tu>
