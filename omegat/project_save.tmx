@@ -4573,6 +4573,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V přehledu zašktněte možnost &lt;g1&gt;Dobírka&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130232Z" creationid="kunes" creationdate="20220411T130232Z">
+        <seg>In the overview, check the &lt;g1&gt;Cash on delivery&lt;/g1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V případě paletové přepravy bude toto pole určovat množství jedné manipulační jednotky (nevytvoří se několik řádků, ale vznikne jeden řádek a vyplní se množství; např.: 3 palety).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105202Z" creationid="kunes" creationdate="20220407T105202Z">
