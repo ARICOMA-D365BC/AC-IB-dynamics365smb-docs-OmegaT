@@ -182,6 +182,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Automatická aktualizace stavu přepravy&lt;/g1&gt; - Spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje stav přepřavy zásilek za poslední měsíc.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123711Z" creationid="kunes" creationdate="20220411T123711Z">
+        <seg>&lt;g1&gt;Automatic Transportation Status Update&lt;/g1&gt; - Runs a procedure on the job queue that updates the shipment transfer status for the last month in a specific time period.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Automatická synchronizace master dat&lt;/g1&gt; - Spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje všechna data ze strany Balíkobotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123654Z" creationid="kunes" creationdate="20220411T123654Z">
+        <seg>&lt;g1&gt;Automatic master data synchronization&lt;/g1&gt; - Runs a procedure on the job queue that updates all data from the Package in a certain time period.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142207Z" creationid="Janousek" creationdate="20210625T142207Z">
@@ -2742,6 +2758,16 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ostatní tabulky se stahují a plní po zapnutí synchronizace master dat.
+Aktualizace těchto dat probíhá ručně pomocí funkce „Resynchronizace master dat“.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123745Z" creationid="kunes" creationdate="20220411T123745Z">
+        <seg>The other tables are downloaded and filled after master data synchronization is enabled.
+These data are updated manually using the "Resynchronize master data" function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ostatní číselníky (Služby přepravce, Manipulační jednotky a Pobočky přepravce) si addon stahuje z API Balíkobotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115022Z" creationid="kunes" creationdate="20220411T115022Z">
@@ -3349,6 +3375,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114850Z" creationid="kunes" creationdate="20220411T114850Z">
         <seg>There are several areas that need to be set up for the AC Parcel addon to work properly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro spuštění funkcí Balíkobotu je potřeba provést nastavení:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123757Z" creationid="kunes" creationdate="20220411T123757Z">
+        <seg>To start the balíkobot functions, you need to make the following settings:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4377,6 +4411,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení Zásilek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení uživatelů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T123840Z" creationid="kunes" creationdate="20220401T123840Z">
@@ -4509,6 +4551,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112834Z" creationid="kunes" creationdate="20220411T112834Z">
         <seg>Stand on the shipments from that collection and use the &lt;g1&gt;Collection Handover Protocol&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vybrat číselnou řadu pro zásilky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123852Z" creationid="kunes" creationdate="20220411T123852Z">
+        <seg>Select a number series for shipments</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,10 +4827,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Základní nastavení AC Parcels - Integrace Balíkobot</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123752Z" creationid="kunes" creationdate="20220411T123752Z">
+        <seg>Basic settings of AC Parcels - Balíkobot integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Základní nastavení Balíkobotu je nutné provést na stránce &lt;g1&gt;Nastavení Zásilek&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120334Z" creationid="kunes" creationdate="20220411T120334Z">
         <seg>Basic Package Setup must be made on the &lt;g1&gt;Parcels Settings&lt;/g1&gt;page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní nastavení se provede pomocí průvodce nastavení aplikace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T123717Z" creationid="kunes" creationdate="20220411T123717Z">
+        <seg>Basic settings are made using the application setup wizard.</seg>
       </tuv>
     </tu>
     <tu>
