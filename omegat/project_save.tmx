@@ -2026,6 +2026,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na přehledu zásilek zvolte funkci &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110353Z" creationid="kunes" creationdate="20220411T110353Z">
+        <seg>Select the &lt;g1&gt;New&lt;/g1&gt; function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Prodejní faktura&lt;/g1&gt; spusťte akci &lt;g2&gt;Vydat&lt;/g2&gt; a poté spusťte funkci &lt;g3&gt;Rozpis platby&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T120210Z" creationid="kunes" creationdate="20220401T120210Z">
@@ -2394,6 +2402,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po nachystání dat pro zásilku funkce „Přidat ke svozu“ zaeviduje zásilku v systému Balíkobotu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
+        <seg>Once the data for the shipment is set up, the "Add to Shipment" function will register the shipment in the Balikobot system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po zadání parametrů klikněte na tlačítko &lt;g1&gt;Dokončit&lt;/g1&gt;, tím se nastavování uloží.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123223Z" creationid="kunes" creationdate="20220405T123223Z">
@@ -2510,6 +2526,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poté je nutné ručně štítek vytisknout.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110334Z" creationid="kunes" creationdate="20220411T110334Z">
+        <seg>Then you must manually print the label.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Potřebné kroky pro ruční vytvoření zásilky:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110342Z" creationid="kunes" creationdate="20220411T110342Z">
+        <seg>To create a shipment manually, the steps are as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3382,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123252Z" creationid="kunes" creationdate="20220405T123252Z">
         <seg>Searching records by General Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplěte potřebná pole pro daného přepavce a jeho službu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T110400Z" creationid="kunes" creationdate="20220411T110400Z">
+        <seg>Fill in the necessary fields for the shipper and its service.</seg>
       </tuv>
     </tu>
     <tu>
