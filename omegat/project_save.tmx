@@ -1512,6 +1512,22 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Automatická aktualizace stavu přepravy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130644Z" creationid="kunes" creationdate="20220411T130644Z">
+        <seg>Automatic update of the transport status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Automatická aktualizace stavu přepravy spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje stav přepřavy zásilek za poslední měsíc.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130652Z" creationid="kunes" creationdate="20220411T130652Z">
+        <seg>Automatic shipment status update triggers a procedure on the job queue that updates the shipment shipment status for the last month over a period of time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Automatické aktualizace</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115011Z" creationid="kunes" creationdate="20220411T115011Z">
@@ -3146,6 +3162,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nainstalovaná rozšíření&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130823Z" creationid="kunes" creationdate="20220411T130823Z">
+        <seg>&lt;g1&gt;The Installed Extensions&lt;/g1&gt; page opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevřete danou zásilku (nyní má stav &lt;g1&gt;Nová&lt;/g1&gt;).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111451Z" creationid="kunes" creationdate="20220411T111451Z">
@@ -3546,6 +3570,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poté je možné nastavení zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130641Z" creationid="kunes" creationdate="20220411T130615Z">
+        <seg>After that, you can close the settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poté je nutné použít funkci &lt;g1&gt;Synronizace master dat&lt;/g1&gt;!</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124827Z" creationid="kunes" creationdate="20220411T124827Z">
@@ -3853,6 +3885,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vyřešení tohoto problému postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130804Z" creationid="kunes" creationdate="20220411T130804Z">
+        <seg>To resolve this issue, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro založení číselníku obecných parametrů pokračujte tímto způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
@@ -3863,8 +3903,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Pro zapnutí této funkce postupujte následujícím způsobem:</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220411T130448Z" creationid="kunes" creationdate="20220411T130448Z">
-        <seg>To enable this feature, follow these steps:</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130656Z" creationid="kunes" creationdate="20220411T130448Z">
+        <seg>To turn on this feature, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4009,6 +4049,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114020Z" creationid="kunes" creationdate="20220411T114020Z">
         <seg>Moved, Deleted or Replaced?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při asistovaném nastavení add-onu se může zobrazit hláška "&lt;g1&gt;Požadavek byl zablokován modulem runtime&lt;/g1&gt;".</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130800Z" creationid="kunes" creationdate="20220411T130800Z">
+        <seg>When setting up the add-on with assistance, the message "&lt;g1&gt;The request was blocked by the runtime&lt;/g1&gt;" may be displayed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4533,6 +4581,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Uživatel bude vyzván k založení a otevření nové položky fronty úloh, která bude ve stavu "Vyčkávat".</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130735Z" creationid="kunes" creationdate="20220411T130614Z">
+        <seg>The user will be prompted to create and open a new job queue item that will be in the "Ready" state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Uživatel již v prodejní objednávce může zadat volitelné parametry zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104658Z" creationid="kunes" creationdate="20220407T104658Z">
@@ -4585,6 +4641,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130610Z" creationid="kunes" creationdate="20220411T130610Z">
         <seg>In Parcels Management Setup, turn on "Run Master Data Sync. Task".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V Nastavení zásilek zapněte "Automatická aktualizace stavu přepravy".</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130712Z" creationid="kunes" creationdate="20220411T130712Z">
+        <seg>In Parcels Management Setup, turn on "Run Track Status Update Task".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,6 +5061,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Správa rozšíření&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130812Z" creationid="kunes" creationdate="20220411T130812Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Extension Management&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vytvořit zásilku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110516Z" creationid="kunes" creationdate="20220407T110516Z">
@@ -5325,6 +5397,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zablokování modulem runtime</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130755Z" creationid="kunes" creationdate="20220411T130755Z">
+        <seg>Runtime deadlock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadat &lt;g1&gt;Kód&lt;/g1&gt; pro expediční místo, popis, adresu a &lt;g2&gt;Název uživatele a heslo&lt;/g2&gt; k Vašemu API.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120103Z" creationid="kunes" creationdate="20220411T120103Z">
@@ -5417,6 +5497,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130405Z" creationid="kunes" creationdate="20220411T130405Z">
         <seg>Choose &lt;g1&gt;New&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zvolte řádek rozšíření &lt;g1&gt;AC Parcels&lt;/g1&gt; a poté použijte akci &lt;g2&gt;Konfigurace&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T130829Z" creationid="kunes" creationdate="20220411T130829Z">
+        <seg>Select the line extension &lt;g1&gt;AC Parcels&lt;/g1&gt; and then use the action &lt;g2&gt;Configuration&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
