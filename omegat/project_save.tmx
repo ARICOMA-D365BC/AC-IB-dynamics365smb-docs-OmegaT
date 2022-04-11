@@ -432,6 +432,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Maximální délka adresy&lt;/g1&gt; – Nastavuje délku adresy u vybraného přepravce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124625Z" creationid="kunes" creationdate="20220411T124625Z">
+        <seg>&lt;g1&gt;Maximum address length&lt;/g1&gt; – set the address length for the selected carrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Mezdí doba odezvy&lt;/g1&gt; – Určuje dobu timeoutu komunikace v jednotlivé zprávě</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120523Z" creationid="kunes" creationdate="20220411T120523Z">
@@ -778,10 +786,58 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Paletová přeprava&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124525Z" creationid="kunes" creationdate="20220411T124525Z">
+        <seg>&lt;g1&gt;Pallet transport&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pobočky přepravců&lt;/g1&gt; - Tabulka lokalit, kde si mohou zákazníci zboží od přepravce převzít</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124736Z" creationid="kunes" creationdate="20220411T124736Z">
+        <seg>&lt;g1&gt;Shipping Agent Branches&lt;/g1&gt; - Table of locations, where customers can take goods from the carrier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Poslední synchronizace master dat&lt;/g1&gt; – Datum poslední synchronizace master dat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124452Z" creationid="kunes" creationdate="20220411T124452Z">
+        <seg>&lt;g1&gt;Last master data synchronization&lt;/g1&gt; – Date of last master data synchronization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pouze pobočky&lt;/g1&gt; – Určuje, že přepravce slouží pouze jako výdejní místo</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124628Z" creationid="kunes" creationdate="20220411T124546Z">
+        <seg>&lt;g1&gt;Branch only&lt;/g1&gt; – Specifies that the carrier serves only as a pickup point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povolen protokol aktivity&lt;/g1&gt; - Spuštění sledování logu aktivity</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120539Z" creationid="kunes" creationdate="20220411T120539Z">
         <seg>&lt;g1&gt;Activity Log Enabled&lt;/g1&gt; - Starts activity log tracking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povoleno pro Balíkobot&lt;/g1&gt; - Přepravce je povolen a je možné ho používat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124507Z" creationid="kunes" creationdate="20220411T124507Z">
+        <seg>&lt;g1&gt;Enabled for Balíkobot&lt;/g1&gt; - Carrier is enabled and can be used</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povolení synchronizace master dat&lt;/g1&gt; – Po zapnutí se mohou stánout master data</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124441Z" creationid="kunes" creationdate="20220411T124441Z">
+        <seg>&lt;g1&gt;Enable master data synchronization&lt;/g1&gt; – Master data may become available after switching on</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,10 +850,26 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povolit více balíků&lt;/g1&gt; - Při vytváření zásilky umožní funkce vytvořit více balíků v rámci jedné zásilky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124518Z" creationid="kunes" creationdate="20220411T124518Z">
+        <seg>&lt;g1&gt;Allow multiple packages&lt;/g1&gt; - When creating a shipment, the feature allows you to create multiple packages within one shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povolit více typů hotovosti&lt;/g1&gt; – dovolí definovat více způsobů plateb se stejným typem pokladní operace a pro stejné platební místo.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083354Z" creationid="kunes" creationdate="20220404T082806Z">
         <seg>&lt;g1&gt;Enable Multiple Cash Operation Types&lt;/g1&gt; – allows you to define multiple payment methods with the same cash transaction type and for the same payment location. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Počet manipulačních jednotek&lt;/g1&gt; - U paletové přepravy je možnost nastavit více manipulačních jednotek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124550Z" creationid="kunes" creationdate="20220411T124545Z">
+        <seg>&lt;g1&gt;Number of handling units&lt;/g1&gt; - For pallet transport it is possible to set more handling units.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +970,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Služby přepravců&lt;/g1&gt; - Tabulka služeb jednotlivých přepravců</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124717Z" creationid="kunes" creationdate="20220411T124717Z">
+        <seg>&lt;g1&gt;Shipping Agent Services&lt;/g1&gt; - Table of services of individual shipping agent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Spooler&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142234Z" creationid="Janousek" creationdate="20210625T142224Z">
@@ -918,6 +998,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143217Z" creationid="Janousek" creationdate="20210625T142429Z">
         <seg>&lt;g1&gt;Settings - Statutory statements&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Synchronizace master dat&lt;/g1&gt; – Spustí synchronizaci master dat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124702Z" creationid="kunes" creationdate="20220411T124702Z">
+        <seg>&lt;g1&gt;Master data synchronization&lt;/g1&gt; – Starts master data synchronization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Test spojení&lt;/g1&gt; – Test komunikace mezi integrační službou a Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124650Z" creationid="kunes" creationdate="20220411T124650Z">
+        <seg>&lt;g1&gt;Connection Test&lt;/g1&gt; – Test communication between the integration service and Business Central</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,6 +1858,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142554Z" creationid="Janousek" creationdate="20210625T142554Z">
         <seg>For more information, see [Customizing Your Business Central Experience] (../ui-experiences.md)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Funkce nad přepravci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T124636Z" creationid="kunes" creationdate="20220411T124636Z">
+        <seg>Functions over shipping agents</seg>
       </tuv>
     </tu>
     <tu>
