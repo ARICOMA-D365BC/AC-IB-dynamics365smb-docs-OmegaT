@@ -2058,6 +2058,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na přehledu zásilek lze na první pohled zahlédnout stav přepravy zásilky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112914Z" creationid="kunes" creationdate="20220411T112914Z">
+        <seg>In the shipment overview you can see at a glance the status of the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na přehledu zásilek se nachází funkce „Nový“, která otevře prázdnou kartu zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110653Z" creationid="kunes" creationdate="20220407T110653Z">
@@ -2218,6 +2226,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení automatického tisku je v okně &lt;g1&gt;Nastavení zásilek&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112742Z" creationid="kunes" creationdate="20220411T112742Z">
+        <seg>The automatic printing settings are in the &lt;g1&gt;Shipment Settings&lt;/g1&gt; window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení hodnot parametru je nezbytné zejména u parametrů s &lt;g1&gt;Metodou zadávání – Výběr&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101632Z" creationid="kunes" creationdate="20220406T101545Z">
@@ -2350,6 +2366,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
         <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se PDF soubor, který se následně vytiskne z okna prohlížeče.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112840Z" creationid="kunes" creationdate="20220411T112840Z">
+        <seg>This will open a PDF file, which will then be printed from the browser window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2650,6 +2674,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poté se vytiskne soupiska všech zásilek od vybraného přepravce za určený den.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112808Z" creationid="kunes" creationdate="20220411T112808Z">
+        <seg>A list of all shipments from the selected shipper for the specified day will then be printed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Potřebné kroky pro ruční vytvoření zásilky:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110342Z" creationid="kunes" creationdate="20220411T110342Z">
@@ -2682,6 +2714,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro aktualizaci tohoto stavu na řádku zásilky slouží tlačítko &lt;g1&gt;Aktualizovat stav přepravy&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T113352Z" creationid="kunes" creationdate="20220411T113352Z">
+        <seg>To update this status on the shipment line, use the &lt;g1&gt;Update Track Status&lt;/g1&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro definici hodnot parametrů postupujte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130034Z" creationid="kunes" creationdate="20220405T130034Z">
@@ -2710,6 +2750,22 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101733Z" creationid="kunes" creationdate="20220406T101733Z">
         <seg>To define parameter translations, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro dodatečný tisk předávacího protokolu svozu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112814Z" creationid="kunes" creationdate="20220411T112814Z">
+        <seg>For an additional printout of the collection handover report:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro dodatečný tisk předávacího protokolu vybraného přepravce slouží funkce se stejným názvem na přehledu zásilek, kdy stačí stát na jedné ze zásilek daného přepravce v daný den svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112803Z" creationid="kunes" creationdate="20220411T112803Z">
+        <seg>For additional printing of the handover report of the selected shipper, there is a function with the same name on the shipment report, where you just stand on one of the shipments of that shipper on the day of the collection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3066,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Sledování zásilek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112900Z" creationid="kunes" creationdate="20220411T112900Z">
+        <seg>Package Tracking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Slovenská pošta</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -3122,6 +3186,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato sestava se může nastavit, aby se tiskla automaticky po objednání svozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112722Z" creationid="kunes" creationdate="20220411T112722Z">
+        <seg>This report can be set to print automatically when a collection is ordered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tento Addon využívá API služby Balíkobot.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104234Z" creationid="kunes" creationdate="20220407T104234Z">
@@ -3142,6 +3214,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135249Z" creationid="Janousek" creationdate="20210625T135249Z">
         <seg>This module then complements only the differential functionalities, to cover the specific requirements of Slovak legislation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento stav není strukturován a je pouze informativní bez detailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112923Z" creationid="kunes" creationdate="20220411T112923Z">
+        <seg>This status is not structured and is only informative without detail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3654,14 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102342Z" creationid="kunes" creationdate="20220406T102342Z">
         <seg>In the Related section, in &lt;g1&gt;Template&lt;/g1&gt; group, select &lt;g2&gt;Parameters&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte zásilku z daného svozu a použijte funkci &lt;g1&gt;Tisk předávacího protokolu svozu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220411T112834Z" creationid="kunes" creationdate="20220411T112834Z">
+        <seg>Stand on the shipments from that collection and use the &lt;g1&gt;Collection Handover Protocol&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
