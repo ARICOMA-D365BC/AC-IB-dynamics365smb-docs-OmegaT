@@ -4759,6 +4759,16 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|&lt;g14&gt;Správa upozornění&lt;/g14&gt;|
+|Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T144645Z" creationid="Janousek" creationdate="20220412T144645Z">
+        <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|&lt;g14&gt;Správa upozornění&lt;/g14&gt;|
+|Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Upravovat zásilky lze pouze pokud jsou ve stavu &lt;g1&gt;Nová&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110531Z" creationid="kunes" creationdate="20220411T110531Z">
