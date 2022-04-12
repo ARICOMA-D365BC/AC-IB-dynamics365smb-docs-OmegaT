@@ -15,16 +15,17 @@ ms.author: v-makune
 
 Addon set to extend finance functionality for D365 Business Central
 
-|Viz|Také|  
-|-|-|
-|Sada rozšíření pro finance (Controling basic).|[Sada rozšíření pro Finance](ac-controling-basic.md)|
-|Insolvenční rejstřík je veřejný seznam, do kterého se zapisují zákonem stanovené údaje o subjektech, které v České republice procházejí insolvenčním řízením.|[Insolvenční rejstřík](ac-insolvence-register.md)|
-|Faktoring rozšiřuje možnosti oblasti Správa financí systému Dynamics 365 Business Central o možnost evidence a účtování postoupení pohledávek a vytváření faktoringových smluv.|[Faktoring](ac-factoring.md)|
-|Více úhrad rozšiřuje standard prodejních dokladů, kdy namísto jednoho způsobu platby je možné definovat více způsobů.|[Více úhrad](ac-multiple-payments.md)|
-|Fiskální tiskárny slouží k vytvoření a tisku pokladního dokladu na fiskální tiskárně firmy VAROS.|[Fiskální tiskárny](ac-fiscal-printers.md)|
-|Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|[Evidence obalů základ (EKOKOM)](ac-pack-tracking-basic.md)|
-|Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central. Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|[Evidence vratných obalů (Vratné obaly)](ac-pack-tracking-return-packing.md)|
-|Odstraněné funkce z AC Financial Pack|[Odstraněné funkce](ac-fp-deprecated-features.md)
+| See | Also |  
+| - | - |
+| Controlling basic extension set. |[Application extension set](ac-controling-basic.md)|
+The Insolvency Register is a public list that records statutory data on entities undergoing insolvency proceedings in the Czech Republic. |[Insolvency Register](ac-insolvence-register.md)|
+| Factoring extends the capabilities of the Dynamics 365 Business Central Financial Management area with the ability to record and post receivables assignment and create factoring contracts. |[Factoring](ac-factoring.md)|
+| Multiple payments extends the standard of sales documents, where instead of one method of payment it is possible to define more methods. |[Multiple payments](ac-multiple-payment-methods.md)|
+| Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer. |[Fiscal printers](ac-fiscal-printers.md)|
+| Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system. |[Pack Tracking Basic (EKOKOM)](ac-pack-tracking-basic.md)|
+Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central. Allows monitoring of the circulation of returnable packaging and pallet management. |[Pack Tracking - Returnable packaging](ac-pack-tracking-return-packing.md)|
+|List of Deprecated features|[Deprecated features](ac-fp-deprecated-features.md)|
+
 
 ## See also
 [AUTOCONT Solution](../index.md)  

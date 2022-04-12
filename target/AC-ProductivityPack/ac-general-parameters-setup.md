@@ -10,82 +10,82 @@ ms.workload: na
 ms.search.keywords: Czech, General parameters, additional functions
 ms.author: v-makune
 ---
-# Obecné parametry - Nastavení
-> Aktualizace 17.03.2022
+# General Parameters - Setup
+> Update 17.03.2022
 
-## Založení a nastavení obecných parametrů
+## Creating and setting up general parameters
 
-Pro založení číselníku obecných parametrů pokračujte tímto způsobem:
+To create a code list of general parameters, proceed as follows:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Obecné parametry** a poté vyberte související odkaz.
-2. Na přehledu vyberte funkci **Nový**.
-3. Zadejte **Kód** pro parametr, **Popis**, **Datový typ** a **Metodu zadávání**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameters** and then choose the related link.
+2. In the overview, select **New**.
+3. Enter the **Code** for the parameter, **Description**, **Data Type** and **Input Method**.
 
-![Přehled obecných parametrů](media/general_parameters_list.png)
+![Overview of general parameters](media/general_parameters_list.png)
 
 > [!NOTE]
-> Funkcionalita nabízí více možností, ale pro obecné parametry jsou vhodné následující datové typy **Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID**.
-> S použitím metody zadávání Tabulka souvisí naplnění polí ID tabulky a ID pole a s použitím metody zadávání Funkce souvisí naplnění ID funkce.
+> The functionality offers more options, but the following data types **Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID** are suitable for general parameters.
+> Using the Table input method is related to populating the Table ID and Field ID fields, and using the Function input method is related to populating the Function ID.
 
-### Defince hodnot parametrů
+### Define parameter values
 
-Pro definici hodnot parametrů postupujte následujícím způsobem:
+To define parameter values, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Obecné parametry** a poté vyberte související odkaz.
-2. Na přehledu vyberte parametr, kterému chcete nastavit hodnoty.
-3. Vyberte v sekci Související, ve skupině **Parametr** funkci **Hodnoty**.
-4. Otevře se okno pro zadání hodnot vybraného parametru, kde vyplníte řádky dle potřeby.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameters** and then choose the related link.
+2. In the overview, select the parameter for which you want to set values.
+3. In the Related section, select the **Values** function in the **Parameter** group.
+4. A window for entering the values of the selected parameter will open, where you will fill in the rows as needed.
 
-![Hodnoty obecných parametrů](media/general_parameters_values.png)
-
-
-Nastavení hodnot parametru je nezbytné zejména u parametrů s **Metodou zadávání – Výběr**. Je však možné hodnoty definovat i u parametrů zadávaných Ručním vstupem. Zde je kromě takto zadaných hodnot možné při vložení obecných parametrů zadat i libovolné jiné hodnoty. Hodnoty zadané v nastavení pak slouží pro zjednodušení zadávání.
-
-> ![Metoda zadávání - Výběr](media/general_parameters_values_lookup.png)
-
-### Definice překladů parametrů
-
-Pro definici překladů parametrů postupujte následujícím způsobem:
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Obecné parametry** a poté vyberte související odkaz.
-2. Na přehledu vyberte parametr, kterému chcete nastavit překlady.
-3. Vyberte v sekci Související, ve skupině **Parametr** funkci **Překlady**.
-4. Otevře se okno pro zadání překladů vybraného parametru, kde vyplníte **Kód jazyka** a **Popis** dle potřeby.
-
-![Překlady parametrů](media/general_parameters_values_translation.png)
+![General Parameter Values](media/general_parameters_values.png)
 
 
-### Definice překladů hodnot parametru
+Setting parameter values is necessary especially for parameters with **Input method - Selection**. However, it is also possible to define values for parameters entered by Manual input. Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters. The values entered in the settings are then used to simplify input.
 
-Pro definici překladů hodnot parametrů postupujte následujícím způsobem:
+> ![Input Method - Selection](media/general_parameters_values_lookup.png)
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Obecné parametry** a poté vyberte související odkaz.
-2. Na přehledu vyberte parametr, kterému chcete nastavit překlady.
-3. Vyberte v sekci Související, ve skupině **Hodnota** a na přehldu hodnot funkci **Překlady**.
-4. Otevře se okno pro zadání překladů hodnot vybraného parametru, kde vyplníte **Kód jazyka** a **Popis** dle potřeby.
+### Definition of parameter translations
 
-![Překlady hodnot parametru](media/general_parameters_values_translations_value.png)
+To define parameter translations, follow these steps:
 
-## Nastavení šablon obecných parametrů
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameters** and then choose the related link.
+2. In the report, select the parameter you want to set up translations for.
+3. In the Related section, in the **Parameter** group select **Translations**.
+4. A window will open for entering translations of the selected parameter, where you will fill in the **Language Code** and **Descriptionpis** as needed.
 
-Pro nastavení šablon obecných parametrů pro použití na vybraných entitách pokračujte následujícím způsobem:
+![Parameter translations](media/general_parameters_values_translation.png)
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony obecných parametrů** a poté vyberte související odkaz.
-2. Na přehledu vyberte funkci **Nový**.
-3. Zadejte **Název šablony**, **Popis** a **ID tabulky**.
 
-![Šablony obecných parametrů](media/general_parameters_templates.png)
+### Define translations of parameter values
 
-### Zadání parametrů pro vybranou šablonu
+To define translations of parameter values, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony obecných parametrů** a poté vyberte související odkaz.
-2. V seznamu šablon vyberte šablonu, pro kterou chcete zadávat parametry.
-3. Vyberte v sekci Související, ve skupině **Šablona** funkci **Parametry**.
-4. Otevře se okno vybrané šablony, kde můžete doplnit parametry. Dále můžete nastavit parametrům to, který bude jako výchozí hodnotou šablony, povinný nebo můžete určit prioritu.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameters** and then choose the related link.
+2. In the report, select the parameter you want to set up translations for.
+3. In the Related section, in the **Value** group, and select **Translations**.
+4. A window for entering translations of the values of the selected parameter will open, where you will fill in **the Language Code** and **Description** as needed.
 
-![Parametry šablony obecných parametrů](media/general_parameters_templates_values.png)
+![Parameter value translations](media/general_parameters_values_translations_value.png)
+
+## Set up general parameter templates
+
+To set up general parameter templates for use on selected entities, proceed as follows:
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameter Templates** and then choose the related link.
+2. In the overview, select **New**.
+3. Enter **Name**, **Description**, and **Table ID**.
+
+![General parameter template](media/general_parameters_templates.png)
+
+### Enter parameters for the selected template
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Parameter Templates** and then choose the related link.
+2. In the list of templates, select the template for which you want to enter parameters.
+3. In the Related section, in **Template** group, select **Parameters**.
+4. The selected template window opens, where you can add parameters. Additionally, you can set the parameters to be the default template, mandatory, or you can specify a priority.
+
+![General Parameters Template Parameters](media/general_parameters_templates_values.png)
 
 ## See also
 
-[Obecné parametry](ac-general-parameters.md)  
+[General Parameters](ac-general-parameters.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -12,20 +12,20 @@ ms.date: 01/31/2021
 ms.author: AC MartinKunes
 ---
 
-# Odstraněné funkce z AC Productivity Pack
+# Removed features from the AC Productivity Pack
 
-Tato stránka obsahuje seznam a popis funkcionalit, které byly odstraněny z AC Financial Packu.
+This page contains a list and description of features that have been removed from the AC Financial Pack.
 
-## název funkcionality
+## Functionality name
 
-S touto funkcionalitou bylo možné
+With this functionality it was possible
 
 - Text 1
 - Text 2
 
-| Přesunuto, Smazáno nebo Nahrazeno? | Proč? | Kdy? |
+| Moved, Deleted or Replaced? | Proč? | When? |
 |----|----|----|
-| Smazáno | Důvod proč je smázáno | od verze BC15 |
+| Deleted | Důvod proč je smázáno | from version BC15 |
 
 
 

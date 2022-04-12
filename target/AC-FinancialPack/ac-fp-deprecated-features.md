@@ -14,38 +14,38 @@ ms.author: AC MartinKunes
 
 # Odstraněné funkce z AC Financial Pack
 
-Tato stránka obsahuje seznam funkcionalit, které byly přesunuty, odstraněny nebo nahrazeny z AC Financial Packu.
+This page contains a list of features that have been moved, removed or replaced from the AC Financial Pack.
 
-## Viditelný poplatek
+## Visible fee
 
 
-| Přesunuto, Smazáno nebo Nahrazeno? | Kdy? |
+| Moved, Deleted or Replaced? | When? |
 |----|----|
-| Smazáno | od verze BC15 |
+| Deleted | from version BC15 |
 
 
-## Finance - Přenesená daňová povinnost
+## Finance - Tax liability transferred
 
 
-| Přesunuto, Smazáno nebo Nahrazeno? | Kdy? |
+| Moved, Deleted or Replaced? | When? |
 |----|----|
-| Smazáno | od verze BC15 |
+| Deleted | from version BC15 |
 
 
-## Skonto dobropisy pro CZ
+## Discount credits for CZ
 
 
-| Přesunuto, Smazáno nebo Nahrazeno? | Kdy? |
+| Moved, Deleted or Replaced? | When? |
 |----|----|
-| Nahrazeno | od verze BC15 |
+| Replaced | from version BC15 |
 
-Protože byla z CZ lokalizace vypuštěna základní funkcionalita pro tvorbu prodejních skonto dobropisů, není již rozšiřující funkcionalita součástí modulu Sada rozšíření aplikace.
+Since the basic functionality for creating sales credit notes has been omitted from the CZ localization, the extended functionality is no longer part of the Application Extension Set module.
 
-## Spotřební daň
+## Excise duty
 
-| Přesunuto, Smazáno nebo Nahrazeno? | Kdy? |
+| Moved, Deleted or Replaced? | When? |
 |----|----|
-| Smazáno | od verze BC15 |
+| Deleted | from version BC15 |
 
 ## See also
 [Financial Pack](ac-finance-pack.md)

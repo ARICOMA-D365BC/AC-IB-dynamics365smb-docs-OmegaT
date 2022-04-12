@@ -31,7 +31,7 @@ Prvky ve výkazu lze seskupovat do pozic na výkazu. Celkem lze definovat 10 poz
 
 Pole formuláře Definice prvků výkazu obalů:
 
-| Pole | Popis |
+| Pole | Description |
 |---------------|---------------|  
 | **Kód pro vykazování** | Kód výkazu založeného v předchozím kroku |
 | **Pozice** | Uživatelem určená skupina prvků výkazu |
@@ -42,7 +42,7 @@ Pole formuláře Definice prvků výkazu obalů:
 
 Lze tak například vytvořit tabulku s těmito hodnotami:
 
-| Kód pro vykazování | Pozice | Kód | Popis |
+| Kód pro vykazování | Pozice | Code | Description |
 |----------|----------|----------|----------|
 | EKO-KOM | P1 | 1 | Obaly pro jedno použití |
 | EKO-KOM | P1 | 2 | Obaly pro opakované použití |
@@ -56,7 +56,7 @@ Definice vlastního výkazu se provádí založením prvků Výkazu obalů. Pomo
 
 Záznam stránky **Prvky výkazu obalů** tak může vypadat třeba takto:
 
-| Kód pro vykazování | Kód | Popis |
+| Kód pro vykazování | Code | Description |
 |---------------|---------------|---------------|
 | EKO-KOM | 13 | Obaly pro jedno použití neplacené |
 
