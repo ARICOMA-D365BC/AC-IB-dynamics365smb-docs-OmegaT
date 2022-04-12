@@ -5963,7 +5963,7 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|&lt;g7&gt;Evidence obalů základ (EKOKOM)&lt;/g7&gt;|
 |Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T140709Z" creationid="Janousek" creationdate="20220412T135359Z">
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T141053Z" creationid="Janousek" creationdate="20220412T135359Z">
         <seg>|See| Also|&lt;x1/&gt;
 |-|-|
 |Extension set for finance.|&lt;g2&gt;Extension set for finance&lt;/g2&gt;|
@@ -5972,7 +5972,7 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |Multiple payments extends the standard of sales documents, where instead of one method of payment it is possible to define more methods.|&lt;g5&gt;Multiple payments&lt;/g5&gt;|
 |Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer.|&lt;g6&gt;Fiscal printers&lt;/g6&gt;|
 |Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system.|&lt;g7&gt;Pack Tracking Basic (EKOKOM)&lt;/g7&gt;|
-|Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central. Allows monitoring of the circulation of returnable packaging and pallet management.Pack Tracking - Returnable packagingList of Deprecated featuresDeprecated features</seg>
+|</seg>
       </tuv>
     </tu>
     <tu>
