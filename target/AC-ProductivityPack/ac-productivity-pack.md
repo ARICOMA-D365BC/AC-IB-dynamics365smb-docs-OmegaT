@@ -36,6 +36,6 @@ Set of addons to extend the functionality of the operational part of the system 
 
 
 ## See also
-[AUTOCONT Solution](../index.md)<x2 />
-[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)<x4 />
+[AUTOCONT Solution](../index.md)  
+[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  
 [Slovak Legislative Pack](../AC-SK/ac-sk-legislative-pack.md)
