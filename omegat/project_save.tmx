@@ -4401,6 +4401,16 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|&lt;g15&gt;AC Parcels - Integrace Balíkobot&lt;/g15&gt;|
+|Funkcionalita umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.|&lt;g16&gt;AC Monetizace&lt;/g16&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T144929Z" creationid="Janousek" creationdate="20220412T144929Z">
+        <seg>Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|&lt;g15&gt;AC Parcels - Integrace Balíkobot&lt;/g15&gt;|
+|Funkcionalita umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.|&lt;g16&gt;AC Monetizace&lt;/g16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Slovenská pošta</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -4762,9 +4772,9 @@ These data are updated manually using the "Resynchronize master data" function.<
         <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|&lt;g14&gt;Správa upozornění&lt;/g14&gt;|
 |Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T144645Z" creationid="Janousek" creationdate="20220412T144645Z">
-        <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|&lt;g14&gt;Správa upozornění&lt;/g14&gt;|
-|Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek.</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T144927Z" creationid="Janousek" creationdate="20220412T144645Z">
+        <seg>Notification works both internally in the system environment and externally by e-mail.|&lt;g14&gt;Managing notifications&lt;/g14&gt;|
+|The Parcels module is a solution for creating, recording and dispatching packages.</seg>
       </tuv>
     </tu>
     <tu>
