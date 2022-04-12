@@ -169,6 +169,18 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T145348Z" creationid="Janousek" creationdate="20220412T145348Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2 /&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4 /&gt;
+&lt;g5&gt;Slovak Legislative Pack&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
       </tuv>
@@ -4404,9 +4416,9 @@ These data are updated manually using the "Resynchronize master data" function.<
         <seg>Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|&lt;g15&gt;AC Parcels - Integrace Balíkobot&lt;/g15&gt;|
 |Funkcionalita umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.|&lt;g16&gt;AC Monetizace&lt;/g16&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T144929Z" creationid="Janousek" creationdate="20220412T144929Z">
-        <seg>Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|&lt;g15&gt;AC Parcels - Integrace Balíkobot&lt;/g15&gt;|
-|Funkcionalita umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.|&lt;g16&gt;AC Monetizace&lt;/g16&gt;</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T145227Z" creationid="Janousek" creationdate="20220412T144929Z">
+        <seg>It is used for direct printing of selected carriers' labels on shipments, sending shipment data to the carrier, ordering the actual collection and tracking package statuses.|&lt;g15&gt;AC Parcels - Balíkobot Integration&lt;/g15&gt;|
+|Functionality enabling the user to manage AUTOCONT product subscriptions in the Business Central environment.|&lt;g16&gt;AC Monetization&lt;/g16&gt;</seg>
       </tuv>
     </tu>
     <tu>
