@@ -5687,6 +5687,24 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Způsob (jaké tabulky, pole) a směr synchronizace jsou v NAV parametrizovatelné.|&lt;g9&gt;Centrální číselníky&lt;/g9&gt;|
+|Obecné parametry umožňuje přidat ke kartám v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.|&lt;g10&gt;Obecné parametry&lt;/g10&gt;|
+|HelpDesk rozšiřuje možnosti systému Dynamics 365 Business Central o centralizovanou evidenci, řízení a vyhodnocování požadavků.|&lt;g11&gt;HelpDesk&lt;/g11&gt;|
+|Modul Datové schránky poskytuje podporu pro správu datových schránek ve smyslu zákona 300/2008 Sb. o elektronických úkonech a následujících vyhlášek.|&lt;g12&gt;Datové schránky&lt;/g12&gt;|
+|Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.|&lt;g13&gt;Rozšíření fronty úloh (Job Queue)&lt;/g13&gt;|
+|Správa upozornění umožňuje systémové upozorňování na stavy dat a procesů evidovaných v systému Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T143819Z" creationid="Janousek" creationdate="20220412T143819Z">
+        <seg>Způsob (jaké tabulky, pole) a směr synchronizace jsou v NAV parametrizovatelné.|&lt;g9&gt;Centrální číselníky&lt;/g9&gt;|
+|Obecné parametry umožňuje přidat ke kartám v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.|&lt;g10&gt;Obecné parametry&lt;/g10&gt;|
+|HelpDesk rozšiřuje možnosti systému Dynamics 365 Business Central o centralizovanou evidenci, řízení a vyhodnocování požadavků.|&lt;g11&gt;HelpDesk&lt;/g11&gt;|
+|Modul Datové schránky poskytuje podporu pro správu datových schránek ve smyslu zákona 300/2008 Sb. o elektronických úkonech a následujících vyhlášek.|&lt;g12&gt;Datové schránky&lt;/g12&gt;|
+|Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.|&lt;g13&gt;Rozšíření fronty úloh (Job Queue)&lt;/g13&gt;|
+|Správa upozornění umožňuje systémové upozorňování na stavy dat a procesů evidovaných v systému Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Způsoby platby</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081550Z" creationid="kunes" creationdate="20220404T081550Z">
