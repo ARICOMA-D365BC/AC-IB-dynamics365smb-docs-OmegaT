@@ -36,6 +36,6 @@ Addon set to extend finance functionality for D365 Business Central.
 
 
 ## See also
-[AUTOCONT Řešení](../index.md)  
-[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  
+[AUTOCONT Solution](../index.md)<x2 />
+[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)<x4 />
 [Slovak Legislative Pack](../AC-SK/ac-sk-legislative-pack.md)
