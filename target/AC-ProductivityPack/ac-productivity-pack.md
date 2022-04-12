@@ -13,7 +13,7 @@ ms.author: v-makune
 
 # [přibližně]<g1>AC Productivity Pack</g1>
 
-Addon set to extend finance functionality for D365 Business Central.
+Set of addons to extend the functionality of the operational part of the system for D365 Business Central.
 
 |See|Also|
 |-|-|
