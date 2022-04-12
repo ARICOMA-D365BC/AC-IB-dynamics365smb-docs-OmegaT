@@ -170,6 +170,18 @@ The module forms the basis for supporting retail sales in the form of Cash&amp;C
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Slovak Legislative Pack&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T150500Z" creationid="Janousek" creationdate="20220412T150500Z">
+        <seg>&lt;g1&gt;AUTOCONT Solution&lt;/g1&gt;&lt;x2 /&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4 /&gt;
+&lt;g5&gt;Slovak Legislative Pack&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Slovak Legistive Pack&lt;/g5&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220412T145348Z" creationid="Janousek" creationdate="20220412T145348Z">
