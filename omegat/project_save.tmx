@@ -4149,6 +4149,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Publikování úkolů - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T145352Z" creationid="Janousek" creationdate="20220412T145352Z">
+        <seg>Publikování úkolů - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Před tím, než budete moci používat funkcionality více způsobů plateb ve vašich obchodních procesech, musíte provést základní nastavení modulu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
