@@ -4085,6 +4085,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Productivity Extension - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T150040Z" creationid="Janousek" creationdate="20220412T150040Z">
+        <seg>Productivity Extension - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Protiúčtem může být finanční účet či bankovní účet, nicméně nejčastěji se používá karta pokladny.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081936Z" creationid="kunes" creationdate="20220404T081936Z">
