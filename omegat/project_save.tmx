@@ -4371,8 +4371,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Sada addonů pro rozšíření funkcionalit provozní části systému pro D365 Business Central</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T142321Z" creationid="Janousek" creationdate="20220412T142321Z">
-        <seg>Addon set to extend finance functionality for D365 Business Central.</seg>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T150752Z" creationid="Janousek" creationdate="20220412T142321Z">
+        <seg>Set of addons to extend the functionality of the operational part of the system for D365 Business Central.</seg>
       </tuv>
     </tu>
     <tu>
