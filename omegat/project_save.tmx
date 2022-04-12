@@ -4713,6 +4713,16 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|
+|Odstraněné funkce z AC Financial Pack|&lt;g9&gt;Odstraněné funkce&lt;/g9&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T141003Z" creationid="Janousek" creationdate="20220412T141003Z">
+        <seg>Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central. Allows monitoring of the circulation of returnable packaging and pallet management.|&lt;g8&gt;Pack Tracking - Returnable packaging&lt;/g8&gt;|
+|List of Deprecated features|&lt;g9&gt;Deprecated features&lt;/g9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Upravovat zásilky lze pouze pokud jsou ve stavu &lt;g1&gt;Nová&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110531Z" creationid="kunes" creationdate="20220411T110531Z">
@@ -5953,7 +5963,7 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |Evidence obalů umožňuje automaticky evidovat a vykazovat množství obalového materiálu či jiných množstevních údajů v souvislosti s pohyby zboží v systému.|&lt;g7&gt;Evidence obalů základ (EKOKOM)&lt;/g7&gt;|
 |Evidence vratných obalů je rozšířením modulu Zásoby systému Dynamics 365 Business Central.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T135359Z" creationid="Janousek" creationdate="20220412T135359Z">
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T140709Z" creationid="Janousek" creationdate="20220412T135359Z">
         <seg>|See| Also|&lt;x1/&gt;
 |-|-|
 |Extension set for finance.|&lt;g2&gt;Extension set for finance&lt;/g2&gt;|
@@ -5962,7 +5972,7 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |Multiple payments extends the standard of sales documents, where instead of one method of payment it is possible to define more methods.|&lt;g5&gt;Multiple payments&lt;/g5&gt;|
 |Fiscal printers are used to create and print a cash receipt on a VAROS fiscal printer.|&lt;g6&gt;Fiscal printers&lt;/g6&gt;|
 |Packaging records make it possible to automatically record and report the amount of packaging material or other quantitative data in connection with the movements of goods in the system.|&lt;g7&gt;Pack Tracking Basic (EKOKOM)&lt;/g7&gt;|
-|.</seg>
+|Returnable packaging records are an extension of the Inventory module in Dynamics 365 Business Central. Allows monitoring of the circulation of returnable packaging and pallet management.Pack Tracking - Returnable packagingList of Deprecated featuresDeprecated features</seg>
       </tuv>
     </tu>
     <tu>
