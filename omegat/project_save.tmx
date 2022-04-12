@@ -5873,6 +5873,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>|Viz|Také|
 |-|-|
+|Elektronická fakturace slouží k moderní bezpapírové výměně daňových dokladů se zákazníkem.|&lt;g1&gt;Elektronická fakturace&lt;/g1&gt;|
+|Evidence pošty umožňuje evidovat a řídit schvalování došlých i odesílaných „papírových“ dokumentů přímo v systému Dynamics 365 Business Central.|&lt;g2&gt;Evidence pošty&lt;/g2&gt;|
+|Reklamace slouží k evidenci reklamací zboží prodaného i nakoupeného.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T142630Z" creationid="Janousek" creationdate="20220412T142630Z">
+        <seg>|See|Also|
+|-|-|
+|Electronic invoicing is used for modern paperless exchange of tax documents with the customer.|&lt;g1&gt;Electronic invoicing &lt;/g1&gt;|
+|Mail records allow you to record and manage the approval of incoming and outgoing "paper" documents directly in Dynamics 365 Business Central.|&lt;g2&gt;Mail records&lt;/g2&gt;|
+|Complaints are used to record complaints about items sold and purchased.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>|Viz|Také|
+|-|-|
 |Export statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g1&gt;Rozvaha a výkaz zisku zrát&lt;/g1&gt;|
 |Nastavení exportu statutárních výkazů - Rozvaha a Výkaz zisků a ztrát.|&lt;g2&gt;Statutární výkazy - nastavení&lt;/g2&gt;|
 |Zpracování a export Výkazu DPH.|&lt;g3&gt;Výkaz DPH&lt;/g3&gt;|
