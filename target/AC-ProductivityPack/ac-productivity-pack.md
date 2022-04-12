@@ -11,31 +11,31 @@ ms.search.keywords: Czech, productivity, additional functions, sale, warehouse, 
 ms.author: v-makune
 ---
 
-# AC Productivity Pack
+# [přibližně]<g1>AC Productivity Pack</g1>
 
-Sada addonů pro rozšíření funkcionalit provozní části systému pro D365 Business Central
+Addon set to extend finance functionality for D365 Business Central.
 
-|Viz|Také|
+|See|Also|
 |-|-|
-|Elektronická fakturace slouží k moderní bezpapírové výměně daňových dokladů se zákazníkem.|[Elektronická fakturace](ac-elektronic-dokuments.md)|
-|Evidence pošty umožňuje evidovat a řídit schvalování došlých i odesílaných „papírových“ dokumentů přímo v systému Dynamics 365 Business Central.|[Evidence pošty](ac-incoming-mail.md)|
-|Reklamace slouží k evidenci reklamací zboží prodaného i nakoupeného. Také umožňuje evidovat interní reklamace.|[Reklamace](ac-complaints-management.md)|
-|Modul Doprava – základ řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).|[Doprava - základ](ac-transport-basic.md)|
-|Modul Doprava – plánování rozšiřuje základní modul dopravy zejména o řízení a plánování jízd pomocí příkazů k jízdě a pomocí pultu dispečera dopravy.|[Doprava - plánování](ac-transport-planning.md)|
-|Modul Workflow – řízení stavů přidává do systému Dynamics 365 Business Central nástroje pro řízení stavů při postupném zpracování úloh jedním či více uživateli.|[WorkFlow - řízení stavů](ac-workflow-status-management.md)|
-|Publikování SharePoint umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat dokumenty v centrálním datovém úložišti SharePoint, souborovém systému či databázi Dynamics 365 Business Central a propojit je se záznamy v tabulkách informačního systému.|[Publikování SharePoint](ac-sharepoint-publisher.md)|
-|Komponenta zabezpečující on-line nebo pravidelnou periodickou obousměrnou komunikaci či synchronizaci dat mezi systémem Dynamics 365 Business Central a jinými systémy prostřednictvím různých komunikačních kanálů, v různých formátech a za libovolným účelem.|[Spooler](ac-spooler.md)|
-|Centrální číselníky umožňují pomocí add-onu Spooler synchronizovat číselníky mezi různými NAV databázemi a společnostmi. Způsob (jaké tabulky, pole) a směr synchronizace jsou v NAV parametrizovatelné.|[Centrální číselníky](ac-centraldatabase.md)|
-|Obecné parametry umožňuje přidat ke kartám v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.|[Obecné parametry](ac-general-parameters.md)|
-|HelpDesk rozšiřuje možnosti systému Dynamics 365 Business Central o centralizovanou evidenci, řízení a vyhodnocování požadavků.|[HelpDesk](ac-helpdesk.md)|
-|Modul Datové schránky poskytuje podporu pro správu datových schránek ve smyslu zákona 300/2008 Sb. o elektronických úkonech a následujících vyhlášek.|[Datové schránky](ac-data-boxes.md)|
-|Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.|[Rozšíření fronty úloh (Job Queue)](ac-job-queue-extension.md)|
-|Správa upozornění umožňuje systémové upozorňování na stavy dat a procesů evidovaných v systému Dynamics 365 Business Central. Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|[Správa upozornění](ac-notifications.md)|
-|Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek. Slouží k přímému tisku štítků vybraných dopravců na zásilky, odesílání dat o zásilkách přepravci, objednání samotného svozu a sledování stavů balíků.|[AC Parcels - Integrace Balíkobot](ac-parcels.md)|
-|Funkcionalita umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.|[AC Monetizace](ac-monetization.md)
+|Electronic invoicing is used for modern paperless exchange of tax documents with the customer.|[Electronic invoicing ](ac-elektronic-dokuments.md)|
+|Mail records allow you to record and manage the approval of incoming and outgoing "paper" documents directly in Dynamics 365 Business Central.|[Mail records](ac-incoming-mail.md)|
+|Complaints are used to record complaints about items sold and purchased. It also allows you to record internal complaints.|[Complaints](ac-complaints-management.md)|
+|The Transport - Basic module deals with vehicle records, vehicle maintenance planning, driver records, logbook records and fuel consumption records (including the ability to import files on fuel card purchases, e.g. CCS).|[Transport - basic](ac-transport-basic.md)|
+|The Transport - Planning module extends the basic transport module, in particular by controlling and planning journeys by means of travel orders and the transport dispatcher console.|[Transport - Planning](ac-transport-planning.md)|
+|The State Management module adds state management tools to Dynamics 365 Business Central to manage the sequential processing of jobs by one or more users.|[State control](ac-workflow-status-management.md)|
+|SharePoint Publishing allows you to publish documents directly from within Dynamics 365 Business Central to a central SharePoint data store, file system, or Dynamics 365 Business Central database and link them to records in information system tables.|[SharePoint publishing](ac-sharepoint-publisher.md)|
+|A component that provides on-line or periodic bi-directional communication or synchronization of data between Dynamics 365 Business Central and other systems through different communication channels, in different formats, and for any purpose.|[Spooler](ac-spooler.md)|
+|Central Database allow you to synchronize data between different Business Central databases and companies via the Spooler add-on module. The method (which tables, fields) and direction of synchronization are configurable in Business Central.|[Central Database](ac-centraldatabase.md)|
+|General Parameters allows you to add unlimited new parameters to cards in Dynamics 365 Business Central for detailed sorting and filtering purposes.|[General parameters](ac-general-parameters.md)|
+|HelpDesk extends the capabilities of Dynamics 365 Business Central with centralised recording, management and evaluation of requests.|[HelpDesk](ac-helpdesk.md)|
+|The Data boxes module provides support for the management of data boxes within the meaning of Act 300/2008 Coll. on electronic acts and the following directives.|[Data boxes ](ac-data-boxes.md)|
+|The Job Queue Extension is an additional module that allows you to define the parameters for starting a job and the actions performed when a job starts, succeeds or fails, such as sending a notification email.|[Job Queue Extension](ac-job-queue-extension.md)|
+|Notifications management enables system notifications of data and process statuses recorded in Dynamics 365 Business Central. Notification works both internally in the system environment and externally by e-mail.|[Managing notifications](ac-notifications.md)|
+|The Parcels module is a solution for creating, recording and dispatching packages. It is used for direct printing of selected carriers' labels on shipments, sending shipment data to the carrier, ordering the actual collection and tracking package statuses.|[AC Parcels - Balíkobot Integration](ac-parcels.md)|
+|Functionality enabling the user to manage AUTOCONT product subscriptions in the Business Central environment.|[AC Monetization](ac-monetization.md)
 
 
 ## See also
-[AUTOCONT Řešení](../index.md)  
-[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)  
-[Slovak Legistive Pack](../AC-SK/ac-sk-legislative-pack.md)
+[AUTOCONT Solution](../index.md)<x2 />
+[Financial Pack](../AC-FinancialPack/ac-finance-pack.md)<x4 />
+[Slovak Legislative Pack](../AC-SK/ac-sk-legislative-pack.md)
