@@ -4561,6 +4561,26 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Také umožňuje evidovat interní reklamace.|&lt;g3&gt;Reklamace&lt;/g3&gt;|
+|Modul Doprava – základ řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).|&lt;g4&gt;Doprava - základ&lt;/g4&gt;|
+|Modul Doprava – plánování rozšiřuje základní modul dopravy zejména o řízení a plánování jízd pomocí příkazů k jízdě a pomocí pultu dispečera dopravy.|&lt;g5&gt;Doprava - plánování&lt;/g5&gt;|
+|Modul Workflow – řízení stavů přidává do systému Dynamics 365 Business Central nástroje pro řízení stavů při postupném zpracování úloh jedním či více uživateli.|&lt;g6&gt;WorkFlow - řízení stavů&lt;/g6&gt;|
+|Publikování SharePoint umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat dokumenty v centrálním datovém úložišti SharePoint, souborovém systému či databázi Dynamics 365 Business Central a propojit je se záznamy v tabulkách informačního systému.|&lt;g7&gt;Publikování SharePoint&lt;/g7&gt;|
+|Komponenta zabezpečující on-line nebo pravidelnou periodickou obousměrnou komunikaci či synchronizaci dat mezi systémem Dynamics 365 Business Central a jinými systémy prostřednictvím různých komunikačních kanálů, v různých formátech a za libovolným účelem.|&lt;g8&gt;Spooler&lt;/g8&gt;|
+|Centrální číselníky umožňují pomocí add-onu Spooler synchronizovat číselníky mezi různými NAV databázemi a společnostmi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Janousek" changedate="20220412T143805Z" creationid="Janousek" creationdate="20220412T143805Z">
+        <seg>It also allows you to record internal complaints.|&lt;g3&gt;Complaints&lt;/g3&gt;|
+|The Transport - Basic module deals with vehicle records, vehicle maintenance planning, driver records, logbook records and fuel consumption records (including the ability to import files on fuel card purchases, e.g. CCS).|&lt;g4&gt;Transport - basic&lt;/g4&gt;|
+|The Transport - Planning module extends the basic transport module, in particular by controlling and planning journeys by means of travel orders and the transport dispatcher console.|&lt;g5&gt;Transport - Planning&lt;/g5&gt;|
+|The State Management module adds state management tools to Dynamics 365 Business Central to manage the sequential processing of jobs by one or more users.|&lt;g6&gt;State control&lt;/g6&gt;|
+|SharePoint Publishing allows you to publish documents directly from within Dynamics 365 Business Central to a central SharePoint data store, file system, or Dynamics 365 Business Central database and link them to records in information system tables.|&lt;g7&gt;SharePoint publishing&lt;/g7&gt;|
+|A component that provides on-line or periodic bi-directional communication or synchronization of data between Dynamics 365 Business Central and other systems through different communication channels, in different formats, and for any purpose.|&lt;g8&gt;Spooler&lt;/g8&gt;|
+|Central Database allow you to synchronize data between different Business Central databases and companies via the Spooler add-on module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato nápověda Vám pomůže nastavit Business Central do slovenského jazyka.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160703Z" creationid="Janousek" creationdate="20220331T160703Z">
