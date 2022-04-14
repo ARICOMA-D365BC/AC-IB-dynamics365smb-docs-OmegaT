@@ -53,6 +53,16 @@ Ff you do not enter a cash amount, you must enter amounts in the rows exactly up
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pro zobrazení informačního okna použijte funkci přizpůsobit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101040Z" creationid="kunes" creationdate="20220414T101040Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Use the customize function to display the information window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Stejný postup je použit jak pro vložení, tak i pro změnu parametrů nebo hodnot obecných parametrů daného záznamu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123234Z" creationid="kunes" creationdate="20220405T123224Z">
@@ -68,6 +78,16 @@ Modul tvoří základ pro podporu maloobchodního prodeje formou Cash&amp;Carry.
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115508Z" creationid="kunes" creationdate="20220401T115508Z">
         <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
 The module forms the basis for supporting retail sales in the form of Cash&amp;Carry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
+Uvedená změna je nevratná a změna stavu CreditCheck (nové označení) se provede pouze v případě, že u uvedeného partnera byl zjištěn nový problém.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101257Z" creationid="kunes" creationdate="20220414T101257Z">
+        <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
+The stated change is irreversible and the change of the CreditCheck status (new designation) will be made only if a new problem has been detected with the specified partner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1350,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Spuštění webových zdrojů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101147Z" creationid="kunes" creationdate="20220414T101147Z">
+        <seg>&lt;x1/&gt;Launch Web Resources&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Vytvoření objednávky&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104508Z" creationid="kunes" creationdate="20220407T104508Z">
@@ -1900,6 +1928,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Důvodem může být to, že si uživatel tohoto partnera zkontroloval a problém pro který má uvedený tento stav, nepovažuje za důležité, proto provede jeho zrušení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101239Z" creationid="kunes" creationdate="20220414T101239Z">
+        <seg>The reason may be that the user has checked this partner and does not consider the issue for which this condition is listed to be important, so he will cancel it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112444Z" creationid="Janousek" creationdate="20210603T112444Z">
@@ -2188,6 +2224,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hierarchický návrh cen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101307Z" creationid="kunes" creationdate="20220414T101307Z">
+        <seg>Hierarchical proposal of prices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hlavička zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105109Z" creationid="kunes" creationdate="20220407T105109Z">
@@ -2368,6 +2412,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110432Z" creationid="kunes" creationdate="20220407T110432Z">
         <seg>One way is to create a shipment from a delivery note or a charged invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jestliže má uživatel v nastavení zaškrtnut  boolean „&lt;g1&gt;Povolit změnu stavu CreditCheck&lt;/g1&gt;“ pak na kartě kontaktu může pomocí funkce „Zrušit stav CreditCheck“ provést zrušení naimportovaného stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101231Z" creationid="kunes" creationdate="20220414T101231Z">
+        <seg>If the user has the "&lt;g1&gt;Allow change of CreditCheck status&lt;/g1&gt;“ boolean checked in the settings, then he can cancel the imported status on the contact card using the "Cancel CreditCheck status" function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +2988,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122307Z" creationid="kunes" creationdate="20220401T122307Z">
         <seg>Find the relevant document and open its card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Např. že se nyní dostal navíc i do insolvenčního řízení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101259Z" creationid="kunes" creationdate="20220414T101259Z">
+        <seg>E.g. that he now also went into insolvency proceedings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4651,6 +4711,30 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spuštění se provede kliknutím na ikonu stavu CreditCheck (semafor).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101105Z" creationid="kunes" creationdate="20220414T101105Z">
+        <seg>To start, click on the CreditCheck status icon (traffic light).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spuštění webových zdrojů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101050Z" creationid="kunes" creationdate="20220414T101050Z">
+        <seg>Launch web resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spuštění webových zdrojů kontaktu je nyní umožněno také na kartě dodavatele/zákazníka a také na souvisejících dokladech (nabídka, objednávka, faktura, pokladní doklad, příkaz k úhradě).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101058Z" creationid="kunes" creationdate="20220414T101058Z">
+        <seg>Launching the contact's web resources is now also possible on the vendor / customer card and also on related documents (quotation, order, invoice, cash receipt, payment order).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spuštěním akce Nový vytvořte nový doklad.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124423Z" creationid="kunes" creationdate="20220401T124423Z">
@@ -4671,6 +4755,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101005Z" creationid="kunes" creationdate="20220414T101005Z">
         <seg>CreditCheck status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stažené informace o bonitě zákazníka CreditCheck ERP (do bonity patří i info o nespolehlivém plátci DPH) jsou na kartě dodavatele zobrazeny v Informačním okně Hodnocení dodavatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101034Z" creationid="kunes" creationdate="20220414T101034Z">
+        <seg>Downloaded information about the creditworthiness of the CreditCheck ERP customer (creditworthiness also includes information about an unreliable VAT payer) is displayed on the supplier's card in the Supplier Evaluation Information Window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5883,6 +5975,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zobrazí se tento formulář:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101138Z" creationid="kunes" creationdate="20220414T101138Z">
+        <seg>This form will appear:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Způsob (jaké tabulky, pole) a směr synchronizace jsou v NAV parametrizovatelné.|&lt;g9&gt;Centrální číselníky&lt;/g9&gt;|
 |Obecné parametry umožňuje přidat ke kartám v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.|&lt;g10&gt;Obecné parametry&lt;/g10&gt;|
 |HelpDesk rozšiřuje možnosti systému Dynamics 365 Business Central o centralizovanou evidenci, řízení a vyhodnocování požadavků.|&lt;g11&gt;HelpDesk&lt;/g11&gt;|
@@ -5905,6 +6005,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081550Z" creationid="kunes" creationdate="20220404T081550Z">
         <seg>Payment Methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zrušení stavu CreditCheck</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101154Z" creationid="kunes" creationdate="20220414T101154Z">
+        <seg>Cancel CreditCheck status</seg>
       </tuv>
     </tu>
     <tu>
