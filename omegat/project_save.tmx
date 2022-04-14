@@ -1980,6 +1980,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Factoring - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T075515Z" creationid="kunes" creationdate="20220414T075515Z">
+        <seg>Factoring - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Faktoring</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111925Z" creationid="Janousek" creationdate="20210603T111925Z">
@@ -2968,6 +2976,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114953Z" creationid="kunes" creationdate="20220411T114953Z">
         <seg>Location Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení modulu Správa upozornění</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T075547Z" creationid="kunes" creationdate="20220414T075547Z">
+        <seg>Nastavení modulu Správa upozornění</seg>
       </tuv>
     </tu>
     <tu>
@@ -4165,6 +4181,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123109Z" creationid="kunes" creationdate="20220405T123109Z">
         <seg>General Parameters Insertion Wizard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikační šablony</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T075533Z" creationid="kunes" creationdate="20220414T075533Z">
+        <seg>Publikační šablony</seg>
       </tuv>
     </tu>
     <tu>
