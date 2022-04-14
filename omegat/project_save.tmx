@@ -1270,6 +1270,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Účtování prodejní faktury s platebním kalendářem&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101623Z" creationid="kunes" creationdate="20220414T101623Z">
+        <seg>&lt;g1&gt;Posting a sales invoice with a payment calendar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Čísla zásilek&lt;/g1&gt; - Číselná řada pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
@@ -1864,6 +1872,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Definujte počet dílčích plateb a systém dopočte pole s částkami plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101750Z" creationid="kunes" creationdate="20220414T101750Z">
+        <seg>Define the number of partial payments and the system will calculate the fields with the amounts of payments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole Číslená řada vyberte patřičnou číselnou řadu pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115250Z" creationid="kunes" creationdate="20220411T115250Z">
@@ -1892,6 +1908,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104833Z" creationid="kunes" creationdate="20220407T104833Z">
         <seg>Delivery to the floor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Doplňte &lt;g1&gt;Datum splatnosti&lt;/g1&gt; první platby a datumový vzorec do pole Perioda plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101817Z" creationid="kunes" creationdate="20220414T101817Z">
+        <seg>Fill in the &lt;g1&gt;Due date of the first payment&lt;/g1&gt; and the date formula in the Payment period field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,6 +3626,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Platební kalendář je možné definovat na neúčtovaném dokladu, ale i dodatečně na zaúčtovaném dokladu v měnu dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101614Z" creationid="kunes" creationdate="20220414T101614Z">
+        <seg>The payment calendar can be defined on an unposted document, but also ad-ditionally on a posted document in the document currency.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Platební místa</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081727Z" creationid="kunes" creationdate="20220404T081604Z">
@@ -3894,6 +3926,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poslední platbu systém dopočte do celkové výše faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101756Z" creationid="kunes" creationdate="20220414T101756Z">
+        <seg>The system will add the last payment to the total invoice amount.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,10 +4839,26 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spusťte akci &lt;g1&gt;Platební kalendář&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101724Z" creationid="kunes" creationdate="20220414T101724Z">
+        <seg>Start the &lt;g1&gt;Payment Calendar&lt;/g1&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spusťte akci Registrovat EET.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124651Z" creationid="kunes" creationdate="20220401T124651Z">
         <seg>Start the Register EET action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spusťte funkci &lt;g1&gt;Generovat platby&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101742Z" creationid="kunes" creationdate="20220414T101742Z">
+        <seg>Start the &lt;g1&gt;Generate Payments&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,6 +5111,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122054Z" creationid="kunes" creationdate="20220401T122054Z">
         <seg>Choose &lt;g1&gt;Close&lt;/g1&gt; to close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; spusťe generování návrhu platebního kalendáře.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101832Z" creationid="kunes" creationdate="20220414T101832Z">
+        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to close the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5639,6 +5703,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktur&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101631Z" creationid="kunes" creationdate="20220414T101631Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktury&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
@@ -5863,6 +5935,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vytvořený platební kalendář můžete ještě ručně upravit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101914Z" creationid="kunes" creationdate="20220414T101914Z">
+        <seg>Vytvořený platební kalendář můžete ještě ručně upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vytvořte novou prodejní fakturu dle vašich zvyklostí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T120102Z" creationid="kunes" creationdate="20220401T120029Z">
@@ -5963,6 +6043,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082041Z" creationid="kunes" creationdate="20220404T082041Z">
         <seg>There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Datum splatnosti&lt;/g1&gt; definujte nejzašší datum pro platební kalendář.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101655Z" creationid="kunes" creationdate="20220414T101655Z">
+        <seg>In the &lt;g1&gt;Due date&lt;/g1&gt; field define the latest date for the payment schedule.</seg>
       </tuv>
     </tu>
     <tu>
