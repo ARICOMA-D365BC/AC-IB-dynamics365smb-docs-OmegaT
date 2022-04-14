@@ -4419,8 +4419,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Sada rozšíření pro Finance</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220412T134143Z" creationid="Janousek" creationdate="20220412T134143Z">
-        <seg>Sada rozšíření pro Finance</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100702Z" creationid="Janousek" creationdate="20220412T134143Z">
+        <seg>Application extension set</seg>
       </tuv>
     </tu>
     <tu>
