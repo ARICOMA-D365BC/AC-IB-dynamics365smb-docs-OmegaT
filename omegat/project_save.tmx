@@ -1962,6 +1962,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doplňte &lt;g1&gt;Poslední datum splatnosti&lt;/g1&gt; a &lt;g2&gt;Částku k dispozici&lt;/g2&gt;, popř. upravte další parametry.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102642Z" creationid="kunes" creationdate="20220414T102642Z">
+        <seg>Fill in the &lt;g1&gt;Last due date&lt;/g1&gt; and the &lt;g2&gt;Available amount&lt;/g2&gt;, or adjust other parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Doplňte údaje/hodnoty o zásilce (Změna přepravce, Počet balíků, Hmotnost, Rozměry...).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112350Z" creationid="kunes" creationdate="20220411T111453Z">
@@ -2922,6 +2930,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na platebním příkazu spusťte funkci &lt;g1&gt;Vydání&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102716Z" creationid="kunes" creationdate="20220414T102716Z">
+        <seg>Run the &lt;g1&gt;Issue&lt;/g1&gt; function on the payment order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na prodejní faktuře spusťte funkci &lt;g1&gt;Účtovat&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102003Z" creationid="kunes" creationdate="20220414T102003Z">
@@ -3126,6 +3142,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122339Z" creationid="kunes" creationdate="20220401T122339Z">
         <seg>On the Posted Sales Invoice page, choose the &lt;g1&gt;Payment Schedule&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na vydaném platebním příkazu spusťte funkci &lt;g1&gt;Vytvořit řádky exportu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102756Z" creationid="kunes" creationdate="20220414T102756Z">
+        <seg>Run the &lt;g1&gt;Create Export Lines&lt;/g1&gt; function on the issued payment order.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4929,6 +4953,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spusťte akci &lt;g1&gt;Navrhni platby…&lt;/g1&gt; (alternativou je ruční zadání řádků příkazu, popř. funkce Import…)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102610Z" creationid="kunes" creationdate="20220414T102610Z">
+        <seg>Run the &lt;g1&gt;Suggest Payments…&lt;/g1&gt; action (the alternative is to enter the order lines manually, or the Im-port function…)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spusťte akci &lt;g1&gt;Platební kalendář&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101724Z" creationid="kunes" creationdate="20220414T101724Z">
@@ -5209,6 +5241,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122054Z" creationid="kunes" creationdate="20220401T122054Z">
         <seg>Choose &lt;g1&gt;Close&lt;/g1&gt; to close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; potvrďte volbu Vydat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102726Z" creationid="kunes" creationdate="20220414T102726Z">
+        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to confirm the Issue option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; spusťe generování návrhu plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102654Z" creationid="kunes" creationdate="20220414T102654Z">
+        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to start generating the payment proposal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5713,6 +5761,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Volbou &lt;g1&gt;Řádky exportu&lt;/g1&gt; otevřete seznam řádků exportu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102824Z" creationid="kunes" creationdate="20220414T102824Z">
+        <seg>Select &lt;g1&gt;Export Lines&lt;/g1&gt; to open a list of export lines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Volbou  &lt;g1&gt;Ano&lt;/g1&gt; potvrďte otevření karty vydaného platebního příkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102738Z" creationid="kunes" creationdate="20220414T102738Z">
+        <seg>Select &lt;g1&gt;Yes&lt;/g1&gt; to confirm the opening of the issued payment order card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Volitelná pole k zadání před vydáním dokladu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104650Z" creationid="kunes" creationdate="20220407T104650Z">
@@ -5961,6 +6025,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte číslo banky s nastavenou kumulací plateb, pro který chcete vytvořit platební příkaz a potvrďte tlačítkem &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102535Z" creationid="kunes" creationdate="20220414T102535Z">
+        <seg>Select the number of the bank with the set payment accumulation for which you want to crea-te a payment order and confirm with the OK button &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vybrat ID uživatele, ID sestavy 52068430 a Název tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130410Z" creationid="kunes" creationdate="20220411T130410Z">
@@ -6061,6 +6133,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101929Z" creationid="kunes" creationdate="20220414T101914Z">
         <seg>You can still manually edit the created payment calendar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořený platební příkaz můžete ještě ručně upravit (pro ověření funkcionality kumulace plateb zkontrolujte, že máte v řádcích více plateb na stejný účet dodavatele se zapnutou kumulací plateb)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102702Z" creationid="kunes" creationdate="20220414T102702Z">
+        <seg>You can still manually edit the created payment order (to verify the functionality of payment cumulation, check that you have more than one payment in the rows to the same vendor ac-count with payment cumulation enabled)</seg>
       </tuv>
     </tu>
     <tu>
