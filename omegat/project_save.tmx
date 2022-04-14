@@ -33,6 +33,16 @@ The functionality offers more options, but the following data types &lt;g2&gt;Te
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Na prodejním dokladu je přítomnost platebního kalendáře indikovánan příznakem Platební kalendář v okně s fakty Detaily prodejní hlavičky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102050Z" creationid="kunes" creationdate="20220414T102050Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+On the sales document, the presence of the payment calendar is indicated by the Payment Calendar flag in the facts window with the Sales Header Details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Obdobný postup lze použít na stránce Účtovaný prodejní dobropis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122423Z" creationid="kunes" creationdate="20220401T122423Z">
@@ -1192,6 +1202,22 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vytvoření platebního kalendáře k zaúčtované faktuře&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102138Z" creationid="kunes" creationdate="20220414T102118Z">
+        <seg>&lt;g1&gt;Create a payment calendar for a posted invoice&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vytvoření platebního příkazu s kumulací plateb&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102508Z" creationid="kunes" creationdate="20220414T102508Z">
+        <seg>&lt;g1&gt;Creating a payment order with cumulation of payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Více úhad&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1282,6 +1308,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
         <seg>&lt;g1&gt;Parcels No.&lt;/g1&gt; - Specifies the No. Series for parcels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Detail platebního kalendáře&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102107Z" creationid="kunes" creationdate="20220414T102107Z">
+        <seg>&lt;x1/&gt;Detail of payment Calendar&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,6 +1842,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Další informace naleznete v Nastavení kumulování plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102500Z" creationid="kunes" creationdate="20220414T102500Z">
+        <seg>For more information, see Payment cumulation settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Další části</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105207Z" creationid="kunes" creationdate="20220407T105207Z">
@@ -2232,6 +2274,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita umožňuje sloučení řádků platebního příkazu, což je vhodné, pokud je potřeba uhradit více nákupních dokladů jednou částkou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102436Z" creationid="kunes" creationdate="20220414T102211Z">
+        <seg>The functionality allows you to merge payment order lines, which is useful if you need to pay for multiple purchase documents in a single amount.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkcionalitu obecných parametrů lze využít k vyhledání „podobných“ záznamů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123301Z" creationid="kunes" creationdate="20220405T123301Z">
@@ -2600,6 +2650,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kliknutím na Ano se příslušný kalendář otevře.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102059Z" creationid="kunes" creationdate="20220414T102059Z">
+        <seg>Click Yes to open the relevant calendar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Klikněte na ikonu &lt;g1&gt;Nastavení&lt;/g1&gt;, zvolte &lt;g2&gt;Má nastavení&lt;/g2&gt; a vyberte jazyk: Slovenština.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160943Z" creationid="Janousek" creationdate="20220331T160943Z">
@@ -2660,6 +2718,22 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112848Z" creationid="Janousek" creationdate="20210603T112848Z">
         <seg>In addition to the expansion modules, the specialized industry solutions listed below are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kumulování plateb na platebním příkazu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102209Z" creationid="kunes" creationdate="20220414T102209Z">
+        <seg>Cumulation of payments on the payment order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kumuluje se podle Čísla účtu, SWIFT, IBAN, Měny a volitelně dle VS, KS a SS.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102445Z" creationid="kunes" creationdate="20220414T102445Z">
+        <seg>It is cumulated according to the Account Number, SWIFT, IBAN, Currency and optionally according to VS, KS and SS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2844,6 +2918,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125013Z" creationid="kunes" creationdate="20220411T124953Z">
         <seg>Fill in the fields on the following page as needed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na prodejní faktuře spusťte funkci &lt;g1&gt;Účtovat&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102003Z" creationid="kunes" creationdate="20220414T102003Z">
+        <seg>Run the &lt;g1&gt;Post&lt;/g1&gt; function on the sales invoice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3816,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110422Z" creationid="kunes" creationdate="20220407T110422Z">
         <seg>After posting the shipment, the process of creating a shipment for the customer begins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po zaúčtování prodejní faktury (či objednávky) vzniknou navíc položky zákazníka, které vyrovnají saldo původní položky a k nim vznikne několik nových (se stejným typem dokladu, číslem dokladu, atd.) pohledávek s daty splatnosti a částkami dle platebního kalendáře.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102037Z" creationid="kunes" creationdate="20220414T102037Z">
+        <seg>In addition, after posting a sales invoice (or order), customer items are created that balance the ba-lance of the original item and several new receivables (with the same document type, document nu-mber, etc.) are created with due dates and amounts according to the payment calendar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4995,6 +5085,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato funkcionalita slučuje řádky plateb pro dodavatele, kteří mají povoleno kumulovat platby, dle pravidel nastavených na bankovním účtu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102455Z" creationid="kunes" creationdate="20220414T102455Z">
+        <seg>This functionality combines payment lines for vendors who are allowed to accumulate payments, according to the rules set in the bank account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato nápověda Vám pomůže nastavit Business Central do slovenského jazyka.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160703Z" creationid="Janousek" creationdate="20220331T160703Z">
@@ -5117,8 +5215,16 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; spusťe generování návrhu platebního kalendáře.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220414T101832Z" creationid="kunes" creationdate="20220414T101832Z">
-        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to close the page.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101923Z" creationid="kunes" creationdate="20220414T101832Z">
+        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to start generating the payment calendar proposal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tlačítkem &lt;g1&gt;OK&lt;/g1&gt; zavřete stránku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101941Z" creationid="kunes" creationdate="20220414T101941Z">
+        <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to close the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5703,6 +5809,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Platební příkazy&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102523Z" creationid="kunes" creationdate="20220414T102523Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Payment Orders&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktur&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101631Z" creationid="kunes" creationdate="20220414T101631Z">
@@ -5903,6 +6017,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyrovnejte zůstatek faktury a zaúčtujte platební kalendář funkcí &lt;g1&gt;Účtovat&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102202Z" creationid="kunes" creationdate="20220414T102202Z">
+        <seg>Settle the invoice balance and post the payment calendar with the &lt;g1&gt;Post&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vytvoření nové zásilky z účtovaného dokladu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110405Z" creationid="kunes" creationdate="20220407T110405Z">
@@ -5937,8 +6059,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Vytvořený platební kalendář můžete ještě ručně upravit.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220414T101914Z" creationid="kunes" creationdate="20220414T101914Z">
-        <seg>Vytvořený platební kalendář můžete ještě ručně upravit.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101929Z" creationid="kunes" creationdate="20220414T101914Z">
+        <seg>You can still manually edit the created payment calendar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,6 +6181,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101401Z" creationid="kunes" creationdate="20220414T101401Z">
         <seg>If a definition is found at the taught level, it no longer looks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V řádcích definujte vlastní rozpis splátek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102151Z" creationid="kunes" creationdate="20220414T102151Z">
+        <seg>Define your own installment schedule in the lines.</seg>
       </tuv>
     </tu>
     <tu>
