@@ -950,6 +950,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Prodejní ceny&lt;/g1&gt; systém dohledává v následujícím pořadí:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101421Z" creationid="kunes" creationdate="20220414T101421Z">
+        <seg>The system searches for &lt;g1&gt;sales prices&lt;/g1&gt; in the following order:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Prodejní řádkové slevy&lt;/g1&gt; systém dohledává v následujícím pořadí:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101457Z" creationid="kunes" creationdate="20220414T101457Z">
+        <seg>The system searches for &lt;g1&gt;sales line discounts&lt;/g1&gt; in the following order:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Publikační šablony&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141601Z" creationid="Janousek" creationdate="20210625T141601Z">
@@ -1648,6 +1664,30 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Cenová skupina zákazníka a Cenová skupina zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101550Z" creationid="kunes" creationdate="20220414T101550Z">
+        <seg>Customer price group and Goods price group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Cenová skupna zákazníka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101435Z" creationid="kunes" creationdate="20220414T101435Z">
+        <seg>Customer price group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Cenová skupna zákazníka a Zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101536Z" creationid="kunes" creationdate="20220414T101536Z">
+        <seg>Customer and Goods Price Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Centrální číselníky</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112732Z" creationid="Janousek" creationdate="20210603T112732Z">
@@ -2144,6 +2184,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita Platebních kalendářů je k dispozici v prodeji i v nákupu a její fungování je v obou oblastech obdobné.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101607Z" creationid="kunes" creationdate="20220414T101607Z">
+        <seg>The functionality of the Payment Calendars is available for sale and purchase, and its operation is similar in both areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkcionalita není dostupná na objednávkách (obecně na prodejních/nákupních dokladech, kde je možná částečná fakturace).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115513Z" creationid="kunes" creationdate="20220401T115513Z">
@@ -2228,6 +2276,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101307Z" creationid="kunes" creationdate="20220414T101307Z">
         <seg>Hierarchical proposal of prices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Hierarchický návrh ceny znamená, že je cena (ale i řádková sleva) dohledávána v pevně definovaném pořadí (dle hierarchie).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101356Z" creationid="kunes" creationdate="20220414T101356Z">
+        <seg>A hierarchical price proposal means that the price (as well as the line discount) is found in a fixed order (according to the hierarchy).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2444,6 +2500,30 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104721Z" creationid="kunes" creationdate="20220407T104721Z">
         <seg>The &lt;g1&gt;Shipment Parameters&lt;/g1&gt; infomation panel on the sales order tab is used to enter them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kampaň</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101424Z" creationid="kunes" creationdate="20220414T101424Z">
+        <seg>Campaign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kampaň a Cenová skupina zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101521Z" creationid="kunes" creationdate="20220414T101521Z">
+        <seg>Campaign and Price group of goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kampaň a Zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101506Z" creationid="kunes" creationdate="20220414T101506Z">
+        <seg>Campaign and Items</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3610,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Platení kalendáře</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101559Z" creationid="kunes" creationdate="20220414T101559Z">
+        <seg>Payment calendars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po nachystání dat pro zásilku funkce „Přidat ke svozu“ zaeviduje zásilku v systému Balíkobotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
@@ -3902,6 +3990,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115241Z" creationid="kunes" creationdate="20220411T115241Z">
         <seg>Allow multiple packages - YES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poznámka: Hierarchický návrh je dostupný pouze pro prodejní ceny zboží.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101348Z" creationid="kunes" creationdate="20220414T101348Z">
+        <seg>Note: The hierarchical design is only available for the selling price of the goods.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4743,6 +4839,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Standardní prodejní cenotvorba je založena na myšlence vyhledání nejnižší možné ceny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101323Z" creationid="kunes" creationdate="20220414T101323Z">
+        <seg>Standard sales pricing is based on the idea of finding the lowest possible price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Standardní systém Dynamics 365 Business Central rozšiřujeme o řadu funkcionalit doplňujících legislativní požadavky a osvědčené postupy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111859Z" creationid="Janousek" creationdate="20210603T111859Z">
@@ -4967,6 +5071,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101000Z" creationid="kunes" creationdate="20220414T101000Z">
         <seg>This is a paid service that the customer concludes with CreditCheck as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Toto není vždy vyhovující, pak je možné zvolit tzv. Hierarchický návrh cen.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101332Z" creationid="kunes" creationdate="20220414T101332Z">
+        <seg>This is not always satisfactory, then it is possible to choose the so-called hierarchical price proposal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5823,10 +5935,42 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Všichni zákazníci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101438Z" creationid="kunes" creationdate="20220414T101438Z">
+        <seg>All customers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Všichni zákazníci a Cenová skupina zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101554Z" creationid="kunes" creationdate="20220414T101554Z">
+        <seg>All Customers and Price Group of Goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Všichni zákazníci a Zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101541Z" creationid="kunes" creationdate="20220414T101541Z">
+        <seg>All Customers and Goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vždy musí existovat řádek s typem „Hotovost“, který systém použije při zadání přijaté částky v hotovosti pro vytvoření řádku rozpisu plateb.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082041Z" creationid="kunes" creationdate="20220404T082041Z">
         <seg>There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě nalezení definice na učité úrovni již nehledá dále.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101401Z" creationid="kunes" creationdate="20220414T101401Z">
+        <seg>If a definition is found at the taught level, it no longer looks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6029,6 +6173,30 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130829Z" creationid="kunes" creationdate="20220411T130829Z">
         <seg>Select the line extension &lt;g1&gt;AC Parcels&lt;/g1&gt; and then use the action &lt;g2&gt;Configuration&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zákazník</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101428Z" creationid="kunes" creationdate="20220414T101428Z">
+        <seg>Customer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zákazník a Cenová skupina zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101545Z" creationid="kunes" creationdate="20220414T101545Z">
+        <seg>Customer and Price group of goods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zákazník a Zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101530Z" creationid="kunes" creationdate="20220414T101530Z">
+        <seg>Customer and Items</seg>
       </tuv>
     </tu>
     <tu>
