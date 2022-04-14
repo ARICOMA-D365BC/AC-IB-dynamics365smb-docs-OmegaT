@@ -1444,6 +1444,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Sada rozšíření pro Finance&lt;/g1&gt; obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100758Z" creationid="kunes" creationdate="20220414T100758Z">
+        <seg>Add-on module &lt;g1&gt;Application extension set&lt;/g1&gt; contains common features to support the operation of the other add-on modules of the Finance Extension Pack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
@@ -1540,6 +1548,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aktualizace: 01.02.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100714Z" creationid="kunes" creationdate="20220414T100714Z">
+        <seg>Update: 03.03.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace: 08.03.2022</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104153Z" creationid="kunes" creationdate="20220407T104153Z">
@@ -1624,6 +1640,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110614Z" creationid="sunavcova" creationdate="20210603T091949Z">
         <seg>Controling Basic - Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Credit Check</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100842Z" creationid="kunes" creationdate="20220414T100842Z">
+        <seg>Credit Check</seg>
       </tuv>
     </tu>
     <tu>
@@ -2324,6 +2348,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedná se o integraci BC na komerční službu CreditCheck, která slouží pro kontrolu bonity partnerů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100902Z" creationid="kunes" creationdate="20220414T100902Z">
+        <seg>This is the integration of BC into the commercial CreditCheck service, which is used to check the creditworthiness of partners.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedná se o číselníky:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081541Z" creationid="kunes" creationdate="20220404T081541Z">
@@ -2568,6 +2600,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115540Z" creationid="Janousek" creationdate="20210603T093732Z">
         <seg>Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul Sada rozšíření pro Finance je nutný pro ostatní add-on moduly AC Financial Packu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100818Z" creationid="kunes" creationdate="20220414T100818Z">
+        <seg>The Controling Basic addon is required for other AC Financial Pack add-on modules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4129,6 +4169,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Proto, aby v systému bylo co nejvíce informací o vybraném partnerovi, jsou informace importovány přes webovou službu Creditcheck ERP viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100908Z" creationid="kunes" creationdate="20220414T100908Z">
+        <seg>Therefore, in order to have as much information about the selected partner in the system as possible, the information is imported via the Creditcheck ERP web service, see.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Protože byla z CZ lokalizace vypuštěna základní funkcionalita pro tvorbu prodejních skonto dobropisů, není již rozšiřující funkcionalita součástí modulu Sada rozšíření aplikace.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114615Z" creationid="kunes" creationdate="20220411T114615Z">
@@ -4449,6 +4497,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Seznam funkcí naleznete na pravé části stránky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100813Z" creationid="kunes" creationdate="20220414T100813Z">
+        <seg>The list of functions can be found on the right side of the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Seznam přepravců:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104327Z" creationid="kunes" creationdate="20220407T104327Z">
@@ -4499,6 +4555,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Služba Creditcheck ERP je zdarma stejně tak jako vytvoření výpisu CreditcheckList.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100927Z" creationid="kunes" creationdate="20220414T100927Z">
+        <seg>The Creditcheck ERP service is free of charge, as is the creation of the CreditcheckList.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Službu zapnete vybráním pole &lt;g1&gt;Paperless Trade&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130912Z" creationid="kunes" creationdate="20220411T130912Z">
@@ -4519,6 +4583,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114501Z" creationid="kunes" creationdate="20220411T114501Z">
         <seg>Deleted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Společnost CreditCheck deklaruje, že každý den ve své databázi českých firem provádí 185 různých typů kontrol.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100919Z" creationid="kunes" creationdate="20220414T100919Z">
+        <seg>CreditCheck declares that it performs 185 different types of checks in its database of Czech companies every day.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4591,6 +4663,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111859Z" creationid="Janousek" creationdate="20210603T111859Z">
         <seg>We are expanding the standard Dynamics 365 Business Central system with a range of functionality complementing legislative requirements and best practices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stav CreditCheck</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101005Z" creationid="kunes" creationdate="20220414T101005Z">
+        <seg>CreditCheck status</seg>
       </tuv>
     </tu>
     <tu>
@@ -4791,6 +4871,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Toto je placená služba, kterou si zákazník dle své potřeby uzavře s CreditCheck.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T101000Z" creationid="kunes" creationdate="20220414T101000Z">
+        <seg>This is a paid service that the customer concludes with CreditCheck as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Toto slouží k omezení chybovosti uživatelů, aby nemohli spojit do zásilky doklady s různými expedičními místy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120145Z" creationid="kunes" creationdate="20220411T120145Z">
@@ -4979,6 +5067,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V databázi Creditcheck lze tedy prověřovat partnera bez přihlášení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100944Z" creationid="kunes" creationdate="20220414T100944Z">
+        <seg>It is therefore possible to check a partner in the Creditcheck database without logging in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V hlavičce dokladu jsou pouze povinné údaje potřebné k založení zásilky, pro zadání dalších údajů jako jsou rozměry nebo vzkaz řidiči je nutné využít podokno Parametry zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105124Z" creationid="kunes" creationdate="20220407T105124Z">
@@ -5047,6 +5143,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130232Z" creationid="kunes" creationdate="20220411T130232Z">
         <seg>In the overview, check the &lt;g1&gt;Cash on delivery&lt;/g1&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případech, kdy je u firmy nalezen oranžový nebo červený semafor je potřeba se pro prohlédnutí detailů přihlásit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100955Z" creationid="kunes" creationdate="20220414T100955Z">
+        <seg>In cases where an orange or red traffic light is found at the company, you need to log in to view the details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5937,6 +6041,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112931Z" creationid="Janousek" creationdate="20210603T112931Z">
         <seg>and a number of other</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>http://www.creditcheck.cz/ProductDetail.aspx?id=02.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T100910Z" creationid="kunes" creationdate="20220414T100910Z">
+        <seg>http://www.creditcheck.cz/ProductDetail.aspx?id=02.</seg>
       </tuv>
     </tu>
     <tu>
