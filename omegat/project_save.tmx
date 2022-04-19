@@ -1009,6 +1009,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení pro lokální měnu&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114021Z" creationid="kunes" creationdate="20220419T114012Z">
+        <seg>&lt;g1&gt;Local currency setup&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení exportu VIES a Intrastat.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143203Z" creationid="Janousek" creationdate="20210625T142419Z">
@@ -1673,10 +1681,26 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číselná řada dodávky skladu&lt;/g1&gt; - jaká číselná řada má být použita pro dodávku ze skladu, když má zdrojový dokument zadanou číselnou řadu: dodávka ze skladu z objednávky prodejní/nákupní/transferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113901Z" creationid="kunes" creationdate="20220419T113901Z">
+        <seg>&lt;g1&gt;Shiping Wh. No. Series&lt;/g1&gt; – which number range is to be used for delivery from the warehouse when the source document has the specified number range: delivery from the warehouse from the sales / purchase / transfer order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Číselná řada dodávky&lt;/g1&gt; – jaká číselná řada má být použita pro účtovanou dodávku, když má zdrojový dokument zadanou číselnou řadu: účtovaná prodejní dodávka z prodejní objednávky nebo faktury, dodávka transferu z objednávky transferu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113732Z" creationid="kunes" creationdate="20220419T113732Z">
         <seg>&lt;g1&gt;Shiping No. Series&lt;/g1&gt; – which number series is to be used for the posted delivery when the source document has the specified number range: billed sales delivery from the sales order or invoice, transfer delivery from the transfer order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číselná řada příjemky skladu&lt;/g1&gt; - jaká číselná řada má být použita pro příjemku na sklad, když má zdrojový dokument zadanou číselnou řadu: příjemka na sklad z objednávky prodejní/nákupní/transferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113911Z" creationid="kunes" creationdate="20220419T113911Z">
+        <seg>&lt;g1&gt;Receiving Wh. No. Series&lt;/g1&gt; – which number series is to be used for the warehouse receipt when the source document has the specified number series: warehouse receipt from the sales / purchase / transfer order</seg>
       </tuv>
     </tu>
     <tu>
@@ -4011,6 +4035,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení zaokrouhlení faktur definujte nastavení zaokrouhlení pro všechny způsoby plateb, u kterých má být jiné nastavení než to výchozí z Nastavení financí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114112Z" creationid="kunes" creationdate="20220419T114112Z">
+        <seg>On the Invoice Rounding Setup page, define the rounding settings for all payment methods that should be set differently than the default from General ledger Setup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte akci Vydat a poté spusťte funkci Rozpis platby.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090424Z" creationid="kunes" creationdate="20220401T124636Z">
@@ -4399,6 +4431,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113144Z" creationid="kunes" creationdate="20220419T113144Z">
         <seg>Enforcement of receivables - settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení zaokrouhlení dle způsobu úhrady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113936Z" creationid="kunes" creationdate="20220419T113936Z">
+        <seg>Rounding setup according to the method of payment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení zaokrouhlení se provádí různě v závislosti na měně, jako je tomu u jiných podobných parametrů:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113944Z" creationid="kunes" creationdate="20220419T113944Z">
+        <seg>Rounding settings are made differently depending on the currency, as is the case with other similar parameters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,6 +7782,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113459Z" creationid="kunes" creationdate="20220419T113459Z">
         <seg>Select the &lt;g1&gt;Links&lt;/g1&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte akci Nastavení zaokrouhlení faktur.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114032Z" creationid="kunes" creationdate="20220419T114032Z">
+        <seg>Select the Invoice Rounding Setup action.</seg>
       </tuv>
     </tu>
     <tu>
