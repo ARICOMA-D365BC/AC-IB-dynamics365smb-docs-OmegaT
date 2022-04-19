@@ -464,6 +464,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrola registrace k DPH na dokladech&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090859Z" creationid="kunes" creationdate="20220419T090821Z">
+        <seg>&lt;g1&gt;Checking VAT registration on documents&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola způsobu platby na nák.dokl.&lt;/g1&gt; – dtto, ale pro nákupní doklady.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083413Z" creationid="kunes" creationdate="20220404T083016Z">
@@ -1860,6 +1868,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Další informace naleznete v Nastavení kontroly registrace k DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090752Z" creationid="kunes" creationdate="20220419T090752Z">
+        <seg>For more information, see Set up VAT registration control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Další informace naleznete v Nastavení kumulování plateb.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102500Z" creationid="kunes" creationdate="20220414T102500Z">
@@ -2720,6 +2736,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104828Z" creationid="kunes" creationdate="20220407T104828Z">
         <seg>Driver contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrola registrace k DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090950Z" creationid="kunes" creationdate="20220419T090701Z">
+        <seg>VAT registration check</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,6 +4310,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro eliminaci rizika nesprávného účtování a vykázání DPH byly do systému doplněny 2 nové kontroly.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090955Z" creationid="kunes" creationdate="20220419T090707Z">
+        <seg>To eliminate the risk of incorrect accounting and reporting of VAT, 2 new controls were added to the system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro evidenci protiúčtu vyrovnání je možné používat všechny tři možnosti protiúčtů, které obsahuje lokalizace (Finanční účet, Bankovní účet, Pokladna).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
@@ -4593,6 +4625,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>První slouží k upozornění uživatelů na nesrovnalosti s registrací k DPH při práci s doklady, druhá pak následně zpětně při zpracování podkladů pro výkaz DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090742Z" creationid="kunes" creationdate="20220419T090742Z">
+        <seg>The first serves to alert users to discrepancies with VAT registration when working with documents, the second is then used retrospectively when processing documents for the VAT statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Průvodce vložení obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123109Z" creationid="kunes" creationdate="20220405T123109Z">
@@ -4701,6 +4741,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110314Z" creationid="kunes" creationdate="20220411T110314Z">
         <seg>In this creation, you must enter Status on "New" and add one line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při vytváření prodejních, nákupních či servisních dokladů probíhá kontrola na existenci platného ověření registrace k DPH v rámci zadaného časového intervalu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090942Z" creationid="kunes" creationdate="20220419T090942Z">
+        <seg>Při vytváření prodejních, nákupních či servisních dokladů probíhá kontrola na existenci platného ověření registrace k DPH v rámci zadaného časového intervalu.</seg>
       </tuv>
     </tu>
     <tu>
