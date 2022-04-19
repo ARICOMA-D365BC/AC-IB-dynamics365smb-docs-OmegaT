@@ -4167,6 +4167,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Země/oblasti registrace zadejte kód země a DIČ společnosti registrované v této zemi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115253Z" creationid="kunes" creationdate="20220419T115253Z">
+        <seg>On the Registration Country/Region page, enter the country code and VAT reg. number of the company registered in this country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce karta měny v záložce Obecné nastavte pole &lt;g1&gt;Horní limit Částky vzt.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113000Z" creationid="kunes" creationdate="20220419T113000Z">
@@ -7942,6 +7950,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte akci Země/oblasti registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115139Z" creationid="kunes" creationdate="20220419T115139Z">
+        <seg>Select the Registration Country action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte funci &lt;g1&gt;Synchronizovat master data&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115246Z" creationid="kunes" creationdate="20220411T115246Z">
@@ -8018,6 +8034,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102601Z" creationid="kunes" creationdate="20220419T102601Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;No. Series Mask Generator&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Informace o společnosti&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115134Z" creationid="kunes" creationdate="20220419T115134Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Company Information&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
