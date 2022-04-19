@@ -278,6 +278,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Banky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103738Z" creationid="kunes" creationdate="20220419T103738Z">
+        <seg>&lt;g1&gt;Banks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142207Z" creationid="Janousek" creationdate="20210625T142207Z">
@@ -962,6 +970,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pokladny&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103818Z" creationid="kunes" creationdate="20220419T103818Z">
+        <seg>&lt;g1&gt;Cash Desks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Poslední synchronizace master dat&lt;/g1&gt; – Datum poslední synchronizace master dat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124452Z" creationid="kunes" creationdate="20220411T124452Z">
@@ -1094,6 +1110,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102707Z" creationid="kunes" creationdate="20220419T102707Z">
         <seg>&lt;g1&gt;Increment-by No.&lt;/g1&gt; – determines the size of the interval between numbers in the number series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;QR kód pro platbu na prodejní faktuře&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103854Z" creationid="kunes" creationdate="20220419T103854Z">
+        <seg>&lt;g1&gt;QR code for payment on the sales invoice&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,6 +1480,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102719Z" creationid="kunes" creationdate="20220419T102719Z">
         <seg>&lt;g1&gt;Warning No.&lt;/g1&gt; – determines when you want to receive a warning about the approaching end of the series (optional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Žurnál zboží&lt;/g1&gt; - hodnota</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103735Z" creationid="kunes" creationdate="20220419T103735Z">
+        <seg>&lt;g1&gt;Item Register - Value&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2134,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do hlavičky pokladního dokladu je doplněno pole Oprava.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103824Z" creationid="kunes" creationdate="20220419T103824Z">
+        <seg>The Correction field is added to the header of the cash document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole Číslená řada vyberte patřičnou číselnou řadu pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115250Z" creationid="kunes" creationdate="20220411T115250Z">
@@ -2234,6 +2274,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095746Z" creationid="kunes" creationdate="20220419T095746Z">
         <seg>As a result, the user has immediate access to this basic information, but also detailed information at the click of a button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Díky tomu opravný doklad nenavyšuje obraty na stranách účtů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103838Z" creationid="kunes" creationdate="20220419T103838Z">
+        <seg>As a result, the correction document does not increase turnover on the sides of the accounts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2790,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je-li uživatelem zapnuto, bude systém účtovat na stejné strany účtů, ale s opačným znaménkem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103832Z" creationid="kunes" creationdate="20220419T103832Z">
+        <seg>If enabled by the user, the system will post to the same sides of the accounts, but with the opposite sign.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedno expediční místo může být přiřazeno jedné lokaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113557Z" creationid="kunes" creationdate="20220411T113557Z">
@@ -3206,6 +3262,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na Deníku odsouhlasení doplněna funkce Účto a Tisk.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103757Z" creationid="kunes" creationdate="20220419T103757Z">
+        <seg>Added Account and Print functions on Reconciliation Log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na dokladech prodejní faktura či prodejní dobropis je namísto jednoho způsobu platby je nově možné definovat více způsobů, typicky část úhrady platební kartou a část v hotovosti.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
@@ -3410,6 +3474,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103309Z" creationid="kunes" creationdate="20220419T103309Z">
         <seg>On the &lt;g1&gt;Configuration Worksheet&lt;/g1&gt; page, run the &lt;g2&gt;Set Processing Order&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Žurnály zboží&lt;/g1&gt; jsou doplněny sestavy:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103708Z" creationid="kunes" creationdate="20220419T103708Z">
+        <seg>On the &lt;g1&gt;Item Journals page&lt;/g1&gt; the following reports are added:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3754,6 +3826,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112913Z" creationid="Janousek" creationdate="20210603T112913Z">
         <seg>Nonprofit organizations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nová CU 52057071 "QR Code_acb", kde je funkce pro QR kód pro prodejní fakturu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104244Z" creationid="kunes" creationdate="20220419T103854Z">
+        <seg>New CU 52057071 "QR Code_acb", where there is a function for the QR code for the sales invoice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,6 +4704,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poznámka: Od verze BC19 je doporučeno využívat novější funkcionalitu Bankovní dokumenty, která nevyužívá Deník odsouhlasení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103810Z" creationid="kunes" creationdate="20220419T103810Z">
+        <seg>NOTE: As of version BC19, it is recommended to use the newer Banking Documents functionality, which does not use the Reconciliation Log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poznámka: V případě potřeby připojovat k evidenci elektronické dokumenty, zvažte využití addonu Publikování SharePoint od firmy AUTOCONT., popř. jiný produkt třetí strany.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095552Z" creationid="kunes" creationdate="20220419T095545Z">
@@ -4967,6 +5055,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090616Z" creationid="kunes" creationdate="20220419T090616Z">
         <seg>From the user's point of view, the statement processing process is unchanged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Prodej</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103843Z" creationid="kunes" creationdate="20220419T103843Z">
+        <seg>Sales</seg>
       </tuv>
     </tu>
     <tu>
