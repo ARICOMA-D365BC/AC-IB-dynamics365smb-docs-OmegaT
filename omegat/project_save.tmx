@@ -1423,6 +1423,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Sada rozšíření pro Finance&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115634Z" creationid="kunes" creationdate="20220419T115634Z">
+        <seg>&lt;g1&gt;Application extension set&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Sestava Ověření DIČ – položky DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091259Z" creationid="kunes" creationdate="20220419T091259Z">
@@ -4687,6 +4697,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111940Z" creationid="kunes" creationdate="20220419T111926Z">
         <seg>Set the &lt;g1&gt;Automatic Update&lt;/g1&gt; flag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavte příznak v poli Určeno pro vrácení zálohy na záložce Zálohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115622Z" creationid="kunes" creationdate="20220419T115622Z">
+        <seg>Set the flag in the Intended to return the deposit field on the advance tab.</seg>
       </tuv>
     </tu>
     <tu>
