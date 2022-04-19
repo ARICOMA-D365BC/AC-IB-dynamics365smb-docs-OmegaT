@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>**</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112048Z" creationid="kunes" creationdate="20220419T112048Z">
+        <seg>**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Dále popsaná funkcionalita bude součástí modulu pouze do verze BC14.</seg>
       </tuv>
@@ -93,6 +101,15 @@ If it is not cumulated according to symbols, then the merged lines are created w
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pokud vaše firma nepoužívá Kontakty, je třeba zapnout &lt;g2&gt;Nepoužívat kontakty pro CreditCheck&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111839Z" creationid="kunes" creationdate="20220419T111839Z">
+        <seg>If your company does not use &lt;g1&gt;Contacts&lt;/g1&gt;, you must turn on &lt;g2&gt;Do not use contacts for CreditCheck&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Pro zobrazení informačního okna použijte funkci přizpůsobit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101040Z" creationid="kunes" creationdate="20220414T101040Z">
@@ -108,6 +125,26 @@ Stejný postup je použit jak pro vložení, tak i pro změnu parametrů nebo ho
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123234Z" creationid="kunes" creationdate="20220405T123224Z">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 The same procedure is used both for inserting and for changing parameters or values ​​of general parameters of a given record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Vytvořená položka fronty úloh je ve výchozím stavu nastavena na spouštění v 6:00 v pracovní dny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111946Z" creationid="kunes" creationdate="20220419T111946Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The created job queue entry is set to run at 6:00 AM on weekdays by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Vytváření webových zdrojů pro placený výpis je možné pomocí &lt;g2&gt;Aut. aktualizace webových zdrojů - Plný&lt;/g2&gt;, ovšem pouze pokud je vyplněno pole &lt;g3&gt;Přístupový kód&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112147Z" creationid="kunes" creationdate="20220419T112147Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Creating web feeds for a paid statement is possible using &lt;g2&gt;Aut. update web feeds - Full&lt;/g2&gt;, but only if the &lt;g3&gt;Access code&lt;/g3&gt; field is filled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,6 +1713,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení služby CreditCheck&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111810Z" creationid="kunes" creationdate="20220419T111810Z">
+        <seg>&lt;x1/&gt;CreditCheck - setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Obecné parametry karty&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
@@ -1942,6 +1987,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aktualizace informací o bonitě</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111901Z" creationid="kunes" creationdate="20220419T111901Z">
+        <seg>Update creditworthiness information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace těchto dat probíhá ručně pomocí funkce „Resynchronizace master dat“.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124314Z" creationid="kunes" creationdate="20220411T124314Z">
@@ -1962,6 +2015,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104153Z" creationid="kunes" creationdate="20220407T104153Z">
         <seg>Update: 08.03.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktualizaci je možné provádět manuálně dle potřeby nebo nechat systém provádět aktualizaci v pravidelných intervalech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111912Z" creationid="kunes" creationdate="20220419T111912Z">
+        <seg>You can update manually as needed or let the system update at regular intervals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3491,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Manuální aktualizaci provedete pomocí funkce Aktualizace stavu CreditCheck takto:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111952Z" creationid="kunes" creationdate="20220419T111952Z">
+        <seg>To perform a manual update, use the CreditCheck Status Update feature as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Masky číselných řad – pro usnadnění generování rozsahů pro další (obvykle fiskální) období</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102531Z" creationid="kunes" creationdate="20220419T102531Z">
@@ -3926,6 +3995,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Hierarchického návrhu prodejních cen</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112214Z" creationid="kunes" creationdate="20220419T112204Z">
+        <seg>Setting the Hierarchy proposal of sales prices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení PaperLess Trade</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130851Z" creationid="kunes" creationdate="20220411T130851Z">
@@ -3954,6 +4031,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120317Z" creationid="kunes" creationdate="20220411T114944Z">
         <seg>Parcels settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení a aktualizace webových zdrojů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112038Z" creationid="kunes" creationdate="20220419T112038Z">
+        <seg>Web resources settings and updates</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4095,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082214Z" creationid="kunes" creationdate="20220404T082152Z">
         <seg>Settings up Payment Places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení prodeje a pohledávek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112218Z" creationid="kunes" creationdate="20220419T112209Z">
+        <seg>Sales and receivables setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -4106,6 +4199,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105422Z" creationid="kunes" creationdate="20220419T105422Z">
         <seg>Set up a company as a VAT payer in another EU country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavte příznak **Aut. aktualizace webových zdrojů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112120Z" creationid="kunes" creationdate="20220419T112120Z">
+        <seg>Auto flag. web resource updates**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavte příznak &lt;g1&gt;Automatická aktualizace&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111940Z" creationid="kunes" creationdate="20220419T111926Z">
+        <seg>Set the &lt;g1&gt;Automatic Update&lt;/g1&gt; flag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,6 +4601,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115314Z" creationid="kunes" creationdate="20220401T115314Z">
         <seg>Then it is also possible to use the functionality of the module and define the combination of payment on the posted invoice (credit memo) or on the issued advance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pak se při stažení dat z CrediChecku budou plnit přímo pole „&lt;g3&gt;Stav CreditCheck&lt;/g3&gt;“ na kartě zákazníka, dodavatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111854Z" creationid="kunes" creationdate="20220419T111854Z">
+        <seg>Then, when downloading data from CrediCheck, the fields "&lt;g3&gt;CreditCheck status&lt;/g3&gt;" on the customer's card will be filled directly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5172,6 +5289,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113352Z" creationid="kunes" creationdate="20220411T113352Z">
         <seg>To update this status on the shipment line, use the &lt;g1&gt;Update Track Status&lt;/g1&gt; button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro automatické nastavení postupujte takto:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111917Z" creationid="kunes" creationdate="20220419T111917Z">
+        <seg>To set up automatically, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6178,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Službu spustíte pomocí tlačítka &lt;g1&gt;Povoleno&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111702Z" creationid="kunes" creationdate="20220419T111702Z">
+        <seg>Use the &lt;g1&gt;Enabled&lt;/g1&gt; button to start the service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Službu spustíte pomocí tlačítka Ok.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112017Z" creationid="kunes" creationdate="20220419T112017Z">
+        <seg>Press Ok to start the service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Službu zapnete vybráním pole &lt;g1&gt;Paperless Trade&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130912Z" creationid="kunes" creationdate="20220411T130912Z">
@@ -6185,6 +6326,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101742Z" creationid="kunes" creationdate="20220414T101742Z">
         <seg>Start the &lt;g1&gt;Generate Payments&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spusťte funkci &lt;g1&gt;Nastavit výchozí webovou službu&lt;/g1&gt;, která naplní URL služby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111652Z" creationid="kunes" creationdate="20220419T111652Z">
+        <seg>Start the &lt;g1&gt;Set Default Web Service&lt;/g1&gt; feature, which populates the service URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6845,6 +6994,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V nastavení uživatelů na záložce Obecné je nový boolean „&lt;g1&gt;Povolit změnu stavu CreditCheck&lt;/g1&gt;“, který po-kud jej má uživatel zaškrtnut, pak mu umožní zrušit naimportovaný stav.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112032Z" creationid="kunes" creationdate="20220419T112032Z">
+        <seg>In the user settings on the General tab, there is a new boolean &lt;g1&gt;Allow change of CreditCheck status&lt;/g1&gt;, which, if the user has it checked, then allows him to cancel the imported status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V některých případech je požadováno vytvoření evidence EET (legislativa v ČR) již na rozpisu platby, tedy ještě před zaúčtováním dokladu (např. pro tisk podkladů pro realizaci dobírky, apod.).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124547Z" creationid="kunes" creationdate="20220401T124459Z">
@@ -7189,6 +7346,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Aktualizace stavu CreditCheck&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112006Z" creationid="kunes" creationdate="20220419T112006Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;CreditCheck Status Update&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Asistovaná nastavení&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115045Z" creationid="kunes" creationdate="20220411T115045Z">
@@ -7241,6 +7406,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení prodeje a pohledávek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112231Z" creationid="kunes" creationdate="20220419T112231Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales &amp; Receivables Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,6 +7934,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104628Z" creationid="kunes" creationdate="20220419T104628Z">
         <seg>In the options, select the contact field from which the variable value of the link URL is to be added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V nastavení kontroly CreditCheck je možné zapnout aktualizaci vytváření webových zdrojů pro všechny kontakty s vyplněným IČ.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112044Z" creationid="kunes" creationdate="20220419T112044Z">
+        <seg>In the CreditCheck settings, it is possible to turn on the update of web feed creation for all contacts with a completed ID.</seg>
       </tuv>
     </tu>
     <tu>
