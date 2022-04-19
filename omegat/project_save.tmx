@@ -2184,6 +2184,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dimenze z nákladového účtu koef.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105301Z" creationid="kunes" creationdate="20220419T105301Z">
+        <seg>Dim. values from coeff. cost acc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dle evidovaného odhadu (zálohový koeficient) jsou v průběhu účetního období účtovány odpočty DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104741Z" creationid="kunes" creationdate="20220419T104729Z">
@@ -2578,8 +2586,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Funkce pracuje pouze s položkami DPH obsahující kombinace účtoskupin nastavené pro odpočty DPH (viz Controling Basic - Nastavení - Krácení odpočtu DPH).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T105056Z" creationid="kunes" creationdate="20220419T105056Z">
-        <seg>Funkce pracuje pouze s položkami DPH obsahující kombinace účtoskupin nastavené pro odpočty DPH (viz Controling Basic - Nastavení - Krácení odpočtu DPH).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105116Z" creationid="kunes" creationdate="20220419T105056Z">
+        <seg>he function only works with VAT items containing combinations of account groups set up for VAT deductions - see Setting the VAT deduction reduction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3060,6 +3068,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111147Z" creationid="kunes" creationdate="20220411T111147Z">
         <seg>Choose on the consignment line and use the &lt;g1&gt;Remove from collection&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Koncové datum DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105219Z" creationid="kunes" creationdate="20220419T105219Z">
+        <seg>Ending VAT date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Koncové zúčtovací datum</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105208Z" creationid="kunes" creationdate="20220419T105208Z">
+        <seg>Ending date</seg>
       </tuv>
     </tu>
     <tu>
@@ -3676,6 +3700,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102756Z" creationid="kunes" creationdate="20220414T102756Z">
         <seg>Run the &lt;g1&gt;Create Export Lines&lt;/g1&gt; function on the issued payment order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na záložce Nastavení účtování DPH zvolte filtr, pro které položky DPH chcete spustit výpočet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105355Z" creationid="kunes" creationdate="20220419T105355Z">
+        <seg>On the VAT Posting Setup tab page, select the filter for which VAT entries you want to run the calculation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +4802,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Použít údaje z položky – mají-li b</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105230Z" creationid="kunes" creationdate="20220419T105230Z">
+        <seg>Use entry data – whether to take data from the entries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Používá se .NET komponenta Microsoft.Dynamics.Nav.MX.dll, která je standardní AddIn od MS. Příklad použití je v reportu 52057066 "Sales - Invoice QR_acb", jen tisk samotného QR kódu a příklad volání funkce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104251Z" creationid="kunes" creationdate="20220419T104251Z">
@@ -4838,6 +4878,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104343Z" creationid="kunes" creationdate="20220419T104343Z">
         <seg>NOTE: In BC online it is necessary to use different method – see &lt;g1&gt;Barcode Fonts with Business Central Online - Business Central | Microsoft Docs&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Počáteční datum DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105214Z" creationid="kunes" creationdate="20220419T105214Z">
+        <seg>Starting VAT date date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Počáteční zúčtovací datum</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105139Z" creationid="kunes" creationdate="20220419T105139Z">
+        <seg>Starting date</seg>
       </tuv>
     </tu>
     <tu>
@@ -5811,6 +5867,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101742Z" creationid="kunes" creationdate="20220414T101742Z">
         <seg>Start the &lt;g1&gt;Generate Payments&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spuštění funkce potvrďte pomocí tlačítka &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105406Z" creationid="kunes" creationdate="20220419T105406Z">
+        <seg>Confirm the start of the function with the &lt;g1&gt;OK&lt;/g1&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6903,6 +6967,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vypočti a účtuj koeficient DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105128Z" creationid="kunes" creationdate="20220419T105128Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Calc. and Post VAT Coefficient&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vytvoření webových zdrojů kontaktu&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104553Z" creationid="kunes" creationdate="20220419T104553Z">
@@ -7295,6 +7367,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Možnostech vyplňte:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105134Z" creationid="kunes" creationdate="20220419T105134Z">
+        <seg>In Options, fill in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V možnostech vyberte &lt;g1&gt;Kód webového zdroje&lt;/g1&gt;, který chcete ke Kontaktům doplnit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104624Z" creationid="kunes" creationdate="20220419T104624Z">
@@ -7499,6 +7579,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
         <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazit položky DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105246Z" creationid="kunes" creationdate="20220419T105246Z">
+        <seg>Show VAT Entries</seg>
       </tuv>
     </tu>
     <tu>
@@ -7709,6 +7797,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110645Z" creationid="kunes" creationdate="20220407T110645Z">
         <seg>You can also create shipments manually without accounting documents, e.g.: for sending letters or an additional package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zúčtovací datum (editovatelné pouze pokud není Použít údaje z položky = TRUE)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105236Z" creationid="kunes" creationdate="20220419T105236Z">
+        <seg>Posting date (editable only if Use data from item = TRUE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7973,6 +8069,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Účtovat – má-li být provedeno účtování položek DPH pro odpočet DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105250Z" creationid="kunes" creationdate="20220419T105250Z">
+        <seg>Post – if VAT entries are to be posted for VAT deduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Účtování prodejní faktury s více způsoby úhrady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115647Z" creationid="kunes" creationdate="20220401T115647Z">
@@ -8001,6 +8105,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114933Z" creationid="kunes" creationdate="20220411T114933Z">
         <seg>Numbered series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číslo dokladu (editovatelné pouze pokud není Použít údaje z položky = TRUE)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105242Z" creationid="kunes" creationdate="20220419T105242Z">
+        <seg>Document No. (editable only if Use data from item = TRUE)</seg>
       </tuv>
     </tu>
     <tu>
