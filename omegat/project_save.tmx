@@ -8934,8 +8934,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>XX – fixní část čísla; musí být velkými písmeny, délka není omezena (jen celková délka výsledného čísla)</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T113337Z" creationid="kunes" creationdate="20220419T113337Z">
-        <seg>- XX - fixed part of the number; must be in capital letters, length is not limited (only the total length of the final number).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115904Z" creationid="kunes" creationdate="20220419T113337Z">
+        <seg>XX - fixed part of the number; must be in capital letters, length is not limited (only the total length of the final number).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9376,8 +9376,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>cccc - variabilní část čísla; musí být malými písmeny, délka není omezena (jen celková délka výsledného čísla)</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T113352Z" creationid="kunes" creationdate="20220419T113352Z">
-        <seg>- cccc - variable part of a number; must be lowercase, length is not limited (only the total length of the final number)</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115900Z" creationid="kunes" creationdate="20220419T113352Z">
+        <seg>cccc - variable part of a number; must be lowercase, length is not limited (only the total length of the final number)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>rr (popř. rrrr) – označení roku, které doplní generátor ze zadaného počátečního datumu</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T113342Z" creationid="kunes" creationdate="20220419T113342Z">
-        <seg>- yyyy (or yyyy) - year designation, which is completed by the generator from the specified start date.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115905Z" creationid="kunes" creationdate="20220419T113342Z">
+        <seg>yyyy (or yyyy) - year designation, which is completed by the generator from the specified start date.</seg>
       </tuv>
     </tu>
     <tu>
