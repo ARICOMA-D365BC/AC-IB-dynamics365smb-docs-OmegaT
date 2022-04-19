@@ -862,6 +862,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Neověřené a Neplatné&lt;/g1&gt; – vypíše položky, u kterých se z nějakého důvodu nepovedlo ověřit stav (Neověřené) a položky s DIČ, které není aktuálně registrováno k DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091329Z" creationid="kunes" creationdate="20220419T091329Z">
+        <seg>&lt;g1&gt;Unverified and Invalid&lt;/g1&gt; – Lists items that for some reason failed to verify the status (Unverified) and items with a VAT ID that is not currently registered for VAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Neověřené a Platné&lt;/g1&gt; – používá se typicky pro kontrolu položek u neplátců DPH, kdy platná registrace je vlastně chybou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091334Z" creationid="kunes" creationdate="20220419T091334Z">
+        <seg>&lt;g1&gt;Unverified and Valid&lt;/g1&gt; – used typically for checking items for non-VAT payers, where a valid registration is actually an error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry - nastavení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1366,6 +1382,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101404Z" creationid="kunes" creationdate="20220405T130809Z">
         <seg>&lt;x1/&gt;General Parameter Values&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Kontrola směnného kurzu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091505Z" creationid="kunes" creationdate="20220419T091505Z">
+        <seg>&lt;x1/&gt;Exchange rate controls&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2716,6 +2740,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kliknutím na &lt;g1&gt;Detaily…&lt;/g1&gt; se otevře tabulka Směnné kurzy pro měnu z dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091457Z" creationid="kunes" creationdate="20220419T091457Z">
+        <seg>Click &lt;g1&gt;Details…&lt;/g1&gt; to open the Currency exchange rates table for the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kliknutím na Ano se příslušný kalendář otevře.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102059Z" creationid="kunes" creationdate="20220414T102059Z">
@@ -2756,10 +2788,34 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kontrola importu směnných kurzů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091425Z" creationid="kunes" creationdate="20220419T091425Z">
+        <seg>Exchange rate import control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontrola registrace k DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090950Z" creationid="kunes" creationdate="20220419T090701Z">
         <seg>VAT registration check</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrola se provádí:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091407Z" creationid="kunes" creationdate="20220419T091407Z">
+        <seg>The inspection is performed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrola správnosti zadaného směnného kurzu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091351Z" creationid="kunes" creationdate="20220419T091351Z">
+        <seg>Checking the accuracy of the entered exchange rate</seg>
       </tuv>
     </tu>
     <tu>
@@ -2784,6 +2840,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113427Z" creationid="kunes" creationdate="20220411T113427Z">
         <seg>Controls and restrictions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontroly směnných kurzů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091342Z" creationid="kunes" creationdate="20220419T091342Z">
+        <seg>Exchange rate controls</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4094,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud pro takový pracovní den nenajde záznam v tabulce Směnné kurzy, zobrazí notifikaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091444Z" creationid="kunes" creationdate="20220419T091444Z">
+        <seg>If it does not find an entry in the Exchange Rates table for such a business day, it displays a notification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud přidáte přepravce až poté, co byla provedeno prvnotní nastavení pomocí asistovaného nastavení, je nutné správně vyplnit pole:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124804Z" creationid="kunes" creationdate="20220411T124804Z">
@@ -4338,6 +4410,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112803Z" creationid="kunes" creationdate="20220411T112803Z">
         <seg>For additional printing of the handover report of the selected shipper, there is a function with the same name on the shipment report, where you just stand on one of the shipments of that shipper on the day of the collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro eliminaci rizika nesprávného zadání směnného kurzu a tudíž zaúčtování dokladu s nesprávným kurzem, byly do systému doplněny 2 nové kontroly.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091347Z" creationid="kunes" creationdate="20220419T091347Z">
+        <seg>To eliminate the risk of incorrectly entering the exchange rate and thus posting a document with an incorrect exchange rate, 2 new checks were added to the system..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4757,6 +4837,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130800Z" creationid="kunes" creationdate="20220411T130800Z">
         <seg>When setting up the add-on with assistance, the message "&lt;g1&gt;The request was blocked by the runtime&lt;/g1&gt;" may be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při procházení či vytváření prodejních, nákupních či servisních dokladů systém kontroluje existenci směnného kurzu pro určité datum.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091433Z" creationid="kunes" creationdate="20220419T091433Z">
+        <seg>When browsing or creating sales, purchasing or service documents, the system checks for the existence of an exchange rate for a specific date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5259,6 +5347,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Systém provádí kontrolu ručně zadaného směnného kurzu vůči nastaveným limitům.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091400Z" creationid="kunes" creationdate="20220419T091400Z">
+        <seg>The system checks the manually entered exchange rate against the set limits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>TNT</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -5323,6 +5419,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083427Z" creationid="kunes" creationdate="20220404T083343Z">
         <seg>. This will only be used if you use a payment method with a counter-account other than Cashier (cashiers have their own number series, see &lt;g1&gt;Cash Desk Localization for Czech&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato sestava prochází položky DPH, kontroluje stav registrace DPH, případně ověří DIČ online, je-li třeba.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091307Z" creationid="kunes" creationdate="20220419T091307Z">
+        <seg>This report reviews VAT entries, checks the status of VAT registration, or verifies the VAT ID online if necessary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,6 +5579,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
         <seg>Top Trans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Toto datum se počítá vzhledem k Zúčtovacímu datu a zohledňuje víkendy a jiné nepracovní dny (státní svátky, Vánoce, Velikonoce, apod.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091438Z" creationid="kunes" creationdate="20220419T091438Z">
+        <seg>This date is calculated with respect to the Settlement Date and takes into account weekends and other non-working days (public holidays, Christmas, Easter, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,6 +6395,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vymáhání pohledávek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095225Z" creationid="kunes" creationdate="20220419T095225Z">
+        <seg>Enforcement of receivables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyplnit pole &lt;g1&gt;Kód expedičního místa&lt;/g1&gt; v záložce Obecné</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120223Z" creationid="kunes" creationdate="20220411T120223Z">
@@ -6423,6 +6543,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
         <seg>Výkaz Intrastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výstupem sestavy je seznam položkyDPH dle volby &lt;g1&gt;Zobrazit stav&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091317Z" creationid="kunes" creationdate="20220419T091317Z">
+        <seg>The output of the report is a list of VAT items according to the option &lt;g1&gt;Show status&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vše</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091320Z" creationid="kunes" creationdate="20220419T091320Z">
+        <seg>All</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,6 +7033,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122831Z" creationid="kunes" creationdate="20220401T122831Z">
         <seg>the system will make the change automatically (see &lt;g1&gt;Setting up Payment Methods&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>při vkládání hodnoty do Směnných kurzů,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091413Z" creationid="kunes" creationdate="20220419T091413Z">
+        <seg>when entering value into exchange rates,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>při vkládání kurzu na nákupních, prodejních nebo servisních dokladech</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091419Z" creationid="kunes" creationdate="20220419T091419Z">
+        <seg>when entering a course on purchase, sales or service documents.</seg>
       </tuv>
     </tu>
     <tu>
