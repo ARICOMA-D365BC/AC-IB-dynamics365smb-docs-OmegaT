@@ -43,6 +43,16 @@ On the sales document, the presence of the payment calendar is indicated by the 
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Není řešeno okamžité účtování „neodčitatelné“ DPH na primárních dokladech (faktura, dobropis, pokladní doklad, finanční deník) ani směrování „neodčitatelné“ DPH za zdrojem zdanění (zboží, dlouhodobý majetek, služba).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104821Z" creationid="kunes" creationdate="20220419T104821Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+It does not address the immediate charging of "non-deductible" VAT on primary documents (invoice, credit note, cash document, financial diary) or the routing of "non-deductible" VAT to the source of taxation (goods, fixed assets, services).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Obdobný postup lze použít na stránce Účtovaný prodejní dobropis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122423Z" creationid="kunes" creationdate="20220401T122423Z">
@@ -436,6 +446,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140700Z" creationid="Janousek" creationdate="20210625T140700Z">
         <seg>&lt;g1&gt;Fiscal printers&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Funkce Vypočti a účtuj koeficient DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104840Z" creationid="kunes" creationdate="20220419T104840Z">
+        <seg>&lt;g1&gt;Function Calculate and post VAT coefficient&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2554,6 +2572,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124636Z" creationid="kunes" creationdate="20220411T124636Z">
         <seg>Functions over shipping agents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Funkce pracuje pouze s položkami DPH obsahující kombinace účtoskupin nastavené pro odpočty DPH (viz Controling Basic - Nastavení - Krácení odpočtu DPH).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105056Z" creationid="kunes" creationdate="20220419T105056Z">
+        <seg>Funkce pracuje pouze s položkami DPH obsahující kombinace účtoskupin nastavené pro odpočty DPH (viz Controling Basic - Nastavení - Krácení odpočtu DPH).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5957,6 +5983,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103234Z" creationid="kunes" creationdate="20220419T103234Z">
         <seg>This function suggests the order in which the individual packages should be processed, taking into account the interrelationships (the Field Order and Table Order fields in the Configuration Workbook).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkce umožňuje připravit tiskovou sestavu, popř. i zaúčtovat vypočtené odpočty DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105101Z" creationid="kunes" creationdate="20220419T105047Z">
+        <seg>This function allows you to prepare a print report or even post the calculated VAT deductions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkcionalita je při správném nastavení vhodná nejen české, ale i pro slovenské společnosti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104804Z" creationid="kunes" creationdate="20220419T104804Z">
+        <seg>With the correct settings, this functionality is suitable not only for Czech but also for Slovak companies.</seg>
       </tuv>
     </tu>
     <tu>
