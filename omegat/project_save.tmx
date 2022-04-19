@@ -1342,6 +1342,15 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Zaznamenání stavu pohledávky&lt;/g1&gt;
+Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží k zaznamenání stavu vymáhání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102220Z" creationid="kunes" creationdate="20220419T102220Z">
+        <seg>The Receivable Status field, located on the Receivable Information page, is used to record the status of collections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Zásilky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142316Z" creationid="Janousek" creationdate="20210625T142316Z">
@@ -4250,6 +4259,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101756Z" creationid="kunes" creationdate="20220414T101756Z">
         <seg>The system will add the last payment to the total invoice amount.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Potvrďte, že si přejete vytvořit kartu informace o pohledávce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102149Z" creationid="kunes" creationdate="20220419T102149Z">
+        <seg>Confirm that you wish to create a accounts receivable information card.</seg>
       </tuv>
     </tu>
     <tu>
