@@ -506,8 +506,8 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kumulované platby na bankovním výpisu&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T090329Z" creationid="kunes" creationdate="20220419T090329Z">
-        <seg>&lt;g1&gt;Kumulované platby na bankovním výpisu&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090605Z" creationid="kunes" creationdate="20220419T090329Z">
+        <seg>&lt;g1&gt;Cumulated payments on the bank statement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,8 +3102,8 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Prodejní faktura&lt;/g1&gt; spusťte akci &lt;g2&gt;Vydat&lt;/g2&gt; a poté spusťte funkci &lt;g3&gt;Rozpis platby&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220401T120210Z" creationid="kunes" creationdate="20220401T120210Z">
-        <seg>On the &lt;g1&gt;Sales Invoice&lt;/g1&gt; page, choose &lt;g2&gt;Release&lt;/g2&gt; and then run &lt;g3&gt;Payment Schedule&lt;/g3&gt; function.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090402Z" creationid="kunes" creationdate="20220401T120210Z">
+        <seg>On the &lt;g1&gt;Sales Invoice&lt;/g1&gt; page, choose &lt;g2&gt;Issue&lt;/g2&gt; and then run &lt;g3&gt;Payment Schedule&lt;/g3&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,16 +3118,16 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte akci Vydat a poté spusťte funkci Rozpis platby.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220401T124636Z" creationid="kunes" creationdate="20220401T124636Z">
-        <seg>On the Sales Invoice page, run the Release action and then run the Payment Schedule function.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090424Z" creationid="kunes" creationdate="20220401T124636Z">
+        <seg>On the Sales Invoice page, run the issue action and then run the Payment Schedule function.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte funkci Vydat.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220401T124449Z" creationid="kunes" creationdate="20220401T124449Z">
-        <seg>On the Sales invoice page, start the release function.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090416Z" creationid="kunes" creationdate="20220401T124449Z">
+        <seg>On the Sales invoice page, start the issue function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,16 +3960,24 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Pokud na objednávce není vybrán žádný přepravce, kontrola je na vydání dokladu (telefonní číslo a e-mail) vypnutá.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220407T104641Z" creationid="kunes" creationdate="20220407T104641Z">
-        <seg>If no shipping angent is selected on the order, the check to release the document (phone number and email is disabled).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090433Z" creationid="kunes" creationdate="20220407T104641Z">
+        <seg>If no shipping angent is selected on the order, the check to issue the document (phone number and email is disabled).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud najde, na pozadí dojde k nahrazení „kumulovaných plateb“ opět rozdělenými řádky (je přenesen i původní kumulovaný řádek, ovšem s nulovou částkou).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090656Z" creationid="kunes" creationdate="20220419T090656Z">
+        <seg>If it finds, the "cumulated payments" will be replaced by split lines in the background (the original cumulated line is also transferred, but with a zero amount).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
         <seg>Pokud pole nebudou vyplěny nelze doklad vydat.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220411T113513Z" creationid="kunes" creationdate="20220411T113513Z">
-        <seg>If the fields are not filled in the receipt cannot be released.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090453Z" creationid="kunes" creationdate="20220411T113513Z">
+        <seg>If the fields are not filled in the receipt cannot be issued.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,6 +4505,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Proces zpracování výpisu je z pohledu uživatele beze změn.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090616Z" creationid="kunes" creationdate="20220419T090616Z">
+        <seg>From the user's point of view, the statement processing process is unchanged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Productivity Extension</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220412T145545Z" creationid="Janousek" creationdate="20220412T145545Z">
@@ -4733,6 +4749,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112713Z" creationid="Janousek" creationdate="20210603T112713Z">
         <seg>Complaints Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozdíl je pouze v tom, že při Vydání systém hledá dle identifikačních údajů pohybu na řádku výpisu odpovídající záznamy na vydaném platebním příkazu v řádcích exportu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090625Z" creationid="kunes" creationdate="20220419T090625Z">
+        <seg>The only difference is that when Issued, the system searches for matching records on the issued payment order in the export lines according to the movement identification data on the statement line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5125,8 +5149,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Systém nevydá doklad pokud není vyplněno telefonní číslo a/nebo e-mail!</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220407T104615Z" creationid="kunes" creationdate="20220407T104615Z">
-        <seg>Business Central will not release a receipt if the phone number and/or email is not filled in!</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090429Z" creationid="kunes" creationdate="20220407T104615Z">
+        <seg>Business Central will not issue a receipt if the phone number and/or email is not filled in!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5323,6 +5347,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101941Z" creationid="kunes" creationdate="20220414T101941Z">
         <seg>Click &lt;g1&gt;OK&lt;/g1&gt; to close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>To learn what’s coming, see the &lt;g1&gt;Microsoft Dynamics 365 Business Central Release Notes&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090506Z" creationid="kunes" creationdate="20220419T090506Z">
+        <seg>To learn what’s coming, see the &lt;g1&gt;Microsoft Dynamics 365 Business Central Release Notes&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,8 +5861,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Volitelná pole k zadání před vydáním dokladu</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220407T104650Z" creationid="kunes" creationdate="20220407T104650Z">
-        <seg>Optional field to be entered before the document is released</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090448Z" creationid="kunes" creationdate="20220407T104650Z">
+        <seg>Optional field to be entered before the document is issued</seg>
       </tuv>
     </tu>
     <tu>
