@@ -63,6 +63,16 @@ Ff you do not enter a cash amount, you must enter amounts in the rows exactly up
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pokud se nekumuluje dle symbolů, tak se sloučené řádky založí s variabilním symbolem z číselné řady a SS a KS se vezmou z prvního slučovaného řádku příkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090300Z" creationid="kunes" creationdate="20220414T102845Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+If it is not cumulated according to symbols, then the merged lines are created with the variable symbol from the number series and SS and KS are taken from the first merged line of the command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Pro zobrazení informačního okna použijte funkci přizpůsobit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101040Z" creationid="kunes" creationdate="20220414T101040Z">
@@ -3386,6 +3396,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Neslučované položky jsou převedeny do řádků exportu platebního příkazu ve stejném detailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102825Z" creationid="kunes" creationdate="20220414T102825Z">
+        <seg>Unmerged items are transferred to the export lines of the payment order in the same detail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Neziskové organizace</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112913Z" creationid="Janousek" creationdate="20210603T112913Z">
@@ -3872,6 +3890,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115112Z" creationid="kunes" creationdate="20220411T115112Z">
         <seg>If you want you can import the RapidStart package manually, or you can click &lt;g1&gt;Next and the package will download and import itself&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete změnit výsledek, změňte nastavení a funkci pro vytvoření řádků spusťte znovu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102831Z" creationid="kunes" creationdate="20220414T102831Z">
+        <seg>If you want to change the result, change the settings and run the line creation function again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,6 +4975,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160843Z" creationid="Janousek" creationdate="20220331T160843Z">
         <seg>Launch and sign in to Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spusťte akci &lt;g1&gt;Export platebního příkazu…&lt;/g1&gt; (alternativou je ruční zadání řádků příkazu, popř. funkce Import…)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220414T102844Z" creationid="kunes" creationdate="20220414T102844Z">
+        <seg>Run the &lt;g1&gt;Export payment order…&lt;/g1&gt; action (the alternative is to enter the order lines manually, or the Import… function)</seg>
       </tuv>
     </tu>
     <tu>
