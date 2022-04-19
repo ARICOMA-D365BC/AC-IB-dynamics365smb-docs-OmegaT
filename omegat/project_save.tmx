@@ -1146,6 +1146,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Rozšíření funkcionality pro migrace dat&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103221Z" creationid="kunes" creationdate="20220419T103221Z">
+        <seg>&lt;g1&gt;Data migration functionality extension&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;SEPA platby&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142451Z" creationid="Janousek" creationdate="20210625T142451Z">
@@ -3382,6 +3390,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Sešit konfigurace&lt;/g1&gt; spusťe funkci &lt;g2&gt;Nastavit pořadí zpracování&lt;/g2&gt; (část Proces).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103309Z" creationid="kunes" creationdate="20220419T103309Z">
+        <seg>On the &lt;g1&gt;Configuration Worksheet&lt;/g1&gt; page, run the &lt;g2&gt;Set Processing Order&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Informace o pohledávce lze funkcí Archivovat vytvářet v libovolném okamžiku kopie aktuálního stavu Informace o pohledávce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102432Z" creationid="kunes" creationdate="20220419T102432Z">
@@ -3458,6 +3474,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122339Z" creationid="kunes" creationdate="20220401T122339Z">
         <seg>On the Posted Sales Invoice page, choose the &lt;g1&gt;Payment Schedule&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránky Sešitu konfigurace a Karta konfiguračního balíčku byla doplněna funkce Nastavit pořadí zpracování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103227Z" creationid="kunes" creationdate="20220419T103227Z">
+        <seg>The Set Processing Order feature has been added to the Configuration Workbook and Configuration Package Tab pages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3790,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Obecné</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103214Z" creationid="kunes" creationdate="20220419T103214Z">
+        <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Obecné parametry</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112520Z" creationid="Janousek" creationdate="20210603T112520Z">
@@ -3842,6 +3874,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
         <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ostatní funkcionality</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103120Z" creationid="kunes" creationdate="20220419T103120Z">
+        <seg>Other functionalities</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,6 +5355,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Sestava &lt;g1&gt;Definice datových struktur&lt;/g1&gt; může sloužit jako dokumentace k migračním úlohám.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103403Z" creationid="kunes" creationdate="20220419T103403Z">
+        <seg>&lt;g1&gt;The Data Structure Definition report&lt;/g1&gt; can serve as documentation for migration tasks. The report can be found not only on the Configuration Worksheet page, but also completely separately:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Seznam funkcí naleznete na pravé části stránky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100813Z" creationid="kunes" creationdate="20220414T100813Z">
@@ -5653,6 +5701,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Takovou možnost dnes firma má pro zaokrouhlení pomocí rozšířeného nastavení na bázi Kódu způsobu platby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103114Z" creationid="kunes" creationdate="20220419T103114Z">
+        <seg>Today, the company has such an option for rounding using advanced settings based on the Payment Method Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Také umožňuje evidovat interní reklamace.|&lt;g3&gt;Reklamace&lt;/g3&gt;|
 |Modul Doprava – základ řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).|&lt;g4&gt;Doprava - základ&lt;/g4&gt;|
 |Modul Doprava – plánování rozšiřuje základní modul dopravy zejména o řízení a plánování jízd pomocí příkazů k jízdě a pomocí pultu dispečera dopravy.|&lt;g5&gt;Doprava - plánování&lt;/g5&gt;|
@@ -5669,6 +5725,14 @@ These data are updated manually using the "Resynchronize master data" function.<
 |SharePoint Publishing allows you to publish documents directly from within Dynamics 365 Business Central to a central SharePoint data store, file system, or Dynamics 365 Business Central database and link them to records in information system tables.|&lt;g7&gt;SharePoint publishing&lt;/g7&gt;|
 |A component that provides on-line or periodic bi-directional communication or synchronization of data between Dynamics 365 Business Central and other systems through different communication channels, in different formats, and for any purpose.|&lt;g8&gt;Spooler&lt;/g8&gt;|
 |Central Database allow you to synchronize data between different Business Central databases and companies via the Spooler add-on module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkce navrhne pořadí, v jakém mají být jednotlivé balíčky zpracovávány při zohlednění vzájemných vazeb (pole Pořadí balíčku a Pořadí tabulky v Sešitu konfigurace).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103234Z" creationid="kunes" creationdate="20220419T103234Z">
+        <seg>This function suggests the order in which the individual packages should be processed, taking into account the interrelationships (the Field Order and Table Order fields in the Configuration Workbook).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6397,6 +6461,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte &lt;g1&gt;Kód balíčku&lt;/g1&gt;, pro který má být pořadí nastaveno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103321Z" creationid="kunes" creationdate="20220419T103321Z">
+        <seg>On the Get Config.Table Processing Order page, select &lt;g1&gt;Package Code&lt;/g1&gt; for which the order is to be set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte Nastavení zásilek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115102Z" creationid="kunes" creationdate="20220411T115102Z">
@@ -6529,6 +6601,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113631Z" creationid="kunes" creationdate="20220411T113631Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Shipping Agents&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Sešit konfigurace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103248Z" creationid="kunes" creationdate="20220419T103248Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Configuration Worksheet&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6945,6 +7025,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101401Z" creationid="kunes" creationdate="20220414T101401Z">
         <seg>If a definition is found at the taught level, it no longer looks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V této kapitole jsou popsány další menší úpravy či vylepšení rozdělené dle oblastí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103208Z" creationid="kunes" creationdate="20220419T103208Z">
+        <seg>This chapter describes other minor modifications or enhancements broken down by area.</seg>
       </tuv>
     </tu>
     <tu>
