@@ -81,6 +81,16 @@ A similar procedure can be used on the Posted Sales Credit Memo page.</seg>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Obvykle se nastavuje „-1D“ pro denní směnné kursy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113121Z" creationid="kunes" creationdate="20220419T113121Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+"-1D" is usually set for daily exchange rates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Pokud nezadáte částku v hotovosti, musíte v řádcích zadat částky přesně do výše částky dokladu (tedy tak, aby v poli Zůstatek byla hodnota nula).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122148Z" creationid="kunes" creationdate="20220401T122148Z">
@@ -3319,6 +3329,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kontrola existence směnného kursu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113035Z" creationid="kunes" creationdate="20220419T113035Z">
+        <seg>Checking for the existence of an exchange rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontrola importu směnných kurzů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091425Z" creationid="kunes" creationdate="20220419T091425Z">
@@ -3339,6 +3357,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091407Z" creationid="kunes" creationdate="20220419T091407Z">
         <seg>The inspection is performed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrola správnosti při zadávání směnného kursu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112908Z" creationid="kunes" creationdate="20220419T112908Z">
+        <seg>Checking for correctness when entering the exchange rate</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3681,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na každé v systému definované cizí měně se dají nastavit horní a dolní limit hodnoty v lokální měně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112917Z" creationid="kunes" creationdate="20220419T112917Z">
+        <seg>The upper and lower limits of the value in the local currency can be set for each foreign currency defined in the system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na následující stránce vyplňte pole dle pořeby:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125013Z" creationid="kunes" creationdate="20220411T124953Z">
@@ -3879,6 +3913,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení financí v záložce Ostatní nastavte pole &lt;g1&gt;Vzorec data kontroly DIČ na dokladech&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112859Z" creationid="kunes" creationdate="20220419T112859Z">
+        <seg>On the General ledger setup page, on the Other tab, set the &lt;g1&gt;VAT ID check date formula field on documents&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení financí v záložce Ostatní nastavte pole &lt;g1&gt;Vzorec pro kontr.sm.kurzu na dokl&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113113Z" creationid="kunes" creationdate="20220419T113113Z">
+        <seg>On the Finance Settings page, set the &lt;g1&gt;Ex.Rate Check DateForm. on Doc&lt;/g1&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Nastavení uživatelů vyberte ve sloupci Kód platebního místa požadovanou hodnotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083608Z" creationid="kunes" creationdate="20220404T083608Z">
@@ -3931,6 +3981,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122408Z" creationid="kunes" creationdate="20220401T122408Z">
         <seg>On the Payment Schedule page, run the Post function to post one or more balancing items (typically cash receipts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce karta měny v záložce Obecné nastavte pole &lt;g1&gt;Horní limit Částky vzt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113000Z" creationid="kunes" creationdate="20220419T113000Z">
+        <seg>On the Currency tab page, on the General tab, set the &lt;g1&gt;Rel.Exch.Rate Amt. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4119,6 +4177,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení kontrol směnných kurzů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112904Z" creationid="kunes" creationdate="20220419T112904Z">
+        <seg>Exchange rate controls settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení kontroly CREDITCHECK</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111427Z" creationid="kunes" creationdate="20220419T111427Z">
@@ -4231,6 +4297,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení vymáhání pohledávek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113144Z" creationid="kunes" creationdate="20220419T113144Z">
+        <seg>Enforcement of receivables - settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení způsobu platby (dobírka)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115007Z" creationid="kunes" creationdate="20220411T115007Z">
@@ -4315,6 +4389,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
         <seg>However, the most common is the use of &lt;g1&gt;the Cashier as a counter-account&lt;/g1&gt;, which allows combining the use of Multiple Payment Methods and Cash Receipts and brings with it rounding advantages (it is automatically resolved only on the cash receipt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Není-li pole Vzorec data kontroly DIČ na dokladech vyplněno, je upozorňování vypnuté.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112844Z" creationid="kunes" creationdate="20220419T112844Z">
+        <seg>If the VAT ID Check Date Formula field on documents is not filled in, notification is turned off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Není-li pole Vzorec pro kontr.sm.kurzu na dokl.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113051Z" creationid="kunes" creationdate="20220419T113051Z">
+        <seg>If the Ex.Rate Check DateForm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6478,6 +6568,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spusťte akci &lt;g1&gt;Upravit&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112940Z" creationid="kunes" creationdate="20220419T112940Z">
+        <seg>Run the &lt;g1&gt;Edit&lt;/g1&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spusťte akci Registrovat EET.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124651Z" creationid="kunes" creationdate="20220401T124651Z">
@@ -7590,10 +7688,26 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Měny&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112931Z" creationid="kunes" creationdate="20220419T112931Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Currencies&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení Zásilek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení financí&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112853Z" creationid="kunes" creationdate="20220419T112853Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Ledger Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8118,6 +8232,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Nastavení financí se zadává datumový vzorec, který systém použije (ve vztahu k pracovnímu datu) pro definici období, ve kterém upozorňuje uživatele na zastaralou informaci o registraci k DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112841Z" creationid="kunes" creationdate="20220419T112841Z">
+        <seg>In General ledger setup, a date formula is entered that the system uses (in relation to the work date) to define the period in which it notifies the user of outdated VAT registration information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V Nastavení financí se zadává datumový vzorec, který systém použije (ve vztahu k zúčtovacímu datu) pro definici období, ve kterém upozorňuje uživatele na neexistenci záznamu v tabulce směnných kurzů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113042Z" creationid="kunes" creationdate="20220419T113042Z">
+        <seg>In the Finance settings, you enter the date formula that the system will use (in relation to the settlement date) to define the period in which it notifies the user that there is no entry in the exchange rate table. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V možnostech vyberte &lt;g1&gt;Kód webového zdroje&lt;/g1&gt;, který chcete ke Kontaktům doplnit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104624Z" creationid="kunes" creationdate="20220419T104624Z">
@@ -8400,6 +8530,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zvlášť výhodné je to u málo používaných měn, kdy je o to větší riziko chyby uživatele při zadávání kursu na dokladu, apod. Je-li pole s limitem na měně prázdný, kontrola se neprování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112923Z" creationid="kunes" creationdate="20220419T112923Z">
+        <seg>This is especially advantageous for less used currencies, where there is an even greater risk of user error when entering the exchange rate on the document, etc. If the field with the currency limit is empty, the check is not performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zvolit &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130405Z" creationid="kunes" creationdate="20220411T130405Z">
@@ -8676,6 +8814,30 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112755Z" creationid="kunes" creationdate="20220419T112755Z">
         <seg>line&lt;/g1&gt; – description for the created cumulative line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>sm.kurzu&lt;/g1&gt; a &lt;g2&gt;Dolní limit Částky vzt.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113012Z" creationid="kunes" creationdate="20220419T113012Z">
+        <seg>Upper Limit&lt;/g1&gt; and &lt;g2&gt;Rel.Exch.Rate Amt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>sm.kurzu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113029Z" creationid="kunes" creationdate="20220419T113029Z">
+        <seg>Lower Limit&lt;/g2&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>vyplněno, je upozorňování vypnuté.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113053Z" creationid="kunes" creationdate="20220419T113053Z">
+        <seg>on Doc is not fulfiled, the notification is turned off.</seg>
       </tuv>
     </tu>
     <tu>
