@@ -3974,6 +3974,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení kontroly CREDITCHECK</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111427Z" creationid="kunes" creationdate="20220419T111427Z">
+        <seg>Nastavení kontroly CREDITCHECK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení kontroly CreditCheck</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111553Z" creationid="kunes" creationdate="20220419T111553Z">
+        <seg>CreditCheck settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení lokací</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114953Z" creationid="kunes" creationdate="20220411T114953Z">
@@ -5917,8 +5933,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Sada rozšíření pro Finance - Nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220331T085154Z" creationid="Janousek" creationdate="20220331T085154Z">
-        <seg>Sada rozšíření pro Finance - Nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111428Z" creationid="Janousek" creationdate="20220331T085154Z">
+        <seg>Application extension set - Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -7225,6 +7241,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení služby CreditCheck&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T111639Z" creationid="kunes" creationdate="20220419T111639Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;CreditCheck Settings&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
