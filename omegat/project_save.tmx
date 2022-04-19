@@ -3228,6 +3228,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Položky zákazníka&lt;/g1&gt; přejděte na vybraný záznam a spusťte funkci &lt;g2&gt;Informace o pohledávce&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102141Z" creationid="kunes" creationdate="20220419T102141Z">
+        <seg>On the &lt;g1&gt;Customer Ledger Entries&lt;/g1&gt; page, navigate to the selected record and run the &lt;g2&gt;Receivable Information&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Prodejní faktura&lt;/g1&gt; spusťte akci &lt;g2&gt;Vydat&lt;/g2&gt; a poté spusťte funkci &lt;g3&gt;Rozpis platby&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090402Z" creationid="kunes" creationdate="20220401T120210Z">
@@ -6239,6 +6247,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102523Z" creationid="kunes" creationdate="20220414T102523Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Payment Orders&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Položky zákazníka&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T101632Z" creationid="kunes" creationdate="20220419T101632Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Cust. Ledger Entry&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
