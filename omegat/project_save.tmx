@@ -23,6 +23,16 @@
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Dále popsaná funkcionalita bude součástí modulu pouze do verze BC14.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110320Z" creationid="kunes" creationdate="20220419T110320Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The functionality described below will be part of the module only up to version BC14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Funkcionalita nabízí více možností, ale pro obecné parametry jsou vhodné následující datové typy &lt;g2&gt;Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102734Z" creationid="kunes" creationdate="20220405T130019Z">
@@ -1262,6 +1272,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Sada rozšíření pro Finance - Nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110505Z" creationid="kunes" creationdate="20220419T110505Z">
+        <seg>&lt;g1&gt;Application extension set - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Sestava Ověření DIČ – položky DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091259Z" creationid="kunes" creationdate="20220419T091259Z">
@@ -1998,6 +2018,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130444Z" creationid="kunes" creationdate="20220411T130444Z">
         <seg>The automatic update of the master data starts a procedure on the job queue, which updates all data from Balikobot in a certain period of time (By default on Sunday at 14:00).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Celý postup lze realizovat ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110358Z" creationid="kunes" creationdate="20220419T110358Z">
+        <seg>The whole procedure can be performed manually. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4412,6 +4440,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ovšem vzhledem k jeho komplikovanosti byla do systému doplněna funkcionalita, kdy v rámci konečné vyúčtovací faktury se přeúčtuje čerpání přeplatku zálohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110403Z" creationid="kunes" creationdate="20220419T110403Z">
+        <seg>However, due to its complexity, functionality was added to the system, where the overpayment of the advance payment is re-billed within the final billing invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>PDF reader</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130241Z" creationid="kunes" creationdate="20220411T130241Z">
@@ -4592,6 +4628,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111128Z" creationid="kunes" creationdate="20220411T111128Z">
         <seg>Once the data has been edited, the user will use the &lt;g1&gt;For Collection&lt;/g1&gt; function and use the &lt;g2&gt;Print Labels&lt;/g2&gt; function to print the new label.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po vytvoření finální nákupní faktury a přiřazení uhrazené nákupní zálohy je v případě přeplatku na záloze možné vložit další řádek s částkou přeplatku a příznakem Určeno pro vrácení zálohy (příznak je následně i na řádku zaúčtované faktury).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
+        <seg>After creating the final purchase invoice and assigning the paid purchase deposit, in case of an over-payment on the deposit, it is possible to insert another line with the overpayment amount and the Intended for return refund flag (the flag is also on the posted invoice line).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5048,6 +5092,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103810Z" creationid="kunes" creationdate="20220419T103810Z">
         <seg>NOTE: As of version BC19, it is recommended to use the newer Banking Documents functionality, which does not use the Reconciliation Log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poznámka: Při použití funkce Odúčtovat přiřazenou zálohu (z karty Zálohového daňového dokladu) dojde analogicky k odúčtování těchto zúčtování přeplatků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110452Z" creationid="kunes" creationdate="20220419T110452Z">
+        <seg>Note: When using the Derecognize assigned down payment function (from the Down Payment Docu-ment tab), these overpayment settlements will be derecognized by analogy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +7117,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vrácení peněz dodavatelem (Refundace) pak uživatel vyrovná právě s těmito vzniklými položkami.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110444Z" creationid="kunes" creationdate="20220419T110444Z">
+        <seg>The return of the money by the supplier (Refund) is then settled by the user with these created items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vrácení přeplatku nákupní zálohy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110408Z" creationid="kunes" creationdate="20220419T110408Z">
+        <seg>Purchase advance overpayment refund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte &lt;g1&gt;Kód balíčku&lt;/g1&gt;, pro který má být pořadí nastaveno.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103321Z" creationid="kunes" creationdate="20220419T103321Z">
@@ -7697,6 +7765,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V souvislosti se zavedením Kontrolního hlášení od 1.1.2016 vznikla potřeba řešit čerpání přeplatku nákupní zálohy pod jedním číslem dokladu, stejným datem a i stejným kurzem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110352Z" creationid="kunes" creationdate="20220419T110352Z">
+        <seg>In connection with the introduction of the Control Report from 1 January 2016, there was a need to address the overpayment of the purchase deposit under one document number, the same date and the same exchange rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V této kapitole jsou popsány další menší úpravy či vylepšení rozdělené dle oblastí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103208Z" creationid="kunes" creationdate="20220419T103208Z">
@@ -7853,6 +7929,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120110Z" creationid="kunes" creationdate="20220411T120110Z">
         <seg>Close the list of Expedition places.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zaúčtováním faktury pak pro každý takový řádek s přeplatkem vznikne položka dodavatele typu Dobropis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110431Z" creationid="kunes" creationdate="20220419T110431Z">
+        <seg>By posting the invoice, an item of the Vendor type is created for each such line with overpayment.</seg>
       </tuv>
     </tu>
     <tu>
