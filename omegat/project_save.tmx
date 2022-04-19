@@ -1041,6 +1041,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Návazná číselná řada&lt;/g1&gt; – jaká číselná řada má být použita v navázané aktivitě, když má zdrojový dokument zadanou číselnou řadu: objednávka vytvořená z poptávky, objednávka vytvořená z hromadné objednávky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113710Z" creationid="kunes" creationdate="20220419T113710Z">
+        <seg>&lt;g1&gt;Linked No. Series&lt;/g1&gt; – which number series is to be used in the connected activity, when the source document has a specified number series: order created from demand, order created from bulk order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry - nastavení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1661,6 +1669,30 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101623Z" creationid="kunes" creationdate="20220414T101623Z">
         <seg>&lt;g1&gt;Posting a sales invoice with a payment calendar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číselná řada dodávky&lt;/g1&gt; – jaká číselná řada má být použita pro účtovanou dodávku, když má zdrojový dokument zadanou číselnou řadu: účtovaná prodejní dodávka z prodejní objednávky nebo faktury, dodávka transferu z objednávky transferu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113732Z" creationid="kunes" creationdate="20220419T113732Z">
+        <seg>&lt;g1&gt;Shiping No. Series&lt;/g1&gt; – which number series is to be used for the posted delivery when the source document has the specified number range: billed sales delivery from the sales order or invoice, transfer delivery from the transfer order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číselná řada příjemky&lt;/g1&gt; – jaká číselná řada má být použita pro účtovanou příjemku, když má zdrojový dokument zadanou číselnou řadu: účtovaná nákupní příjemka z nákupní objednávky nebo faktury, příjemka transferu z objednávky transferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113851Z" creationid="kunes" creationdate="20220419T113851Z">
+        <seg>&lt;g1&gt;Receiving No. Series&lt;/g1&gt; – which number range is to be used for the posted receipt when the source document has the specified number range: charged purchase receipt from the purchase order or invoice, transfer receipt from the transfer order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číselná řada účtování&lt;/g1&gt; – jaká číselná řada má být použita pro zaúčtovaný doklad, když má zdrojový dokument zadanou číselnou řadu: zaúčtovaný prodejní/nákupní/servisní doklad (faktura, dobropis), vydaná upomínka, vydané penále, účtovaná dodávka/příjemka skladu, účtovaná montážní zakázka, účtovaný příjem/výdej zásob, účtovaná obj. fyz. inventury</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113722Z" creationid="kunes" creationdate="20220419T113722Z">
+        <seg>&lt;g1&gt;Posting No. Series&lt;/g1&gt; – which number range is to be used for the posted document when the source document has the specified number range: posted sales / purchase / service document (invoice, credit memo), issued reminder, issued penalties, charged delivery / warehouse receipt, posted assembly order, posted inventory receipt / issue, posted physical inventory volume</seg>
       </tuv>
     </tu>
     <tu>
@@ -2415,6 +2447,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104741Z" creationid="kunes" creationdate="20220419T104729Z">
         <seg>According to the recorded estimate (advance coefficient), VAT deductions are charged during the accounting period.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dle určení číselné řady vyplňte některý ze sloupců:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113523Z" creationid="kunes" creationdate="20220419T113523Z">
+        <seg>Fill in one of the columns according to the number series:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7726,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115102Z" creationid="kunes" creationdate="20220411T115102Z">
         <seg>Select Shipment Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte akci &lt;g1&gt;Návaznosti&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T113459Z" creationid="kunes" creationdate="20220419T113459Z">
+        <seg>Select the &lt;g1&gt;Links&lt;/g1&gt; action.</seg>
       </tuv>
     </tu>
     <tu>
