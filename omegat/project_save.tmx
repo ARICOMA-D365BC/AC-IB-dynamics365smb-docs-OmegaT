@@ -6933,6 +6933,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V praxi se často vyskytuje potřeba řešit zaokrouhlování faktur různě podle kontextu způsobu úhrady, např. jinak pro hotovostní operace, jinak pro úhrady z účtu či jinak pro doklady s úhradou pomocí zálohové faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T103107Z" creationid="kunes" creationdate="20220419T103107Z">
+        <seg>In practice, there is often a need to address the rounding of invoices differently according to the context of the method of payment, eg differently for cash transactions, differently for payments from an account or differently for documents with payment by advance invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V případě nalezení definice na učité úrovni již nehledá dále.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101401Z" creationid="kunes" creationdate="20220414T101401Z">
@@ -7057,6 +7065,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
         <seg>Creating and setting up general parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zaokrouhlední faktury dle způsobu úhrady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102816Z" creationid="kunes" creationdate="20220419T102816Z">
+        <seg>Rounding of the invoice according to the payment method</seg>
       </tuv>
     </tu>
     <tu>
