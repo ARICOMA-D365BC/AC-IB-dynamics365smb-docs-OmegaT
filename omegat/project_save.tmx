@@ -1260,6 +1260,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vytvoření nové evidence pro pohledávku&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T101621Z" creationid="kunes" creationdate="20220419T095748Z">
+        <seg>&lt;g1&gt;Creating a new record for a receivable&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Vytvoření platebního kalendáře k zaúčtované faktuře&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102138Z" creationid="kunes" creationdate="20220414T102118Z">
@@ -2120,6 +2128,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102357Z" creationid="kunes" creationdate="20220406T102357Z">
         <seg>Additionally, you can set the parameters to be the default template, mandatory, or you can specify a priority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Díky tomu má uživatel okamžitě k dispozici tuto základní informaci, ale také detailní informace na jedno kliknutí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095746Z" creationid="kunes" creationdate="20220419T095746Z">
+        <seg>As a result, the user has immediate access to this basic information, but also detailed information at the click of a button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4358,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poznámka: V případě potřeby připojovat k evidenci elektronické dokumenty, zvažte využití addonu Publikování SharePoint od firmy AUTOCONT., popř. jiný produkt třetí strany.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095552Z" creationid="kunes" creationdate="20220419T095545Z">
+        <seg>Note: If you need to attach electronic documents to the register, consider using the SharePoint Publishing addon from AUTOCONT, or another third party product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pošta Bez Hranic</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
@@ -5307,6 +5331,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Stav vymáhání pohledávky je zobrazen v Informačním okně &lt;g1&gt;Podrobnosti položky zákazníka&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095738Z" creationid="kunes" creationdate="20220419T095548Z">
+        <seg>The receivable collection status is displayed in the &lt;g1&gt;Customer Ledger Entry FactBox&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Stažené informace o bonitě zákazníka CreditCheck ERP (do bonity patří i info o nespolehlivém plátci DPH) jsou na kartě dodavatele zobrazeny v Informačním okně Hodnocení dodavatele.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101034Z" creationid="kunes" creationdate="20220414T101034Z">
@@ -5635,6 +5667,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082530Z" creationid="kunes" creationdate="20220404T082436Z">
         <seg>This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>U takových pohledávek je potřeba mít především aktuální informaci o stavu pohledávky a průběhu vymáhání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095531Z" creationid="kunes" creationdate="20220419T095531Z">
+        <seg>For such receivables, tis necessary to have up-to-date information on the status of the receivable, the course of recovery.</seg>
       </tuv>
     </tu>
     <tu>
