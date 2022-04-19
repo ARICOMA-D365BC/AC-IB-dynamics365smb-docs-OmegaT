@@ -102,6 +102,16 @@ The same procedure is used both for inserting and for changing parameters or val
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+V souvislosti s touto funkcionalitou nejsou upraveny tiskové výstupy prodejních ani servisních dokladů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105520Z" creationid="kunes" creationdate="20220419T105520Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+In connection with this functionality, the printouts of sales or service documents are not modified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!WARNING&lt;/g1&gt;
 Modul tvoří základ pro podporu maloobchodního prodeje formou Cash&amp;Carry.</seg>
       </tuv>
@@ -1406,6 +1416,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Více registrací k DPH na dokladech&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T110004Z" creationid="kunes" creationdate="20220419T110004Z">
+        <seg>&lt;g1&gt;More VAT registrations on documents&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Více úhad&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -2172,6 +2190,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101727Z" creationid="kunes" creationdate="20220406T101727Z">
         <seg>Definition of parameter translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definovat kód země DPH a kód země plnění na dokladech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105441Z" creationid="kunes" creationdate="20220419T105441Z">
+        <seg>Define the VAT country code and the country of supply code on the documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3928,6 +3954,38 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavit Kurzovní lístek pro zemi plnění.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105426Z" creationid="kunes" creationdate="20220419T105426Z">
+        <seg>Set Exchange Rate List for the country of performance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavit registraci země pro zákazníky a dodavatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105430Z" creationid="kunes" creationdate="20220419T105430Z">
+        <seg>Set up country registration for customers and suppliers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavit směry registrace země pro změny DPH obchodních účto skupin.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105436Z" creationid="kunes" creationdate="20220419T105436Z">
+        <seg>Set country registration directions for VAT changes of business accounts of groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavit společnost jako plátce DPH v jiné zemi EU.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105422Z" creationid="kunes" creationdate="20220419T105422Z">
+        <seg>Set up a company as a VAT payer in another EU country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nebo využijte funkci Skenovat kódy (v případě kdy máte čárový kód s číslem dokladu).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110537Z" creationid="kunes" creationdate="20220407T110537Z">
@@ -4454,6 +4512,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102037Z" creationid="kunes" creationdate="20220414T102037Z">
         <seg>In addition, after posting a sales invoice (or order), customer items are created that balance the ba-lance of the original item and several new receivables (with the same document type, document nu-mber, etc.) are created with due dates and amounts according to the payment calendar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Podklad pro vyrovnání s FÚ OSS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105510Z" creationid="kunes" creationdate="20220419T105510Z">
+        <seg>Basis for settlement with FÚ OSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Podklad pro zahraniční účetní kanceláře se soupisem vystavených dokladů v dané zemi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105503Z" creationid="kunes" creationdate="20220419T105503Z">
+        <seg>Document for foreign accounting offices with a list of issued documents in the given country.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,6 +5567,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Případné úpravy vzhledu dokladů s jinou registrací k DPH musí být realizovány jako zákaznické úpravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105526Z" creationid="kunes" creationdate="20220419T105526Z">
+        <seg>Any modifications to the appearance of documents with a different VAT registration must be made as customer modifications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Případně pokud máte nastavenou výchozí tiskárnu ve &lt;g1&gt;Výběry tiskáren&lt;/g1&gt; jako zbytek Vašich tiskových sestav.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130431Z" creationid="kunes" creationdate="20220411T130431Z">
@@ -5505,6 +5587,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
         <seg>Raben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Registrace k DPH ve více zemích</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105412Z" creationid="kunes" creationdate="20220419T105412Z">
+        <seg>VAT registration in Multiple countries</seg>
       </tuv>
     </tu>
     <tu>
@@ -6047,6 +6137,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103234Z" creationid="kunes" creationdate="20220419T103234Z">
         <seg>This function suggests the order in which the individual packages should be processed, taking into account the interrelationships (the Field Order and Table Order fields in the Configuration Workbook).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkce rozšiřuje možnost práce s DPH a umožňuje uživatelům:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105417Z" creationid="kunes" creationdate="20220419T105417Z">
+        <seg>This feature expands the ability to work with VAT and allows users to:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7259,6 +7357,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115218Z" creationid="kunes" creationdate="20220411T115218Z">
         <seg>Create a new Shipping Agent using the fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvářet OSS doklady (One Stop Shop) v režimu Evropské unie</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T105506Z" creationid="kunes" creationdate="20220419T105506Z">
+        <seg>Create OSS documents (One Stop Shop) in European Union mode</seg>
       </tuv>
     </tu>
     <tu>
