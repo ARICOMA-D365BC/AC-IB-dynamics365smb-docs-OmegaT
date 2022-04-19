@@ -61,6 +61,16 @@ On the sales document, the presence of the payment calendar is indicated by the 
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Nastavené kombinace DPH účto skupin s Typem výpočtu DPH = Plná DPH nevstupují do výkazu DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114333Z" creationid="kunes" creationdate="20220419T114333Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The set combinations of VAT account groups with VAT calculation type = Full VAT do not enter the VAT statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Není řešeno okamžité účtování „neodčitatelné“ DPH na primárních dokladech (faktura, dobropis, pokladní doklad, finanční deník) ani směrování „neodčitatelné“ DPH za zdrojem zdanění (zboží, dlouhodobý majetek, služba).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104821Z" creationid="kunes" creationdate="20220419T104821Z">
@@ -86,6 +96,16 @@ Obvykle se nastavuje „-1D“ pro denní směnné kursy.</seg>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113121Z" creationid="kunes" creationdate="20220419T113121Z">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 "-1D" is usually set for daily exchange rates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pohled je filtrován na prázdný Kód měny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114120Z" creationid="kunes" creationdate="20220419T114120Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The view is filtered to an empty currency code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,6 +1029,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení pro cizí měny&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114132Z" creationid="kunes" creationdate="20220419T114132Z">
+        <seg>&lt;g1&gt;Foreign currency setup&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení pro lokální měnu&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114021Z" creationid="kunes" creationdate="20220419T114012Z">
@@ -1821,6 +1849,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111810Z" creationid="kunes" creationdate="20220419T111810Z">
         <seg>&lt;x1/&gt;CreditCheck - setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení účtování DHP&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114409Z" creationid="kunes" creationdate="20220419T114409Z">
+        <seg>&lt;x1/&gt;Setup VAT posting&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2679,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále musí být nastaveny nové kombinace stejné DPH obchodní účto skupiny a DPH účto skupiny zboží definované v poli „Koef.DPH účto skupiny zboží“ (viz výše) s Typem výpočtu DPH = Plná DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114305Z" creationid="kunes" creationdate="20220419T114305Z">
+        <seg>In addition, new combinations of the same VAT business account group and VAT account of the goods group defined in the field "Coef.DPH account of the goods group" (see above) must be set with VAT calculation type = Full VAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále můžete nastavit parametrům to, který bude jako výchozí hodnotou šablony, povinný nebo můžete určit prioritu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102357Z" creationid="kunes" creationdate="20220406T102357Z">
@@ -3379,6 +3423,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Koef.DPH účto skupiny zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114256Z" creationid="kunes" creationdate="20220419T114256Z">
+        <seg>VAT Prod. Posting Group Coefficient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Koncové datum DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105219Z" creationid="kunes" creationdate="20220419T105219Z">
@@ -4035,6 +4087,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení zaokrouhlení faktur definujte nastavení zaokrouhlení pro cizí měny v kombinaci s vybraným způsobem platby, u kterých má být jiné nastavení než to výchozí z Karty měny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114207Z" creationid="kunes" creationdate="20220419T114207Z">
+        <seg>On the Invoice Rounding Settings page, define the rounding settings for foreign currencies in combination with the selected payment method, for which the settings should be different from the default on the Currency Card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Nastavení zaokrouhlení faktur definujte nastavení zaokrouhlení pro všechny způsoby plateb, u kterých má být jiné nastavení než to výchozí z Nastavení financí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114112Z" creationid="kunes" creationdate="20220419T114112Z">
@@ -4315,6 +4375,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení krácení odpočtu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114216Z" creationid="kunes" creationdate="20220419T114216Z">
+        <seg>VAT deduct reduction setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení kumulování plateb</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112520Z" creationid="kunes" creationdate="20220419T112520Z">
@@ -4463,6 +4531,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125148Z" creationid="kunes" creationdate="20220411T125148Z">
         <seg>Payment method settings - Cash on delivery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení účtování DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114220Z" creationid="kunes" creationdate="20220419T114220Z">
+        <seg>VAT Posting Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -5797,6 +5873,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro kombinace DPH účto skupin, kde se bude řešit krácení vstupní DPH koeficientem, musí být nastaveno (kromě jiného):</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114247Z" creationid="kunes" creationdate="20220419T114247Z">
+        <seg>For combinations of VAT account groups, where the reduction of the input VAT coefficient will be solved, it must be set (among other things):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení a používání funkce zásilka na dobírku je zapotřebí nastavit na způsobu platby booeal &lt;g1&gt;Dobírka&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125159Z" creationid="kunes" creationdate="20220411T125159Z">
@@ -5924,6 +6008,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130247Z" creationid="kunes" creationdate="20220411T130247Z">
         <seg>You need to have a PDF reader installed to print labels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro tyto kombinace musí být nastaveno (kromě jiného):</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114310Z" creationid="kunes" creationdate="20220419T114310Z">
+        <seg>The following must be set for these combinations (among other things):</seg>
       </tuv>
     </tu>
     <tu>
@@ -7214,6 +7306,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Typ účtování koeficientu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114251Z" creationid="kunes" creationdate="20220419T114251Z">
+        <seg>VAT Coeff. Posting Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tímto krokem uživatel nemusí ručně vypisovat údaje o zásilce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110501Z" creationid="kunes" creationdate="20220407T110501Z">
@@ -7788,8 +7888,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Vyberte akci Nastavení zaokrouhlení faktur.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T114032Z" creationid="kunes" creationdate="20220419T114032Z">
-        <seg>Select the Invoice Rounding Setup action.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114158Z" creationid="kunes" creationdate="20220419T114032Z">
+        <seg>Select the Invoice Rounding Settings action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,6 +8046,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení účtování DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114240Z" creationid="kunes" creationdate="20220419T114240Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Posting Setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Obecné parametry&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125914Z" creationid="kunes" creationdate="20220405T125914Z">
@@ -8053,6 +8161,14 @@ These data are updated manually using the "Resynchronize master data" function.<
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Způsob platby&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130217Z" creationid="kunes" creationdate="20220411T130217Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Payment Method&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Způsoby plateb&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114142Z" creationid="kunes" creationdate="20220419T114142Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Payment Method&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
@@ -9372,6 +9488,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112903Z" creationid="Janousek" creationdate="20210603T112903Z">
         <seg>Project and order management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>„Účet opravy neodčitatelné DPH“ – použije se jako protiúčet běžného nákupního účtu DPH při přeúčtování krácení odpočtu DPH koeficientem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114324Z" creationid="kunes" creationdate="20220419T114324Z">
+        <seg>"Non Deduction VAT Correction Account" – used as a counter-account of the current VAT purchasing account when re-accounting for the reduction of the VAT deduction by the coefficient.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
