@@ -496,6 +496,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrola množství&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104453Z" creationid="kunes" creationdate="20220419T104401Z">
+        <seg>&lt;g1&gt;Quantity control&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola registrace k DPH dle položek DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091137Z" creationid="kunes" creationdate="20220419T091137Z">
@@ -1930,6 +1938,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112732Z" creationid="Janousek" creationdate="20210603T112732Z">
         <seg>Central Database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Chybové hlášení o nedostupnosti zboží na skladě bylo doplněno o kód lokace a konkrétní sériové číslo či šarži.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104501Z" creationid="kunes" creationdate="20220419T104450Z">
+        <seg>The error message about the unavailability of goods in stock was supplemented by the location code and a specific serial number or batch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4664,6 +4680,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Používá se .NET komponenta Microsoft.Dynamics.Nav.MX.dll, která je standardní AddIn od MS. Příklad použití je v reportu 52057066 "Sales - Invoice QR_acb", jen tisk samotného QR kódu a příklad volání funkce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104251Z" creationid="kunes" creationdate="20220419T104251Z">
+        <seg>The .NET component Microsoft.Dynamics.Nav.MX.dll, which is a standard AddIn from MS, is used. An example of use is in report 52057066 "Sales - Invoice QR_acb", only the printing of the QR code itself and an example of calling a function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Povolit nebo zakázat Protokol aktivity</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124000Z" creationid="kunes" creationdate="20220411T124000Z">
@@ -4716,6 +4740,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095552Z" creationid="kunes" creationdate="20220419T095545Z">
         <seg>Note: If you need to attach electronic documents to the register, consider using the SharePoint Publishing addon from AUTOCONT, or another third party product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poznámka: v BC online je nutné použít odlišný způsob – viz &lt;g1&gt;Barcode Fonts with Business Central Online - Business Central | Microsoft Docs&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104343Z" creationid="kunes" creationdate="20220419T104343Z">
+        <seg>NOTE: In BC online it is necessary to use different method – see &lt;g1&gt;Barcode Fonts with Business Central Online - Business Central | Microsoft Docs&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,6 +5527,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104327Z" creationid="kunes" creationdate="20220407T104327Z">
         <seg>List of shipping angents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Sklad</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104355Z" creationid="kunes" creationdate="20220419T104355Z">
+        <seg>Inventory</seg>
       </tuv>
     </tu>
     <tu>
