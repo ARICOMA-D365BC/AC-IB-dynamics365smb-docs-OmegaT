@@ -4455,6 +4455,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení registrace k DPH ve více zemích</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114619Z" creationid="kunes" creationdate="20220419T114619Z">
+        <seg>VAT registration in multiple countries setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení rozšíření číselné řady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113216Z" creationid="kunes" creationdate="20220419T113216Z">
@@ -4531,6 +4539,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125148Z" creationid="kunes" creationdate="20220411T125148Z">
         <seg>Payment method settings - Cash on delivery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení zálohového koeficientu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114416Z" creationid="kunes" creationdate="20220419T114416Z">
+        <seg>VAT Advance Coefficient</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8470,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Více DIČ zákazníků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114721Z" creationid="kunes" creationdate="20220419T114721Z">
+        <seg>More VAT registration numbers of customers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Více informací k Business Central naleznete na našich stránkách &lt;g1&gt;ACDynamics365.cz&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111742Z" creationid="Janousek" creationdate="20210603T111742Z">
@@ -8610,6 +8634,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113331Z" creationid="kunes" creationdate="20220419T113331Z">
         <seg>In the &lt;g1&gt;Mask&lt;/g1&gt;, set the combination of fixed and wildcards in the format "&lt;g2&gt;XXrrcccc&lt;/g2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli Zálohový koeficient DPH" na záložce DPH nastavte hodnotu procenta platného pro aktuální účetní období.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114423Z" creationid="kunes" creationdate="20220419T114423Z">
+        <seg>In the VAT Advance Coefficient field on the VAT tab, set the percentage value valid for the current accounting period.</seg>
       </tuv>
     </tu>
     <tu>
