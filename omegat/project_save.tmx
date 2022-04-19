@@ -464,6 +464,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrola registrace k DPH dle položek DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091137Z" creationid="kunes" creationdate="20220419T091137Z">
+        <seg>&lt;g1&gt;Check VAT registration by VAT entries&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola registrace k DPH na dokladech&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090859Z" creationid="kunes" creationdate="20220419T090821Z">
@@ -1094,6 +1102,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140610Z" creationid="Janousek" creationdate="20210625T140610Z">
         <seg>&lt;g1&gt;Application extension set&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Sestava Ověření DIČ – položky DPH&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091259Z" creationid="kunes" creationdate="20220419T091259Z">
+        <seg>&lt;g1&gt;Check VAT Reg. - VAT Entries&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +3926,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Podobně je upozorněn, když je ověření DIČ staršího data než dle nastavení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091053Z" creationid="kunes" creationdate="20220419T091053Z">
+        <seg>Similarly, it is notified when the VAT NUMBER is verified older than according to the settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokračujte ve zpracování další zásilky nebo formulář zavřete.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113834Z" creationid="kunes" creationdate="20220411T113834Z">
@@ -4226,6 +4250,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101348Z" creationid="kunes" creationdate="20220414T101348Z">
         <seg>Note: The hierarchical design is only available for the selling price of the goods.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poznámka: Nejen informace o ověření registrace k DPH jsou na nákupních (ale i prodejních či servisních) dokladech viditelné v okně s fakty Detaily nákupní hlavičky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091114Z" creationid="kunes" creationdate="20220419T091114Z">
+        <seg>Note: Not only information about verifying VAT registration is visible on purchase (but also sales or service) documents in the Purchase Header Details fact window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4665,6 +4697,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Před odesláním výkazu DPH je vhodné ověřit, zda-li budou všechny reportované záznamy v pořádku z pohledu registrace k DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091142Z" creationid="kunes" creationdate="20220419T091142Z">
+        <seg>Before submitting a VAT statement, it is a good idea to verify that all reported records will be correct from the point of view of VAT registration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Před tím, než budete moci používat funkcionality více způsobů plateb ve vašich obchodních procesech, musíte provést základní nastavení modulu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
@@ -4747,8 +4787,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Při vytváření prodejních, nákupních či servisních dokladů probíhá kontrola na existenci platného ověření registrace k DPH v rámci zadaného časového intervalu.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T090942Z" creationid="kunes" creationdate="20220419T090942Z">
-        <seg>Při vytváření prodejních, nákupních či servisních dokladů probíhá kontrola na existenci platného ověření registrace k DPH v rámci zadaného časového intervalu.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091013Z" creationid="kunes" creationdate="20220419T090942Z">
+        <seg>When you create sales, purchase, or service documents, you check for the existence of a valid verification of the VAT registration within the specified time interval.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5051,6 +5091,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spustte sestavu &lt;g1&gt;Ověření DIČ – položky DPH&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091247Z" creationid="kunes" creationdate="20220419T091247Z">
+        <seg>Run the &lt;g1&gt;Check VAT Reg. - VAT Entries&lt;/g1&gt; report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spustí se průvodce pro vkládání.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123059Z" creationid="kunes" creationdate="20220405T123059Z">
@@ -5171,6 +5219,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Stiskem Detaily… uživatel zobrazí &lt;g1&gt;Protokol ověření DIČ&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091059Z" creationid="kunes" creationdate="20220419T091059Z">
+        <seg>Press Details… the user will display the &lt;g1&gt;VAT Verification Protocol&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Synchronizace master dat - ANO</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115243Z" creationid="kunes" creationdate="20220411T115243Z">
@@ -5243,6 +5299,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102455Z" creationid="kunes" creationdate="20220414T102455Z">
         <seg>This functionality combines payment lines for vendors who are allowed to accumulate payments, according to the rules set in the bank account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato kontrola se provádí při validaci zákazníka/plátce (resp. dodavatele/věřitele) na dokladu; pro období od pracovního data zpětně se hledá záznam v tabulce &lt;g1&gt;Protokol ověření DIČ&lt;/g1&gt; s ověřenou registrací (stav &lt;g2&gt;Platný&lt;/g2&gt; = DIČ je registrováno k DPH či &lt;g3&gt;Neplatný&lt;/g3&gt; = DIČ není registrováno k DPH).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091038Z" creationid="kunes" creationdate="20220419T091038Z">
+        <seg>This check is carried out during the validation of the customer/payer (or supplier/creditor) on the document; for the period from the work date retrospectively, a record in the table &lt;g1&gt;VAT ID verification&lt;/g1&gt; with verified registration is searched (status &lt;g2&gt;Valid&lt;/g2&gt; = VAT ID is registered for VAT or &lt;g3&gt;Invalid&lt;/g3&gt; = VAT ID is not registered for VAT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5567,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130735Z" creationid="kunes" creationdate="20220411T130614Z">
         <seg>The user will be prompted to create and open a new job queue item that will be in the "Ready" state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatel je upozorněn, když příslušné DIČ nebylo v systému ještě nikdy ověřováno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091045Z" creationid="kunes" creationdate="20220419T091045Z">
+        <seg>The user is notified when the relevant VAT number has never been verified in the system before.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,6 +6131,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Výkazy DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091159Z" creationid="kunes" creationdate="20220419T091159Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Statement&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Způsob platby&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130217Z" creationid="kunes" creationdate="20220411T130217Z">
@@ -6597,6 +6677,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zvolte tlačítko OK a spusťte sestavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091251Z" creationid="kunes" creationdate="20220419T091251Z">
+        <seg>Choose the OK button to run the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zvolte řádek rozšíření &lt;g1&gt;AC Parcels&lt;/g1&gt; a poté použijte akci &lt;g2&gt;Konfigurace&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130829Z" creationid="kunes" creationdate="20220411T130829Z">
@@ -6737,6 +6825,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110645Z" creationid="kunes" creationdate="20220407T110645Z">
         <seg>You can also create shipments manually without accounting documents, e.g.: for sending letters or an additional package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Z tohoto okna je možné spustit akci pro kontrolu DIČ zadaného na dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T091120Z" creationid="kunes" creationdate="20220419T091120Z">
+        <seg>From this window it is possible to run an action to check the VAT number entered on the document.</seg>
       </tuv>
     </tu>
     <tu>
