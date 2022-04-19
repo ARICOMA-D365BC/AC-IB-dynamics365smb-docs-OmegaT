@@ -2364,6 +2364,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita slouží jako podpora pro vymáhání pohledávek, které dosud nebyly uhrazeny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T095522Z" creationid="kunes" creationdate="20220419T095522Z">
+        <seg>The functionality serves as support for enforcement of receivables that have not yet been repaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkcionalita umožňuje sloučení řádků platebního příkazu, což je vhodné, pokud je potřeba uhradit více nákupních dokladů jednou částkou.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102436Z" creationid="kunes" creationdate="20220414T102211Z">
