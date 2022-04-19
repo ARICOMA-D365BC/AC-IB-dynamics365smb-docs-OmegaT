@@ -2655,6 +2655,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále doplňte DPH obch. účtoskupinu, která se má použít v případě nákupu z této země dodatatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114804Z" creationid="kunes" creationdate="20220419T114804Z">
+        <seg>Next, add VAT Bus.Posting Group to be used in the event of a sale to a customer in that country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále doplňte DPH obch. účtoskupinu, která se má použít v případě prodeje zákazníkovi do této země.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114735Z" creationid="kunes" creationdate="20220419T114735Z">
+        <seg>Next, add VAT Bus.Posting Group to be used in the event of a sale to a customer in that country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je možné evidovat, zda-li a komu byla pohledávky předána, druh vymáhání a v neposlední řadě Datum uzavření vymáhání pohledávky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102417Z" creationid="kunes" creationdate="20220419T102417Z">
@@ -7894,6 +7910,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte akci  Země/oblasti registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114726Z" creationid="kunes" creationdate="20220419T114726Z">
+        <seg>Select the Registration Country action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte akci &lt;g1&gt;Návaznosti&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113459Z" creationid="kunes" creationdate="20220419T113459Z">
@@ -7906,6 +7930,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114158Z" creationid="kunes" creationdate="20220419T114032Z">
         <seg>Select the Invoice Rounding Settings action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte akci Země/oblasti registrace (Související -&gt; Dodavatel).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114753Z" creationid="kunes" creationdate="20220419T114753Z">
+        <seg>Select the Registration Country action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8502,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Více DIČ dodavatelů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114739Z" creationid="kunes" creationdate="20220419T114739Z">
+        <seg>More VAT registration numbers of customers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Více DIČ zákazníků</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114721Z" creationid="kunes" creationdate="20220419T114721Z">
@@ -8482,6 +8522,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111742Z" creationid="Janousek" creationdate="20210603T111742Z">
         <seg>More information about Business Central can be found on our &lt;g1&gt;website ACDynamics365.cz&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Více registrací k DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114855Z" creationid="kunes" creationdate="20220419T114855Z">
+        <seg>More VAT registrations</seg>
       </tuv>
     </tu>
     <tu>
@@ -8782,6 +8830,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte kód země a DIČ pro vybraného dodavatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114759Z" creationid="kunes" creationdate="20220419T114759Z">
+        <seg>Enter the country code and VAT registration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte kód země a DIČ pro vybraného zákazníka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T114730Z" creationid="kunes" creationdate="20220419T114730Z">
+        <seg>Enter the country code and VAT registration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte částku v hotovosti, kterou jste obdrželi od zákazníka.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121728Z" creationid="kunes" creationdate="20220401T121728Z">
@@ -8996,6 +9060,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123717Z" creationid="kunes" creationdate="20220411T123717Z">
         <seg>Basic settings are made using the application setup wizard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní nastavení spočívá v evidenci registrací k DPH v jednotlivých zemích a nastavení, jak má systém měnit DPH účtoskupiny v dokladech pro správné zpracování položek DPH při uzavírání DPH a pro správnou tvorbu podkladů (nejčastěji pro účetní kanceláře v daných zemích).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115123Z" creationid="kunes" creationdate="20220419T115123Z">
+        <seg>The basic setting consists in the recording of VAT registration numbers in individual countries and setting how the system should change the VAT Bus. Posting Group in documents for the correct processing of VAT entries when concluding VAT and for the correct creation of documentation (most often for accounting offices in these countries).</seg>
       </tuv>
     </tu>
     <tu>
