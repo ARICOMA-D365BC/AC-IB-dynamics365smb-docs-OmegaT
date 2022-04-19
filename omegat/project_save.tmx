@@ -1380,6 +1380,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vytváření webových zdrojů kontaktů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104520Z" creationid="kunes" creationdate="20220419T104520Z">
+        <seg>&lt;g1&gt;Creating web contact resources&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Více úhad&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1974,6 +1982,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Cílem funkcionality je umožnit dodatečně odúčtovat krácení odpočtu DPH z účtů DPH na definované finanční účty (obvykle nákladové účty).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104736Z" creationid="kunes" creationdate="20220419T104718Z">
+        <seg>The aim of the functionality is to additionally account for the reduction of VAT deduction from VAT accounts to defined financial accounts (usually cost accounts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Cílem je omezení chybovosti uživatelů prostřednictvím jejich přiřazení k určitým „pokladním místům“.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115157Z" creationid="kunes" creationdate="20220401T115157Z">
@@ -2150,6 +2166,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dle evidovaného odhadu (zálohový koeficient) jsou v průběhu účetního období účtovány odpočty DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104741Z" creationid="kunes" creationdate="20220419T104729Z">
+        <seg>According to the recorded estimate (advance coefficient), VAT deductions are charged during the accounting period.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do hlavičky pokladního dokladu je doplněno pole Oprava.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103824Z" creationid="kunes" creationdate="20220419T103824Z">
@@ -2186,6 +2210,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104833Z" creationid="kunes" creationdate="20220407T104833Z">
         <seg>Delivery to the floor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Doplníte-li dodatečně nový webový zdroj, můžete pak generovat hromadně pro všechny (či jen vybrané) kontakty:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104543Z" creationid="kunes" creationdate="20220419T104543Z">
+        <seg>If you additionally add a new web resource, you can then generate bulk for all (or only selected) contacts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Doplnění CRM</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104511Z" creationid="kunes" creationdate="20220419T104511Z">
+        <seg>CRM</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,6 +2846,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je-li třeba, zadejte filtr pro omezení výběru kontaktů, pro které má být výše uvedené aplikováno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104633Z" creationid="kunes" creationdate="20220419T104633Z">
+        <seg>If necessary, specify a filter to limit the selection of contacts to which the above should be applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je-li uživatelem zapnuto, bude systém účtovat na stejné strany účtů, ale s opačným znaménkem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103832Z" creationid="kunes" creationdate="20220419T103832Z">
@@ -3082,6 +3130,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112848Z" creationid="Janousek" creationdate="20210603T112848Z">
         <seg>In addition to the expansion modules, the specialized industry solutions listed below are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Krácení odpočtu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104645Z" creationid="kunes" creationdate="20220419T104645Z">
+        <seg>Reduciton of VAT deduct</seg>
       </tuv>
     </tu>
     <tu>
@@ -4396,6 +4452,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113411Z" creationid="kunes" creationdate="20220411T113411Z">
         <seg>If you want to view individual shipment statuses from the shipper, use the &lt;g1&gt;Track Status&lt;/g1&gt; function on the shipment overview to open the individual shipment status page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je třeba, po skončení kalendářního roku je možné přepočítat dle skutečného podílu použití těchto zdanitelných plnění pro účely uskutečněných plnění v daném roce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104759Z" creationid="kunes" creationdate="20220419T104759Z">
+        <seg>If necessary, after the end of the calendar year, it is possible to recalculate according to the actual proportion of the use of these taxable transactions for the purposes of the transactions carried out in that year.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6797,6 +6861,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vytvoření webových zdrojů kontaktu&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104553Z" creationid="kunes" creationdate="20220419T104553Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Create Cont. Web Sources&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vytvořit zásilku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110516Z" creationid="kunes" creationdate="20220407T110516Z">
@@ -7177,6 +7249,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082041Z" creationid="kunes" creationdate="20220404T082041Z">
         <seg>There must always be a line with the  „Cash“, type, which the system uses when the cash amount received is entered to create the payment schedule line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V možnostech vyberte &lt;g1&gt;Kód webového zdroje&lt;/g1&gt;, který chcete ke Kontaktům doplnit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104624Z" creationid="kunes" creationdate="20220419T104624Z">
+        <seg>In the options, select the &lt;g1&gt;Web Source Code&lt;/g1&gt; you want to add to Contacts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V možnostech vyberte pole kontaktu, ze kterého má být doplněna variabilní hodnota URL odkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T104628Z" creationid="kunes" creationdate="20220419T104628Z">
+        <seg>In the options, select the contact field from which the variable value of the link URL is to be added.</seg>
       </tuv>
     </tu>
     <tu>
