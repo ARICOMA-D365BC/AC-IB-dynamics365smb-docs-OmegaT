@@ -432,6 +432,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Generování číselných řad dle masek&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102542Z" creationid="kunes" creationdate="20220419T102542Z">
+        <seg>&lt;g1&gt;Generating number series according to masks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142154Z" creationid="Janousek" creationdate="20210625T142154Z">
@@ -894,6 +902,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Návaznosti číselných řad&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102742Z" creationid="kunes" creationdate="20220419T102742Z">
+        <seg>&lt;g1&gt;Continuity of number series&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry - nastavení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1026,6 +1042,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Počáteční datum&lt;/g1&gt; – od jakého data má být nová číselná řada aktivní</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102652Z" creationid="kunes" creationdate="20220419T102652Z">
+        <seg>&lt;g1&gt;Starting date&lt;/g1&gt; – from which date the new number series should be active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Prodejní ceny&lt;/g1&gt; systém dohledává v následujícím pořadí:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101421Z" creationid="kunes" creationdate="20220414T101421Z">
@@ -1062,6 +1086,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141643Z" creationid="Janousek" creationdate="20210625T141643Z">
         <seg>&lt;g1&gt;Publication Tasks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Přírůstek čísel&lt;/g1&gt; – určuje velikost intervalu mezi čísly v číselné řadě</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102707Z" creationid="kunes" creationdate="20220419T102707Z">
+        <seg>&lt;g1&gt;Increment-by No.&lt;/g1&gt; – determines the size of the interval between numbers in the number series</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,6 +1432,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
         <seg>&lt;g1&gt;Parcels No.&lt;/g1&gt; - Specifies the No. Series for parcels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo varování&lt;/g1&gt; – určuje kdy chcete obdržet varování o blížícím se konci řady (nepovinné)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102719Z" creationid="kunes" creationdate="20220419T102719Z">
+        <seg>&lt;g1&gt;Warning No.&lt;/g1&gt; – determines when you want to receive a warning about the approaching end of the series (optional)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2710,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je-li třeba, zadejte filtr na Kód číselné řady, pro který má být výše uvedené aplikováno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102725Z" creationid="kunes" creationdate="20220419T102725Z">
+        <seg>If necessary, enter a filter for the No. Series Code for which the above is to be applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedno expediční místo může být přiřazeno jedné lokaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113557Z" creationid="kunes" creationdate="20220411T113557Z">
@@ -3006,6 +3054,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K zobrazení souvisejících záznamů spusťe funkci Související položky na stránce Informace o pohledávce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102504Z" creationid="kunes" creationdate="20220419T102504Z">
+        <seg>To view related records, run the Related Entries function on the Receivable Information Card page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Liftago</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
@@ -3034,6 +3090,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
         <seg>Magyar Posta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Masky číselných řad – pro usnadnění generování rozsahů pro další (obvykle fiskální) období</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102531Z" creationid="kunes" creationdate="20220419T102531Z">
+        <seg>Number series masks – to facilitate the generation of ranges for the next (usually fiscal) period</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3346,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110353Z" creationid="kunes" creationdate="20220411T110353Z">
         <seg>Select the &lt;g1&gt;New&lt;/g1&gt; function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Generátor číselných řad z masky&lt;/g1&gt; v záložce Možnosti zadejte:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102635Z" creationid="kunes" creationdate="20220419T102635Z">
+        <seg>On the &lt;g1&gt;No. Series Mask Generator&lt;/g1&gt; page, on the Options tab page, enter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3674,6 +3746,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123135Z" creationid="kunes" creationdate="20220405T123135Z">
         <seg>Subsequently, to fill in the lines, i.e. to enter &lt;g2&gt;Mandatory General Parameters&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Návaznosti lze využít v nejrůznějších oblastech, typicky na nákupních, prodejních, servisních dokladech či vazbě na ně, na objednávkách transferu, apod.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102747Z" creationid="kunes" creationdate="20220419T102747Z">
+        <seg>Links can be used in a variety of areas, typically on purchase, sales, service documents or links to them, transfer orders, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Návaznosti číselných řad – pro možnost definice různých řad pro účtované doklady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102536Z" creationid="kunes" creationdate="20220419T102536Z">
+        <seg>Continuity of number series – for the possibility of defining different series for billed documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -4416,6 +4504,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Potřeby firem v oblasti práce s číselnými řadami bývají rozmanitější než umožňuje standard systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102520Z" creationid="kunes" creationdate="20220419T102520Z">
+        <seg>The needs of companies in the field of working with number series tend to be more diverse than the system standard allows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Použijte funkce &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; (zásilka je ve stavu &lt;g2&gt;Ke svozu&lt;/g2&gt; a je možné tisknout štítek).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112410Z" creationid="kunes" creationdate="20220411T112410Z">
@@ -4580,6 +4676,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
         <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro jsme rozšířili možnosti o 2 doplňkové nástroje:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102525Z" creationid="kunes" creationdate="20220419T102525Z">
+        <seg>Therefore, we have expanded its options with 2 additional tools:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,6 +4855,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130804Z" creationid="kunes" creationdate="20220411T130804Z">
         <seg>To resolve this issue, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro více informací navštivte &lt;g1&gt;Controling Basic - Nastavení&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102810Z" creationid="kunes" creationdate="20220419T102810Z">
+        <seg>For more information, visit Number Series Links Setup. &lt;g1&gt;Settings - Application extension set&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5087,6 +5199,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112558Z" creationid="Janousek" creationdate="20210603T112558Z">
         <seg>Job Queue extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšíření číslené řady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102508Z" creationid="kunes" creationdate="20220419T102508Z">
+        <seg>Extension of number series</seg>
       </tuv>
     </tu>
     <tu>
@@ -6325,6 +6445,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Generátor číselných řad z masky&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102601Z" creationid="kunes" creationdate="20220419T102601Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;No. Series Mask Generator&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Lokace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120206Z" creationid="kunes" creationdate="20220411T120206Z">
@@ -7011,6 +7139,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130405Z" creationid="kunes" creationdate="20220411T130405Z">
         <seg>Choose &lt;g1&gt;New&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zvolte tlačítko &lt;g1&gt;OK&lt;/g1&gt; a spusťte sestavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102736Z" creationid="kunes" creationdate="20220419T102736Z">
+        <seg>Select the &lt;g1&gt;OK&lt;/g1&gt; button to run the report.</seg>
       </tuv>
     </tu>
     <tu>
