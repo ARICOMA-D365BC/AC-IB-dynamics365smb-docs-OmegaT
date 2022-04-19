@@ -254,6 +254,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Archivace&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102422Z" creationid="kunes" creationdate="20220419T102422Z">
+        <seg>&lt;g1&gt;Archiving&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Automatická aktualizace stavu přepravy&lt;/g1&gt; - Spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje stav přepřavy zásilek za poslední měsíc.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123711Z" creationid="kunes" creationdate="20220411T123711Z">
@@ -372,6 +380,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141347Z" creationid="Janousek" creationdate="20210625T141347Z">
         <seg>&lt;g1&gt;Mail records&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence souvisejících pohledávek&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102447Z" creationid="kunes" creationdate="20220419T102447Z">
+        <seg>&lt;g1&gt;Records of related receivables&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1345,8 +1361,9 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
         <seg>&lt;g1&gt;Zaznamenání stavu pohledávky&lt;/g1&gt;
 Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží k zaznamenání stavu vymáhání.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T102220Z" creationid="kunes" creationdate="20220419T102220Z">
-        <seg>The Receivable Status field, located on the Receivable Information page, is used to record the status of collections.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102334Z" creationid="kunes" creationdate="20220419T102220Z">
+        <seg>&lt;g1&gt;Receivable status recording&lt;/g1&gt;
+The Receivables Status field, located on the Receivable Information Card page, is used to record the status of enforcement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,6 +1400,14 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
         <seg>&lt;g1&gt;Parcels No.&lt;/g1&gt; - Specifies the No. Series for parcels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;prázdné&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102341Z" creationid="kunes" creationdate="20220419T102341Z">
+        <seg>&lt; empty &gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2117,6 +2142,14 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je možné evidovat, zda-li a komu byla pohledávky předána, druh vymáhání a v neposlední řadě Datum uzavření vymáhání pohledávky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102417Z" creationid="kunes" creationdate="20220419T102417Z">
+        <seg>It is also possible to record whether and to whom the receivables were transferred, the type of recovery and, last but not least, the date of conclusion of the recovery of the receivable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je nutné použít funkci &lt;g1&gt;Tisk štítku&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112425Z" creationid="kunes" creationdate="20220411T112425Z">
@@ -2225,6 +2258,14 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122643Z" creationid="kunes" creationdate="20220401T122619Z">
         <seg>Records of payment – simplified mode with substitution of payment method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Exekuce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102401Z" creationid="kunes" creationdate="20220419T102401Z">
+        <seg>Distraint</seg>
       </tuv>
     </tu>
     <tu>
@@ -2805,6 +2846,14 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Konkurz</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102405Z" creationid="kunes" creationdate="20220419T102405Z">
+        <seg>Bankruptcy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontakt na řidiče</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104757Z" creationid="kunes" creationdate="20220407T104757Z">
@@ -2945,6 +2994,14 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104554Z" creationid="kunes" creationdate="20220407T104554Z">
         <seg>Payment method code (if COD), variable symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>K zobrazení archivovaných záznamů spusťe funkci Archivované záznamy na stránce Informace o pohledávce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102436Z" creationid="kunes" creationdate="20220419T102436Z">
+        <seg>To view archived records, run the Archived Records function on the Receivables Information page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3249,6 +3306,22 @@ Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090402Z" creationid="kunes" creationdate="20220401T120210Z">
         <seg>On the &lt;g1&gt;Sales Invoice&lt;/g1&gt; page, choose &lt;g2&gt;Issue&lt;/g2&gt; and then run &lt;g3&gt;Payment Schedule&lt;/g3&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Informace o pohledávce lze funkcí Archivovat vytvářet v libovolném okamžiku kopie aktuálního stavu Informace o pohledávce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102432Z" creationid="kunes" creationdate="20220419T102432Z">
+        <seg>On the Receivable Information Card page, you can use the Create Archive function to create a copy of the current Receivables Information status at any time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Informace o pohledávce lze v poli Číslo nadřazené položky přiřadit pohledávku k jiné v případě, že se například jedná o společný postup při jejich vymáhání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102457Z" creationid="kunes" creationdate="20220419T102457Z">
+        <seg>On the Receivable Information page, you can assign a receivable to another in the Parent Entry No. field if, for example, it is a common enforcement procedure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,6 +4112,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pojistná událost</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102355Z" creationid="kunes" creationdate="20220419T102355Z">
+        <seg>Insured Accident</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokračujte ve zpracování další zásilky nebo formulář zavřete.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113834Z" creationid="kunes" creationdate="20220411T113834Z">
@@ -4259,6 +4340,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101756Z" creationid="kunes" creationdate="20220414T101756Z">
         <seg>The system will add the last payment to the total invoice amount.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Postoupení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102358Z" creationid="kunes" creationdate="20220419T102358Z">
+        <seg>Delegation</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,6 +5285,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Soudní řízení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102350Z" creationid="kunes" creationdate="20220419T102350Z">
+        <seg>Court Proceedings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Společnost CreditCheck deklaruje, že každý den ve své databázi českých firem provádí 185 různých typů kontrol.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100919Z" creationid="kunes" creationdate="20220414T100919Z">
@@ -5668,6 +5765,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101332Z" creationid="kunes" creationdate="20220414T101332Z">
         <seg>This is not always satisfactory, then it is possible to choose the so-called hierarchical price proposal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Toto pole nabývá hodnot:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102336Z" creationid="kunes" creationdate="20220419T102235Z">
+        <seg>This field takes the following values:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,6 +6581,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vymáhání</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102344Z" creationid="kunes" creationdate="20220419T102344Z">
+        <seg>Enforcement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vymáhání pohledávek</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095225Z" creationid="kunes" creationdate="20220419T095225Z">
@@ -6496,6 +6609,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110400Z" creationid="kunes" creationdate="20220411T110400Z">
         <seg>Fill in the necessary fields for the shipper and its service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vypořádáno</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T102410Z" creationid="kunes" creationdate="20220419T102410Z">
+        <seg>Settled up</seg>
       </tuv>
     </tu>
     <tu>
