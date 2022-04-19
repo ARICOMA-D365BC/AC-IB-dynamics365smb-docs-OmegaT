@@ -150,11 +150,31 @@ Use the customize function to display the information window.</seg>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Příznakem OSS se určuje, zda-li uvedená kombinace zemí je či není předmětem režimu OSS.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115445Z" creationid="kunes" creationdate="20220419T115445Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The OSS flag determines whether or not the specified country combination is subject to OSS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Stejný postup je použit jak pro vložení, tak i pro změnu parametrů nebo hodnot obecných parametrů daného záznamu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123234Z" creationid="kunes" creationdate="20220405T123224Z">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 The same procedure is used both for inserting and for changing parameters or values ​​of general parameters of a given record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Systém neobsahuje funkcionalitu pro import směnných kursů země/oblasti registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115346Z" creationid="kunes" creationdate="20220419T115346Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The system does not include functionality for importing Registration Country Exch. Rates.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4079,6 +4099,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení DPH pro OSS zadejte DPH obch.účtoskupinu pro kombinaci zemí zahájení a ukončení přepravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115439Z" creationid="kunes" creationdate="20220419T115439Z">
+        <seg>On the VAT Settings for OSS page, enter the VAT sales group for the combination of countries where the shipment starts and ends.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Nastavení financí v záložce Ostatní nastavte pole &lt;g1&gt;Vzorec data kontroly DIČ na dokladech&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112859Z" creationid="kunes" creationdate="20220419T112859Z">
@@ -4115,6 +4143,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114112Z" creationid="kunes" creationdate="20220419T114112Z">
         <seg>On the Invoice Rounding Setup page, define the rounding settings for all payment methods that should be set differently than the default from General ledger Setup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení účtování DPH vyhledejte záznam pro který chcete zapnout a zvolte funkci Úpravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115606Z" creationid="kunes" creationdate="20220419T115606Z">
+        <seg>On the VAT posting setup page, find the record for which you want to turn it on and choose the Edit feature.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4163,6 +4199,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122408Z" creationid="kunes" creationdate="20220401T122408Z">
         <seg>On the Payment Schedule page, run the Post function to post one or more balancing items (typically cash receipts).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Směry registrace Země/oblasti definujte, jak má systém nahrazovat DPH obch.účtoskupiny na dokladech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115314Z" creationid="kunes" creationdate="20220419T115314Z">
+        <seg>On the Registration Country/Region Routes page, define how the system should replace the VAT Business Posting Group on the documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4583,6 +4627,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení účtování přeplatků nákupních záloh</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115454Z" creationid="kunes" creationdate="20220419T115454Z">
+        <seg>Set up purchase advance overpayment posting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -4771,6 +4823,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102536Z" creationid="kunes" creationdate="20220419T102536Z">
         <seg>Continuity of number series – for the possibility of defining different series for billed documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>OSS – EU režim</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115352Z" creationid="kunes" creationdate="20220419T115352Z">
+        <seg>OSS – EU regime</seg>
       </tuv>
     </tu>
     <tu>
@@ -5337,6 +5397,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je toto chování vhodné pouze pro některé případy, je třeba pro ně míst vydefinované zvláštní DPH účtoskupiny (zboží).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115506Z" creationid="kunes" creationdate="20220419T115506Z">
+        <seg>If this behavior is appropriate only for certain cases, you need a specific VAT group (item) defined for them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je třeba, po skončení kalendářního roku je možné přepočítat dle skutečného podílu použití těchto zdanitelných plnění pro účely uskutečněných plnění v daném roce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104759Z" creationid="kunes" creationdate="20220419T104759Z">
@@ -5573,6 +5641,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Popsaná automatizace při účtování finální faktury se zapíná v Nastavení účtování DPH pro vybrané kombinace účtoskupin.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115457Z" creationid="kunes" creationdate="20220419T115457Z">
+        <seg>The described automation when posting the final invoice is turned on in the VAT posting settings for selected combinations of posting groups.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,6 +6156,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123315Z" creationid="kunes" creationdate="20220405T123315Z">
         <seg>To search by parameters for fixed assets, continue as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vytvořený záznam doplňte Kód měny (místní) určující měnu, ve které se podává přiznání k DPH ve vybrané zemi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115258Z" creationid="kunes" creationdate="20220419T115258Z">
+        <seg>For the created record, fill in the Currency Code (local) specifying the currency in which the VAT return is filed in the selected country.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7934,10 +8018,34 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte akci Nastavení DPH pro OSS (Související -&gt; DPH účtování).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115434Z" creationid="kunes" creationdate="20220419T115434Z">
+        <seg>Select the VAT Settings for OSS action (Related -&gt; VAT Posting).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte akci Nastavení zaokrouhlení faktur.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114158Z" creationid="kunes" creationdate="20220419T114032Z">
         <seg>Select the Invoice Rounding Settings action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte akci Směnné kursy země/oblasti registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115335Z" creationid="kunes" creationdate="20220419T115335Z">
+        <seg>Select the Registration Country Exch. Rates action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte akci Směry registrace Země/oblasti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115309Z" creationid="kunes" creationdate="20220419T115309Z">
+        <seg>Select the Registration Country/Region Routes action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,6 +8818,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli Kód měny pro OSS na záložce DPH vyberte kód měnu odpovídající měně Euro.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115428Z" creationid="kunes" creationdate="20220419T115428Z">
+        <seg>In the Currency code for OSS field on the VAT tab, select the currency code corresponding to the Euro currency.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli Registrace OSS – EU na záložce DPH potvrďte, že je vaše firma registrována pro režim OSS.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115423Z" creationid="kunes" creationdate="20220419T115423Z">
+        <seg>In the OSS - EU Registration field on the VAT tab, confirm that your company is registered for OSS mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli Zálohový koeficient DPH" na záložce DPH nastavte hodnotu procenta platného pro aktuální účetní období.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114423Z" creationid="kunes" creationdate="20220419T114423Z">
@@ -8730,6 +8854,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101401Z" creationid="kunes" creationdate="20220414T101401Z">
         <seg>If a definition is found at the taught level, it no longer looks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě používání jiné měny než lokální v zemi registrace, je nutné udržovat kursy mezi měnou dokladu a lokální měnou země registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115328Z" creationid="kunes" creationdate="20220419T115328Z">
+        <seg>In the case of using a currency other than the local currency in the country of registration, it is necessary to maintain exchange rates between the currency of the document and the local currency of the country of registration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8986,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte datum a směnný kurs.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115340Z" creationid="kunes" creationdate="20220419T115340Z">
+        <seg>Enter the date and exchange rate on the Reg. Country Curr. Exch. Rate page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte kód země a DIČ pro vybraného dodavatele.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114759Z" creationid="kunes" creationdate="20220419T114759Z">
@@ -8914,6 +9054,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130238Z" creationid="kunes" creationdate="20220411T130238Z">
         <seg>Close the payment method overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zavřete stránce Země/oblasti registrace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T115303Z" creationid="kunes" creationdate="20220419T115303Z">
+        <seg>Close the Registration Country/Region page.</seg>
       </tuv>
     </tu>
     <tu>
