@@ -3591,6 +3591,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Možnosti nastavení kumulace plateb</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112628Z" creationid="kunes" creationdate="20220419T112628Z">
+        <seg>Payment cumulation settings:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Město</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115133Z" creationid="kunes" creationdate="20220411T115133Z">
@@ -3855,6 +3863,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Karta bankovního účtu v záložce Platební příkazy/Bankovní výpisy nastavte kumulaci plateb dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112623Z" creationid="kunes" creationdate="20220419T112623Z">
+        <seg>On the Bank Account Card page, in the Payment Orders / Bank Statements tab, set the cumulation of payments as required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Karta dodavatele v záložce Platby nastavte &lt;g1&gt;Kumulovat platby&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112547Z" creationid="kunes" creationdate="20220419T112547Z">
+        <seg>On the Vendor Card page, on the Payments tab, set &lt;g1&gt;Cumulate Payments&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Nastavení uživatelů vyberte ve sloupci Kód platebního místa požadovanou hodnotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083608Z" creationid="kunes" creationdate="20220404T083608Z">
@@ -4111,6 +4135,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení kontroly registrace k DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112823Z" creationid="kunes" creationdate="20220419T112823Z">
+        <seg>VAT registration check setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení kumulování plateb</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112520Z" creationid="kunes" creationdate="20220419T112520Z">
@@ -4131,6 +4163,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T075547Z" creationid="kunes" creationdate="20220414T075547Z">
         <seg>Nastavení modulu Správa upozornění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení parametrů kumulace na bankovním účtu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112606Z" creationid="kunes" creationdate="20220419T112606Z">
+        <seg>Setting the accumulation parameters on the bank account</seg>
       </tuv>
     </tu>
     <tu>
@@ -4565,6 +4605,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111451Z" creationid="kunes" creationdate="20220411T111451Z">
         <seg>Open the Parcel (it now has a status of &lt;g1&gt;New&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevřete kartu bankovního účtu pro který chcete nastavit kumulaci plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112619Z" creationid="kunes" creationdate="20220419T112619Z">
+        <seg>Open the bank account tab for which you want to set up payment cumulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevřete kartu dodavatele pro kterého chcete povolit kumulaci plateb.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112536Z" creationid="kunes" creationdate="20220419T112536Z">
+        <seg>Open the vendor card for which you want to allow payment cumulation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,6 +5093,54 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104307Z" creationid="kunes" creationdate="20220407T104307Z">
         <seg>If the user will create a shipment from</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Kumulovat export podle konstantního symbolu&lt;/g1&gt; – kumuluje se za KS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112707Z" creationid="kunes" creationdate="20220419T112707Z">
+        <seg>Field &lt;g1&gt;Cumulate export according to constant symbol&lt;/g1&gt; – accumulates for KS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Kumulovat export podle specifického symbolu&lt;/g1&gt; – kumuluje se za SS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112718Z" creationid="kunes" creationdate="20220419T112718Z">
+        <seg>Field &lt;g1&gt;Cumulate export according to specific symbol&lt;/g1&gt; – accumulates after SS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Kumulovat export podle variabilního symbolu&lt;/g1&gt; – kumulace se za VS</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112656Z" creationid="kunes" creationdate="20220419T112656Z">
+        <seg>Field &lt;g1&gt;Cumulate export according to variable symbol&lt;/g1&gt; – cumulation after VS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Kumulovat platební příkazy&lt;/g1&gt; – zapíná/vypíná kumulaci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112644Z" creationid="kunes" creationdate="20220419T112644Z">
+        <seg>&lt;g1&gt;Cumulate payment orders field&lt;/g1&gt; – enables / disables cumulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Popis kumulovaného řádku plat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112746Z" creationid="kunes" creationdate="20220419T112746Z">
+        <seg>Field &lt;g1&gt;Description of the accumulated payment order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Číselná řada variabilního symbolu&lt;/g1&gt; – pokud se nekumuluje dle VS, KS nebo SS, pak se do pole VS doplní číslo dle zde nastavené číselné řady (SS a KS se vezmou z prvního slučovaného řádku příkazu)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112734Z" creationid="kunes" creationdate="20220419T112734Z">
+        <seg>&lt;g1&gt;Variable symbol number series field&lt;/g1&gt; – if it is not accumulated according to VS, KS or SS, then the number according to the number series set here is added to the VS field (SS and KS are taken from the first merged line of the command)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,6 +6088,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105412Z" creationid="kunes" creationdate="20220419T105412Z">
         <seg>VAT registration in Multiple countries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Registrace k DPH na dokladech</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112835Z" creationid="kunes" creationdate="20220419T112835Z">
+        <seg>VAT registration on documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7534,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Banky&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112611Z" creationid="kunes" creationdate="20220419T112611Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Banks&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Dlouhodobý majetek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121639Z" creationid="kunes" creationdate="20220405T121217Z">
@@ -8548,6 +8668,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091419Z" creationid="kunes" creationdate="20220419T091419Z">
         <seg>when entering a course on purchase, sales or service documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>příkazu&lt;/g1&gt; – popis pro vytvořený kumulovaný řádek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T112755Z" creationid="kunes" creationdate="20220419T112755Z">
+        <seg>line&lt;/g1&gt; – description for the created cumulative line</seg>
       </tuv>
     </tu>
     <tu>
