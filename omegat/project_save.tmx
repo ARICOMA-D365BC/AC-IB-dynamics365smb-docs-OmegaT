@@ -474,8 +474,8 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola způsobu platby na prod.dokl.&lt;/g1&gt; – tímto lze nastavit, aby systém při akci Vydání na prodejním dokladu kontroloval, je-li použit odpovídající Způsob platby (tedy s přiřazeným Platebním místem stejným jako má nastaven uživatel, který akci Vydání spustil).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220404T083406Z" creationid="kunes" creationdate="20220404T082849Z">
-        <seg>&lt;g1&gt;Check Payment Method On Sales Documents&lt;/g1&gt; – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090351Z" creationid="kunes" creationdate="20220404T082849Z">
+        <seg>&lt;g1&gt;Check Payment Method On Sales Documents&lt;/g1&gt; – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Issue action).</seg>
       </tuv>
     </tu>
     <tu>
@@ -500,6 +500,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083135Z" creationid="kunes" creationdate="20220404T083135Z">
         <seg>&lt;g1&gt;Check Fiscal Printer&lt;/g1&gt; – this setting enables the enforcement of the use of the integration functionality with the so-called Fiscal Printers, their use is mandatory in the legislative environment of the Slovak Republic (see &lt;g2&gt;Fiscal Printers&lt;/g2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kumulované platby na bankovním výpisu&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090329Z" creationid="kunes" creationdate="20220419T090329Z">
+        <seg>&lt;g1&gt;Kumulované platby na bankovním výpisu&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,6 +1904,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112448Z" creationid="Janousek" creationdate="20210603T112448Z">
         <seg>Data boxes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Datum splatnosti se vezme ten nejnižší ze slučovaných řádků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220419T090305Z" creationid="kunes" creationdate="20220419T090305Z">
+        <seg>The due date is taken to be the lowest of the merged rows.</seg>
       </tuv>
     </tu>
     <tu>
