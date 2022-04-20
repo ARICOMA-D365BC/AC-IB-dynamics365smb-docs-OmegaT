@@ -2701,6 +2701,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Vzorec data SK&lt;/g1&gt; zadejte hodnotu &lt;g2&gt;1D&lt;/g2&gt; pro zajištění funkčnosti posunu datumu při importu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122617Z" creationid="kunes" creationdate="20220420T122617Z">
+        <seg>In the &lt;g1&gt;SK Date Formula&lt;/g1&gt; field enter&lt;g2&gt;1D&lt;/g2&gt; o ensure that the date offset works for import.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole Číslená řada vyberte patřičnou číselnou řadu pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115250Z" creationid="kunes" creationdate="20220411T115250Z">
@@ -4061,6 +4069,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě &lt;g1&gt;Nastavení financí&lt;/g1&gt; je nutné vybrat do pole &lt;g2&gt;Legislativa&lt;/g2&gt; hodnotu &lt;g3&gt;SK&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122942Z" creationid="kunes" creationdate="20220420T122942Z">
+        <seg>On the &lt;g1&gt;General Ledger Setup&lt;/g1&gt; page you must select&lt;g3&gt;SK&lt;/g3&gt; in &lt;g2&gt;Legislation&lt;/g2&gt;field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na kartě &lt;g1&gt;Služba směnného kurzu&lt;/g1&gt; pro &lt;g2&gt;ECB-EXCHANGE-RATES&lt;/g2&gt; otevřete &lt;g3&gt;Definice výměny dat&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122517Z" creationid="kunes" creationdate="20220420T122517Z">
@@ -4267,6 +4283,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110353Z" creationid="kunes" creationdate="20220411T110353Z">
         <seg>Select the &lt;g1&gt;New&lt;/g1&gt; function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Definice výměny dat&lt;/g1&gt; zvolte &lt;g2&gt;Mapování pole&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122529Z" creationid="kunes" creationdate="20220420T122529Z">
+        <seg>On the &lt;g1&gt;Data Exchange Definition&lt;/g1&gt; page, choose &lt;g2&gt;Field Mapping&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,6 +4707,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121109Z" creationid="kunes" creationdate="20220420T121109Z">
         <seg>Factoring settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení financí</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122811Z" creationid="kunes" creationdate="20220420T122811Z">
+        <seg>General Ledger Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -6017,6 +6049,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Potvrďte pomocí &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122620Z" creationid="kunes" creationdate="20220420T122620Z">
+        <seg>Confirm with &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Potvrďte, že si přejete vytvořit kartu informace o pohledávce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102149Z" creationid="kunes" creationdate="20220419T102149Z">
@@ -6237,6 +6277,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125644Z" creationid="kunes" creationdate="20220405T125644Z">
         <seg>To &lt;g1&gt;clear the search filter&lt;/g1&gt;, click &lt;g2&gt;Clear General Parameters Filters&lt;/g2&gt;in the Actions section of the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro aktivování slovenských funkčností jsou potřebná tato nastavení, využijte následující postup:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122750Z" creationid="kunes" creationdate="20220420T122750Z">
+        <seg>To activate Slovak functionality, these settings are needed, use the following procedure:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6620,6 +6668,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro účely generování výkazu Intrastat se používá standartní funkcionalita.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122733Z" creationid="kunes" creationdate="20220420T122733Z">
+        <seg>For the purpose of generating the Intrastat report, standard functionality is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Proces zpracování výpisu je z pohledu uživatele beze změn.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090616Z" creationid="kunes" creationdate="20220419T090616Z">
@@ -6984,6 +7040,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090625Z" creationid="kunes" creationdate="20220419T090625Z">
         <seg>The only difference is that when Issued, the system searches for matching records on the issued payment order in the export lines according to the movement identification data on the statement line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozdíl oproti standardní funkčnosti je v struktuře souboru s příponou .xml generovaném pro účely slovenského vykazování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122745Z" creationid="kunes" creationdate="20220420T122745Z">
+        <seg>The difference from the standard functionality is in the structure of the file with the extension .xml generated for the purposes of Slovak reporting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,8 +9248,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Výkaz Intrastat</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131654Z" creationid="Janousek" creationdate="20210625T131654Z">
-        <seg>Výkaz Intrastat</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122723Z" creationid="Janousek" creationdate="20210625T131654Z">
+        <seg>Intrastat statement</seg>
       </tuv>
     </tu>
     <tu>
