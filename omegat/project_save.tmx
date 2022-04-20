@@ -3167,6 +3167,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Filtrovat podle Zákazníka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131307Z" creationid="kunes" creationdate="20220420T131307Z">
+        <seg>Filter by Customer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Finance</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103636Z" creationid="kunes" creationdate="20220419T103636Z">
