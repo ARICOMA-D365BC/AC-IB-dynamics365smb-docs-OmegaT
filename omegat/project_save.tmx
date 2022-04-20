@@ -451,6 +451,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;DPH účto skupina zboží&lt;/g1&gt; – zde je třeba nastavit DPH účto skupinu zboží, která v kombinaci s DPH obchodní účto skupinou ze zákazníka-faktora reprezentuje účtování bez DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121349Z" creationid="kunes" creationdate="20220420T121349Z">
+        <seg>&lt;g1&gt;DPH účto skupina zboží faktoringu&lt;/g1&gt; – here you need to set up a VAT posting group of goods, which in combination with the VAT business posting group from the customer-factor represents posting without VAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Datové schránky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141338Z" creationid="Janousek" creationdate="20210625T141338Z">
@@ -1319,6 +1327,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Protiúčet nákladů&lt;/g1&gt; – účet, na který se zaúčtuje pohledávka za zákazníkem</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121245Z" creationid="kunes" creationdate="20220420T121245Z">
+        <seg>&lt;g1&gt;Cost Bal. Account No.&lt;/g1&gt; – the account to which the receivable from the customer is posted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Protiúčet výnosů&lt;/g1&gt; – účet, na který se zaúčtuje výnos z faktoringu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121315Z" creationid="kunes" creationdate="20220420T121315Z">
+        <seg>&lt;g1&gt;Icome Bal. Account No. 2&lt;/g1&gt; – the account to which the factoring income is recognised</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Publikační šablony&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141601Z" creationid="Janousek" creationdate="20210625T141601Z">
@@ -1761,6 +1785,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
         <seg>&lt;g1&gt;AC Parcels&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;AUTOCONT Solutions&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Účto skupina faktoringu&lt;/g1&gt; – účto skupina, která je použita pro účtování faktoringové pohledávky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121226Z" creationid="kunes" creationdate="20220420T121226Z">
+        <seg>&lt;g1&gt;Factoring Posting Group&lt;/g1&gt; –  the posting group that is used for posting a factoring receivable</seg>
       </tuv>
     </tu>
     <tu>
@@ -3993,6 +4025,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě faktoringu vyplňte následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121151Z" creationid="kunes" creationdate="20220420T121151Z">
+        <seg>Fill in the following fields on the Factoring setup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
 &lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
       </tuv>
@@ -4255,6 +4295,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115439Z" creationid="kunes" creationdate="20220419T115439Z">
         <seg>On the VAT Settings for OSS page, enter the VAT sales group for the combination of countries where the shipment starts and ends.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce Nastavení faktoringu je třeba provést základní nastavení pro modul faktoring:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121119Z" creationid="kunes" creationdate="20220420T121119Z">
+        <seg>On the Factoring Settings page, you need to make the basic settings for the factoring module:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,6 +4607,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112526Z" creationid="kunes" creationdate="20220419T112526Z">
         <seg>Vendor settings for payment accumulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení faktoringu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121109Z" creationid="kunes" creationdate="20220420T121109Z">
+        <seg>Factoring settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -8466,6 +8522,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení faktoringu&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121129Z" creationid="kunes" creationdate="20220420T121129Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Factoring Setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení financí&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112853Z" creationid="kunes" creationdate="20220419T112853Z">
@@ -9994,6 +10058,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110508Z" creationid="kunes" creationdate="20220411T110508Z">
         <seg>Shipment modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Účto skupiny zákazníka).&lt;x6/&gt;Náhradní účtoskupiny pro faktoring&lt;x7/&gt;|</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121041Z" creationid="kunes" creationdate="20220420T121041Z">
+        <seg>Substitute page).&lt;x6/&gt;Substitute accounting groups for factoring&lt;x7/&gt;|</seg>
       </tuv>
     </tu>
     <tu>
