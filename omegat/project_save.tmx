@@ -2997,6 +2997,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Finanční účtování je určeno &lt;g2&gt;Účto skupinou přeúčtování&lt;/g2&gt; z Nastavení faktoringu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120245Z" creationid="kunes" creationdate="20220420T120245Z">
+        <seg>Financial posting is determined by  &lt;g2&gt;Adv. Posting Group&lt;/g2&gt; from Factoring Settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Fiskální tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111932Z" creationid="Janousek" creationdate="20210603T111932Z">
@@ -3961,6 +3969,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115409Z" creationid="kunes" creationdate="20220420T115409Z">
         <seg>Fill in the &lt;g1&gt;Customer&lt;/g1&gt; and &lt;g2&gt;Posting date&lt;/g2&gt; information in the header on the Factoring document tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
+&lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120424Z" creationid="kunes" creationdate="20220420T120424Z">
+        <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
+&lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5471,6 +5489,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Podrozvahová položka je uzavřena v okamžiku uzavření faktoringové pohledávky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120256Z" creationid="kunes" creationdate="20220420T120256Z">
+        <seg>The off-balance-sheet item is closed at the time of the conclusion of the factoring receivable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pojistná událost</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102355Z" creationid="kunes" creationdate="20220419T102355Z">
@@ -5627,6 +5653,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115515Z" creationid="kunes" creationdate="20220420T115515Z">
         <seg>If it is regressive factoring, the factor can return the receivable/payables, the &lt;g3&gt;Regression factoring&lt;/g3&gt; field on the document line must be checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud se jedná o regresní faktoring (faktor může pohledávku vrátit) musí být doklad zaúčtován se zaškrtnutým pole Regresní faktoring na řádku dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120320Z" creationid="kunes" creationdate="20220420T120320Z">
+        <seg>If it is regression factoring (the factor can return the receivable), the document must be posted with the Regression factoring field checked on the document line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7764,6 +7798,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Nastavení účto skupin zákazníka by pro tuto účto skupinu měl být nastaven podrozvahový účet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120252Z" creationid="kunes" creationdate="20220420T120252Z">
+        <seg>In the Customer posting group settings, a off-balance sheet account should be set up for this posting group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V addonu AC Parcels můžete využít funkce k automatického vytvoření a přiložení PDF faktury k zásilce za předpokladu vytváření zásilky z účtované prodejní faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113715Z" creationid="kunes" creationdate="20220411T113715Z">
@@ -8136,6 +8178,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090448Z" creationid="kunes" creationdate="20220407T104650Z">
         <seg>Optional field to be entered before the document is issued</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vrácení faktoringové pohledávky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120306Z" creationid="kunes" creationdate="20220420T120306Z">
+        <seg>Return of factoring receivable</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,6 +8614,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Účtovaný faktoring&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120427Z" creationid="kunes" creationdate="20220420T120352Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Posted Factoring list&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Číselná řada&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113244Z" creationid="kunes" creationdate="20220419T113244Z">
@@ -8632,6 +8690,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102342Z" creationid="kunes" creationdate="20220406T102342Z">
         <seg>In the Related section, in &lt;g1&gt;Template&lt;/g1&gt; group, select &lt;g2&gt;Parameters&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte zaúčtovaný doklad, který chcete zpracovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120401Z" creationid="kunes" creationdate="20220420T120401Z">
+        <seg>Select the posted document that you want to process.</seg>
       </tuv>
     </tu>
     <tu>
