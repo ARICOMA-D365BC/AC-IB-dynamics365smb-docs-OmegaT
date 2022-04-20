@@ -7284,6 +7284,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ta umožňuje sledovat saldo původních zákazníků/dodavatelů včetně postoupených dokladů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120214Z" creationid="kunes" creationdate="20220420T120214Z">
+        <seg>This allows you to monitor the balance of the original customers / vendors, including the transferred documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tabulka přepravců</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124145Z" creationid="kunes" creationdate="20220411T124131Z">
