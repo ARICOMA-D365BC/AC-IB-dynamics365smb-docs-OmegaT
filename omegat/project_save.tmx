@@ -3159,6 +3159,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Filtrovat podle Dodavatele</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131057Z" creationid="kunes" creationdate="20220420T131057Z">
+        <seg>Filter by Vendor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Finance</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103636Z" creationid="kunes" creationdate="20220419T103636Z">
@@ -5385,6 +5393,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Odsouhlasení salda zákazníka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131116Z" creationid="kunes" creationdate="20220420T131116Z">
+        <seg>Customer Balance Reconciliation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Odstraněné funkce z AC Financial Pack</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114422Z" creationid="kunes" creationdate="20220411T114422Z">
@@ -6746,6 +6762,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130642Z" creationid="kunes" creationdate="20220420T130642Z">
         <seg>To run the report, open the Vendors overview or Vendor card and choose &lt;g1&gt;Report&lt;/g1&gt; and then &lt;g2&gt;Balance Reconciliation&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro spuštění sestavy otevřete přehled Zákazníků nebo Kartu zákazníka a zvolte &lt;g1&gt;Sestava&lt;/g1&gt; a poté &lt;g2&gt;Odsouhlasení salda&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131208Z" creationid="kunes" creationdate="20220420T131208Z">
+        <seg>To run the report, open the Customers overview or Customer card and choose &lt;g1&gt;Report&lt;/g1&gt; and then &lt;g2&gt;Balance Reconciliation&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9972,6 +9996,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102241Z" creationid="kunes" creationdate="20220406T102241Z">
         <seg>Enter parameters for the selected template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zahrnout dluhy dodavatele – výši pohledávky upraví o dluhy dodavatele</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131257Z" creationid="kunes" creationdate="20220420T131257Z">
+        <seg>Include Vendor Debts – Adjusts the amount of the receivable by the vendor's debts</seg>
       </tuv>
     </tu>
     <tu>
