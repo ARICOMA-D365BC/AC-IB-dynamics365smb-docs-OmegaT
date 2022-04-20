@@ -1993,6 +1993,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení SEPA&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124239Z" creationid="kunes" creationdate="20220420T124239Z">
+        <seg>&lt;x1/&gt;SEPA Settings&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení služby CreditCheck&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111810Z" creationid="kunes" creationdate="20220419T111810Z">
@@ -4711,6 +4719,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení SEPA platebního styku:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124136Z" creationid="kunes" creationdate="20220420T124136Z">
+        <seg>SEPA payment settings:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení Více způsobů plateb</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082547Z" creationid="kunes" creationdate="20220404T082547Z">
@@ -5641,6 +5657,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po importu se na kartě &lt;g1&gt;XML schémata&lt;/g1&gt; objeví nový řádek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123840Z" creationid="kunes" creationdate="20220420T123840Z">
+        <seg>After import, a new line appears on the &lt;g1&gt;XML Schemas&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po nachystání dat pro zásilku funkce „Přidat ke svozu“ zaeviduje zásilku v systému Balíkobotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
@@ -5821,6 +5845,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115112Z" creationid="kunes" creationdate="20220411T115112Z">
         <seg>If you want you can import the RapidStart package manually, or you can click &lt;g1&gt;Next and the package will download and import itself&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete správně nastavit import a export ve formátu SEPA, tato stránka musí obsahovat řádky zobrazené na obrázku níže.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124226Z" creationid="kunes" creationdate="20220420T124226Z">
+        <seg>If you want to properly set up import and export in SEPA format, this page must contain the lines shown in the image below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6764,6 +6796,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro zpracování příkazu pro úhradu či výpisu ve formátu SEPA je využita standartní funkčnost systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124132Z" creationid="kunes" creationdate="20220420T124132Z">
+        <seg>For the processing of a payment order or statement in SEPA format, the standard functionality of the system is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro úpravu/smazání informací zásilky, musí být zásilka ve stavu &lt;g3&gt;Ke svozu&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111014Z" creationid="kunes" creationdate="20220411T111014Z">
@@ -7214,8 +7254,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>SEPA Platby</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T140038Z" creationid="Janousek" creationdate="20210625T140038Z">
-        <seg>SEPA Platby</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124125Z" creationid="Janousek" creationdate="20210625T140038Z">
+        <seg>SEPA Payments</seg>
       </tuv>
     </tu>
     <tu>
@@ -7426,6 +7466,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102350Z" creationid="kunes" creationdate="20220419T102350Z">
         <seg>Court Proceedings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Souhrnný Výkaz to je &lt;g1&gt;52068870&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123859Z" creationid="kunes" creationdate="20220420T123859Z">
+        <seg>The Summary Report is &lt;g1&gt;52068870&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8310,6 +8358,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; vyberte hodnotu &lt;g2&gt;SK&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123928Z" creationid="kunes" creationdate="20220420T123928Z">
+        <seg>In the &lt;g1&gt;Assigned to legislation&lt;/g1&gt; field, select &lt;g2&gt;SK&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli Vrátit hotovost (LM) zjistěte částku, jakou máte zákazníkovi vrátit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122007Z" creationid="kunes" creationdate="20220401T122007Z">
@@ -8394,6 +8450,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122536Z" creationid="kunes" creationdate="20220401T122536Z">
         <seg>In case the customer wants to settle the document when charging by one method only, e.g. by bank card, the simplified mode can be used by entering the selected Payment Method Code directly in the document header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V příslušném řádku pro každé XML vyberte správné číslo ve sloupci SML portID.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123853Z" creationid="kunes" creationdate="20220420T123853Z">
+        <seg>In the appropriate row for each XML, select the correct number in the SML portID column.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8834,6 +8898,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení exportu/importu banky&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124209Z" creationid="kunes" creationdate="20220420T124209Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Bank Export/Import Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,6 +9890,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105246Z" creationid="kunes" creationdate="20220419T105246Z">
         <seg>Show VAT Entries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazí se stránka, která může obsahovat seznam již nastavených importů a exportů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T124219Z" creationid="kunes" creationdate="20220420T124219Z">
+        <seg>A page will appear, which may contain a list of already set imports and exports.</seg>
       </tuv>
     </tu>
     <tu>
