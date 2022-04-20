@@ -3103,6 +3103,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Export účetní zavěrky - SK - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131728Z" creationid="kunes" creationdate="20220420T131728Z">
+        <seg>Export účetní zavěrky - SK - nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Export účetní závěrky - SK</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131729Z" creationid="kunes" creationdate="20220420T131729Z">
+        <seg>Export účetní závěrky - SK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Exportujte pomocí funkce &lt;g1&gt;Exportovat&lt;/g1&gt;, je nutné vyplnit &lt;g2&gt;Kontaktní osoba&lt;/g2&gt;, &lt;g3&gt;Typ&lt;/g3&gt;, &lt;g4&gt;Pořadové číslo výkazu&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123453Z" creationid="kunes" creationdate="20220420T123453Z">
@@ -3891,6 +3907,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104823Z" creationid="kunes" creationdate="20220407T104823Z">
         <seg>Checking the age of the addressee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrolní výkaz DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131737Z" creationid="kunes" creationdate="20220420T131737Z">
+        <seg>Kontrolní výkaz DPH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrolní výkaz DPH - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131738Z" creationid="kunes" creationdate="20220420T131738Z">
+        <seg>Kontrolní výkaz DPH - nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -6926,6 +6958,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro zpracování Výkazu DPH je využita standardní funkcionalita Výkazu DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131837Z" creationid="kunes" creationdate="20220420T131837Z">
+        <seg>The standard functionality of the VAT Statement is used for the processing of the VAT Statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro zpracování příkazu pro úhradu či výpisu ve formátu SEPA je využita standartní funkčnost systému.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124132Z" creationid="kunes" creationdate="20220420T124132Z">
@@ -9672,6 +9712,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Výkaz DPH - export</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131810Z" creationid="kunes" creationdate="20220420T131739Z">
+        <seg>VAT Statements - Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výkaz DPH - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131741Z" creationid="kunes" creationdate="20220420T131741Z">
+        <seg>Výkaz DPH - nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Výkaz Intrastat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122723Z" creationid="Janousek" creationdate="20210625T131654Z">
@@ -9908,6 +9964,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142601Z" creationid="Janousek" creationdate="20210625T142601Z">
         <seg>You can change how certain UI elements are displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Z důvodu zapracování slovenských legislativních specifik byla standardní funkčnost Výkazu DPH rozšířena o dodatečné funkčnosti tak, aby byla zajištěna správná kalkulace částek výkazu DPH a aby bylo možné exportovat XML soubor v požadovaném formátu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131937Z" creationid="kunes" creationdate="20220420T131937Z">
+        <seg>Due to the incorporation of Slovak legislative specifics, the standard functionality of the VAT Statement has been extended with additional functionality to ensure correct calculation of the VAT statement amounts and to export the XML file in the required format.</seg>
       </tuv>
     </tu>
     <tu>
