@@ -51,6 +51,16 @@ The functionality offers more options, but the following data types &lt;g2&gt;Te
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Na &lt;g2&gt;Kartě DM&lt;/g2&gt; v daňové &lt;g3&gt;Knize odpisů DM&lt;/g3&gt; zadejte do pole &lt;g4&gt;Počáteční datum odepisování&lt;/g4&gt; vždy první den v měsíci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130020Z" creationid="kunes" creationdate="20220420T130020Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+On the &lt;g2&gt;FA card&lt;/g2&gt; in tax &lt;g3&gt;FA Depreciation Books&lt;/g3&gt; enter the first day of the month in the &lt;g4&gt;Starting date of depreciation&lt;/g4&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Na prodejním dokladu je přítomnost platebního kalendáře indikovánan příznakem Platební kalendář v okně s fakty Detaily prodejní hlavičky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102050Z" creationid="kunes" creationdate="20220414T102050Z">
@@ -2749,6 +2759,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do polí zobrazeného okna zadejte parametry pro odepisování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125739Z" creationid="kunes" creationdate="20220420T125739Z">
+        <seg>In the fields of the window that appears, enter the parameters for depreciation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do tabulky směnných kurzů se naimportuje kurz s datumem platnosti posunutým o 1 den dopředu oproti datumu vyhlášení na webových stránkách ECB.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122108Z" creationid="kunes" creationdate="20220420T122108Z">
@@ -5131,6 +5149,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115622Z" creationid="kunes" creationdate="20220419T115622Z">
         <seg>Set the flag in the Intended to return the deposit field on the advance tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Neaktivujte pole &lt;g1&gt;Použít počet dní platnosti&lt;/g1&gt; a nezadávejte hodnotu do pole &lt;g2&gt;Počet dní platnosti&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125843Z" creationid="kunes" creationdate="20220420T125843Z">
+        <seg>Do not activate the &lt;g1&gt;Use Force No. of Days&lt;/g1&gt; field, and do not enter a value in the &lt;g2&gt;Force No. of Days&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9062,6 +9088,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;SK výpočet odpisů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125731Z" creationid="kunes" creationdate="20220420T125731Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;SK Calculate Depreciation&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Sešit konfigurace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103248Z" creationid="kunes" creationdate="20220419T103248Z">
@@ -9522,6 +9556,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122723Z" creationid="Janousek" creationdate="20210625T131654Z">
         <seg>Intrastat statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výpočet odpisů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125703Z" creationid="kunes" creationdate="20220420T125703Z">
+        <seg>Calculation of depreciation</seg>
       </tuv>
     </tu>
     <tu>
