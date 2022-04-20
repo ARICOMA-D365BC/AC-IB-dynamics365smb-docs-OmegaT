@@ -361,6 +361,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;
+&lt;g2&gt;SK Legislativní balíček&lt;/g2&gt;
+&lt;g3&gt;Výkaz DPH - nastavení&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132301Z" creationid="kunes" creationdate="20220420T132155Z">
+        <seg>&lt;g1&gt;AUTOCONT Solutions&lt;/g1&gt;  
+&lt;g2&gt;SK Legisllative Pack&lt;/g2&gt;  
+&lt;g3&gt;VAT Statement - Setup&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Productivity Pack&lt;/g5&gt;</seg>
@@ -5153,6 +5165,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení šablon výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132455Z" creationid="kunes" creationdate="20220420T132455Z">
+        <seg>VAT Statement template settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavit Kurzovní lístek pro zemi plnění.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105426Z" creationid="kunes" creationdate="20220419T105426Z">
@@ -6379,6 +6399,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poté zvolte funkci &lt;g1&gt;Export SK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132104Z" creationid="kunes" creationdate="20220420T132104Z">
+        <seg>Then choose the &lt;g1&gt;Export SK&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Potřebné kroky pro ruční vytvoření zásilky:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110342Z" creationid="kunes" creationdate="20220411T110342Z">
@@ -6547,6 +6575,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro Výkaz DPH od roku 2018 to je &lt;g1&gt;52068861&lt;/g1&gt;, pro Výkaz DPH do roku 2017 to je &lt;g2&gt;52068860&lt;/g2&gt;, pro Kontrolní výkaz DPH &lt;g3&gt;52068903&lt;/g3&gt; a pro Souhrnný Výkaz to je &lt;g4&gt;52068870&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132437Z" creationid="kunes" creationdate="20220420T132437Z">
+        <seg>For VAT Report from 2018 it is &lt;g1&gt;52068861&lt;/g1&gt;, for VAT Report until 2017 it is &lt;g2&gt;52068860&lt;/g2&gt;, for VAT Control Report &lt;g3&gt;52068903&lt;/g3&gt; nd for Summary Report that is &lt;g4&gt;52068870&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro aktivování slovenských funkčností jsou potřebná tato nastavení, využijte následující postup:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122750Z" creationid="kunes" creationdate="20220420T122750Z">
@@ -6659,6 +6695,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro export výkazu DPH použijte následující postup:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132005Z" creationid="kunes" creationdate="20220420T132005Z">
+        <seg>To export a VAT statement, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro generování výkazu DPH je využita standardní funkčnost systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132320Z" creationid="kunes" creationdate="20220420T132320Z">
+        <seg>The standard functionality of the system is used to generate the VAT statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro jsme rozšířili možnosti o 2 doplňkové nástroje:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102525Z" creationid="kunes" creationdate="20220419T102525Z">
@@ -6703,6 +6755,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130324Z" creationid="kunes" creationdate="20220411T130324Z">
         <seg>To set up label printing, you need to set the report ID and assign a printer to the user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavení využijte následující postup:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132551Z" creationid="kunes" creationdate="20220420T132551Z">
+        <seg>Use the following procedure to set up:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6898,6 +6958,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102810Z" creationid="kunes" creationdate="20220419T102810Z">
         <seg>For more information, visit Number Series Links Setup. &lt;g1&gt;Settings - Application extension set&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zajištění správné kalkulace částek Výkazu DPH a exportu do požadované struktury XML dle slovenské legislativy, je potřeba nastavit několik níže uvedených oblastí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132329Z" creationid="kunes" creationdate="20220420T132329Z">
+        <seg>To ensure the correct calculation of the amounts of the VAT Statement and export to the required XML structure according to Slovak legislation, it is necessary to set up several areas listed below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8012,6 +8080,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato funkčnost byla upravena o specifika slovenského vykazování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132324Z" creationid="kunes" creationdate="20220420T132324Z">
+        <seg>This functionality has been modified by the specifics of Slovak reporting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato kontrola se provádí při validaci zákazníka/plátce (resp. dodavatele/věřitele) na dokladu; pro období od pracovního data zpětně se hledá záznam v tabulce &lt;g1&gt;Protokol ověření DIČ&lt;/g1&gt; s ověřenou registrací (stav &lt;g2&gt;Platný&lt;/g2&gt; = DIČ je registrováno k DPH či &lt;g3&gt;Neplatný&lt;/g3&gt; = DIČ není registrováno k DPH).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091038Z" creationid="kunes" creationdate="20220419T091038Z">
@@ -8540,6 +8616,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124413Z" creationid="kunes" creationdate="20220401T124413Z">
         <seg>In the &lt;g1&gt;Payment Method Code&lt;/g1&gt; field, set the method that has the value Cash set in the Cashier Operation Type column, but that does not have a &lt;g2&gt;Payment Location Code&lt;/g2&gt; defined (see "Cash" as shown in the &lt;g3&gt;Payment Method Settings&lt;/g3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Název&lt;/g1&gt; vyberte požadovaný Název výkazu DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132053Z" creationid="kunes" creationdate="20220420T132026Z">
+        <seg>In the &lt;g1&gt;Name&lt;/g1&gt; field select the vat statement name that you want.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9298,8 +9382,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Výkazy DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220419T091159Z" creationid="kunes" creationdate="20220419T091159Z">
-        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Statement&lt;/g4&gt; and then choose the related link.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132028Z" creationid="kunes" creationdate="20220419T091159Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Statements&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9488,6 +9572,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyexportovaný soubor je možné importovat na portál Finanční správy SR nebo do aplikace eDane.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131955Z" creationid="kunes" creationdate="20220420T131955Z">
+        <seg>The exported file can be imported into the Financial Administration portal of the Slovak Republic or into the eDane application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyhledávání záznamů dle obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123252Z" creationid="kunes" creationdate="20220405T123252Z">
@@ -9532,6 +9624,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130723Z" creationid="kunes" creationdate="20220420T130723Z">
         <seg>Fill in the Return Date and Reconcile Date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte požadovaná pole a zvolte funkci &lt;g1&gt;OK&lt;/g1&gt;, která vytvoří .xml soubor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132113Z" creationid="kunes" creationdate="20220420T132113Z">
+        <seg>Fill in the required fields and choose the &lt;g1&gt;OK&lt;/g1&gt; function, which will create a .xml file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9722,8 +9822,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Výkaz DPH - nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T131741Z" creationid="kunes" creationdate="20220420T131741Z">
-        <seg>Výkaz DPH - nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132311Z" creationid="kunes" creationdate="20220420T131741Z">
+        <seg>VAT Statements - Setup</seg>
       </tuv>
     </tu>
     <tu>
