@@ -9918,6 +9918,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zaškrtněte pole &lt;g1&gt;Krácení odpisů v 1.roce&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125656Z" creationid="kunes" creationdate="20220420T125656Z">
+        <seg>Check the box &lt;g1&gt;Depreciation Reduction First Year&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zde je kromě takto zadaných hodnot možné při vložení obecných parametrů zadat i libovolné jiné hodnoty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
