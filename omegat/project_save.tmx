@@ -2047,6 +2047,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x3/&gt;Účtoskupiny pro faktoring&lt;x4/&gt;|
+|&lt;g5&gt;Náhradní účto skupiny zákazníka&lt;/g5&gt;|Je nutné založit nové kombinace náhrad účto skupin zákazníka (dostupné ze stránky Náhr.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121027Z" creationid="kunes" creationdate="20220420T121027Z">
+        <seg>&lt;x3/&gt;Factoring groups&lt;x4/&gt;|
+|&lt;g5&gt;Customer Group Alternate Account&lt;/g5&gt;|New customer group account substitution combinations must be created (available from the Customer Posting Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>A mnohé další.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104843Z" creationid="kunes" creationdate="20220407T104843Z">
@@ -6278,6 +6288,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro správnou funkci add-onu je potřeba nastavit a založit i jiné nastavení v Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120732Z" creationid="kunes" creationdate="20220420T120732Z">
+        <seg>For the correct function of the add-on, it is necessary to set and create other settings in Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro správné fungování Paperless Trade musíte k zásilce připojit PDF soubor faktury (pro-forma faktury).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130930Z" creationid="kunes" creationdate="20220411T130930Z">
@@ -9802,6 +9820,20 @@ These data are updated manually using the "Resynchronize master data" function.<
         <seg>|
 |&lt;g3&gt;Contents of shipment&lt;/g3&gt;|The contents of a shipment are mainly for shipments outside the EU, where it is necessary to give information about what is in the shipment.|
 |&lt;g4&gt;Parcel Attachments&lt;/g4&gt;|Used to attach pdf documents to a shipment.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>|Nastavení|Popis|
+|-|-|
+|&lt;g1&gt;Účty v účtové osnově&lt;/g1&gt;|V účtové osnově je nutné založit finanční účty pro sledování podstoupených pohledávek, nákladové a výnosové účty pro přeúčtování faktoringu; pokud již neexistují.|
+|&lt;g2&gt;Účto skupiny pro faktoring&lt;/g2&gt;|Přes Účto skupiny zákazníků je nutné založit nové účto skupiny pro faktoring, které se budou používat pro účtování faktoringu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120847Z" creationid="kunes" creationdate="20220420T120847Z">
+        <seg>|Settings|Description|
+|-|-|
+|&lt;g1&gt;Chart of Accounts&lt;/g1&gt;|Chart of Accounts It is necessary to open financial accounts for tracking receivables, cost and revenue accounts for factoring re-accounting; if they no longer exist.|
+|&lt;g2&gt;Factoring group account&lt;/g2&gt;|hrough the Customer group account, it is necessary to create a new factoring group account, which will be used for factoring accounting.</seg>
       </tuv>
     </tu>
     <tu>
