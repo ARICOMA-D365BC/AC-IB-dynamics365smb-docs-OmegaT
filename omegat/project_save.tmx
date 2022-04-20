@@ -895,6 +895,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Faktoring&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120615Z" creationid="kunes" creationdate="20220420T120615Z">
+        <seg>&lt;g1&gt;Factoring Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140704Z" creationid="Janousek" creationdate="20210625T140704Z">
@@ -2935,8 +2945,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Factoring - Nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220414T075515Z" creationid="kunes" creationdate="20220414T075515Z">
-        <seg>Factoring - Nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120633Z" creationid="kunes" creationdate="20220414T075515Z">
+        <seg>Factoring Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,9 +3986,9 @@ The Receivables Status field, located on the Receivable Information Card page, i
         <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
 &lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T120424Z" creationid="kunes" creationdate="20220420T120424Z">
-        <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
-&lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120552Z" creationid="kunes" creationdate="20220420T120424Z">
+        <seg>On the page Posted Factoring List use the function &lt;g1&gt;Return Factoring Receivable&lt;/g1&gt;
+&lt;x2/&gt;Refund factoring&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4515,6 +4525,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112038Z" creationid="kunes" creationdate="20220419T112038Z">
         <seg>Web resources settings and updates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení add-onu Faktoring</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120714Z" creationid="kunes" creationdate="20220420T120714Z">
+        <seg>Setup of Factoring add-on</seg>
       </tuv>
     </tu>
     <tu>
@@ -5425,6 +5443,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po tomto příkazu systém odúčtuje nově vzniklou faktoringovou položku a naúčtuje ji zpět k zákazníkovi / dodavateli.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120605Z" creationid="kunes" creationdate="20220420T120605Z">
+        <seg>After this command, the system derecognises the newly created factoring item and charges it back to the customer / vendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po upravení dat uživatel použije funkci &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; a pro vytištění nového štítků použije funkci &lt;g2&gt;Tisk štítků&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111128Z" creationid="kunes" creationdate="20220411T111128Z">
@@ -5901,6 +5927,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110342Z" creationid="kunes" creationdate="20220411T110342Z">
         <seg>To create a shipment manually, the steps are as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Potřebné nastavní Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120727Z" creationid="kunes" creationdate="20220420T120727Z">
+        <seg>Necessary Business Central settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -9500,6 +9534,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120334Z" creationid="kunes" creationdate="20220411T120334Z">
         <seg>Basic Package Setup must be made on the &lt;g1&gt;Parcels Settings&lt;/g1&gt;page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní nastavení add-onu fakoringu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120642Z" creationid="kunes" creationdate="20220420T120642Z">
+        <seg>Basic settings of the facoring add-on.</seg>
       </tuv>
     </tu>
     <tu>
