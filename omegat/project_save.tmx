@@ -4437,6 +4437,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;DPH Výkaz DPH&lt;/g1&gt; vyberte pro každý řádek příslušné schéma, která bude použito při exportu – pole &lt;g2&gt;XML schéma&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132756Z" creationid="kunes" creationdate="20220420T132756Z">
+        <seg>On the &lt;g1&gt;VAT Statement&lt;/g1&gt; page, select the appropriate schema for each line that will be used when you export the &lt;g2&gt;XML Schema&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Definice výměny dat&lt;/g1&gt; zvolte &lt;g2&gt;Mapování pole&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122529Z" creationid="kunes" creationdate="20220420T122529Z">
@@ -4489,6 +4497,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123755Z" creationid="kunes" creationdate="20220420T123755Z">
         <seg>On the &lt;g1&gt;XML Schemas&lt;/g1&gt; page, in the &lt;g2&gt;Actions&lt;/g2&gt; section, select the &lt;g3&gt;Load Schema&lt;/g3&gt;action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony výkazu DPH&lt;/g1&gt; vyberte ve sloupci &lt;g2&gt;Formát XML SK&lt;/g2&gt; možnost &lt;g3&gt;Použij XML schéma&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132724Z" creationid="kunes" creationdate="20220420T132724Z">
+        <seg>On the &lt;g1&gt;VAT Statement Templates&lt;/g1&gt; page, select &lt;g3&gt;Use XML Schema&lt;/g3&gt; in the &lt;g2&gt;XML SK Format&lt;/g2&gt; column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony výkazu DPH&lt;/g1&gt; zvolte sekci &lt;g2&gt;Související&lt;/g2&gt;, potom &lt;g3&gt;Šablona&lt;/g3&gt; a otevřete &lt;g4&gt;Názvy výkazů&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132741Z" creationid="kunes" creationdate="20220420T132741Z">
+        <seg>On the &lt;g1&gt;VAT Report Templates&lt;/g1&gt; page, select the &lt;g2&gt;Related&lt;/g2&gt;section, then the &lt;g3&gt;Template&lt;/g3&gt; section and open the &lt;g4&gt;Report Names&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7362,6 +7386,16 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Příklad můžete vidět na obrázku níže:
+&lt;x1/&gt;Import nespolehlivých plátců DPH z xml formátu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132905Z" creationid="kunes" creationdate="20220420T132905Z">
+        <seg>You can see an example in the picture below:
+&lt;x1/&gt;Import of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Případné úpravy vzhledu dokladů s jinou registrací k DPH musí být realizovány jako zákaznické úpravy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105526Z" creationid="kunes" creationdate="20220419T105526Z">
@@ -9456,6 +9490,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102141Z" creationid="kunes" creationdate="20220406T102141Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Parameter Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony výkazu DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132604Z" creationid="kunes" creationdate="20220420T132604Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Statement Templates&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
