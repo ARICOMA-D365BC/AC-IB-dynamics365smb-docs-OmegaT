@@ -8068,6 +8068,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tisk detailů – vytiskne přílohu se seznamem dokladů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130835Z" creationid="kunes" creationdate="20220420T130835Z">
+        <seg>Print details — prints an attachment with a list of documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tisk předávacího protokolu se tiskne automaticky po objednání svozu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130415Z" creationid="kunes" creationdate="20220411T130415Z">
@@ -8088,6 +8096,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130425Z" creationid="kunes" creationdate="20220411T130425Z">
         <seg>Printing is done from the Default Printer according to your device.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tisknout pouze nenulové</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130843Z" creationid="kunes" creationdate="20220420T130843Z">
+        <seg>Print Only Not Zero</seg>
       </tuv>
     </tu>
     <tu>
@@ -8756,6 +8772,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090448Z" creationid="kunes" creationdate="20220407T104650Z">
         <seg>Optional field to be entered before the document is issued</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Volitelně můžete:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130814Z" creationid="kunes" creationdate="20220420T130814Z">
+        <seg>Optionally:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9432,6 +9456,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyplňte Datum vrácení a Datum odsouhlasení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130723Z" creationid="kunes" creationdate="20220420T130723Z">
+        <seg>Fill in the Return Date and Reconcile Date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vypořádáno</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102410Z" creationid="kunes" creationdate="20220419T102410Z">
@@ -9444,6 +9476,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102202Z" creationid="kunes" creationdate="20220414T102202Z">
         <seg>Settle the invoice balance and post the payment calendar with the &lt;g1&gt;Post&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytisknout částky v měně – vytiskne částky v měně zaúčtovaných dokladů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T131016Z" creationid="kunes" creationdate="20220420T131016Z">
+        <seg>Print amounts in currency – prints amounts in the currency of posted documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -9932,6 +9972,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102241Z" creationid="kunes" creationdate="20220406T102241Z">
         <seg>Enter parameters for the selected template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zahrnout dluhy zákazníka – výši závazku upraví o dluhy zákazníka</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130828Z" creationid="kunes" creationdate="20220420T130828Z">
+        <seg>Include customer debts – adjusts the amount of the liability by the customer's debts</seg>
       </tuv>
     </tu>
     <tu>
