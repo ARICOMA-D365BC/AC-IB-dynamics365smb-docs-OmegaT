@@ -563,6 +563,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Faktoring pohledávky&lt;/g1&gt; – nově vzniklé položky zákazníka k faktorovi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115702Z" creationid="kunes" creationdate="20220420T115702Z">
+        <seg>&lt;g1&gt;Receivable factoring&lt;/g1&gt; - newly created customer items to the factor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Faktoring&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140637Z" creationid="Janousek" creationdate="20210625T140637Z">
@@ -1157,10 +1165,26 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Platby&lt;/g1&gt; – položky typu platba, které vyrovnávají faktoringové pohledávky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115710Z" creationid="kunes" creationdate="20220420T115710Z">
+        <seg>&lt;g1&gt;Platby&lt;/g1&gt; – položky typu platba, které vyrovnávají faktoringové pohledávky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Pobočky přepravců&lt;/g1&gt; - Tabulka lokalit, kde si mohou zákazníci zboží od přepravce převzít</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124736Z" creationid="kunes" creationdate="20220411T124736Z">
         <seg>&lt;g1&gt;Shipping Agent Branches&lt;/g1&gt; - Table of locations, where customers can take goods from the carrier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pohledávky&lt;/g1&gt; – postoupené položky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115652Z" creationid="kunes" creationdate="20220420T115652Z">
+        <seg>&lt;g1&gt;Receivables&lt;/g1&gt; - Assigned items.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,6 +1939,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Položky zákazníka&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115807Z" creationid="kunes" creationdate="20220420T115807Z">
+        <seg>&lt;x1/&gt;Cust. Ledger Entry&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Přehled obecných parametrů&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130008Z" creationid="kunes" creationdate="20220405T130008Z">
@@ -1977,6 +2009,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082115Z" creationid="kunes" creationdate="20220404T082115Z">
         <seg>&lt;x1/&gt;Payment Methods&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Záložky faktoringu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115715Z" creationid="kunes" creationdate="20220420T115715Z">
+        <seg>&lt;x1/&gt;Factoring tabs&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,6 +2985,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114543Z" creationid="kunes" creationdate="20220411T114543Z">
         <seg>Finance - Tax liability transferred</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Finanční účtování je určeno &lt;g1&gt;Účto skupinou faktoringu&lt;/g1&gt; z Nastavení faktoringu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115739Z" creationid="kunes" creationdate="20220420T115739Z">
+        <seg>Financial posting is determined by the &lt;g1&gt;Factoring Posting Group&lt;/g1&gt; from Factoring Settings:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5495,6 +5543,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je v Nastavení faktoringu zapnuté &lt;g1&gt;Přeúčtovat původní položku&lt;/g1&gt;, vznikne u původního zákazníka/dodavatele nová zákaznická/dodavatelská položka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T120116Z" creationid="kunes" creationdate="20220420T120116Z">
+        <seg>If  &lt;g1&gt;Orig. Entry Advanced Posting&lt;/g1&gt;, is turned on in Factoring Settings, a new customer/vendor item is created for the original customer/vendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je zásilka ve stavu &lt;g2&gt;Svozeno&lt;/g2&gt; nelze ji již editovat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110544Z" creationid="kunes" creationdate="20220411T110544Z">
@@ -6290,6 +6346,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro zaúčtování faktoringu postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115546Z" creationid="kunes" creationdate="20220420T115546Z">
+        <seg>To post factoring, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zaúčtování použijte funkci &lt;g1&gt;Účtování&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115623Z" creationid="kunes" creationdate="20220420T115623Z">
+        <seg>Use the &lt;g1&gt;Posting&lt;/g1&gt; feature to post.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro změnu jazyka postupujte tímto způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T160747Z" creationid="Janousek" creationdate="20220331T160747Z">
@@ -6494,6 +6566,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081501Z" creationid="kunes" creationdate="20220404T081501Z">
         <seg>Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Před zaúčtováním dokladu faktoringu je doklad třeba &lt;g1&gt;vydat&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115607Z" creationid="kunes" creationdate="20220420T115607Z">
+        <seg>Before you can post a factoring document, you must &lt;g1&gt;Issue&lt;/g1&gt; the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9180,6 +9260,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zaúčtování faktoringu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115538Z" creationid="kunes" creationdate="20220420T115538Z">
+        <seg>Faktoring posting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zaúčtováním dokladu vznikne doklad &lt;g1&gt;Zaúčtovaný faktoring&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115633Z" creationid="kunes" creationdate="20220420T115633Z">
+        <seg>Posting the document creates the &lt;g1&gt;Posted Factoring&lt;/g1&gt; document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zaúčtováním faktury pak pro každý takový řádek s přeplatkem vznikne položka dodavatele typu Dobropis.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110431Z" creationid="kunes" creationdate="20220419T110431Z">
@@ -9826,6 +9922,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Účtováním faktoringu jsou uzavřeny původní položky zákazníka/dodavatele a k faktorovi jsou zaúčtovány nové pohledávky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115722Z" creationid="kunes" creationdate="20220420T115722Z">
+        <seg>By posting factoring, the original customer/vendor entries are closed and new receivables are posted to the factor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Česká funkcionalita z větší části pokrývá i slovenské legislativní požadavky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135231Z" creationid="Janousek" creationdate="20210625T135231Z">
@@ -9854,6 +9958,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105242Z" creationid="kunes" creationdate="20220419T105242Z">
         <seg>Document No. (editable only if Use data from item = TRUE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řádky dokladu Zaúčtovaný faktoring jsou rozděleny &lt;g1&gt;do tří záložek&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T115647Z" creationid="kunes" creationdate="20220420T115647Z">
+        <seg>Posted factoring document lines are divided into &lt;g1&gt;three tabs&lt;/g1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
