@@ -587,6 +587,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Faktoring&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121626Z" creationid="kunes" creationdate="20220420T121626Z">
+        <seg>&lt;g1&gt;Factoring&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Financial Pack&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114623Z" creationid="kunes" creationdate="20220411T114623Z">
@@ -1367,6 +1377,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Přeúčtovat původní položku&lt;/g1&gt; – volba ANO umožňuje dále sledovat pohledávku za původním zákazníkem na podrozvahových účtech</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121410Z" creationid="kunes" creationdate="20220420T121410Z">
+        <seg>&lt;g1&gt;Orig. Entry Advanced Posting&lt;/g1&gt; – the YES option allows you to continue tracking the receivable from the original customer on off-balance sheet accounts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Přírůstek čísel&lt;/g1&gt; – určuje velikost intervalu mezi čísly v číselné řadě</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102707Z" creationid="kunes" creationdate="20220419T102707Z">
@@ -1797,6 +1815,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Účto skupina přeúčtování&lt;/g1&gt; a &lt;g2&gt;Protiúčet přeúčtování&lt;/g2&gt; – podrozvahové účty, na kterých se bude dále sledovat pohledávka k původnímu zákazníkovi</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121447Z" creationid="kunes" creationdate="20220420T121447Z">
+        <seg>&lt;g1&gt;Adv. Posting Group&lt;/g1&gt; and &lt;g2&gt;Adv. Posting Bal. Account No.&lt;/g2&gt; – off-balance sheet accounts on which the receivable from the original customer will be further monitored</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Účtování prodejní faktury s platebním kalendářem&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101623Z" creationid="kunes" creationdate="20220414T101623Z">
@@ -1841,6 +1867,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113722Z" creationid="kunes" creationdate="20220419T113722Z">
         <seg>&lt;g1&gt;Posting No. Series&lt;/g1&gt; – which number range is to be used for the posted document when the source document has the specified number range: posted sales / purchase / service document (invoice, credit memo), issued reminder, issued penalties, charged delivery / warehouse receipt, posted assembly order, posted inventory receipt / issue, posted physical inventory volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla faktoringů&lt;/g1&gt; – číselná řada, kterou budou faktoringy číslovány&lt;x2/&gt;
+&lt;x3/&gt;Nastavení faktoringu&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121528Z" creationid="kunes" creationdate="20220420T121528Z">
+        <seg>&lt;g1&gt;Factoring Nos.&lt;/g1&gt; – number series by which factoring will be numbered&lt;x2/&gt;
+&lt;x3/&gt;Factoring Setup&lt;x4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2689,6 +2725,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dokument je možné vytvořit na kartě faktoringu pomocí funkce &lt;g1&gt;Vytvořit dokument faktoringu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121620Z" creationid="kunes" creationdate="20220420T121620Z">
+        <seg>You can create a document on the factoring tab by using the &lt;g1&gt;Create Factoring Document&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Donáška do patra</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104802Z" creationid="kunes" creationdate="20220407T104802Z">
@@ -3365,6 +3409,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102627Z" creationid="kunes" creationdate="20220405T123153Z">
         <seg>Fill in the &lt;g1&gt;General Parameters Template&lt;/g1&gt; first, then the &lt;g2&gt;Value&lt;/g2&gt;, and finally the &lt;g3&gt;Description&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Je možné definovat šablony pro převod faktoringových smluv do dokumentů Microsoft Word.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121612Z" creationid="kunes" creationdate="20220420T121612Z">
+        <seg>It is possible to define templates for converting factoring agreements into Microsoft Word documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,6 +5577,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vyplnění polí můžete kartu zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121548Z" creationid="kunes" creationdate="20220420T121548Z">
+        <seg>After filling in the fields, you can close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vytvoření finální nákupní faktury a přiřazení uhrazené nákupní zálohy je v případě přeplatku na záloze možné vložit další řádek s částkou přeplatku a příznakem Určeno pro vrácení zálohy (příznak je následně i na řádku zaúčtované faktury).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
@@ -6650,8 +6710,8 @@ These data are updated manually using the "Resynchronize master data" function.<
       <tuv lang="cs-CZ">
         <seg>Proč?</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220411T114022Z" creationid="kunes" creationdate="20220411T114022Z">
-        <seg>Proč?</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121857Z" creationid="kunes" creationdate="20220411T114022Z">
+        <seg>Why?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7686,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114015Z" creationid="kunes" creationdate="20220411T114015Z">
         <seg>Text 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Text 2</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121851Z" creationid="kunes" creationdate="20220420T121851Z">
+        <seg>Text 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -10202,6 +10270,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112903Z" creationid="Janousek" creationdate="20210603T112903Z">
         <seg>Project and order management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony faktoringu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T121553Z" creationid="kunes" creationdate="20220420T121553Z">
+        <seg>Factoring Templates</seg>
       </tuv>
     </tu>
     <tu>
