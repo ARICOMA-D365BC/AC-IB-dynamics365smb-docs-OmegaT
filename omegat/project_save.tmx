@@ -1953,6 +1953,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Mapování souboru&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123207Z" creationid="kunes" creationdate="20220420T123207Z">
+        <seg>&lt;x1/&gt;File Mapping&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Metoda zadávání - Výběr&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101716Z" creationid="kunes" creationdate="20220406T101716Z">
@@ -3037,6 +3045,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Export souboru pro Intrastat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123213Z" creationid="kunes" creationdate="20220420T123213Z">
+        <seg>Export a file for Intrastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Factoring</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220412T134145Z" creationid="Janousek" creationdate="20220412T134145Z">
@@ -3393,6 +3409,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115232Z" creationid="kunes" creationdate="20220411T115232Z">
         <seg>Integration services: Balíkobot.cz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Intrastat mapování souboru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122956Z" creationid="kunes" creationdate="20220420T122956Z">
+        <seg>Intrastat file mapping</seg>
       </tuv>
     </tu>
     <tu>
@@ -4065,6 +4089,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
         <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na kartě &lt;g1&gt;Intrastat mapování souboru&lt;/g1&gt; zkontrolujte, nebo doplňte nastavení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123158Z" creationid="kunes" creationdate="20220420T123158Z">
+        <seg>On the &lt;g1&gt;Intrastat File Mapping&lt;/g1&gt; review or complete the settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,6 +4891,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113216Z" creationid="kunes" creationdate="20220419T113216Z">
         <seg>Setup of number series extensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení slouží pro mapování polí v aplikaci na uzly .xml.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123003Z" creationid="kunes" creationdate="20220420T123003Z">
+        <seg>The settings are used to map fields in the application to nodes .xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6093,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122620Z" creationid="kunes" creationdate="20220420T122620Z">
         <seg>Confirm with &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Potvrďte pomocí tlačítka &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122949Z" creationid="kunes" creationdate="20220420T122949Z">
+        <seg>Confirm with the &lt;g1&gt;OK&lt;/g1&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7778,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato tabulka je součástí dodávaného konfiguračního balíčku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123020Z" creationid="kunes" creationdate="20220420T123020Z">
+        <seg>This table is part of the supplied configuration package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tento Addon využívá API služby Balíkobot.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104234Z" creationid="kunes" creationdate="20220407T104234Z">
@@ -8606,6 +8662,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Deníky Intrastat&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123248Z" creationid="kunes" creationdate="20220420T123248Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Intrastat Journals&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Dlouhodobý majetek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121639Z" creationid="kunes" creationdate="20220405T121217Z">
@@ -8650,6 +8714,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115134Z" creationid="kunes" creationdate="20220419T115134Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Company Information&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Intrastat mapování souboru&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123043Z" creationid="kunes" creationdate="20220420T123043Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Intrastat File Mapping&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
