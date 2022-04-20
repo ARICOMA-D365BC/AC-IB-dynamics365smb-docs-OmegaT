@@ -2709,6 +2709,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do tabulky směnných kurzů se naimportuje kurz s datumem platnosti posunutým o 1 den dopředu oproti datumu vyhlášení na webových stránkách ECB.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122108Z" creationid="kunes" creationdate="20220420T122108Z">
+        <seg>The exchange rate table imports the exchange rate with the validity date moved forward by 1 day compared to the announcement date on the ECB website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dobropis servisu,</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110049Z" creationid="kunes" creationdate="20220419T110049Z">
@@ -3335,8 +3343,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Import směnných kurzů z ECB</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20210625T131659Z" creationid="Janousek" creationdate="20210625T131659Z">
-        <seg>Import směnných kurzů z ECB</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122012Z" creationid="Janousek" creationdate="20210625T131659Z">
+        <seg>Import of exchange rates from the ECB</seg>
       </tuv>
     </tu>
     <tu>
@@ -4049,6 +4057,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
         <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na kartě &lt;g1&gt;Služba směnného kurzu&lt;/g1&gt; pro &lt;g2&gt;ECB-EXCHANGE-RATES&lt;/g2&gt; otevřete &lt;g3&gt;Definice výměny dat&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122517Z" creationid="kunes" creationdate="20220420T122517Z">
+        <seg>On the &lt;g1&gt;Currency Exchange Rate Services&lt;/g1&gt; page for &lt;g2&gt;ECB-EXCHANGE-RATES&lt;/g2&gt; open &lt;g3&gt;Data Exchange Definitions&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,6 +4787,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082214Z" creationid="kunes" creationdate="20220404T082152Z">
         <seg>Settings up Payment Places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení pro datumový posun</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122128Z" creationid="kunes" creationdate="20220420T122128Z">
+        <seg>Settings for the date offset</seg>
       </tuv>
     </tu>
     <tu>
@@ -6828,6 +6852,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při importu směnných kurzů z ECB je zajištěn datumový posun platnosti směnného kurzu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122055Z" creationid="kunes" creationdate="20220420T122055Z">
+        <seg>When importing exchange rates from the ECB, the date shift of the exchange rate validity is ensured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Při procházení či vytváření prodejních, nákupních či servisních dokladů systém kontroluje existenci směnného kurzu pro určité datum.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091433Z" creationid="kunes" creationdate="20220419T091433Z">
@@ -8706,6 +8738,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103248Z" creationid="kunes" creationdate="20220419T103248Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Configuration Worksheet&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Služba směnného kurzu&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T122141Z" creationid="kunes" creationdate="20220420T122141Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Curr. Exch. Rate Service&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
