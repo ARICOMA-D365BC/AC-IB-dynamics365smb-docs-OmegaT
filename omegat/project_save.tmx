@@ -5849,6 +5849,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete nastavit formát exportu na konkrétním bankovním účtu, přejděte na kartu bankovního účtu a nastavte potřebné hodnoty v polích &lt;g1&gt;Formát exportu zahraničních karet&lt;/g1&gt; a &lt;g2&gt;Formát importu plateb&lt;/g2&gt; na záložce &lt;g3&gt;Transfer&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125003Z" creationid="kunes" creationdate="20220420T125003Z">
+        <seg>If you want to set the export format on a specific bank account, go to the bank account card and set the required values ​​in the fields &lt;g1&gt;Foreign Payment Export Format&lt;/g1&gt; and &lt;g2&gt;Payment Export Format&lt;/g2&gt; on the &lt;g3&gt;Transfer&lt;/g3&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete správně nastavit import a export ve formátu SEPA, tato stránka musí obsahovat řádky zobrazené na obrázku níže.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124226Z" creationid="kunes" creationdate="20220420T124226Z">
