@@ -5361,6 +5361,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Odlouhlasení pohledávek a závazků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130320Z" creationid="kunes" creationdate="20220420T130320Z">
+        <seg>Reconciliation of receivables and payables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Odstraněné funkce z AC Financial Pack</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114422Z" creationid="kunes" creationdate="20220411T114422Z">
@@ -8556,6 +8564,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102252Z" creationid="kunes" creationdate="20220406T102252Z">
         <seg>In the list of templates, select the template for which you want to enter parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V souladu s ustanovením §29 a §30 zák.č.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T130326Z" creationid="kunes" creationdate="20220420T130326Z">
+        <seg>In accordance with the provisions of §29 and §30 of Act no.</seg>
       </tuv>
     </tu>
     <tu>
