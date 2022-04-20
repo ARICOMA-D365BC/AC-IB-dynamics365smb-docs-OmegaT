@@ -2701,6 +2701,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do XML schémat naimportujte aktuální šablonu XML schématu dle následujícího postupu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123712Z" creationid="kunes" creationdate="20220420T123712Z">
+        <seg>Import the current XML schema template into the XML schemas by following these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do hlavičky pokladního dokladu je doplněno pole Oprava.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103824Z" creationid="kunes" creationdate="20220419T103824Z">
@@ -3049,6 +3057,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123213Z" creationid="kunes" creationdate="20220420T123213Z">
         <seg>Export a file for Intrastat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Exportujte pomocí funkce &lt;g1&gt;Exportovat&lt;/g1&gt;, je nutné vyplnit &lt;g2&gt;Kontaktní osoba&lt;/g2&gt;, &lt;g3&gt;Typ&lt;/g3&gt;, &lt;g4&gt;Pořadové číslo výkazu&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123453Z" creationid="kunes" creationdate="20220420T123453Z">
+        <seg>Export using the function &lt;g1&gt;Export&lt;/g1&gt;, it is necessary to fill in &lt;g2&gt;Contact person&lt;/g2&gt;, &lt;g3&gt;Type&lt;/g3&gt;, &lt;g4&gt;Serial number of the statement&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4367,6 +4383,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;XML schémata&lt;/g1&gt; v sekci &lt;g2&gt;Proces&lt;/g2&gt; vyberte akci &lt;g3&gt;Načíst schéma&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123755Z" creationid="kunes" creationdate="20220420T123755Z">
+        <seg>On the &lt;g1&gt;XML Schemas&lt;/g1&gt; page, in the &lt;g2&gt;Actions&lt;/g2&gt; section, select the &lt;g3&gt;Load Schema&lt;/g3&gt;action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Žurnály zboží&lt;/g1&gt; jsou doplněny sestavy:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103708Z" creationid="kunes" creationdate="20220419T103708Z">
@@ -4575,6 +4599,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na vytvoření Souhrnného výkazu je použita standartní funkcionalita.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123636Z" creationid="kunes" creationdate="20220420T123636Z">
+        <seg>Standard functionality is used to create the Summary Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na záložce Nastavení účtování DPH zvolte filtr, pro které položky DPH chcete spustit výpočet.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105355Z" creationid="kunes" creationdate="20220419T105355Z">
@@ -4683,6 +4715,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082547Z" creationid="kunes" creationdate="20220404T082547Z">
         <seg>Setting up Multiple Payment Methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení XML schémat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123702Z" creationid="kunes" creationdate="20220420T123702Z">
+        <seg>Setting up XML schemas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5389,6 +5429,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130823Z" creationid="kunes" creationdate="20220411T130823Z">
         <seg>&lt;g1&gt;The Installed Extensions&lt;/g1&gt; page opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se vám okno pro import, kde vyberete příslušný XML soubor.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123813Z" creationid="kunes" creationdate="20220420T123813Z">
+        <seg>An import window will open where you select the appropriate XML file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6337,6 +6385,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro aktivování slovenských funkčností využijte následující postup:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123650Z" creationid="kunes" creationdate="20220420T123650Z">
+        <seg>To activate Slovak functionality, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro aktualizaci tohoto stavu na řádku zásilky slouží tlačítko &lt;g1&gt;Aktualizovat stav přepravy&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113352Z" creationid="kunes" creationdate="20220411T113352Z">
@@ -7092,6 +7148,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Rozdíl oproti standardní funkčnosti je v struktuře souboru XML generovaném pro účely slovenského vykazování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123644Z" creationid="kunes" creationdate="20220420T123644Z">
+        <seg>The difference compared to the standard functionality is in the structure of the XML file generated for the purposes of Slovak reporting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Rozdíl oproti standardní funkčnosti je v struktuře souboru s příponou .xml generovaném pro účely slovenského vykazování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122745Z" creationid="kunes" creationdate="20220420T122745Z">
@@ -7362,6 +7426,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102350Z" creationid="kunes" creationdate="20220419T102350Z">
         <seg>Court Proceedings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Souhrnný výkaz (VIES)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123617Z" creationid="kunes" creationdate="20220420T123617Z">
+        <seg>Summary Report (VIES)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8470,6 +8542,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vložte řádky deníku pomocí funkce &lt;g1&gt;Návrh řádků&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123325Z" creationid="kunes" creationdate="20220420T123325Z">
+        <seg>Insert journal lines with the &lt;g1&gt;Suggest Lines...&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Volba země/oblasti registrace je k dispozici i ve finančním deníku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110144Z" creationid="kunes" creationdate="20220419T110144Z">
@@ -8930,6 +9010,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091159Z" creationid="kunes" creationdate="20220419T091159Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Statement&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;XML schémata&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T123732Z" creationid="kunes" creationdate="20220420T123732Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;XML Schemas&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
