@@ -2645,6 +2645,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Daňové odpisy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125153Z" creationid="kunes" creationdate="20220420T125153Z">
+        <seg>Tax depreciation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Defince hodnot parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130031Z" creationid="kunes" creationdate="20220405T130031Z">
@@ -4847,6 +4855,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení krácení odpisů v 1. roce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125304Z" creationid="kunes" creationdate="20220420T125304Z">
+        <seg>Depreciation reduction setting in the 1st year</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení krácení odpočtu DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114216Z" creationid="kunes" creationdate="20220419T114216Z">
@@ -5797,6 +5813,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105503Z" creationid="kunes" creationdate="20220419T105503Z">
         <seg>Document for foreign accounting offices with a list of issued documents in the given country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Podle Zákona o dani z príjmov č. 595/2003 Z. z  může daňovník uplatnit roční odpisy v prvním roce odepisování jen ve výši odpovídající počtu kalendářních měsíců, ve kterých se majetek využíval na zabezpečení příjmů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125257Z" creationid="kunes" creationdate="20220420T125257Z">
+        <seg>According to the Income Tax Act No. 595/2003 Coll., a taxpayer may apply annual depreciation in the first year of depreciation only in an amount corresponding to the number of calendar months in which the property was used to secure income.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,6 +8922,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112931Z" creationid="kunes" creationdate="20220419T112931Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Currencies&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení DM&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T125318Z" creationid="kunes" creationdate="20220420T125318Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Fixed Asset Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
