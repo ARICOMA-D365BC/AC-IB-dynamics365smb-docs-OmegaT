@@ -4097,8 +4097,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Kontrolní výkaz DPH - nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T131738Z" creationid="kunes" creationdate="20220420T131738Z">
-        <seg>Kontrolní výkaz DPH - nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121532Z" creationid="kunes" creationdate="20220420T131738Z">
+        <seg>VAT Control Report - Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7482,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103715Z" creationid="kunes" creationdate="20220421T103715Z">
         <seg>To ensure the export of financial statements, it is necessary to set several areas listed below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zajištění správné funkčnosti je potřeba nastavit několik níže uvedených oblastí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121540Z" creationid="kunes" creationdate="20220421T121540Z">
+        <seg>To ensure proper functionality, you need to set up several areas below</seg>
       </tuv>
     </tu>
     <tu>
