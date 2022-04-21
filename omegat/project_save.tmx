@@ -365,9 +365,9 @@ The stated change is irreversible and the change of the CreditCheck status (new 
 &lt;g2&gt;SK Legislativní balíček&lt;/g2&gt;
 &lt;g3&gt;Výkaz DPH - nastavení&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T132301Z" creationid="kunes" creationdate="20220420T132155Z">
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T083657Z" creationid="kunes" creationdate="20220420T132155Z">
         <seg>&lt;g1&gt;AUTOCONT Solutions&lt;/g1&gt;  
-&lt;g2&gt;SK Legisllative Pack&lt;/g2&gt;  
+&lt;g2&gt;SK Legislative Pack&lt;/g2&gt;  
 &lt;g3&gt;VAT Statement - Setup&lt;/g3&gt;</seg>
       </tuv>
     </tu>
@@ -435,10 +435,10 @@ The stated change is irreversible and the change of the CreditCheck status (new 
 &lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Výkaz DPH - export&lt;/g5&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220421T083547Z" creationid="kunes" creationdate="20220421T083547Z">
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T083604Z" creationid="kunes" creationdate="20220421T083547Z">
         <seg>&lt;g1&gt;AUTOCONT Solutions&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;SK Legislative Pack&lt;/g3&gt;&lt;x4/&gt;
-&lt;g5&gt;VAT Statement - export&lt;/g5&gt;</seg>
+&lt;g5&gt;VAT Statement - Export&lt;/g5&gt;</seg>
       </tuv>
     </tu>
     <tu>
