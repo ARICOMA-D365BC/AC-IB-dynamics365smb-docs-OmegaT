@@ -1967,6 +1967,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Import nespolehlivých plátců DPH z xml formátu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075720Z" creationid="kunes" creationdate="20220421T075720Z">
+        <seg>&lt;x1/&gt;IImport of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Karta fakctoringu&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115525Z" creationid="kunes" creationdate="20220420T115525Z">
@@ -2711,6 +2719,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105441Z" creationid="kunes" creationdate="20220419T105441Z">
         <seg>Define the VAT country code and the country of supply code on the documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definujte jednotlivé kódy komodit a zaškrněte pro tyto kódy pole &lt;g1&gt;Tuzemské samozdanění&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075947Z" creationid="kunes" creationdate="20220421T075947Z">
+        <seg>Definujte jednotlivé kódy komodit a zaškrněte pro tyto kódy pole &lt;g1&gt;Tuzemské samozdanění&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,6 +5173,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení tuzemského samozdanění</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075957Z" creationid="kunes" creationdate="20220421T075742Z">
+        <seg>Setting up Domestic Self Assessment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení uživatelů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081744Z" creationid="kunes" creationdate="20220404T081723Z">
@@ -5233,6 +5257,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115454Z" creationid="kunes" creationdate="20220419T115454Z">
         <seg>Set up purchase advance overpayment posting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení čísel sazebníku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075832Z" creationid="kunes" creationdate="20220421T075832Z">
+        <seg>Set up Tariff Numbers</seg>
       </tuv>
     </tu>
     <tu>
@@ -6835,6 +6867,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125159Z" creationid="kunes" creationdate="20220411T125159Z">
         <seg>To set up and use the cash on delivery function, it is necessary to set up booeal &lt;g1&gt;Cash on delivery&lt;/g1&gt; on the payment method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavení komodit spadajících do režimu tuzemského samozdanění je využita standardní karta Čísla sazebníku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075816Z" creationid="kunes" creationdate="20220421T075816Z">
+        <seg>The standard Tariff Numbers tab is used to set up commodities that fall under the domestic self-taxation regime.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8614,6 +8654,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Nastavení financí a Nastavení účtování DPH je možné aktivovat systémové kontroly při účtování těchto komodit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075823Z" creationid="kunes" creationdate="20220421T075823Z">
+        <seg>In General ledger setup and VAT posting setup, you can enable system controls when you post these commodities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V Nastavení zásilek zapněte "Automatická aktualizace master dat".</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130610Z" creationid="kunes" creationdate="20220411T130610Z">
@@ -9578,6 +9626,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113244Z" creationid="kunes" creationdate="20220419T113244Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;No. Series&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Čísla sazebníku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075849Z" creationid="kunes" creationdate="20220421T075849Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Tariff Numbers&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
