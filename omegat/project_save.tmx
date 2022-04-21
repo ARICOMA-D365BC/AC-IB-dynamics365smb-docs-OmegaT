@@ -5417,6 +5417,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení sloupců sekcí kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122241Z" creationid="kunes" creationdate="20220421T122241Z">
+        <seg>Set up VAT Control Report Section Columns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení slouží pro mapování polí v aplikaci na uzly .xml.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123003Z" creationid="kunes" creationdate="20220420T123003Z">
@@ -6087,6 +6095,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110403Z" creationid="kunes" creationdate="20220419T110403Z">
         <seg>However, due to its complexity, functionality was added to the system, where the overpayment of the advance payment is re-billed within the final billing invoice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Označte řádek, pro který chcete nastavovat sloupce a poté zvolte funkci &lt;g1&gt;Akce&lt;/g1&gt; -&gt; &lt;g2&gt;Sekce&lt;/g2&gt; -&gt; &lt;g3&gt;Nastavení sloupců sekcí výkazu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122342Z" creationid="kunes" creationdate="20220421T122342Z">
+        <seg>Select the row for which you want to set columns, and then choose &lt;g1&gt;Action&lt;/g1&gt; -&gt; &lt;g2&gt;Section&lt;/g2&gt; -&gt; &lt;g3&gt;Column Selection Setup&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7231,6 +7247,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103950Z" creationid="kunes" creationdate="20220421T103950Z">
         <seg>For individual cells of the account schema, it is necessary to set the appropriate values of the xml file elements according to the instructions of the technical documentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro jednotlivé sekce je potřeba nastavit sloupce, které budou exportovány do xml souboru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122249Z" creationid="kunes" creationdate="20220421T122249Z">
+        <seg>It is necessary to set columns for individual sections, which will be exported to an xml file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9378,6 +9402,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Přiřazené pole v řádku výkazu&lt;/g1&gt; je nastavení z jakého systémového pole bude hodnota naplněna do Kontrolního výkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122528Z" creationid="kunes" creationdate="20220421T122528Z">
+        <seg>In the &lt;g1&gt;Assigned Field field in the report line&lt;/g1&gt;, you can set from which system field the value will be populated into the Control Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli Vrátit hotovost (LM) zjistěte částku, jakou máte zákazníkovi vrátit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122007Z" creationid="kunes" creationdate="20220401T122007Z">
@@ -10986,6 +11018,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte kódy dle plateného nařízení pro vykazování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122348Z" creationid="kunes" creationdate="20220421T122348Z">
+        <seg>Enter the codes according to the valid reporting regulation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte požadované filtry jako Filtr data, případně další filtry, vyberte tlačítko &lt;g1&gt;Akce&lt;/g1&gt; a poté vyberte funkci &lt;g2&gt;Výsledky&lt;/g2&gt; a &lt;g3&gt;Uložit výsledky&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102913Z" creationid="kunes" creationdate="20220421T102913Z">
@@ -11304,6 +11344,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104436Z" creationid="kunes" creationdate="20220407T104436Z">
         <seg>The basic step of the shipment creation process is the sales order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zároveň se vyplní i pole &lt;g3&gt;Limit částky DPH&lt;/g3&gt; a &lt;g4&gt;Platnost limitu od&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122229Z" creationid="kunes" creationdate="20220421T122229Z">
+        <seg>The fields &lt;g3&gt;VAT Amount Limit&lt;/g3&gt; and &lt;g4&gt;Limit Valid From&lt;/g4&gt; are filled in at the same time.</seg>
       </tuv>
     </tu>
     <tu>
