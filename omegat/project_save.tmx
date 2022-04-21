@@ -3187,6 +3187,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Filtr kódu původu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075054Z" creationid="kunes" creationdate="20220421T075054Z">
+        <seg>Source Code filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Filtrovat podle Dodavatele</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T131057Z" creationid="kunes" creationdate="20220420T131057Z">
@@ -5181,6 +5189,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení řádků výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132913Z" creationid="kunes" creationdate="20220420T132913Z">
+        <seg>Set up VAT Statement lines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -6735,6 +6751,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro jednotlivé řádky výkazu DPH definujte pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132953Z" creationid="kunes" creationdate="20220420T132953Z">
+        <seg>For each line in the sales tax statement, define the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro jsme rozšířili možnosti o 2 doplňkové nástroje:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102525Z" creationid="kunes" creationdate="20220419T102525Z">
@@ -6990,6 +7014,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132329Z" creationid="kunes" creationdate="20220420T132329Z">
         <seg>To ensure the correct calculation of the amounts of the VAT Statement and export to the required XML structure according to Slovak legislation, it is necessary to set up several areas listed below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zajištění správného vykazování DPH je potřeba nastavit pole v řádcích výkazu DPH:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220420T132921Z" creationid="kunes" creationdate="20220420T132921Z">
+        <seg>To ensure proper VAT reporting, you need to set up fields in the VAT statement lines:</seg>
       </tuv>
     </tu>
     <tu>
