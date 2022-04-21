@@ -2855,6 +2855,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole SML portID vyberte hodnotu &lt;g1&gt;52068871&lt;/g1&gt; -platná od 1.1.2020.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121814Z" creationid="kunes" creationdate="20220421T121814Z">
+        <seg>In the SML portID field, select the value &lt;g1&gt;52068871&lt;/g1&gt; -valid from 1.1.2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole Číslená řada vyberte patřičnou číselnou řadu pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115250Z" creationid="kunes" creationdate="20220411T115250Z">
@@ -4761,6 +4769,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;XML schémata&lt;/g1&gt; vyberte akci &lt;g2&gt;Načíst schéma&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121731Z" creationid="kunes" creationdate="20220421T121731Z">
+        <seg>On the &lt;g1&gt;XML Schemas&lt;/g1&gt; page choose &lt;g2&gt;Load Schema&lt;/g2&gt; action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Úpravy - Mapování souborů úč.schéma SK&lt;/g1&gt; v poli &lt;g2&gt;Typ mapování&lt;/g2&gt; vyberte hodnotu Xml.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T113745Z" creationid="kunes" creationdate="20220421T113745Z">
@@ -6183,6 +6199,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115049Z" creationid="kunes" creationdate="20220421T115049Z">
         <seg>When you are finished editing, close the window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po import se na kartě &lt;g1&gt;XML schémata&lt;/g1&gt; objeví nový řádek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121758Z" creationid="kunes" creationdate="20220421T121758Z">
+        <seg>After import, a new line appears on &lt;g1&gt;XML Schemas&lt;/g1&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10786,6 +10810,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>XML schéma ke Kontrolnímu výkazu DPH je potřebné do aplikace naimportovat do XML schémat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121555Z" creationid="kunes" creationdate="20220421T121555Z">
+        <seg>The XML schema for the VAT Control Report must be imported into the application into the XML schemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>XX – fixní část čísla; musí být velkými písmeny, délka není omezena (jen celková délka výsledného čísla)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115904Z" creationid="kunes" creationdate="20220419T113337Z">
@@ -11304,6 +11336,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115900Z" creationid="kunes" creationdate="20220419T113352Z">
         <seg>cccc - variable part of a number; must be lowercase, length is not limited (only the total length of the final number)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>do pole &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; vyberte hodnotu &lt;g2&gt;SK&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121853Z" creationid="kunes" creationdate="20220421T121853Z">
+        <seg>In the &lt;g1&gt;Assing legislation&lt;/g1&gt; select &lt;g2&gt;SK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
