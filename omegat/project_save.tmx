@@ -4187,6 +4187,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Mapování souborů účetních schémat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103938Z" creationid="kunes" creationdate="20220421T103938Z">
+        <seg>Accounting Schema File Mapping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Masky číselných řad – pro usnadnění generování rozsahů pro další (obvykle fiskální) období</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102531Z" creationid="kunes" creationdate="20220419T102531Z">
@@ -4625,6 +4633,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123755Z" creationid="kunes" creationdate="20220420T123755Z">
         <seg>On the &lt;g1&gt;XML Schemas&lt;/g1&gt; page, in the &lt;g2&gt;Actions&lt;/g2&gt; section, select the &lt;g3&gt;Load Schema&lt;/g3&gt;action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Účetní schémata&lt;/g1&gt; zvolte akci &lt;g2&gt;Proces&lt;/g2&gt; a pak funkci &lt;g3&gt;Upravit účetní schéma&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T104045Z" creationid="kunes" creationdate="20220421T104045Z">
+        <seg>On the &lt;g1&gt;Account Schedules&lt;/g1&gt;page, choose the &lt;g2&gt;Process&lt;/g2&gt; action, and then choose &lt;g3&gt;Edit Account Schedule&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6951,6 +6967,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro jednotlivé buňky účetního schématu je potřeba nastavit příslušné hodnoty elementů xml souboru dle pokynů technické dokumentace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103950Z" creationid="kunes" creationdate="20220421T103950Z">
+        <seg>For individual cells of the account schema, it is necessary to set the appropriate values of the xml file elements according to the instructions of the technical documentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro jednotlivé řádky výkazu DPH definujte pole:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132953Z" creationid="kunes" creationdate="20220420T132953Z">
@@ -6971,6 +6995,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
         <seg>A different API is required for each expedition place, and the expedition place is associated with one location of your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každý řádek výkazu je nutné nastavit mapování běžného i minulého období.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T104009Z" creationid="kunes" creationdate="20220421T104009Z">
+        <seg>For each row of the report it is necessary to set the mapping of the current and previous period.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9162,6 +9194,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104600Z" creationid="kunes" creationdate="20220407T104600Z">
         <seg>Your references (if your customer requires a label, e.g.: your order number).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ve sloupci &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; vyberte &lt;g2&gt;SK&lt;/g2&gt; pro slovenské statutární výkazy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103917Z" creationid="kunes" creationdate="20220421T103917Z">
+        <seg>In the &lt;g1&gt;Assing Legislation&lt;/g1&gt;column, select &lt;g2&gt;SK&lt;/g2&gt; for Slovak statutory statements.</seg>
       </tuv>
     </tu>
     <tu>
