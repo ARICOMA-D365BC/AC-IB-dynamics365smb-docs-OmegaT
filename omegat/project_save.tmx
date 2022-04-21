@@ -3195,6 +3195,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Filtr typu dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075113Z" creationid="kunes" creationdate="20220421T075113Z">
+        <seg>Document type filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Filtrovat podle Dodavatele</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T131057Z" creationid="kunes" creationdate="20220420T131057Z">
@@ -3451,6 +3459,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hodnoty musí být nejdříve zadané v Kódech původu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075300Z" creationid="kunes" creationdate="20220421T075300Z">
+        <seg>The values ​​must first be entered in the Source Codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hodnoty vyplníte do polí řádku průvodce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123141Z" creationid="kunes" creationdate="20220405T123141Z">
@@ -3471,6 +3487,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112916Z" creationid="Janousek" creationdate="20210603T112916Z">
         <seg>Holding companies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>ID elementu XML schématu - vyplěním bude automaticky vyplněn i Kód atributu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075120Z" creationid="kunes" creationdate="20220421T075120Z">
+        <seg>XML schema element ID - the VAT attribute code will be automatically filled in by the fill-in</seg>
       </tuv>
     </tu>
     <tu>
@@ -4749,6 +4773,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na záložce Nákup zadejte do pole &lt;g1&gt;Nákupní interní dobropis&lt;/g1&gt; hodnotu INTCREDIT a do pole &lt;g2&gt;Nákupní vrubopis&lt;/g2&gt; hodnotu DEBITNOTE.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075705Z" creationid="kunes" creationdate="20220421T075705Z">
+        <seg>On the Purchase FastTab, enter INTCREDIT in the &lt;g1&gt;Purchase internal credit memo&lt;/g1&gt; field and DEBITNOTE in the &lt;g2&gt;Purchase debit note&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na záložce Prodej zadejte do pole &lt;g1&gt;Prodejní interní dobropis&lt;/g1&gt; hodnotu INTCREDIT a do pole &lt;g2&gt;Prodejní vrubopis&lt;/g2&gt; hodnotu DEBITNOTE.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075248Z" creationid="kunes" creationdate="20220421T075248Z">
+        <seg>On the Sales FastTab, enter INTCREDIT in the &lt;g1&gt;Sales internal credit memo&lt;/g1&gt; field and DEBITNOTE in the &lt;g2&gt;Sales debit note&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na záložce Číslování lze nastavit číselnou řadu pro doklady platby.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083146Z" creationid="kunes" creationdate="20220404T083146Z">
@@ -4993,6 +5033,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112520Z" creationid="kunes" creationdate="20220419T112520Z">
         <seg>Payment cumulation settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení kódů původu pro interní opravní doklady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075135Z" creationid="kunes" creationdate="20220421T075135Z">
+        <seg>Set up source codes for internal corrective documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8466,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Typ dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075104Z" creationid="kunes" creationdate="20220421T075104Z">
+        <seg>Document type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Typ účtování koeficientu DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114251Z" creationid="kunes" creationdate="20220419T114251Z">
@@ -9282,6 +9338,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112853Z" creationid="kunes" creationdate="20220419T112853Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Ledger Setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení kódů původu&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T075158Z" creationid="kunes" creationdate="20220421T075158Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Source Code Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
