@@ -2793,8 +2793,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Do pole &lt;g1&gt;Vzorec data SK&lt;/g1&gt; zadejte hodnotu &lt;g2&gt;1D&lt;/g2&gt; pro zajištění funkčnosti posunu datumu při importu.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T122617Z" creationid="kunes" creationdate="20220420T122617Z">
-        <seg>In the &lt;g1&gt;SK Date Formula&lt;/g1&gt; field enter&lt;g2&gt;1D&lt;/g2&gt; o ensure that the date offset works for import.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T084858Z" creationid="kunes" creationdate="20220420T122617Z">
+        <seg>In the &lt;g1&gt;SK Date Formula&lt;/g1&gt; field enter &lt;g2&gt;1D&lt;/g2&gt; o ensure that the date offset works for import.</seg>
       </tuv>
     </tu>
     <tu>
