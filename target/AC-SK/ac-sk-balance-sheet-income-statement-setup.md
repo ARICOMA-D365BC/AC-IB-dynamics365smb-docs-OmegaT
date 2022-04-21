@@ -11,37 +11,37 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Export účetní zavěrky - SK - nastavení
+# Export of financial statements - SK - Setup
 
-Pro definování statutárních výkazů slovenské legislativy (Rozvahy a Výkazu zisků a ztrát) je v systému D365 BC využívána standartní funkčnost účetních schémat doplněná o úpravy, které umožňují import účetní závěrky na portál Finanční správy SR prostřednictvím .xml souboru.
+To define the statutory statements of Slovak legislation (Balance Sheet and Profit and Loss Statement), the D365 BC system uses the standard functionality of accounting schemes supplemented by adjustments that allow the import of financial statements to the portal of the Financial Administration of the Slovak Republic through a .xml file.
 
-Pro zajištění exportu účetní závěrky je potřeba nastavit několik níže uvedených oblastí.
+To ensure the export of financial statements, it is necessary to set several areas listed below.
 
-## Rozlišení schémat pro vybranou zemi
+## Differentiation of schemes for the selected country
 
-Pole **Přiřazeno legislativě** v přehledu účetních schémat slouží pro rozlišení českých a slovenských statutárních výkazů.
+The **Assing Legislation** field in the list of accounting schemes is used to differentiation between Czech and Slovak statutory statements.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účetní schémata** a poté vyberte související odkaz.
-2. Ve sloupci **Přiřazeno legislativě** vyberte **SK** pro slovenské statutární výkazy.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Account Schedule** and then choose the related link.
+2. In the **Assing Legislation**column, select **SK** for Slovak statutory statements.
 
 You can see an example in the picture below:
 ![Import of unreliable VAT payers from xml format](media/account_schedules.png)
 
-## Mapování souborů účetních schémat
+## Accounting Schema File Mapping
 
-Pro jednotlivé buňky účetního schématu je potřeba nastavit příslušné hodnoty elementů xml souboru dle pokynů technické dokumentace. Pro každý řádek výkazu je nutné nastavit mapování běžného i minulého období.
+For individual cells of the account schema, it is necessary to set the appropriate values of the xml file elements according to the instructions of the technical documentation. For each row of the report it is necessary to set the mapping of the current and previous period.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účetní schémata** a poté vyberte související odkaz.
-2. Na stránce **Účetní schémata** zvolte akci **Proces** a pak funkci **Upravit účetní schéma**.
-3. Na kartě vybraného **Účetního schématu** zvolte tlačítko **Akce** a poté v sekci **Další** vyberte funkci **Mapování souboru SK**.
-4. Na stránce **Úpravy - Mapování souborů úč.schéma SK** v poli **Typ mapování** vyberte hodnotu Xml. Do polí účetního schématu zadejte odpovídající hodnoty elementů podle technických požadavků šablony xml.
-5. Po úpravách kartu zavřete.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Account Schedule** and then choose the related link.
+2. On the **Account Schedules**page, choose the **Process** action, and then choose **Edit Account Schedule**.
+3. On the tab of the selected **Account Schedule** choose the **Actions** button, and select **File Mapping SK** feature.
+4. On the **Edit - Acc. Schedule File Mapping SK** page, select Xml in the **Mapping Type** field. In the account schedule fields, enter the appropriate element values according to the technical requirements of the xml template.
+5. Close the page after editing.
 
 You can see an example in the picture below:
 ![Import of unreliable VAT payers from xml format](media/XML_mapping.png)
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)  
-[Export účetní závěrky - SK](ac-sk-balance-sheet-income-statement.md)
+[AUTOCONT Solutions](../index.md)  
+[SK Legislative pack](ac-sk-legislative-pack.md)  
+[Export of financial statements - SK](ac-sk-balance-sheet-income-statement.md)

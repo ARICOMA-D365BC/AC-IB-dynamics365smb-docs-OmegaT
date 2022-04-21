@@ -76,7 +76,7 @@ Use the following procedure to set up:
 2. On the Sales FastTab, enter INTCREDIT in the **Sales internal credit memo** field and DEBITNOTE in the **Sales debit note** field. The values ​​must first be entered in the Source Codes
 3. On the Purchase FastTab, enter INTCREDIT in the **Purchase internal credit memo** field and DEBITNOTE in the **Purchase debit note** field. The values ​​must first be entered in the Source Codes
 
-![IImport of unreliable VAT payers from xml format](media/setup_source_code.png)
+![Import of unreliable VAT payers from xml format](media/setup_source_code.png)
 
 ## Setting up Domestic Self Assessment
 

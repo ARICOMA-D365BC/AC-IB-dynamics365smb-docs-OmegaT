@@ -11,32 +11,32 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Export účetní závěrky - SK
+# Export of financial statements - SK
 
-Slovenské statutární výkazy, Rozvaha a Výkaz zisků a ztrát, se dle požadavku Finanční správy SR importují sloučené, v jednom .xml souboru.
+According to the requirements of the Financial Administration of the Slovak Republic, the Slovak Statutory Statements, Balance Sheet and Profit and Loss Statement are imported merged, in one .xml file.
 
-Pro zajištění tohoto požadavku je v D365 BC použita standardní funkčnost účetních schémat rozšířena o dodatečné úpravy. Samotný export pracuje s uloženými výsledky účetních schémat.
+To ensure this requirement, the standard functionality of accounting schemes is used in D365 BC and extended by additional adjustments. The export itself works with the saved results of account schedules.
 
-## Uložení výsledků účetních schémat pro export
+## Saving the results of accounting schemes for export
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účetní schémata** a poté vyberte související odkaz.
-2. Na kartě **Účetní schémata** zvolte akci **Proces** a funkci **Náhled**.
-3. Zadejte požadované filtry jako Filtr data, případně další filtry, vyberte tlačítko **Akce** a poté vyberte funkci **Výsledky** a **Uložit výsledky**.
-4. V okně **Uložit výsledek úč. schématu** vyplňte pole dle potřeby.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Account Schedule** and then choose the related link.
+2. On the **Account Schedules page**, choose the **Process** action and **Overview** feature.
+3. Enter the filters you want as the Date Filter or other filters, select the **Action** button, and then select the **Results** and **Save Results** feature.
+4. In the **Save Acc. Schedule Result** fill in the fields as needed.
 5. Confirm with the **OK** button.
 
-Výsledky účetních schémat se ukládají do seznamu v chronologickém sledu jejich vzniku. Na označení výsledků výkazů je vytvořena číselná řada nastavená v Nastavení financí.
+The results of accounting schemes are stored in a list in the chronological sequence of their formation. The number series set in General Ledger Setup is used to mark the results of the reports.
 
-## Export  do formátu .xml
+## Export to .xml format
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Export slouč.účt.schémat do XML** a poté vyberte související odkaz.
-2. Na kartě **Export slouč.účt.schémat do XML** vyplňte požadovaná pole. Vyberte Kód výsledku v sekci pro Rozvahu a Výkaz zisků a ztrát.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Export Merged Acc. schedule to XML** and then choose the related link.
+2. On the **Exp.Merged Acc.Schedule to XML** page, fill in the required fields. Select Result Code in the Section for Balance Sheet and Profit and Loss.
 3. Confirm with the **OK** button.
 
-Pak již stačí výsledný soubor naimportovat do elektronického formuláře finanční správy.
+Then it is enough to import the resulting file into the electronic form of the financial administration.
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)   
-[Export účetní zavěrky - SK - nastavení](ac-sk-balance-sheet-income-statement-setup.md)
+[AUTOCONT Solutions](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)   
+[Export of financial statements - SK - Setup](ac-sk-balance-sheet-income-statement-setup.md)

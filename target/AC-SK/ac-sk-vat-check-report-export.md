@@ -10,44 +10,44 @@ ms.workload: na
 ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
-# Kontrolní výkaz DPH
+# VAT Control Report
 
-Funkcionalita umožňuje zpracování Kontrolního výkazu DPH a jeho export do souboru formátu xml, který je možné importovat na portál Finanční správy SR nebo do aplikace eDane.
+The functionality enables the processing of the VAT Control Report and its export to an xml file, which can be imported to the portal of the Financial Administration of the Slovak Republic or to the eDane application.
 
-## Generování Kontrolního výkazu DPH
+## Generate a VAT Control Report
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled kontrolních výkazů DPH** a poté vyberte související odkaz.
-2. Pro založení nového Kontrolního výkazu zvolte funkci **Nový**.
-3. Na Kartě kontrolního výkazu DPH vyplňte příslušná pole na hlavičce. Na záložce Ostatní je potřeba správně vyplnit pole **XML schéma**.
-4. Pro vyplnění řádků výkazu spusťte funkci  **Naplň řádky výkazu**.
-5. Pro jednoduchou kontrolu zvolte funkci **Náhled**.
-
-> [!NOTE]
-> Pole **Detailní položka** v řádcích KV slouží pro systémové označení řádku. Pokud má hodnotu ANO  položku do kontrolního výkazu nevybere (nepřenese se do xml a nereportuje se na Finanční správu). Při uzavření KV se uzavřou i položky, které budou mít v tomto poli hodnotu ANO.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Check Report List** and then choose the related link.
+2. To create a new Control Report, choose the **New** function.
+3. On the VAT Control Report Card, fill in the appropriate fields on the header. On the Other tab, it is necessary to fill in the **XML schema** field correctly.
+4. To fill the statement lines, run the **Fill report lines** function.
+5. For a simple check, choose the **Preview** function.
 
 > [!NOTE]
-> Pole **Upozornění** v řádcích KV je informativní pole, které upozorňuje na chybějící údaje u jednotlivých dokladů načítaných do KV.
+> The **Detailed item** field in CHR rows is used for the system designation of the row. If YES, the item is not selected for the control report (it is not transferred to xml and is not reported to the Financial Administration) When you close the CHR, the items that will have a value of YES in this field are also closed.
 
-## Úpravy Kontrolního výkazu DPH
+> [!NOTE]
+> The **Warning** field in CHR rows is an informative field that warns about missing data for individual documents loaded into CHR.
 
-Uživatelsky je možné otevřít jednotlivé řádky kontrolního výkazu k editaci. Po ukončení úprav je potřebné položky v KV přepočítat.
+## Adjustments to the VAT control report
 
-1. Na Kartě kontrolního výkazu DPH zvolte funkci **Úpravy** pro editaci.
-2. Po dokončení úprav zavřete okno. Systém se automaticky zeptá, zda požadujete Přepočítat součtové řádky. Potvrďte  pomocí možnosti **Ano**.
+It is possible to open individual lines of the control report for editing. After the end of the modifications, it is necessary to recalculate the entris in the CHR.
 
-## Export Kontrolního výkazu DPH do XML
+1. On the VAT Control Report page, select the **Edit** feature for editing
+2. When you are finished editing, close the window. The system will automatically ask if you want to recalculate the total rows. Confirm with **Yes**.
 
-1. Na Kartě kontrolního výkazu DPH zvolte funkci **Náhled**.
-2. Poté zvolte **Export do XML** a dotaz systému potvrďte pomocí možnosti **Ano**.
+## Export the VAT Control Report to XML
 
-## Uzavření Kontrolního výkazu DPH
+1. On the VAT Control Statement card, choose the **Preview** feature.
+2. Then choose **Export to XML** and confirm the system query with **Yes**.
 
-Kontrolní výkaz je nutné uzavřít až po kontrole údajů. Po uzavření kontrolního výkazu systém zablokuje opětovné načítání dat do formuláře. Údaje vygenerované před jeho uzavřením už není možno změnit ani doplnit. Uzavřený formulář není možné vymazat ze seznamu vygenerovaných KV. Po uzavření formuláře položky v tabulce Položka DPH mají zaškrtnuté pole Uzavřeno pro kontrolní výkaz.
+## Closing the VAT Control Report
 
-1. Na Kartě kontrolního výkazu DPH zvolte funkci **Uzavřít** pro jeho uzavření.
+The control report must be closed only after the data have been checked. When the control report is closed, the system blocks the reloading of data into the form. The data generated before its closure can no longer be changed or added. Uzavřený formulář není možné vymazat ze seznamu vygenerovaných CHR. When the form is closed, the entries in the VAT entry table the Closed box selected for the control report.
+
+1. Select the **Close** function on the VAT Control report Card to close it.
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)  
-[Kontrolní výkaz DPH - nastavení](ac-sk-vat-check-report-setup.md)
+[AUTOCONT Solutions](../index.md)  
+[SK Legislative pack](ac-sk-legislative-pack.md)  
+[VAT Control Report - Settings](ac-sk-vat-check-report-setup.md)
