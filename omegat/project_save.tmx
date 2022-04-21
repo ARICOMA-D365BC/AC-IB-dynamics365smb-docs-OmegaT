@@ -489,6 +489,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Kontrolní výkaz DPH&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122550Z" creationid="kunes" creationdate="20220421T122550Z">
+        <seg>&lt;g1&gt;AUTOCONT Solutions&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislative Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;VAT Control Report&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Výkaz DPH - export&lt;/g5&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T083604Z" creationid="kunes" creationdate="20220421T083547Z">
