@@ -4395,6 +4395,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě vybraného &lt;g1&gt;Účetního schématu&lt;/g1&gt; zvolte tlačítko &lt;g2&gt;Akce&lt;/g2&gt; a poté v sekci &lt;g3&gt;Další&lt;/g3&gt; vyberte funkci &lt;g4&gt;Mapování souboru SK&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T113654Z" creationid="kunes" creationdate="20220421T113654Z">
+        <seg>On the tab of the selected &lt;g1&gt;Account Schedule&lt;/g1&gt; choose the &lt;g2&gt;Actions&lt;/g2&gt; button, and select &lt;g4&gt;File Mapping SK&lt;/g4&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
 &lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
       </tuv>
