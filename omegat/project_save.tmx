@@ -158,6 +158,26 @@ Pokud vaše firma nepoužívá Kontakty, je třeba zapnout &lt;g2&gt;Nepoužíva
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pole &lt;g2&gt;Detailní položka&lt;/g2&gt; v řádcích KV slouží pro systémové označení řádku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114827Z" creationid="kunes" creationdate="20220421T114827Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The &lt;g2&gt;Detailed item&lt;/g2&gt; field in CHR rows is used for the system designation of the row.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Pole &lt;g2&gt;Upozornění&lt;/g2&gt; v řádcích KV je informativní pole, které upozorňuje na chybějící údaje u jednotlivých dokladů načítaných do KV.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114932Z" creationid="kunes" creationdate="20220421T114932Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The &lt;g2&gt;Warning&lt;/g2&gt; field in CHR rows is an informative field that warns about missing data for individual documents loaded into CHR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Pro zobrazení informačního okna použijte funkci přizpůsobit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101040Z" creationid="kunes" creationdate="20220414T101040Z">
@@ -4343,6 +4363,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na Kartě kontrolního výkazu DPH zvolte funkci &lt;g1&gt;Úpravy&lt;/g1&gt; pro editaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115045Z" creationid="kunes" creationdate="20220421T115045Z">
+        <seg>On the VAT Control Report page, select the &lt;g1&gt;Edit&lt;/g1&gt; feature for editing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na dokladech prodejní faktura či prodejní dobropis je namísto jednoho způsobu platby je nově možné definovat více způsobů, typicky část úhrady platební kartou a část v hotovosti.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
@@ -6187,6 +6215,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po ukončení úprav je potřebné položky v KV přepočítat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115027Z" creationid="kunes" creationdate="20220421T115027Z">
+        <seg>After the end of the modifications, it is necessary to recalculate the entris in the CHR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po upravení dat uživatel použije funkci &lt;g1&gt;Přidat ke svozu&lt;/g1&gt; a pro vytištění nového štítků použije funkci &lt;g2&gt;Tisk štítků&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111128Z" creationid="kunes" creationdate="20220411T111128Z">
@@ -6391,6 +6427,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113450Z" creationid="kunes" creationdate="20220411T113450Z">
         <seg>If the Shipping agent Code and Shipping agent Service Code fields are filled out on the sales order, you must enter the recipient's phone number and email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud má hodnotu ANO  položku do kontrolního výkazu nevybere (nepřenese se do xml a nereportuje se na Finanční správu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114900Z" creationid="kunes" creationdate="20220421T114900Z">
+        <seg>If YES, the item is not selected for the control report (it is not transferred to xml and is not reported to the Financial Administration)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7039,6 +7083,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132320Z" creationid="kunes" creationdate="20220420T132320Z">
         <seg>The standard functionality of the system is used to generate the VAT statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro jednoduchou kontrolu zvolte funkci &lt;g1&gt;Náhled&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114750Z" creationid="kunes" creationdate="20220421T114750Z">
+        <seg>For a simple check, choose the &lt;g1&gt;Preview&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,6 +7790,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110314Z" creationid="kunes" creationdate="20220411T110314Z">
         <seg>In this creation, you must enter Status on "New" and add one line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při uzavření KV se uzavřou i položky, které budou mít v tomto poli hodnotu ANO.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114908Z" creationid="kunes" creationdate="20220421T114908Z">
+        <seg>When you close the CHR, the items that will have a value of YES in this field are also closed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8934,6 +8994,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112531Z" creationid="kunes" creationdate="20220411T112531Z">
         <seg>The user can order a collection only for the selected shipper or for all of them at once.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelsky je možné otevřít jednotlivé řádky kontrolního výkazu k editaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115008Z" creationid="kunes" creationdate="20220421T115008Z">
+        <seg>It is possible to open individual lines of the control report for editing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11426,6 +11494,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110508Z" creationid="kunes" creationdate="20220411T110508Z">
         <seg>Shipment modification</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Úpravy Kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114945Z" creationid="kunes" creationdate="20220421T114945Z">
+        <seg>Adjustments to the VAT control report</seg>
       </tuv>
     </tu>
     <tu>
