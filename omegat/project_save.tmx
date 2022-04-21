@@ -3153,8 +3153,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Export účetní závěrky - SK</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T131729Z" creationid="kunes" creationdate="20220420T131729Z">
-        <seg>Export účetní závěrky - SK</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102407Z" creationid="kunes" creationdate="20220420T131729Z">
+        <seg>Export of financial statements - SK</seg>
       </tuv>
     </tu>
     <tu>
