@@ -8874,6 +8874,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V okně &lt;g1&gt;Uložit výsledek úč. schématu&lt;/g1&gt; vyplňte pole dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102935Z" creationid="kunes" creationdate="20220421T102935Z">
+        <seg>In the &lt;g1&gt;Save Acc. Schedule Result&lt;/g1&gt; fill in the fields as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli &lt;g1&gt;Expediční místo&lt;/g1&gt; vyberte nově vytvořený záznam.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115205Z" creationid="kunes" creationdate="20220411T115205Z">
@@ -10454,6 +10462,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114730Z" creationid="kunes" creationdate="20220419T114730Z">
         <seg>Enter the country code and VAT registration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte požadované filtry jako Filtr data, případně další filtry, vyberte tlačítko &lt;g1&gt;Akce&lt;/g1&gt; a poté vyberte funkci &lt;g2&gt;Výsledky&lt;/g2&gt; a &lt;g3&gt;Uložit výsledky&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102913Z" creationid="kunes" creationdate="20220421T102913Z">
+        <seg>Enter the filters you want as the Date Filter or other filters, select the &lt;g1&gt;Action&lt;/g1&gt; button, and then select the &lt;g2&gt;Results&lt;/g2&gt; and &lt;g3&gt;Save Results&lt;/g3&gt; feature.</seg>
       </tuv>
     </tu>
     <tu>
