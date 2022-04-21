@@ -3433,7 +3433,7 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Funkcionalita umožňuje zpracování Kontrolního výkazu DPH a jeho export do souboru formátu xml, který je možné importovat na portál Finanční správy SR nebo do aplikace eDane.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220421T114228Z" creationid="kunes" creationdate="20220421T114228Z">
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114329Z" creationid="kunes" creationdate="20220421T114228Z">
         <seg>The functionality enables the processing of the VAT Control Report and its export to an xml file, which can be imported to the portal of the Financial Administration of the Slovak Republic or to the eDane application.</seg>
       </tuv>
     </tu>
@@ -3483,6 +3483,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104347Z" creationid="kunes" creationdate="20220407T104347Z">
         <seg>Geis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Generování Kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114332Z" creationid="kunes" creationdate="20220421T114243Z">
+        <seg>Generate a VAT Control Report</seg>
       </tuv>
     </tu>
     <tu>
@@ -4041,7 +4049,7 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Kontrolní výkaz DPH</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220421T114126Z" creationid="kunes" creationdate="20220420T131737Z">
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114324Z" creationid="kunes" creationdate="20220420T131737Z">
         <seg>VAT Control Report</seg>
       </tuv>
     </tu>
@@ -4323,6 +4331,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103757Z" creationid="kunes" creationdate="20220419T103757Z">
         <seg>Added Account and Print functions on Reconciliation Log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na Kartě kontrolního výkazu DPH vyplňte příslušná pole na hlavičce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114414Z" creationid="kunes" creationdate="20220421T114414Z">
+        <seg>On the VAT Control Report Card, fill in the appropriate fields on the header.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4933,6 +4949,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T075705Z" creationid="kunes" creationdate="20220421T075705Z">
         <seg>On the Purchase FastTab, enter INTCREDIT in the &lt;g1&gt;Purchase internal credit memo&lt;/g1&gt; field and DEBITNOTE in the &lt;g2&gt;Purchase debit note&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na záložce Ostatní je potřeba správně vyplnit pole &lt;g1&gt;XML schéma&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114423Z" creationid="kunes" creationdate="20220421T114423Z">
+        <seg>On the Other tab, it is necessary to fill in the &lt;g1&gt;XML schema&lt;/g1&gt; field correctly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,6 +7310,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vyplnění řádků výkazu spusťte funkci  &lt;g1&gt;Naplň řádky výkazu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114744Z" creationid="kunes" creationdate="20220421T114744Z">
+        <seg>To fill the statement lines, run the &lt;g1&gt;Fill report lines&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vytvořený záznam doplňte Kód měny (místní) určující měnu, ve které se podává přiznání k DPH ve vybrané zemi.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115258Z" creationid="kunes" creationdate="20220419T115258Z">
@@ -7338,6 +7370,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102444Z" creationid="kunes" creationdate="20220421T102444Z">
         <seg>To ensure this requirement, the standard functionality of accounting schemes is used in D365 BC and extended by additional adjustments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro založení nového Kontrolního výkazu zvolte funkci &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114357Z" creationid="kunes" creationdate="20220421T114357Z">
+        <seg>To create a new Control Report, choose the &lt;g1&gt;New&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9774,6 +9814,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115310Z" creationid="kunes" creationdate="20220420T115310Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Factoring List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled kontrolních výkazů DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T114352Z" creationid="kunes" creationdate="20220421T114320Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Check Report List&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
