@@ -2037,8 +2037,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Import nespolehlivých plátců DPH z xml formátu&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220421T075720Z" creationid="kunes" creationdate="20220421T075720Z">
-        <seg>&lt;x1/&gt;IImport of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122007Z" creationid="kunes" creationdate="20220421T075720Z">
+        <seg>&lt;x1/&gt;Import of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5409,6 +5409,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení sekcí kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122029Z" creationid="kunes" creationdate="20220421T122029Z">
+        <seg>Setting the sections of the VAT Control Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení slouží pro mapování polí v aplikaci na uzly .xml.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123003Z" creationid="kunes" creationdate="20220420T123003Z">
@@ -5545,6 +5553,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení řádků výkazu DPH - rozšíření</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121905Z" creationid="kunes" creationdate="20220421T121905Z">
+        <seg>VAT report line settings - extensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -5589,6 +5605,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105422Z" creationid="kunes" creationdate="20220419T105422Z">
         <seg>Set up a company as a VAT payer in another EU country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavte kódy sekcí dle platných nařízení pro vykazování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122115Z" creationid="kunes" creationdate="20220421T122115Z">
+        <seg>Set up section codes according to applicable reporting regulations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7470,6 +7494,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vykazování přijatých zjednodušených faktur je potřeba nastavit &lt;g1&gt;Kód sekce pod limit&lt;/g1&gt; a &lt;g2&gt;Kód sekce nad limit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122150Z" creationid="kunes" creationdate="20220421T122150Z">
+        <seg>To report received simplified invoices, you need to set the &lt;g1&gt;Section Code Below Limit&lt;/g1&gt; and &lt;g2&gt;Section Code Above Limit&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vyplnění řádků výkazu spusťte funkci  &lt;g1&gt;Naplň řádky výkazu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114744Z" creationid="kunes" creationdate="20220421T114744Z">
@@ -7530,6 +7562,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132921Z" creationid="kunes" creationdate="20220420T132921Z">
         <seg>To ensure proper VAT reporting, you need to set up fields in the VAT statement lines:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zajištění správného vykazování Kontrolního výkazu DPH je potřeba nastavit pole v řádcích výkazu DPH:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121913Z" creationid="kunes" creationdate="20220421T121913Z">
+        <seg>To ensure the correct reporting of the VAT Control Report, it is necessary to set the fields in the lines of the VAT report:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8164,6 +8204,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112512Z" creationid="kunes" creationdate="20220411T112512Z">
         <seg>The process of ordering a collection is simple, it is done using the "Order collection" function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Sekce kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T121923Z" creationid="kunes" creationdate="20220421T121923Z">
+        <seg>VAT Control Report Section</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Sekce kontrolního výkazu DPH pro fyzické osoby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122003Z" creationid="kunes" creationdate="20220421T122003Z">
+        <seg>VAT Check Report Section for individuals</seg>
       </tuv>
     </tu>
     <tu>
@@ -10046,6 +10102,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125731Z" creationid="kunes" creationdate="20220420T125731Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;SK Calculate Depreciation&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Sekce kontrolního výkazu DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T122103Z" creationid="kunes" creationdate="20220421T122103Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Check Report Section&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
