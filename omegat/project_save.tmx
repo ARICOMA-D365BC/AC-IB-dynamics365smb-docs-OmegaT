@@ -4645,6 +4645,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Úpravy - Mapování souborů úč.schéma SK&lt;/g1&gt; v poli &lt;g2&gt;Typ mapování&lt;/g2&gt; vyberte hodnotu Xml.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T113745Z" creationid="kunes" creationdate="20220421T113745Z">
+        <seg>On the &lt;g1&gt;Edit - Acc. Schedule File Mapping SK&lt;/g1&gt; page, select Xml in the &lt;g2&gt;Mapping Type&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Účetní schémata&lt;/g1&gt; zvolte akci &lt;g2&gt;Proces&lt;/g2&gt; a pak funkci &lt;g3&gt;Upravit účetní schéma&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T104045Z" creationid="kunes" creationdate="20220421T104045Z">
