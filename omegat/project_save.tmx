@@ -3195,6 +3195,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Export Kontrolního výkazu DPH do XML</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115108Z" creationid="kunes" creationdate="20220421T115108Z">
+        <seg>Export the VAT Control Report to XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Export souboru pro Intrastat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123213Z" creationid="kunes" creationdate="20220420T123213Z">
@@ -4083,6 +4091,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kontrolní výkaz je nutné uzavřít až po kontrole údajů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115151Z" creationid="kunes" creationdate="20220421T115151Z">
+        <seg>The control report must be closed only after the data have been checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontroly a omezení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113427Z" creationid="kunes" creationdate="20220411T113427Z">
@@ -4359,6 +4375,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114414Z" creationid="kunes" creationdate="20220421T114414Z">
         <seg>On the VAT Control Report Card, fill in the appropriate fields on the header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na Kartě kontrolního výkazu DPH zvolte funkci &lt;g1&gt;Náhled&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115115Z" creationid="kunes" creationdate="20220421T115115Z">
+        <seg>On the VAT Control Statement card, choose the &lt;g1&gt;Preview&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na Kartě kontrolního výkazu DPH zvolte funkci &lt;g1&gt;Uzavřít&lt;/g1&gt; pro jeho uzavření.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115346Z" creationid="kunes" creationdate="20220421T115346Z">
+        <seg>Select the &lt;g1&gt;Close&lt;/g1&gt; function on the VAT Control report Card to close it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6135,6 +6167,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po dokončení úprav zavřete okno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115049Z" creationid="kunes" creationdate="20220421T115049Z">
+        <seg>When you are finished editing, close the window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po importu se na kartě &lt;g1&gt;XML schémata&lt;/g1&gt; objeví nový řádek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123840Z" creationid="kunes" creationdate="20220420T123840Z">
@@ -6227,6 +6267,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111128Z" creationid="kunes" creationdate="20220411T111128Z">
         <seg>Once the data has been edited, the user will use the &lt;g1&gt;For Collection&lt;/g1&gt; function and use the &lt;g2&gt;Print Labels&lt;/g2&gt; function to print the new label.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po uzavření formuláře položky v tabulce Položka DPH mají zaškrtnuté pole Uzavřeno pro kontrolní výkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115328Z" creationid="kunes" creationdate="20220421T115328Z">
+        <seg>When the form is closed, the entries in the VAT entry table the Closed box selected for the control report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po uzavření kontrolního výkazu systém zablokuje opětovné načítání dat do formuláře.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115158Z" creationid="kunes" creationdate="20220421T115158Z">
+        <seg>When the control report is closed, the system blocks the reloading of data into the form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6695,6 +6751,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Potvrďte  pomocí možnosti &lt;g1&gt;Ano&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115102Z" creationid="kunes" creationdate="20220421T115102Z">
+        <seg>Confirm with &lt;g1&gt;Yes&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Potvrďte pomocí &lt;g1&gt;OK&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122620Z" creationid="kunes" creationdate="20220420T122620Z">
@@ -6763,6 +6827,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130846Z" creationid="kunes" creationdate="20220411T130846Z">
         <seg>You can then close the page and run the Guided Wizard again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poté zvolte &lt;g1&gt;Export do XML&lt;/g1&gt; a dotaz systému potvrďte pomocí možnosti &lt;g2&gt;Ano&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115128Z" creationid="kunes" creationdate="20220421T115128Z">
+        <seg>Then choose &lt;g1&gt;Export to XML&lt;/g1&gt; and confirm the system query with &lt;g2&gt;Yes&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8486,6 +8558,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Systém se automaticky zeptá, zda požadujete Přepočítat součtové řádky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115058Z" creationid="kunes" creationdate="20220421T115058Z">
+        <seg>The system will automatically ask if you want to recalculate the total rows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>TNT</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -8946,6 +9026,22 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110531Z" creationid="kunes" creationdate="20220411T110531Z">
         <seg>You can edit shipments only if they are in the &lt;g1&gt;New&lt;/g1&gt; status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uzavření Kontrolního výkazu DPH</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115133Z" creationid="kunes" creationdate="20220421T115133Z">
+        <seg>Closing the VAT Control Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uzavřený formulář není možné vymazat ze seznamu vygenerovaných KV.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115224Z" creationid="kunes" creationdate="20220421T115224Z">
+        <seg>Uzavřený formulář není možné vymazat ze seznamu vygenerovaných CHR.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,6 +11582,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |-|-|
 |&lt;g1&gt;Shipment Parameters&lt;/g1&gt;|Shipment Parameters Selectable.|
 |&lt;g2&gt;Attached documents&lt;/g2&gt;|In the Attached documents subpage it is possible to see all delivery notes or invoices that have been inserted in one shipment (only functional when the shipment is sent to one address).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Údaje vygenerované před jeho uzavřením už není možno změnit ani doplnit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T115209Z" creationid="kunes" creationdate="20220421T115209Z">
+        <seg>The data generated before its closure can no longer be changed or added.</seg>
       </tuv>
     </tu>
     <tu>
