@@ -3559,6 +3559,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Institut nespolehlivosti plátce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T083822Z" creationid="kunes" creationdate="20220421T083822Z">
+        <seg>Institut nespolehlivosti plátce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Integrační služba</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124815Z" creationid="kunes" creationdate="20220411T124815Z">
