@@ -68,9 +68,9 @@ The basic step of the shipment creation process is the sales order. he data from
 - Payment method code (if COD), variable symbol.
 - Your references (if your customer requires a label, e.g.: your order number).
 
-Business Central will not release a receipt if the phone number and/or email is not filled in! (See check settings).
-If no shipping angent is selected on the order, the check to release the document (phone number and email is disabled).
-### Optional field to be entered before the document is released
+Business Central will not issue a receipt if the phone number and/or email is not filled in! (See check settings).
+If no shipping angent is selected on the order, the check to issue the document (phone number and email is disabled).
+### Optional field to be entered before the document is issued
 The user can already enter optional shipment parameters in the sales order. The **Shipment Parameters** infomation panel on the sales order tab is used to enter them. The insert button opens a window with parameters from the settings, which can be added as required. These can be for example:
 - Checking the age of the addressee
 - Driver contact
@@ -164,7 +164,7 @@ If you want to view individual shipment statuses from the shipper, use the **Tra
 
 ## Controls and restrictions
 
-- If the Shipping agent Code and Shipping agent Service Code fields are filled out on the sales order, you must enter the recipient's phone number and email. If the fields are not filled in the receipt cannot be released.
+- If the Shipping agent Code and Shipping agent Service Code fields are filled out on the sales order, you must enter the recipient's phone number and email. If the fields are not filled in the receipt cannot be issued.
 - When entering data on the shipment card (automatically by retrieving codes or manually) there is a **Check Data** function on the shipment card. After running it, you will be informed if the information transmitted is correct.
 - One shipping point can be assigned to one location. A 1:1 relationship is created.
 

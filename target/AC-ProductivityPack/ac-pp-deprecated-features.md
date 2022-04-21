@@ -23,7 +23,7 @@ With this functionality it was possible
 - Text 1
 - Text 2
 
-| Moved, Deleted or Replaced? | Proč? | When? |
+| Moved, Deleted or Replaced? | Why? | When? |
 |----|----|----|
 | Deleted | Důvod proč je smázáno | from version BC15 |
 

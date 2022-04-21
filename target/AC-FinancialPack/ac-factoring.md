@@ -13,51 +13,51 @@ ms.author: AC MartinKunes
 ---
 # Factoring
 
-Add-on modul Faktoring rozšiřuje možnosti oblasti Správa financí systému Dynamics 365 Business Central o možnost evidence a účtování postoupení pohledávek a vytváření faktoringových smluv. Je podporována i varianta regresního faktoringu, kdy faktor může pohledávku/závazek vrátit.
+The Factoring add-on module extends the capabilities of the Finance Management area of the Dynamics 365 Business Central system with the possibility of recording and accounting for assignments of receivables and creating factoring contracts. The regression factoring variant is also supported, where the factor can return the receivable/liability.
 
-Funkčnost add-on modulu je integrovaná s add-on modulem Napojení na MS Word. Využitím této integrace lze na základě definovaných šablon vytvářet faktoringové smlouvy ze systému Dynamics 365 Business Central do dokumentů Microsoft Word.
+The functionality of the add-on module is integrated with the add-on module Connection to MS Word. By using this integration, you can create factoring contracts from Dynamics 365 Business Central to Microsoft Word documents based on defined templates.
 
-## Pořízení dokladu faktoringu
+## Setting up of a factoring document
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled faktoringů** a poté vyberte související odkaz.
-2. Na přehledu klikněte na tlačítko **Nový**.
-3. Na kartě dokladu Faktoringu do hlavičky doplťe informaci o **zákazníkovi** a **zúčtovací datum**.
-4. Konkrétní položky/závazky, které mají být podstoupeny, lze vybrat pomocí polí **Typ položky** a **Číslo položky**. Pokud se jedná o regresivní faktoring, faktor může pohledávku/závazek vrátit, musí být zaškrtnuto pole **Regresní faktoring** na řádku dokladu.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Factoring List** and then choose the related link.
+2. On the list, click **New**.
+3. Fill in the **Customer** and **Posting date** information in the header on the Factoring document tab.
+4. You can select the specific items/payables to be undertaken by using **Item type** and **Item number** fields. If it is regressive factoring, the factor can return the receivable/payables, the **Regression factoring** field on the document line must be checked.
 
-![Karta fakctoringu](media/faktoring_card.png)
+![Fakctoring card](media/faktoring_card.png)
 
-## Zaúčtování faktoringu
-Pro zaúčtování faktoringu postupujte následujícím způsobem:
+## Faktoring posting
+To post factoring, follow these steps:
 
-1. Před zaúčtováním dokladu faktoringu je doklad třeba **vydat**.
-2. Pro zaúčtování použijte funkci **Účtování**.
-3. Zaúčtováním dokladu vznikne doklad **Zaúčtovaný faktoring**.
+1. Before you can post a factoring document, you must **Issue** the document.
+2. Use the **Posting** feature to post.
+3. Posting the document creates the **Posted Factoring** document.
 
-Řádky dokladu Zaúčtovaný faktoring jsou rozděleny **do tří záložek**:
-- **Pohledávky** – postoupené položky.
-- **Faktoring pohledávky** – nově vzniklé položky zákazníka k faktorovi.
+Posted factoring document lines are divided into **three tabs**:
+- **Receivables** - Assigned items.
+- **Receivable factoring** - newly created customer items to the factor.
 - **Platby** – položky typu platba, které vyrovnávají faktoringové pohledávky.
 
-![Záložky faktoringu](media/faktoring_lines.png)
+![Factoring tabs](media/faktoring_lines.png)
 
-Účtováním faktoringu jsou uzavřeny původní položky zákazníka/dodavatele a k faktorovi jsou zaúčtovány nové pohledávky.
+By posting factoring, the original customer/vendor entries are closed and new receivables are posted to the factor.
 
-Finanční účtování je určeno **Účto skupinou faktoringu** z Nastavení faktoringu:
+Financial posting is determined by the **Factoring Posting Group** from Factoring Settings:
 
-![Položky zákazníka](media/faktoring_customer_entries.png)
+![Cust. Ledger Entry](media/faktoring_customer_entries.png)
 
-Pokud je v Nastavení faktoringu zapnuté **Přeúčtovat původní položku**, vznikne u původního zákazníka/dodavatele nová zákaznická/dodavatelská položka. Ta umožňuje sledovat saldo původních zákazníků/dodavatelů včetně postoupených dokladů. Finanční účtování je určeno **Účto skupinou přeúčtování** z Nastavení faktoringu. V Nastavení účto skupin zákazníka by pro tuto účto skupinu měl být nastaven podrozvahový účet. Podrozvahová položka je uzavřena v okamžiku uzavření faktoringové pohledávky.
+If  **Orig. Entry Advanced Posting**, is turned on in Factoring Settings, a new customer/vendor item is created for the original customer/vendor. This allows you to monitor the balance of the original customers / vendors, including the transferred documents. Financial posting is determined by  **Adv. Posting Group** from Factoring Settings. In the Customer posting group settings, a off-balance sheet account should be set up for this posting group. The off-balance-sheet item is closed at the time of the conclusion of the factoring receivable.
 
-## Vrácení faktoringové pohledávky
-Pokud se jedná o regresní faktoring (faktor může pohledávku vrátit) musí být doklad zaúčtován se zaškrtnutým pole Regresní faktoring na řádku dokladu.
+## Return of factoring receivable
+If it is regression factoring (the factor can return the receivable), the document must be posted with the Regression factoring field checked on the document line.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účtovaný faktoring** a poté vyberte související odkaz.
-2. Vyberte zaúčtovaný doklad, který chcete zpracovat.
-3. Na kartě účtovaného faktoringu použijte funkci **Vrátit pohledávku faktoringu**
-   ![Vrácení faktoringu](media/faktoring_reverse.png)
-4. Po tomto příkazu systém odúčtuje nově vzniklou faktoringovou položku a naúčtuje ji zpět k zákazníkovi / dodavateli.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Posted Factoring list** and then choose the related link.
+2. Select the posted document that you want to process.
+3. On the page Posted Factoring List use the function **Return Factoring Receivable**
+   ![Refund factoring](media/faktoring_reverse.png)
+4. After this command, the system derecognises the newly created factoring item and charges it back to the customer / vendor.
 
 **See also**
 
-[Nastavení - Faktoring](ac-factoring-setup.md)  
+[Factoring Setup](ac-factoring-setup.md)  
 [Financial Pack](ac-finance-pack.md)

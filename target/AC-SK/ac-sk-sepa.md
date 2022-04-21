@@ -11,19 +11,19 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# SEPA Platby
+# SEPA Payments
 
-Pro zpracování příkazu pro úhradu či výpisu ve formátu SEPA je využita standartní funkčnost systému.
+For the processing of a payment order or statement in SEPA format, the standard functionality of the system is used.
 
-## Nastavení SEPA platebního styku:
+## SEPA payment settings:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení exportu/importu banky** a poté vyberte související odkaz.
-2. Zobrazí se stránka, která může obsahovat seznam již nastavených importů a exportů.
-3. Pokud chcete správně nastavit import a export ve formátu SEPA, tato stránka musí obsahovat řádky zobrazené na obrázku níže.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Bank Export/Import Setup** and then choose the related link.
+2. A page will appear, which may contain a list of already set imports and exports.
+3. If you want to properly set up import and export in SEPA format, this page must contain the lines shown in the image below.
 
-![Nastavení SEPA](media/SEPA.png)
+![SEPA Settings](media/SEPA.png)
 
-4. Pokud chcete nastavit formát exportu na konkrétním bankovním účtu, přejděte na kartu bankovního účtu a nastavte potřebné hodnoty v polích **Formát exportu zahraničních karet** a **Formát importu plateb** na záložce **Transfer**.
+4. If you want to set the export format on a specific bank account, go to the bank account card and set the required values ​​in the fields **Foreign Payment Export Format** and **Payment Export Format** on the **Transfer** tab.
 
 ## See also
 

@@ -23,7 +23,7 @@ Na stránce **Nastavení reklamací** je třeba v záložce **Číslování** vy
 
 Číselnou řadu si musíme připravit, pokud jsme tak ještě neudělali. Číselná řada se tvoří stejným způsobem jako pro jiné agendy:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Číselná řada** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
 2. Na stránce **Číselná řada** klikněte na funkci **Nový** a vytvořte novou číselnou řadu.
 3. Zadejte **Kód**, **Popis** a **Počáteční číslo** číselné řady.
 4. Zaškrtněte políčko **Výchozí čísla** pro automatické vyplňovaní čísel při zadávaní nových požadavků.

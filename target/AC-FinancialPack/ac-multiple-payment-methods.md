@@ -30,7 +30,7 @@ It is possible to use all three counter-account options included in the localiza
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Sales Invoices** and then choose the related link.
 2. Create a new sales invoice according to your conventions.
-3. On the **Sales Invoice** page, choose **Release** and then run **Payment Schedule** function.
+3. On the **Sales Invoice** page, choose **Issue** and then run **Payment Schedule** function.
 4. Enter the amount of cash you received from the customer.
 5. In the next step, enter other methods of payment and the amount paid in that way in the lines.
 6. In the Return Cash Amt. (LCY) field, determine the amount that you should return to the customer.
@@ -84,7 +84,7 @@ It is a relatively common practice that the preferred or allowed payment method 
 9. Run the New action to create a new document.
 10. On the Sales Invoice page, enter the customer (see above)
 11. Enter at least one invoice line.
-12. On the Sales invoice page, start the release function.
+12. On the Sales invoice page, start the issue function.
 
 
 ## EET records directly from the Payment Schedule
@@ -96,7 +96,7 @@ If Enable EET registration is enabled, the Register EET action is available on t
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Multiple Payment Methods Setup** and then choose the related link.
 2. Verify that the Enable EET registration option is enabled.
 3. Create a new sales invoice according to your conventions.
-4. On the Sales Invoice page, run the Release action and then run the Payment Schedule function.
+4. On the Sales Invoice page, run the issue action and then run the Payment Schedule function.
 5. Enter the amount of cash you received from the customer.
 6. In the next step, enter other methods of payment and the amount paid in that way in the lines.
 7. Start the Register EET action.

@@ -11,25 +11,25 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Daňové odpisy
+# Tax depreciation
 
-Podle Zákona o dani z príjmov č. 595/2003 Z. z  může daňovník uplatnit roční odpisy v prvním roce odepisování jen ve výši odpovídající počtu kalendářních měsíců, ve kterých se majetek využíval na zabezpečení příjmů.
+According to the Income Tax Act No. 595/2003 Coll., a taxpayer may apply annual depreciation in the first year of depreciation only in an amount corresponding to the number of calendar months in which the property was used to secure income.
 
-## Nastavení krácení odpisů v 1. roce
+## Depreciation reduction setting in the 1st year
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení DM** a poté vyberte související odkaz.
-2. Zaškrtněte pole **Krácení odpisů v 1.roce**.
-3. Potvrďte pomocí **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Fixed Asset Setup** and then choose the related link.
+2. Check the box **Depreciation Reduction First Year**.
+3. Confirm with **OK**.
 
-## Výpočet odpisů
+## Calculation of depreciation
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **SK výpočet odpisů** a poté vyberte související odkaz.
-2. Do polí zobrazeného okna zadejte parametry pro odepisování.
-   Neaktivujte pole **Použít počet dní platnosti** a nezadávejte hodnotu do pole **Počet dní platnosti**.
-3. Potvrďte pomocí **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **SK Calculate Depreciation** and then choose the related link.
+2. In the fields of the window that appears, enter the parameters for depreciation.
+   Do not activate the **Use Force No. of Days** field, and do not enter a value in the **Force No. of Days**.
+3. Confirm with **OK**.
 
 > [!NOTE]
-> Na **Kartě DM** v daňové **Knize odpisů DM** zadejte do pole **Počáteční datum odepisování** vždy první den v měsíci.
+> On the **FA card** in tax **FA Depreciation Books** enter the first day of the month in the **Starting date of depreciation** field.
 
 ## See also
 

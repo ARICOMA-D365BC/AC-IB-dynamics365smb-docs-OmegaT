@@ -15,53 +15,53 @@ ms.author: v-makune
 
 Pro zajištění správné funkčnosti je potřeba nastavit několik níže uvedených oblastí.
 
-## Nastavení financí
+## General Ledger Setup
 
-Pro aktivování slovenských funkčností využijte následující postup:
+To activate Slovak functionality, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na kartě **Nastavení financí** je nutné vybrat do pole **Legislativa** hodnotu **SK**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the **General Ledger Setup** page you must select**SK** in **Legislation**field.
+3. Confirm with the **OK** button.
 
-## Nastavení XML schémat
+## Setting up XML schemas
 
 XML schéma ke Kontrolnímu výkazu DPH je potřebné do aplikace naimportovat do XML schémat.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **XML schémata** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **XML Schemas** and then choose the related link.
 2. Na stránce **XML schémata** vyberte akci **Načíst schéma**.
-3. Otevře se vám okno pro import, kde vyberete příslušný XML soubor.
+3. An import window will open where you select the appropriate XML file.
 4. Po import se na kartě **XML schémata** objeví nový řádek.
 5. Do pole SML portID vyberte hodnotu **52068871** -platná od 1.1.2020.
 6. do pole **Přiřazeno legislativě** vyberte hodnotu **SK**.
-7. Potvrďte pomocí tlačítka **OK**.
+7. Confirm with the **OK** button.
 
 
 ## Nastavení řádků výkazu DPH - rozšíření
 
 Pro zajištění správného vykazování Kontrolního výkazu DPH je potřeba nastavit pole v řádcích výkazu DPH:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Výkazy DPH** a poté vyberte související odkaz.
-2. Pro jednotlivé řádky výkazu DPH definujte pole:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Statements** and then choose the related link.
+2. For each line in the sales tax statement, define the following fields:
 
-- Filtr kódu původu
-- Typ dokladu
-- Filtr typu dokladu
+- Source Code filter
+- Document type
+- Document type filter
 - Sekce kontrolního výkazu DPH
 - Sekce kontrolního výkazu DPH pro fyzické osoby
 
-![Import nespolehlivých plátců DPH z xml formátu](media/VAT_check_report.png)
+![IImport of unreliable VAT payers from xml format](media/VAT_check_report.png)
 
-3. Potvrďte pomocí tlačítka **OK**.
+3. Confirm with the **OK** button.
 
 ## Nastavení sekcí kontrolního výkazu DPH
 
-Pro nastavení využijte následující postup:
+Use the following procedure to set up:
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Sekce kontrolního výkazu DPH** a poté vyberte související odkaz.
 2. Nastavte kódy sekcí dle platných nařízení pro vykazování.
 3. Pro vykazování přijatých zjednodušených faktur je potřeba nastavit **Kód sekce pod limit** a **Kód sekce nad limit**. Zároveň se vyplní i pole **Limit částky DPH** a **Platnost limitu od**.
 
-![Import nespolehlivých plátců DPH z xml formátu](media/VAT_check_report_section.png)
+![IImport of unreliable VAT payers from xml format](media/VAT_check_report_section.png)
 
 ## Nastavení sloupců sekcí kontrolního výkazu DPH
 

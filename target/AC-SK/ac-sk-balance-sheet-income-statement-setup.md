@@ -24,8 +24,8 @@ Pole **Přiřazeno legislativě** v přehledu účetních schémat slouží pro 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Účetní schémata** a poté vyberte související odkaz.
 2. Ve sloupci **Přiřazeno legislativě** vyberte **SK** pro slovenské statutární výkazy.
 
-Příklad můžete vidět na obrázku níže:
-![Import nespolehlivých plátců DPH z xml formátu](media/account_schedules.png)
+You can see an example in the picture below:
+![Import of unreliable VAT payers from xml format](media/account_schedules.png)
 
 ## Mapování souborů účetních schémat
 
@@ -37,8 +37,8 @@ Pro jednotlivé buňky účetního schématu je potřeba nastavit příslušné 
 4. Na stránce **Úpravy - Mapování souborů úč.schéma SK** v poli **Typ mapování** vyberte hodnotu Xml. Do polí účetního schématu zadejte odpovídající hodnoty elementů podle technických požadavků šablony xml.
 5. Po úpravách kartu zavřete.
 
-Příklad můžete vidět na obrázku níže:
-![Import nespolehlivých plátců DPH z xml formátu](media/XML_mapping.png)
+You can see an example in the picture below:
+![Import of unreliable VAT payers from xml format](media/XML_mapping.png)
 
 ## See also
 

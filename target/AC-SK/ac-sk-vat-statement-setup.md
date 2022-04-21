@@ -11,99 +11,99 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Výkaz DPH - nastavení
+# VAT Statements - Setup
 
-Pro generování výkazu DPH je využita standardní funkčnost systému. Tato funkčnost byla upravena o specifika slovenského vykazování.
+The standard functionality of the system is used to generate the VAT statement. This functionality has been modified by the specifics of Slovak reporting.
 
-Pro zajištění správné kalkulace částek Výkazu DPH a exportu do požadované struktury XML dle slovenské legislativy, je potřeba nastavit několik níže uvedených oblastí.
+To ensure the correct calculation of the amounts of the VAT Statement and export to the required XML structure according to Slovak legislation, it is necessary to set up several areas listed below.
 
-## Nastavení financí
+## General Ledger Setup
 
-Pro aktivování slovenských funkčností využijte následující postup:
+To activate Slovak functionality, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na kartě **Nastavení financí** je nutné vybrat do pole **Legislativa** hodnotu **SK**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the **General Ledger Setup** page you must select**SK** in **Legislation**field.
+3. Confirm with the **OK** button.
 
-## Nastavení XML schémat
+## Setting up XML schemas
 
-Do XML schémat naimportujte aktuální šablonu XML schématu dle následujícího postupu:
+Import the current XML schema template into the XML schemas by following these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **XML schémata** a poté vyberte související odkaz.
-2. Na stránce **XML schémata** v sekci **Proces** vyberte akci **Načíst schéma**.
-3. Otevře se vám okno pro import, kde vyberete příslušný XML soubor.
-4. Po importu se na kartě **XML schémata** objeví nový řádek.
-5. V příslušném řádku pro každé XML vyberte správné číslo ve sloupci SML portID.
-   Pro Výkaz DPH od roku 2018 to je **52068861**, pro Výkaz DPH do roku 2017 to je **52068860**, pro Kontrolní výkaz DPH **52068903** a pro Souhrnný Výkaz to je **52068870**.
-6. V poli **Přiřazeno legislativě** vyberte hodnotu **SK**.
-7. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **XML Schemas** and then choose the related link.
+2. On the **XML Schemas** page, in the **Actions** section, select the **Load Schema**action.
+3. An import window will open where you select the appropriate XML file.
+4. After import, a new line appears on the **XML Schemas**.
+5. In the appropriate row for each XML, select the correct number in the SML portID column.
+   For VAT Report from 2018 it is **52068861**, for VAT Report until 2017 it is **52068860**, for VAT Control Report **52068903** nd for Summary Report that is **52068870**.
+6. In the **Assigned to legislation** field, select **SK**.
+7. Confirm with the **OK** button.
 
-## Nastavení šablon výkazu DPH
+## VAT Statement template settings
 
-Pro nastavení využijte následující postup:
+Use the following procedure to set up:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony výkazu DPH** a poté vyberte související odkaz.
-2. Na stránce **Šablony výkazu DPH** vyberte ve sloupci **Formát XML SK** možnost **Použij XML schéma**.
-3. Na stránce **Šablony výkazu DPH** zvolte sekci **Související**, potom **Šablona** a otevřete **Názvy výkazů**.
-4. Na stránce **DPH Výkaz DPH** vyberte pro každý řádek příslušné schéma, která bude použito při exportu – pole **XML schéma**.
-5. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Statement Templates** and then choose the related link.
+2. On the **VAT Statement Templates** page, select **Use XML Schema** in the **XML SK Format** column.
+3. On the **VAT Report Templates** page, select the **Related**section, then the **Template** section and open the **Report Names**.
+4. On the **VAT Statement** page, select the appropriate schema for each line that will be used when you export the **XML Schema** field.
+5. Confirm with the **OK** button.
 
-Příklad můžete vidět na obrázku níže:
-![Import nespolehlivých plátců DPH z xml formátu](media/VAT_statement-template.png)
+You can see an example in the picture below:
+![Import of unreliable VAT payers from xml format](media/VAT_statement-template.png)
 
-## Nastavení řádků výkazu DPH
+## Set up VAT Statement lines
 
-Pro zajištění správného vykazování DPH je potřeba nastavit pole v řádcích výkazu DPH:
+To ensure proper VAT reporting, you need to set up fields in the VAT statement lines:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Výkazy DPH** a poté vyberte související odkaz.
-2. Pro jednotlivé řádky výkazu DPH definujte pole:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Statements** and then choose the related link.
+2. For each line in the sales tax statement, define the following fields:
 
-- Filtr kódu původu
-- Typ dokladu
-- Filtr typu dokladu
-- ID elementu XML schématu - vyplěním bude automaticky vyplněn i Kód atributu DPH
+- Source Code filter
+- Document type
+- Document type filter
+- XML schema element ID - the VAT attribute code will be automatically filled in by the fill-in
 
-3. Potvrďte pomocí tlačítka **OK**.
+3. Confirm with the **OK** button.
 
-Příklad můžete vidět na obrázku níže:
-![Import nespolehlivých plátců DPH z xml formátu](media/VAT_statement.png)
+You can see an example in the picture below:
+![Import of unreliable VAT payers from xml format](media/VAT_statement.png)
 
-## Nastavení kódů původu pro interní opravní doklady
+## Set up source codes for internal corrective documents
 
-Pro nastavení využijte následující postup:
+Use the following procedure to set up:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení kódů původu** a poté vyberte související odkaz.
-2. Na záložce Prodej zadejte do pole **Prodejní interní dobropis** hodnotu INTCREDIT a do pole **Prodejní vrubopis** hodnotu DEBITNOTE. Hodnoty musí být nejdříve zadané v Kódech původu.
-3. Na záložce Nákup zadejte do pole **Nákupní interní dobropis** hodnotu INTCREDIT a do pole **Nákupní vrubopis** hodnotu DEBITNOTE. Hodnoty musí být nejdříve zadané v Kódech původu.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Source Code Setup** and then choose the related link.
+2. On the Sales FastTab, enter INTCREDIT in the **Sales internal credit memo** field and DEBITNOTE in the **Sales debit note** field. The values ​​must first be entered in the Source Codes
+3. On the Purchase FastTab, enter INTCREDIT in the **Purchase internal credit memo** field and DEBITNOTE in the **Purchase debit note** field. The values ​​must first be entered in the Source Codes
 
-![Import nespolehlivých plátců DPH z xml formátu](media/setup_source_code.png)
+![IImport of unreliable VAT payers from xml format](media/setup_source_code.png)
 
-## Nastavení tuzemského samozdanění
+## Setting up Domestic Self Assessment
 
-Pro nastavení komodit spadajících do režimu tuzemského samozdanění je využita standardní karta Čísla sazebníku.
-V Nastavení financí a Nastavení účtování DPH je možné aktivovat systémové kontroly při účtování těchto komodit.
+The standard Tariff Numbers tab is used to set up commodities that fall under the domestic self-taxation regime.
+In General ledger setup and VAT posting setup, you can enable system controls when you post these commodities.
 
-### Nastavení čísel sazebníku
+### Set up Tariff Numbers
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Čísla sazebníku** a poté vyberte související odkaz.
-2. Definujte jednotlivé kódy komodit a zaškrněte pro tyto kódy pole **Tuzemské samozdanění**.
-3. Pro kódy v režimu tuzemského samozdanění zadejte pole **Kód pro vykazování**.
-4. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Tariff Numbers** and then choose the related link.
+2. Define each commodity code and tick the **Domestic Self Assessment** field for these code.
+3. For codes in Domestic Self Assessment mode, enter the **Statement Code** field.
+4. Confirm with the **OK** button.
 
-### Nastavení financí - tuzemské samozdanění
+### General Ledger Setup - 	Domestic Self Assessment
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na kartě **Nastavení financí** definujte pole **Výše základu DPH pro tuzemské samozdanění** a **Datum platnosti DPH pro tuzemské samozdanění**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the **General Ledger Setup** define **tVAT Base for Domestic Self As.** and **Due Date of from Self Ass.** fields.
+3. Confirm with the **OK** button.
 
-### Nastavení účtování DPH - tuzemské samozdanění
+### VAT Posting Setup - Domestic Self Assessment
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení účtování DPH** a poté vyberte související odkaz.
-2. Na kartě **Nastavení účtování DPH** můžete nastavit kontroly pro tuzemské samozdanění na jednotlivých kombinacích DPH účtoskupin v poli **Kontrola PDP**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Posting Setup** and then choose the related link.
+2. On the **VAT posting setup** tab, you can set up checks for Domestic Self Assessment on individual combinations of VAT posting groups in the **Reverse Charge Check** field.
+3. Confirm with the **OK** button.
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)  
-[SK Legislativní balíček](ac-sk-legislative-pack.md)   
-[Výkaz DPH - export](ac-sk-vat-statement-export.md)
+[AUTOCONT Solutions](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)   
+[VAT Statement - Export](ac-sk-vat-statement-export.md)

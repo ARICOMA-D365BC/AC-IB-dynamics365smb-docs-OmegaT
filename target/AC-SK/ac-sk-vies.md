@@ -11,32 +11,32 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Souhrnný výkaz (VIES)
+# Summary Report (VIES)
 
-Na vytvoření Souhrnného výkazu je použita standartní funkcionalita.
+Standard functionality is used to create the Summary Report.
 
-Rozdíl oproti standardní funkčnosti je v struktuře souboru XML generovaném pro účely slovenského vykazování.
+The difference compared to the standard functionality is in the structure of the XML file generated for the purposes of Slovak reporting.
 
-## Nastavení financí
+## General Ledger Setup
 
-Pro aktivování slovenských funkčností využijte následující postup:
+To activate Slovak functionality, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na kartě **Nastavení financí** je nutné vybrat do pole **Legislativa** hodnotu **SK**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the **General Ledger Setup** page you must select**SK** in **Legislation**field.
+3. Confirm with the **OK** button.
 
-## Nastavení XML schémat
+## Setting up XML schemas
 
-Do XML schémat naimportujte aktuální šablonu XML schématu dle následujícího postupu:
+Import the current XML schema template into the XML schemas by following these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **XML schémata** a poté vyberte související odkaz.
-2. Na stránce **XML schémata** v sekci **Proces** vyberte akci **Načíst schéma**.
-3. Otevře se vám okno pro import, kde vyberete příslušný XML soubor.
-4. Po importu se na kartě **XML schémata** objeví nový řádek.
-5. V příslušném řádku pro každé XML vyberte správné číslo ve sloupci SML portID.
-   Souhrnný Výkaz to je **52068870**.
-6. V poli **Přiřazeno legislativě** vyberte hodnotu **SK**.
-7. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **XML Schemas** and then choose the related link.
+2. On the **XML Schemas** page, in the **Actions** section, select the **Load Schema**action.
+3. An import window will open where you select the appropriate XML file.
+4. After import, a new line appears on the **XML Schemas**.
+5. In the appropriate row for each XML, select the correct number in the SML portID column.
+   The Summary Report is **52068870**.
+6. In the **Assigned to legislation** field, select **SK**.
+7. Confirm with the **OK** button.
 
 ## See also
 

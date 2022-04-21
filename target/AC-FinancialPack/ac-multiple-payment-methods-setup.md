@@ -47,7 +47,7 @@ Přiřazením Kódu platebního místa na způsobu platby docílíte větší ko
 
 Description of individual parameters:
 - **Enable Multiple Cash Operation Types** – allows you to define multiple payment methods with the same cash transaction type and for the same payment location.  It is necessary if you want to allow, for example, to accept foreign currency at POS.
-- **Check Payment Method On Sales Documents** – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Release action). If everything is set correctly, the system will change the Payment Method on the document, otherwise the system will display an error message.
+- **Check Payment Method On Sales Documents** – this can be used to set the system to check if the corresponding Payment Method is used (i.e. with the same Payment Point assigned as the one set by the user who initiated the Issue action). If everything is set correctly, the system will change the Payment Method on the document, otherwise the system will display an error message.
 - **Check Payment Method On Purchase Documents** dtto, but for purchase documents.
 - **Allow EET Register** – enables checking that only rows in the Payment Schedule can be used that have the EET Cash Register Code column set.
 - **Check Fiscal Printer** – this setting enables the enforcement of the use of the integration functionality with the so-called Fiscal Printers, their use is mandatory in the legislative environment of the Slovak Republic (see [Fiscal Printers](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-fiscal-printers.html)).

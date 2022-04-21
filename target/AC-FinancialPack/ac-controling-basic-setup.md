@@ -11,264 +11,263 @@ ms.search.keywords: Controling basic, finance
 ms.date: 01/31/2021
 ms.author: AC MartinKunes
 ---
-# Sada rozšíření pro Finance - Nastavení
-> Aktualizace: 01.02.2022
+# Application extension set - Settings
+> Update: 03.03.2022
 ## Nastavení kontroly CREDITCHECK
-### Nastavení kontroly CreditCheck
+### CreditCheck settings
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení služby CreditCheck** a poté vyberte související odkaz.
-2. Spusťte funkci **Nastavit výchozí webovou službu**, která naplní URL služby.
-3. Službu spustíte pomocí tlačítka **Povoleno**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **CreditCheck Settings** and then choose the related link.
+2. Start the **Set Default Web Service** feature, which populates the service URL.
+3. Use the **Enabled** button to start the service.
 
-![Nastavení služby CreditCheck](media/credit_check-setup.png)
+![CreditCheck - setup](media/credit_check-setup.png)
+
+> If your company does not use [Contacts], you must turn on **Do not use contacts for CreditCheck**. Then, when downloading data from CrediCheck, the fields "**CreditCheck status**" on the customer's card will be filled directly.
+
+### Update creditworthiness information
+
+You can update manually as needed or let the system update at regular intervals.
+
+To set up automatically, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **CreditCheck Settings** and then choose the related link.
+2. Set the **Automatic Update** flag.
 
 > [!NOTE]
-> Pokud vaše firma nepoužívá Kontakty, je třeba zapnout **Nepoužívat kontakty pro CreditCheck**. Pak se při stažení dat z CrediChecku budou plnit přímo pole „**Stav CreditCheck**“ na kartě zákazníka, dodavatele.
+> The created job queue entry is set to run at 6:00 AM on weekdays by default.
 
-### Aktualizace informací o bonitě
+To perform a manual update, use the CreditCheck Status Update feature as follows:
 
-Aktualizaci je možné provádět manuálně dle potřeby nebo nechat systém provádět aktualizaci v pravidelných intervalech.
-
-Pro automatické nastavení postupujte takto:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení služby CreditCheck** a poté vyberte související odkaz.
-2. Nastavte příznak **Automatická aktualizace**.
-
-> [!NOTE]
-> Vytvořená položka fronty úloh je ve výchozím stavu nastavena na spouštění v 6:00 v pracovní dny.
-
-Manuální aktualizaci provedete pomocí funkce Aktualizace stavu CreditCheck takto:
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Aktualizace stavu CreditCheck** a poté vyberte související odkaz.
-2. Službu spustíte pomocí tlačítka Ok.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **CreditCheck Status Update** and then choose the related link.
+2. Press Ok to start the service.
 
 ### User setup
 
-V nastavení uživatelů na záložce Obecné je nový boolean „**Povolit změnu stavu CreditCheck**“, který po-kud jej má uživatel zaškrtnut, pak mu umožní zrušit naimportovaný stav.
+In the user settings on the General tab, there is a new boolean **Allow change of CreditCheck status**, which, if the user has it checked, then allows him to cancel the imported status.
 
-### Nastavení a aktualizace webových zdrojů
+### Web resources settings and updates
 
-V nastavení kontroly CreditCheck je možné zapnout aktualizaci vytváření webových zdrojů pro všechny kontakty s vyplněným IČ.
+In the CreditCheck settings, it is possible to turn on the update of web feed creation for all contacts with a completed ID.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení služby CreditCheck** a poté vyberte související odkaz. **
-2. Nastavte příznak **Aut. aktualizace webových zdrojů.
-
-> [!NOTE]
-> Vytváření webových zdrojů pro placený výpis je možné pomocí **Aut. aktualizace webových zdrojů - Plný**, ovšem pouze pokud je vyplněno pole **Přístupový kód**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **CreditCheck Settings** and then choose the related link. **
+2. Auto flag. web resource updates**.
 
 > [!NOTE]
-> Vytvořená položka fronty úloh je ve výchozím stavu nastavena na spouštění v 6:00 v pracovní dny.
+> Creating web feeds for a paid statement is possible using **Aut. update web feeds - Full**, but only if the **Access code** field is filled.
 
-## Nastavení Hierarchického návrhu prodejních cen
+> [!NOTE]
+> The created job queue entry is set to run at 6:00 AM on weekdays by default.
 
-### Nastavení prodeje a pohledávek
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení prodeje a pohledávek** a poté vyberte související odkaz.
+## Setting the Hierarchy proposal of sales prices
+
+### Sales and receivables setup
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Sales & Receivables Setup** and then choose the related link.
 > [!TIP]
-> Nastavení závisí na používané verzi. Ve verzi BC17 pro zapnutí zvolte **Hierarchický návrh cen povolen**.
+> The settings depend on the version you are using. In BC17, select **<Hierarchical pricing enabled** to enable it.
 
-![Hierarchický návrh cen povolen](media/Hierarchical_price_setup.png)
-
-> [!TIP]
-> Od verze BC18 doporučujeme používat zcela novou funkcionalitu pro cenotvorbu v BC.
-> Vyberte ikonu Žárovky, která otevře funkci Řekněte mi , zadejte **Správa funkcí** a poté vyberte související odkaz. Ověřte, že máte funkci **Aktualizace funkcí: Nové zkušenosti s cenami prodeje** povolenu pro všechny uživatele.
-
-## Nastavení kumulování plateb
-### Nastavení dodavatele pro kumulaci plateb
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Dodavatelé** a poté vyberte související odkaz.
-2. Otevřete kartu dodavatele pro kterého chcete povolit kumulaci plateb.
-3. Na stránce Karta dodavatele v záložce Platby nastavte **Kumulovat platby**.
-
-Nastavení parametrů kumulace na bankovním účtu
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Banky** a poté vyberte související odkaz.
-2. Otevřete kartu bankovního účtu pro který chcete nastavit kumulaci plateb.
-3. Na stránce Karta bankovního účtu v záložce Platební příkazy/Bankovní výpisy nastavte kumulaci plateb dle potřeby.
-
-### Možnosti nastavení kumulace plateb
-- Pole **Kumulovat platební příkazy** – zapíná/vypíná kumulaci
-- Pole **Kumulovat export podle variabilního symbolu** – kumulace se za VS
-- Pole **Kumulovat export podle konstantního symbolu** – kumuluje se za KS
-- Pole **Kumulovat export podle specifického symbolu** – kumuluje se za SS
-- Pole **Číselná řada variabilního symbolu** – pokud se nekumuluje dle VS, KS nebo SS, pak se do pole VS doplní číslo dle zde nastavené číselné řady (SS a KS se vezmou z prvního slučovaného řádku příkazu)
-- Pole **Popis kumulovaného řádku plat. příkazu** – popis pro vytvořený kumulovaný řádek
-
-## Nastavení kontroly registrace k DPH
-
-### Registrace k DPH na dokladech
-
-V Nastavení financí se zadává datumový vzorec, který systém použije (ve vztahu k pracovnímu datu) pro definici období, ve kterém upozorňuje uživatele na zastaralou informaci o registraci k DPH. Není-li pole Vzorec data kontroly DIČ na dokladech vyplněno, je upozorňování vypnuté.
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na stránce Nastavení financí v záložce Ostatní nastavte pole **Vzorec data kontroly DIČ na dokladech**.
-
-## Nastavení kontrol směnných kurzů
-### Kontrola správnosti při zadávání směnného kursu
-
-Na každé v systému definované cizí měně se dají nastavit horní a dolní limit hodnoty v lokální měně. Zvlášť výhodné je to u málo používaných měn, kdy je o to větší riziko chyby uživatele při zadávání kursu na dokladu, apod. Je-li pole s limitem na měně prázdný, kontrola se neprování.
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Měny** a poté vyberte související odkaz.
-2. Spusťte akci **Upravit**.
-3. Na stránce karta měny v záložce Obecné nastavte pole **Horní limit Částky vzt. sm.kurzu** a **Dolní limit Částky vzt. sm.kurzu**.
-
-
-### Kontrola existence směnného kursu
-
-V Nastavení financí se zadává datumový vzorec, který systém použije (ve vztahu k zúčtovacímu datu) pro definici období, ve kterém upozorňuje uživatele na neexistenci záznamu v tabulce směnných kurzů. Není-li pole Vzorec pro kontr.sm.kurzu na dokl. vyplněno, je upozorňování vypnuté.
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Spusťte akci **Upravit**.
-3. Na stránce Nastavení financí v záložce Ostatní nastavte pole **Vzorec pro kontr.sm.kurzu na dokl**.
-
-> [!NOTE]
-> Obvykle se nastavuje „-1D“ pro denní směnné kursy.
-
-## Nastavení vymáhání pohledávek
-### Druhy vymáhání
-
-Specifické typy vymáhání lze nastavit pomocí číselníku Druhy vymáhání:
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Druhy vymáhání** a poté vyberte související odkaz.
-2. Na stránce Druhy vymáhání zadejte kód pro nový záznam (např. „FACTORING“ pro rozlišení důvodu vzniku pohledávky). Tento můžete doplnit i upřesňujícím popisem v poli Popis.
-
-## Nastavení rozšíření číselné řady
-### Nastavení masky číselné řady
-
-Nové pole pro strukturu masky číselné řady bylo přidáno do tabulky číselné řady, kde uživatel definuje poziční strukturu čísla generovaného v této číselné řadě. Tato funkce umožňuje jednodušeji vytvářet nové číselné řady pro nový fiskální rok a snižuje množství chyb.
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Číselná řada** a poté vyberte související odkaz.
-2. V poli **Maska** nastavte kombinaci pevných a zástupných znaků ve formátu „**XXrrcccc**“
-   - XX – fixní část čísla; musí být velkými písmeny, délka není omezena (jen celková délka výsledného čísla)
-   - rr (popř. rrrr) – označení roku, které doplní generátor ze zadaného počátečního datumu
-   - cccc - variabilní část čísla; musí být malými písmeny, délka není omezena (jen celková délka výsledného čísla)
+![Hierarchical pricing allowed](media/Hierarchical_price_setup.png)
 
 > [!TIP]
-> Nastavíte-li masku „BVY1rrcccccc“, pak generátor spuštěný s počátečním datem 1.1.2021 vytvoří řádek číselné řady, kde Počáteční číslo bude „BVY121000001“ a Poslední číslo bude „BVY121999999“.
+> From BC18 onwards, we recommend using the brand new pricing functionality in BC.
+> Choose the [Lightbulb that opens the Tell Me feature.**Tell me what you want to do**, icon, enter <g4> Function Management</g4> and then choose the related link. Verify that you have the **Feature Updates: New Sales Pricing Experience feature** enabled for all users.
 
-### Nastavení návazností číselných řad
+## Payment cumulation settings
+### Vendor settings for payment accumulation
 
-Byla přidána nová tabulka Návaznost číselné řady.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Vendors** and then choose the related link.
+2. Open the vendor card for which you want to allow payment cumulation.
+3. On the Vendor Card page, on the Payments tab, set **Cumulate Payments**.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Číselná řada** a poté vyberte související odkaz.
-2. Vyberte akci **Návaznosti**.
-3. Dle určení číselné řady vyplňte některý ze sloupců:
+Setting the accumulation parameters on the bank account
 
-   - **Návazná číselná řada** – jaká číselná řada má být použita v navázané aktivitě, když má zdrojový dokument zadanou číselnou řadu: objednávka vytvořená z poptávky, objednávka vytvořená z hromadné objednávky
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Banks** and then choose the related link.
+2. Open the bank account tab for which you want to set up payment cumulation.
+3. On the Bank Account Card page, in the Payment Orders / Bank Statements tab, set the cumulation of payments as required.
 
-   - **Číselná řada účtování** – jaká číselná řada má být použita pro zaúčtovaný doklad, když má zdrojový dokument zadanou číselnou řadu: zaúčtovaný prodejní/nákupní/servisní doklad (faktura, dobropis), vydaná upomínka, vydané penále, účtovaná dodávka/příjemka skladu, účtovaná montážní zakázka, účtovaný příjem/výdej zásob, účtovaná obj. fyz. inventury
+### Payment cumulation settings:
+- **Cumulate payment orders field** – enables / disables cumulation
+- Field **Cumulate export according to variable symbol** – cumulation after VS
+- Field **Cumulate export according to constant symbol** – accumulates for KS
+- Field **Cumulate export according to specific symbol** – accumulates after SS
+- **Variable symbol number series field** – if it is not accumulated according to VS, KS or SS, then the number according to the number series set here is added to the VS field (SS and KS are taken from the first merged line of the command)
+- Field **Description of the accumulated payment order line** – description for the created cumulative line
 
-   - **Číselná řada dodávky** – jaká číselná řada má být použita pro účtovanou dodávku, když má zdrojový dokument zadanou číselnou řadu: účtovaná prodejní dodávka z prodejní objednávky nebo faktury, dodávka transferu z objednávky transferu
+## VAT registration check setup
 
-   - **Číselná řada příjemky** – jaká číselná řada má být použita pro účtovanou příjemku, když má zdrojový dokument zadanou číselnou řadu: účtovaná nákupní příjemka z nákupní objednávky nebo faktury, příjemka transferu z objednávky transferu.
+### VAT registration on documents
 
-   - **Číselná řada dodávky skladu** - jaká číselná řada má být použita pro dodávku ze skladu, když má zdrojový dokument zadanou číselnou řadu: dodávka ze skladu z objednávky prodejní/nákupní/transferu.
+In General ledger setup, a date formula is entered that the system uses (in relation to the work date) to define the period in which it notifies the user of outdated VAT registration information. If the VAT ID Check Date Formula field on documents is not filled in, notification is turned off.
 
-   - **Číselná řada příjemky skladu** - jaká číselná řada má být použita pro příjemku na sklad, když má zdrojový dokument zadanou číselnou řadu: příjemka na sklad z objednávky prodejní/nákupní/transferu.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the General ledger setup page, on the Other tab, set the **VAT ID check date formula field on documents**.
 
-## Nastavení zaokrouhlení dle způsobu úhrady
+## Exchange rate controls settings
+### Checking for correctness when entering the exchange rate
 
-Nastavení zaokrouhlení se provádí různě v závislosti na měně, jako je tomu u jiných podobných parametrů:
+The upper and lower limits of the value in the local currency can be set for each foreign currency defined in the system. This is especially advantageous for less used currencies, where there is an even greater risk of user error when entering the exchange rate on the document, etc. If the field with the currency limit is empty, the check is not performed.
 
-**Nastavení pro lokální měnu**
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Vyberte akci Nastavení zaokrouhlení faktur.
-3. Na stránce Nastavení zaokrouhlení faktur definujte nastavení zaokrouhlení pro všechny způsoby plateb, u kterých má být jiné nastavení než to výchozí z Nastavení financí.
-
-> [!NOTE]
-> Pohled je filtrován na prázdný Kód měny.
-
-**Nastavení pro cizí měny**
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Způsoby plateb** a poté vyberte související odkaz.
-2. Vyberte akci Nastavení zaokrouhlení faktur.
-3. Na stránce Nastavení zaokrouhlení faktur definujte nastavení zaokrouhlení pro cizí měny v kombinaci s vybraným způsobem platby, u kterých má být jiné nastavení než to výchozí z Karty měny.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Currencies** and then choose the related link.
+2. Run the **Edit** action.
+3. On the Currency tab page, on the General tab, set the **Rel.Exch.Rate Amt.  Upper Limit** and **Rel.Exch.Rate Amt. Lower Limit** fields.
 
 
-## Nastavení krácení odpočtu DPH
-### Nastavení účtování DPH
+### Checking for the existence of an exchange rate
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení účtování DPH** a poté vyberte související odkaz.
+In the Finance settings, you enter the date formula that the system will use (in relation to the settlement date) to define the period in which it notifies the user that there is no entry in the exchange rate table.  If the Ex.Rate Check DateForm. on Doc is not fulfiled, the notification is turned off.
 
-Pro kombinace DPH účto skupin, kde se bude řešit krácení vstupní DPH koeficientem, musí být nastaveno (kromě jiného):
-- Typ účtování koeficientu DPH
-- Koef.DPH účto skupiny zboží
-
-Dále musí být nastaveny nové kombinace stejné DPH obchodní účto skupiny a DPH účto skupiny zboží definované v poli „Koef.DPH účto skupiny zboží“ (viz výše) s Typem výpočtu DPH = Plná DPH
-
-Pro tyto kombinace musí být nastaveno (kromě jiného):
-- „Účet opravy neodčitatelné DPH“ – použije se jako protiúčet běžného nákupního účtu DPH při přeúčtování krácení odpočtu DPH koeficientem.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. Run the **Edit** action.
+3. On the Finance Settings page, set the **Ex.Rate Check DateForm. on Doc** field.
 
 > [!NOTE]
-> Nastavené kombinace DPH účto skupin s Typem výpočtu DPH = Plná DPH nevstupují do výkazu DPH.
+> "-1D" is usually set for daily exchange rates.
 
-![Nastavení účtování DHP](media/setup_vat.png)
+## Enforcement of receivables - settings
+### Enforcement methods
 
-### Nastavení zálohového koeficientu
+Specific types of recovery can be set using the Enforcement Methods:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. V poli Zálohový koeficient DPH" na záložce DPH nastavte hodnotu procenta platného pro aktuální účetní období.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Enforcement Methods** and then choose the related link.
+2. On the Enforcement Methods page, enter the code for the new record (eg "FACTORING" to distinguish the reason for the claim). You can also add a more detailed description in the Description field.
+
+## Setup of number series extensions
+### Number series mask settings
+
+A new field for the number series mask structure has been added to the number series table, where the user defines the positional structure of the number generated in this number series. This feature makes it easier to create new number series for a new fiscal year and reduces errors.
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
+2. In the **Mask**, set the combination of fixed and wildcards in the format "**XXrrcccc**".
+   - XX - fixed part of the number; must be in capital letters, length is not limited (only the total length of the final number).
+   - yyyy (or yyyy) - year designation, which is completed by the generator from the specified start date.
+   - cccc - variable part of a number; must be lowercase, length is not limited (only the total length of the final number)
+
+> [!TIP]
+> If you set the mask "BVY1rrcccccc", then the generator started with the starting date 1.1.2021 will create No. series Line, where the Starting No. will be "BVY121000001" and the Ending No. will be "BVY121999999".
+
+### Number Series Links Setup
+
+A new No. Series Link table has been added.
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
+2. Select the **Links** action.
+3. Fill in one of the columns according to the number series:
+
+   - **Linked No. Series** – which number series is to be used in the connected activity, when the source document has a specified number series: order created from demand, order created from bulk order
+
+   - **Posting No. Series** – which number range is to be used for the posted document when the source document has the specified number range: posted sales / purchase / service document (invoice, credit memo), issued reminder, issued penalties, charged delivery / warehouse receipt, posted assembly order, posted inventory receipt / issue, posted physical inventory volume
+
+   - **Shiping No. Series** – which number series is to be used for the posted delivery when the source document has the specified number range: billed sales delivery from the sales order or invoice, transfer delivery from the transfer order
+
+   - **Receiving No. Series** – which number range is to be used for the posted receipt when the source document has the specified number range: charged purchase receipt from the purchase order or invoice, transfer receipt from the transfer order.
+
+   - **Shiping Wh. No. Series** – which number range is to be used for delivery from the warehouse when the source document has the specified number range: delivery from the warehouse from the sales / purchase / transfer order.
+
+   - **Receiving Wh. No. Series** – which number series is to be used for the warehouse receipt when the source document has the specified number series: warehouse receipt from the sales / purchase / transfer order
+
+## Rounding setup according to the method of payment
+
+Rounding settings are made differently depending on the currency, as is the case with other similar parameters:
+
+**Local currency setup**
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. Select the Invoice Rounding Settings action.
+3. On the Invoice Rounding Setup page, define the rounding settings for all payment methods that should be set differently than the default from General ledger Setup.
+
+> [!NOTE]
+> The view is filtered to an empty currency code.
+
+**Foreign currency setup**
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Payment Method** and then choose the related link.
+2. Select the Invoice Rounding Settings action.
+3. On the Invoice Rounding Settings page, define the rounding settings for foreign currencies in combination with the selected payment method, for which the settings should be different from the default on the Currency Card.
 
 
-## Nastavení registrace k DPH ve více zemích
+## VAT deduct reduction setting
+### VAT Posting Setup
 
-### Více DIČ zákazníků
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Posting Setup** and then choose the related link.
+
+For combinations of VAT account groups, where the reduction of the input VAT coefficient will be solved, it must be set (among other things):
+- VAT Coeff. Posting Type
+- VAT Prod. Posting Group Coefficient
+
+In addition, new combinations of the same VAT business account group and VAT account of the goods group defined in the field "Coef.DPH account of the goods group" (see above) must be set with VAT calculation type = Full VAT
+
+The following must be set for these combinations (among other things):
+- "Non Deduction VAT Correction Account" – used as a counter-account of the current VAT purchasing account when re-accounting for the reduction of the VAT deduction by the coefficient.
+
+> [!NOTE]
+> The set combinations of VAT account groups with VAT calculation type = Full VAT do not enter the VAT statement.
+
+![Setup VAT posting](media/setup_vat.png)
+
+### VAT Advance Coefficient
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. In the VAT Advance Coefficient field on the VAT tab, set the percentage value valid for the current accounting period.
+
+
+## VAT registration in multiple countries setup
+
+### More VAT registration numbers of customers
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Customers** and then choose the related link.
-2. Vyberte akci  Země/oblasti registrace.
-3. Zadejte kód země a DIČ pro vybraného zákazníka.
-4. Dále doplňte DPH obch. účtoskupinu, která se má použít v případě prodeje zákazníkovi do této země.
+2. Select the Registration Country action.
+3. Enter the country code and VAT registration number.
+4. Next, add VAT Bus.Posting Group to be used in the event of a sale to a customer in that country.
 
-### Více DIČ dodavatelů
+### More VAT registration numbers of customers
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Dodavatelé** a poté vyberte související odkaz.
-2. Vyberte akci Země/oblasti registrace (Související -> Dodavatel).
-3. Zadejte kód země a DIČ pro vybraného dodavatele.
-4. Dále doplňte DPH obch. účtoskupinu, která se má použít v případě nákupu z této země dodatatele.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Vendors** and then choose the related link.
+2. Select the Registration Country action.
+3. Enter the country code and VAT registration number.
+4. Next, add VAT Bus.Posting Group to be used in the event of a sale to a customer in that country.
 
-### Více registrací k DPH
+### More VAT registrations
 
-Základní nastavení spočívá v evidenci registrací k DPH v jednotlivých zemích a nastavení, jak má systém měnit DPH účtoskupiny v dokladech pro správné zpracování položek DPH při uzavírání DPH a pro správnou tvorbu podkladů (nejčastěji pro účetní kanceláře v daných zemích).
+The basic setting consists in the recording of VAT registration numbers in individual countries and setting how the system should change the VAT Bus. Posting Group in documents for the correct processing of VAT entries when concluding VAT and for the correct creation of documentation (most often for accounting offices in these countries).
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Informace o společnosti** a poté vyberte související odkaz.
-2. Vyberte akci Země/oblasti registrace.
-3. Na stránce Země/oblasti registrace zadejte kód země a DIČ společnosti registrované v této zemi. Pro vytvořený záznam doplňte Kód měny (místní) určující měnu, ve které se podává přiznání k DPH ve vybrané zemi.
-4. Zavřete stránce Země/oblasti registrace.
-5. Vyberte akci Směry registrace Země/oblasti.
-6. Na stránce Směry registrace Země/oblasti definujte, jak má systém nahrazovat DPH obch.účtoskupiny na dokladech.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Company Information** and then choose the related link.
+2. Select the Registration Country action.
+3. On the Registration Country/Region page, enter the country code and VAT reg. number of the company registered in this country. For the created record, fill in the Currency Code (local) specifying the currency in which the VAT return is filed in the selected country.
+4. Close the Registration Country/Region page.
+5. Select the Registration Country/Region Routes action.
+6. On the Registration Country/Region Routes page, define how the system should replace the VAT Business Posting Group on the documents.
 
-V případě používání jiné měny než lokální v zemi registrace, je nutné udržovat kursy mezi měnou dokladu a lokální měnou země registrace.
+In the case of using a currency other than the local currency in the country of registration, it is necessary to maintain exchange rates between the currency of the document and the local currency of the country of registration.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Měny** a poté vyberte související odkaz.
-2. Vyberte akci Směnné kursy země/oblasti registrace.
-3. Zadejte datum a směnný kurs.
-
-> [!NOTE]
-> Systém neobsahuje funkcionalitu pro import směnných kursů země/oblasti registrace.
-
-### OSS – EU režim
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. V poli Registrace OSS – EU na záložce DPH potvrďte, že je vaše firma registrována pro režim OSS.
-3. V poli Kód měny pro OSS na záložce DPH vyberte kód měnu odpovídající měně Euro.
-4. Vyberte akci Nastavení DPH pro OSS (Související -> DPH účtování).
-5. Na stránce Nastavení DPH pro OSS zadejte DPH obch.účtoskupinu pro kombinaci zemí zahájení a ukončení přepravy.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Currencies** and then choose the related link.
+2. Select the Registration Country Exch. Rates action.
+3. Enter the date and exchange rate on the Reg. Country Curr. Exch. Rate page.
 
 > [!NOTE]
-> Příznakem OSS se určuje, zda-li uvedená kombinace zemí je či není předmětem režimu OSS.
+> The system does not include functionality for importing Registration Country Exch. Rates.
+
+### OSS – EU regime
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. In the OSS - EU Registration field on the VAT tab, confirm that your company is registered for OSS mode.
+3. In the Currency code for OSS field on the VAT tab, select the currency code corresponding to the Euro currency.
+4. Select the VAT Settings for OSS action (Related -> VAT Posting).
+5. On the VAT Settings for OSS page, enter the VAT sales group for the combination of countries where the shipment starts and ends.
+
+> [!NOTE]
+> The OSS flag determines whether or not the specified country combination is subject to OSS.
 
 
-## Nastavení účtování přeplatků nákupních záloh
+## Set up purchase advance overpayment posting
 
-Popsaná automatizace při účtování finální faktury se zapíná v Nastavení účtování DPH pro vybrané kombinace účtoskupin. Pokud je toto chování vhodné pouze pro některé případy, je třeba pro ně míst vydefinované zvláštní DPH účtoskupiny (zboží).
+The described automation when posting the final invoice is turned on in the VAT posting settings for selected combinations of posting groups. If this behavior is appropriate only for certain cases, you need a specific VAT group (item) defined for them.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení účtování DPH** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Posting Setup** and then choose the related link.
 
-Na stránce Nastavení účtování DPH vyhledejte záznam pro který chcete zapnout a zvolte funkci Úpravy.
+On the VAT posting setup page, find the record for which you want to turn it on and choose the Edit feature.
 
-Nastavte příznak v poli Určeno pro vrácení zálohy na záložce Zálohy.
+Set the flag in the Intended to return the deposit field on the advance tab.
 
 
 ## See also
 
-[Sada rozšíření pro Finance](ac-controling-basic.md)  
+[Application extension set](ac-controling-basic.md)  
 [Financial Pack](ac-finance-pack.md)

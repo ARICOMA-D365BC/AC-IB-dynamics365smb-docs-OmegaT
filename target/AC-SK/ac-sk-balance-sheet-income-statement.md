@@ -23,7 +23,7 @@ Pro zajištění tohoto požadavku je v D365 BC použita standardní funkčnost 
 2. Na kartě **Účetní schémata** zvolte akci **Proces** a funkci **Náhled**.
 3. Zadejte požadované filtry jako Filtr data, případně další filtry, vyberte tlačítko **Akce** a poté vyberte funkci **Výsledky** a **Uložit výsledky**.
 4. V okně **Uložit výsledek úč. schématu** vyplňte pole dle potřeby.
-5. Potvrďte pomocí tlačítka **OK**.
+5. Confirm with the **OK** button.
 
 Výsledky účetních schémat se ukládají do seznamu v chronologickém sledu jejich vzniku. Na označení výsledků výkazů je vytvořena číselná řada nastavená v Nastavení financí.
 
@@ -31,7 +31,7 @@ Výsledky účetních schémat se ukládají do seznamu v chronologickém sledu 
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Export slouč.účt.schémat do XML** a poté vyberte související odkaz.
 2. Na kartě **Export slouč.účt.schémat do XML** vyplňte požadovaná pole. Vyberte Kód výsledku v sekci pro Rozvahu a Výkaz zisků a ztrát.
-3. Potvrďte pomocí tlačítka **OK**.
+3. Confirm with the **OK** button.
 
 Pak již stačí výsledný soubor naimportovat do elektronického formuláře finanční správy.
 

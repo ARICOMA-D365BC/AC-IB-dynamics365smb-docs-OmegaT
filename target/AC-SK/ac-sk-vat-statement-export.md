@@ -10,19 +10,19 @@ ms.workload: na
 ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
-# Výkaz DPH - export
+# VAT Statements - Export
 
-Pro zpracování Výkazu DPH je využita standardní funkcionalita Výkazu DPH. Z důvodu zapracování slovenských legislativních specifik byla standardní funkčnost Výkazu DPH rozšířena o dodatečné funkčnosti tak, aby byla zajištěna správná kalkulace částek výkazu DPH a aby bylo možné exportovat XML soubor v požadovaném formátu. Vyexportovaný soubor je možné importovat na portál Finanční správy SR nebo do aplikace eDane.
+The standard functionality of the VAT Statement is used for the processing of the VAT Statement. Due to the incorporation of Slovak legislative specifics, the standard functionality of the VAT Statement has been extended with additional functionality to ensure correct calculation of the VAT statement amounts and to export the XML file in the required format. The exported file can be imported into the Financial Administration portal of the Slovak Republic or into the eDane application.
 
-Pro export výkazu DPH použijte následující postup:
+To export a VAT statement, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Výkazy DPH** a poté vyberte související odkaz.
-2. V poli **Název** vyberte požadovaný Název výkazu DPH.
-3. Poté zvolte funkci **Export SK**.
-4. Vyplňte požadovaná pole a zvolte funkci **OK**, která vytvoří .xml soubor.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **VAT Statements** and then choose the related link.
+2. In the **Name** field select the vat statement name that you want.
+3. Then choose the **Export SK** function.
+4. Fill in the required fields and choose the **OK** function, which will create a .xml file.
 
 ## See also
 
-[AUTOCONT Řešení](../index.md)
-[SK Legislativní balíček](ac-sk-legislative-pack.md)
-[Výkaz DPH - nastavení](ac-sk-vat-statement-setup.md)
+[AUTOCONT Solutions](../index.md)  
+[SK Legislative Pack](ac-sk-legislative-pack.md)  
+[VAT Statement - Setup](ac-sk-vat-statement-setup.md)

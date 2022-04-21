@@ -11,36 +11,36 @@ ms.search.keywords: Slovak, , additional functions, sale, VAT
 ms.author: v-makune
 ---
 
-# Výkaz Intrastat
+# Intrastat statement
 
-Pro účely generování výkazu Intrastat se používá standartní funkcionalita.
+For the purpose of generating the Intrastat report, standard functionality is used.
 
-Rozdíl oproti standardní funkčnosti je v struktuře souboru s příponou .xml generovaném pro účely slovenského vykazování.
+The difference from the standard functionality is in the structure of the file with the extension .xml generated for the purposes of Slovak reporting.
 
-Pro aktivování slovenských funkčností jsou potřebná tato nastavení, využijte následující postup:
+To activate Slovak functionality, these settings are needed, use the following procedure:
 
-## Nastavení financí
+## General Ledger Setup
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení financí** a poté vyberte související odkaz.
-2. Na kartě **Nastavení financí** je nutné vybrat do pole **Legislativa** hodnotu **SK**.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **General Ledger Setup** and then choose the related link.
+2. On the **General Ledger Setup** page you must select**SK** in **Legislation**field.
+3. Confirm with the **OK** button.
 
-## Intrastat mapování souboru
+## Intrastat file mapping
 
-Nastavení slouží pro mapování polí v aplikaci na uzly .xml. Tato tabulka je součástí dodávaného konfiguračního balíčku.
+The settings are used to map fields in the application to nodes .xml. This table is part of the supplied configuration package.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Intrastat mapování souboru** a poté vyberte související odkaz.
-2. Na kartě **Intrastat mapování souboru** zkontrolujte, nebo doplňte nastavení.
-3. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Intrastat File Mapping** and then choose the related link.
+2. On the **Intrastat File Mapping** review or complete the settings.
+3. Confirm with the **OK** button.
 
-![Mapování souboru](media/ac-sk-intrastat.png)
+![File Mapping](media/ac-sk-intrastat.png)
 
-## Export souboru pro Intrastat
+## Export a file for Intrastat
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Deníky Intrastat** a poté vyberte související odkaz.
-2. Vložte řádky deníku pomocí funkce **Návrh řádků**.
-3. Exportujte pomocí funkce **Exportovat**, je nutné vyplnit *Kontaktní osoba*, *Typ*, *Pořadové číslo výkazu*
-4. Potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Intrastat Journals** and then choose the related link.
+2. Insert journal lines with the **Suggest Lines...** feature.
+3. Export using the function **Export**, it is necessary to fill in *Contact person*, *Type*, *Serial number of the statement*
+4. Confirm with the **OK** button.
 
 ## See also
 

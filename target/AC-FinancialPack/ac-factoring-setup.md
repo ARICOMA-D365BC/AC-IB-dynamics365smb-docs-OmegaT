@@ -11,40 +11,40 @@ ms.search.keywords: Factoring, finance
 ms.date: 01/31/2021
 ms.author: AC MartinKunes
 ---
-# Factoring - Nastavení
+# Factoring Setup
 
-Základní nastavení add-onu fakoringu.
-## Nastavení add-onu Faktoring
-### Potřebné nastavní Business Central
+Basic settings of the facoring add-on.
+## Setup of Factoring add-on
+### Necessary Business Central settings
 
-Pro správnou funkci add-onu je potřeba nastavit a založit i jiné nastavení v Business Central.
+For the correct function of the add-on, it is necessary to set and create other settings in Business Central.
 
-|Nastavení|Popis|
+|Settings|Description|
 |-|-|
-|**Účty v účtové osnově**|V účtové osnově je nutné založit finanční účty pro sledování podstoupených pohledávek, nákladové a výnosové účty pro přeúčtování faktoringu; pokud již neexistují.|
-|**Účto skupiny pro faktoring**|Přes Účto skupiny zákazníků je nutné založit nové účto skupiny pro faktoring, které se budou používat pro účtování faktoringu. ![Účtoskupiny pro faktoring](media/faktoring_setup_groupes.png)|
-|**Náhradní účto skupiny zákazníka**|Je nutné založit nové kombinace náhrad účto skupin zákazníka (dostupné ze stránky Náhr. Účto skupiny zákazníka).![Náhradní účtoskupiny pro faktoring](media/faktoring_setup_groupes_alt.png)|
+|**Chart of Accounts**|Chart of Accounts It is necessary to open financial accounts for tracking receivables, cost and revenue accounts for factoring re-accounting; if they no longer exist.|
+|**Factoring group account**|hrough the Customer group account, it is necessary to create a new factoring group account, which will be used for factoring accounting. ![Factoring groups](media/faktoring_setup_groupes.png)|
+|**Customer Group Alternate Account**|New customer group account substitution combinations must be created (available from the Customer Posting Group Substitute page).![Substitute accounting groups for factoring](media/faktoring_setup_groupes_alt.png)|
 
-### Nastavení faktoringu
+### Factoring settings
 
-Na stránce Nastavení faktoringu je třeba provést základní nastavení pro modul faktoring:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení faktoringu** a poté vyberte související odkaz.
-2. Na kartě faktoringu vyplňte následující pole:
-   - **Účto skupina faktoringu** – účto skupina, která je použita pro účtování faktoringové pohledávky
-   - **Protiúčet nákladů** – účet, na který se zaúčtuje pohledávka za zákazníkem
-   - **Protiúčet výnosů** – účet, na který se zaúčtuje výnos z faktoringu
-   - **DPH účto skupina zboží** – zde je třeba nastavit DPH účto skupinu zboží, která v kombinaci s DPH obchodní účto skupinou ze zákazníka-faktora reprezentuje účtování bez DPH
-   - **Přeúčtovat původní položku** – volba ANO umožňuje dále sledovat pohledávku za původním zákazníkem na podrozvahových účtech
-   - **Účto skupina přeúčtování** a **Protiúčet přeúčtování** – podrozvahové účty, na kterých se bude dále sledovat pohledávka k původnímu zákazníkovi
-   - **Čísla faktoringů** – číselná řada, kterou budou faktoringy číslovány   
-      ![Nastavení faktoringu](media/faktoring_setup.png)
-3. Po vyplnění polí můžete kartu zavřít.
+On the Factoring Settings page, you need to make the basic settings for the factoring module:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Factoring Setup** and then choose the related link.
+2. Fill in the following fields on the Factoring setup:
+   - **Factoring Posting Group** –  the posting group that is used for posting a factoring receivable
+   - **Cost Bal. Account No.** – the account to which the receivable from the customer is posted
+   - **Icome Bal. Account No. 2** – the account to which the factoring income is recognised
+   - **DPH účto skupina zboží faktoringu** – here you need to set up a VAT posting group of goods, which in combination with the VAT business posting group from the customer-factor represents posting without VAT
+   - **Orig. Entry Advanced Posting** – the YES option allows you to continue tracking the receivable from the original customer on off-balance sheet accounts
+   - **Adv. Posting Group** and **Adv. Posting Bal. Account No.** – off-balance sheet accounts on which the receivable from the original customer will be further monitored
+   - **Factoring Nos.** – number series by which factoring will be numbered   
+      ![Factoring Setup](media/faktoring_setup.png)
+3. After filling in the fields, you can close the page.
 
-### Šablony faktoringu
-Je možné definovat šablony pro převod faktoringových smluv do dokumentů Microsoft Word. Dokument je možné vytvořit na kartě faktoringu pomocí funkce **Vytvořit dokument faktoringu**.
+### Factoring Templates
+It is possible to define templates for converting factoring agreements into Microsoft Word documents. You can create a document on the factoring tab by using the **Create Factoring Document** feature.
 
 
 **See also**
 
-[Faktoring](ac-factoring.md)  
+[Factoring](ac-factoring.md)  
 [Financial Pack](ac-finance-pack.md)
