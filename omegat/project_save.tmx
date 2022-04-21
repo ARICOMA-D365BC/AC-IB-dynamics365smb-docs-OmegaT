@@ -433,6 +433,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Export účetní zavěrky - SK - nastavení&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103437Z" creationid="kunes" creationdate="20220421T103437Z">
+        <seg>&lt;g1&gt;AUTOCONT Solutions&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislative Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;Export of financial statements - SK - Setup&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;AUTOCONT Řešení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;SK Legislativní balíček&lt;/g3&gt;&lt;x4/&gt;
 &lt;g5&gt;Výkaz DPH - export&lt;/g5&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T083604Z" creationid="kunes" creationdate="20220421T083547Z">
@@ -3153,8 +3165,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Export účetní zavěrky - SK - nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220420T131728Z" creationid="kunes" creationdate="20220420T131728Z">
-        <seg>Export účetní zavěrky - SK - nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103451Z" creationid="kunes" creationdate="20220420T131728Z">
+        <seg>Export of financial statements - SK - Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,6 +5927,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pak již stačí výsledný soubor naimportovat do elektronického formuláře finanční správy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103343Z" creationid="kunes" creationdate="20220421T103343Z">
+        <seg>Then it is enough to import the resulting file into the electronic form of the financial administration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pak se při stažení dat z CrediChecku budou plnit přímo pole „&lt;g3&gt;Stav CreditCheck&lt;/g3&gt;“ na kartě zákazníka, dodavatele.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111854Z" creationid="kunes" creationdate="20220419T111854Z">
@@ -6427,6 +6447,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; v přehledu účetních schémat slouží pro rozlišení českých a slovenských statutárních výkazů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103840Z" creationid="kunes" creationdate="20220421T103840Z">
+        <seg>The &lt;g1&gt;Assing Legislation&lt;/g1&gt; field in the list of accounting schemes is used to differentiation between Czech and Slovak statutory statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Číselná řada variabilního symbolu&lt;/g1&gt; – pokud se nekumuluje dle VS, KS nebo SS, pak se do pole VS doplní číslo dle zde nastavené číselné řady (SS a KS se vezmou z prvního slučovaného řádku příkazu)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112734Z" creationid="kunes" creationdate="20220419T112734Z">
@@ -6859,6 +6887,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro definování statutárních výkazů slovenské legislativy (Rozvahy a Výkazu zisků a ztrát) je v systému D365 BC využívána standartní funkčnost účetních schémat doplněná o úpravy, které umožňují import účetní závěrky na portál Finanční správy SR prostřednictvím .xml souboru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103707Z" creationid="kunes" creationdate="20220421T103707Z">
+        <seg>To define the statutory statements of Slovak legislation (Balance Sheet and Profit and Loss Statement), the D365 BC system uses the standard functionality of accounting schemes supplemented by adjustments that allow the import of financial statements to the portal of the Financial Administration of the Slovak Republic through a .xml file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro dodatečný tisk předávacího protokolu svozu:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112814Z" creationid="kunes" creationdate="20220411T112814Z">
@@ -7186,6 +7222,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102810Z" creationid="kunes" creationdate="20220419T102810Z">
         <seg>For more information, visit Number Series Links Setup. &lt;g1&gt;Settings - Application extension set&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zajištění exportu účetní závěrky je potřeba nastavit několik níže uvedených oblastí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103715Z" creationid="kunes" creationdate="20220421T103715Z">
+        <seg>To ensure the export of financial statements, it is necessary to set several areas listed below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7692,6 +7736,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122745Z" creationid="kunes" creationdate="20220420T122745Z">
         <seg>The difference from the standard functionality is in the structure of the file with the extension .xml generated for the purposes of Slovak reporting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozlišení schémat pro vybranou zemi</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T103726Z" creationid="kunes" creationdate="20220421T103726Z">
+        <seg>Differentiation of schemes for the selected country</seg>
       </tuv>
     </tu>
     <tu>
