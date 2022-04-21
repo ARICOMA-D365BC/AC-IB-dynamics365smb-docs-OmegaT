@@ -4319,6 +4319,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě &lt;g1&gt;Účetní schémata&lt;/g1&gt; zvolte akci &lt;g2&gt;Proces&lt;/g2&gt; a funkci &lt;g3&gt;Náhled&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102735Z" creationid="kunes" creationdate="20220421T102735Z">
+        <seg>On the &lt;g1&gt;Account Schedules page&lt;/g1&gt;, choose the &lt;g2&gt;Process&lt;/g2&gt; action and &lt;g3&gt;Overview&lt;/g3&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na kartě Objednání svozu zvolte, zda se bude objednávat svoz jednoho přepravce (&lt;g1&gt;Objenad svoz&lt;/g1&gt;) nebo všech (&lt;g2&gt;Objednat všechny svozy&lt;/g2&gt;).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112612Z" creationid="kunes" creationdate="20220411T112612Z">
@@ -7174,6 +7182,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro zajištění tohoto požadavku je v D365 BC použita standardní funkčnost účetních schémat rozšířena o dodatečné úpravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102444Z" creationid="kunes" creationdate="20220421T102444Z">
+        <seg>To ensure this requirement, the standard functionality of accounting schemes is used in D365 BC and extended by additional adjustments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro založení číselníku obecných parametrů pokračujte tímto způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
@@ -7760,6 +7776,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Samotný export pracuje s uloženými výsledky účetních schémat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102457Z" creationid="kunes" creationdate="20220421T102457Z">
+        <seg>The export itself works with the saved results of account schedules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Samotný proces objednání svozu je jednoduchý, slouží k tomu funkce „Objednat svoz“ na přehledu zásilek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112512Z" creationid="kunes" creationdate="20220411T112512Z">
@@ -7854,6 +7878,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
         <seg>Slovenská pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Slovenské statutární výkazy, Rozvaha a Výkaz zisků a ztrát, se dle požadavku Finanční správy SR importují sloučené, v jednom .xml souboru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102433Z" creationid="kunes" creationdate="20220421T102433Z">
+        <seg>According to the requirements of the Financial Administration of the Slovak Republic, the Slovak Statutory Statements, Balance Sheet and Profit and Loss Statement are imported merged, in one .xml file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,6 +8642,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
         <seg>UPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uložení výsledků účetních schémat pro export</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102526Z" creationid="kunes" creationdate="20220421T102526Z">
+        <seg>Saving the results of accounting schemes for export</seg>
       </tuv>
     </tu>
     <tu>
@@ -9662,6 +9702,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111135Z" creationid="kunes" creationdate="20220411T111135Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Účetní schémata&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220421T102537Z" creationid="kunes" creationdate="20220421T102537Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Account Schedule&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
