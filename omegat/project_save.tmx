@@ -991,6 +991,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Evidence obalů základ (EKOKOM)&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T104159Z" creationid="kunes" creationdate="20220427T104159Z">
+        <seg>&lt;g1&gt;Pack Tracking Basic (EKOKOM) - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Evidence pošty&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141533Z" creationid="Janousek" creationdate="20210625T141533Z">
@@ -3163,6 +3173,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Evidence obalů základ (EKOKOM) - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T104328Z" creationid="kunes" creationdate="20220427T104328Z">
+        <seg>Pack Tracking Basic (EKOKOM) - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence pošty</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112513Z" creationid="Janousek" creationdate="20210603T112513Z">
@@ -3175,6 +3193,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112422Z" creationid="Janousek" creationdate="20210603T112158Z">
         <seg>Pack Tracking - Return Packing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence vratných obalů (Vratné obaly) - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T104321Z" creationid="kunes" creationdate="20220427T104321Z">
+        <seg>Evidence vratných obalů (Vratné obaly) - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -6523,6 +6549,16 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chceme označit položky jako vykázané, je nutno pro možnost nevykázaných položek zatrhnout pole &lt;g1&gt;Označit položky&lt;/g1&gt; a vyplnit pole &lt;g2&gt;Číslo výpisu&lt;/g2&gt;.&lt;x3/&gt;
+Data použitá do výkazu lze filtrovat, např. podle Zúčtovacího data, Kódu pro vykazování jednotlivých položek apod.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T104249Z" creationid="kunes" creationdate="20220427T104132Z">
+        <seg>If you want to mark items as reported, it is necessary to check the &lt;g1&gt;Mark Entries&lt;/g1&gt; field for the option of unreported items and fill in the &lt;g2&gt;Statement no.&lt;/g2&gt; field.&lt;x3/&gt;
+The data used in the statement can be filtered, e.g. by Posting Date, Packing Stat. El. Name, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete můžete importovat RapidStart balíček ručně, nebo můžete kliknout na &lt;g1&gt;Další a balíček se stáhne a importuje sám&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115112Z" creationid="kunes" creationdate="20220411T115112Z">
@@ -8412,6 +8448,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112900Z" creationid="kunes" creationdate="20220411T112900Z">
         <seg>Package Tracking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Slouží jako podklad pro výkaz o produkci obalů pro společnost EKO-KOM, a. s. Uvedená sestava zobrazí podklady pro vyplnění Výkazu obalů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T104002Z" creationid="kunes" creationdate="20220427T104002Z">
+        <seg>It serves as a basis for the report on packaging production for EKO-KOM, a. s. This report displays the basis for completing the Packaging Statements.</seg>
       </tuv>
     </tu>
     <tu>
