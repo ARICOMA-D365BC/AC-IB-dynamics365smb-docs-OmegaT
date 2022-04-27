@@ -6292,9 +6292,9 @@ These data are updated manually using the "Resynchronize master data" function.<
         <seg>Po korektním nastavení add-on modulu &lt;g1&gt;Evidence obalů základ&lt;/g1&gt; je možné na kartách Zboží přiřazovat prvky Výkazu obalů.&lt;x2/&gt;
 Přiřazení se provede na příslušných kartách Zboží, v nabídce zvolte Akce/Zboží/&lt;g3&gt;Prvky výkazu obalů&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220427T091459Z" creationid="kunes" creationdate="20220427T091459Z">
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T092026Z" creationid="kunes" creationdate="20220427T091459Z">
         <seg>After the correct setting of the add-on module &lt;g1&gt;Pack Tracking Basic&lt;/g1&gt; it is possible to assign elements of the Packing Statement Elements on the Item card.&lt;x2/&gt;
-Přiřazení se provede na příslušných kartách Zboží, v nabídce zvolte Akce/Zboží/&lt;g3&gt;Prvky výkazu obalů&lt;/g3&gt;.</seg>
+The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;Packing Elements Assignment&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7327,6 +7327,14 @@ Přiřazení se provede na příslušných kartách Zboží, v nabídce zvolte A
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
         <seg>A different API is required for each expedition place, and the expedition place is associated with one location of your company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každé zboží a jeho měrnou jednotku lze přiřadit libovolný počet prvků výkazů obalů (zařadit zboží do několika výkazů).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T091501Z" creationid="kunes" creationdate="20220427T091501Z">
+        <seg>Pro každé zboží a jeho měrnou jednotku lze přiřadit libovolný počet prvků výkazů obalů (zařadit zboží do několika výkazů).</seg>
       </tuv>
     </tu>
     <tu>
