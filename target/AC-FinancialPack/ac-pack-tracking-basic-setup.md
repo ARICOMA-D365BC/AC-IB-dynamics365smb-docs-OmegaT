@@ -12,58 +12,58 @@ ms.date: 01/31/2020 TODO
 ms.author: v-pejano
 ---
 
-# Evidence obalů základ (EKOKOM) - Nastavení
-Pro zajištění fungování add-on modulu **Evidence obalů základ** je třeba provést nutné kroky nastavení.
+# Pack Tracking Basic (EKOKOM) - Setup
+To ensure the functioning of the add-on module **Pack Tracking Basic**, it is necessary to perform the necessary setup steps.
 
-## Založení Výkazu obalů
-V systému lze založit potřebný počet různých Výkazů obalů. Pomocí ![Žárovka, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat") vyhledejte **Výkazy obalů**.
+## Establish a Packaging Statement
+The necessary number of different Packaging Statements can be created in the system. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Packing Statements** and then choose the related link.
 
 > [!NOTE]  
-> Pokud se chystáte importovat poskytnuté soubory parametrizace EKO-KOM, je nutné založit Výkaz obalů s kódem **EKO-KOM**.
+> If you are going to import the provided EKO-KOM parameterization files, you must create a Packaging Report with the code **EKO-KOM**.
 
-## Parametrizace Výkazu obalů EKO-KOM
-Součástí dodávky add-on modulu Evidence obalů jsou excelové soubory *ekokom_def.xlsx* a *ekokom.xlsx* obsahující parametrizaci pro **Výkaz obalů EKO-KOM**.  
-Soubory s parametrizací lze do systému nahrát pomocí služby **RapidStart**.
+## Parameterization of the EKO-KOM Packaging Report
+The add-on module Pack Tracking is supplied with excel files *ekokom_def.xlsx* and *ekokom.xlsx* containing the parameterization for **EKO-KOM Packaging Statements**.  
+The parameterisation files can be uploaded to the system using the **RapidStart Service**.<s
 
-## Definice prvků Výkazu obalů (struktury výkazu)
-Pro každý založený výkaz je nutno nadefinovat jeho prvky. Pomocí vyhledávací funkce ![Žárovka, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat") vyhledejte **Definice prvků výkazu obalů**.  
-Prvky ve výkazu lze seskupovat do pozic na výkazu. Celkem lze definovat 10 pozic (seskupení prvků). Prvky v rámci jedné pozice mají dále přiřazený kód.
+## Packing Statement Element Definition
+For each created report, it is necessary to define its elements. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Packing Statement Element Def.** and then choose the related link.
+Elements in the report can be grouped into positions on the report. A total of 10 positions can be defined (grouping of elements). Elements within a position are further assigned a code.
 
-Pole formuláře Definice prvků výkazu obalů:
+Packing Statement Element Definition form fields:
 
-| Pole | Description |
+| Field | Description |
 |---------------|---------------|  
-| **Kód pro vykazování** | Kód výkazu založeného v předchozím kroku |
-| **Pozice** | Uživatelem určená skupina prvků výkazu |
-| **Kód** | Kód prvku v rámci pozice |
-| **Popis** | Popis prvku výkazu |
-| **Umístění ve výkazu** | Textová popisná informace |
+| **Statement Code** | The report code created in the previous step |
+| **Position** | User-specified group of schedule elements |
+| **Code** | Element code within a position |
+| **Description** | Description of the schedule element |
+| **Statement Placement** | Text descriptive information |
 
 
-Lze tak například vytvořit tabulku s těmito hodnotami:
+For example, you can create a table with the following values:
 
-| Kód pro vykazování | Pozice | Code | Description |
+| Reporting code | Position | Code | Description |
 |----------|----------|----------|----------|
-| EKO-KOM | P1 | 1 | Obaly pro jedno použití |
-| EKO-KOM | P1 | 2 | Obaly pro opakované použití |
-| EKO-KOM | P2 | 1 | Zpoplatněné |
-| EKO-KOM | P2 | 2 | Předplacené |
-| EKO-KOM | P2 | 3 | Neplacené |
+| EKO-KOM | P1 | 1 | Single-use packaging |
+| EKO-KOM | P1 | 2 | Reusable packaging |
+| EKO-KOM | P2 | 1 | Charged |
+| EKO-KOM | P2 | 2 | Prepaid |
+| EKO-KOM | P2 | 3 | Unpaid |
 
-## Založení prvků ve Výkazu obalů (definice vlastního výkazu)
+## Creating Elements in a Packing Statements (Defining a Custom Statement)
 
-Definice vlastního výkazu se provádí založením prvků Výkazu obalů. Pomocí vyhledávací funkce ![Žárovka, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat") vyhledejte **Prvky výkazu obalů**. Ve formuláři se definují jednotlivé řádky výkazu tak, že se vybírají z dříve definovaných prvků pro jednotlivé pozice výkazu. Pole *Popis* je pak systémem doplněno v závislosti na plnění pole na stránce **Definice prvků vykazu obalů**.
+Definice vlastního výkazu se provádí založením prvků Výkazu obalů. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter ** Packing Statement Elements** and then choose the related link. In the form, individual statement lines are defined by selecting from previously defined elements for each statement position. The *Description* field is then added by the system depending on the field on the **Packing Statement Element Definition**page.
 
-Záznam stránky **Prvky výkazu obalů** tak může vypadat třeba takto:
+For example **Packing Statement Elements** page might look like this:
 
-| Kód pro vykazování | Code | Description |
+| Reporting code | Code | Description |
 |---------------|---------------|---------------|
-| EKO-KOM | 13 | Obaly pro jedno použití neplacené |
+| EKO-KOM | 13 | Single-use packaging free of charge |
 
-## Založení výjimek ve výkazu obalů
+## Creating exceptions in the Packaging Statements
 
-V každém založeném **Výkazu obalů** lze definovat výjimky, specifikované stavem řádků v Deníku zboží, které nebudou do výkazu zahrnuty. Pomocí vyhledávací funkce ![Žárovka, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat") vyhledejte **Výjimky prvku výkazu obalů**.  Výjimka je definována údaji zadanými do polí **Typ pohybu**, **ID pole**, **Hodnota** a **Pozice** (ve výkazu). Pro vytvoření výjimky je nutné specifikovat také **Kód prvku**.
+In each **Packaging Statement** that you create, you can define exceptions, specified by the status of the lines in the Item journal, that will not be included in the report. Choose the **Lightbulb that opens the Tell Me feature.![Tell me what you want to do](media/ui-search/search_small.png ", icon, enter ")Packing Stat. El. Exceptions</g4> and then choose the related link.  The exception is defined by the data entered in the **Movement Type**, **Field no.**, **Field Value** and **Position** fields (in the report). You must also specify the **Element Code** to create an exception.
 
 ## See also
-[Evidence obalů základ (EKOKOM)](ac-pack-tracking-basic.md)  
+[Pack Tracking Basic (EKOKOM)](ac-pack-tracking-basic.md)  
 [Financial Pack](ac-finance-pack.md)

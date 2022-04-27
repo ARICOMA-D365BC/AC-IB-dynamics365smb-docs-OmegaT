@@ -65,7 +65,7 @@ Ke každé fázi událostí lze také přiřadit e-mailovou adresu určující, 
 
 ![Nastavení emailu](media/Notifications-email.png)
 
-| **Typ definice** | **Popis** |
+| **Typ definice** | **Description** |
 |---------------------------------------------|-----------|
 | **Ručně definovaný e-mail** | Tuto možnost použijte v případě, kdy chcete poslat upozornění vždy na tento definovaný e-mail. |
 | **Dynamický e-mail z pole v záznamu** | Tuto možnost použijte, pokud chcete poslat upozornění na e-maily, které jsou přímo uloženy v záznamu ve zdrojové tabulce šablony upozornění, který je také zdrojem upozornění. (např. upozornění nad kartou zaměstnance, která obsahuje i jeho e-mail). |

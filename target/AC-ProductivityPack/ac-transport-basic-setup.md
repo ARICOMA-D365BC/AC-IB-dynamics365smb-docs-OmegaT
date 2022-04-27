@@ -10,84 +10,84 @@ ms.workload: na
 ms.search.keywords: Czech, Transport basic setup, additional functions
 ms.author: v-makune
 ---
-# Doprava základ - Nastavení
+# Transport - Basic - Setup
 
-## Nastavení dopravy
+## Transport Setup
 
-Pro základní nastavení addonu dopravy porakčujte následujícím způsobem:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení dopravy** a poté vyberte související odkaz.
-2. Na kartě nastavení dopravy je několik polí k nastavení:
-   - **Čísla vozidel** – číselná řada pro vytváření vozidel.
-   - **Čísla řidičů** – číselná řada pro vytváření řidičů.
-3. Dále Nastavení Dopravy obsahuje v ovládacím panelu další možnosti nastavení a doplnění číselníků:
+For basic transport addon settings, do the following:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Transport Setup** and then choose the related link.
+2. There are several settings fields on the Traffic Settings page:
+   - **Vehicle Nos.** – a number series for creating vehicles.
+   - **Drivers Nos.** – a number series for creating drivers.
+3. In addition, the Transport Settings contains additional options for setting and adding lists in the control panel:
 
-   ![Nastavení dopravy](media/ac_transport_setup.png)
+   ![Transport Setup](media/ac_transport_setup.png)
 
-### Kódy odborné způsobilosti
+### Professional Qualifications
 
-- Číselník reprezentující schopnosti/dovednosti/oprávnění řidičů
-- Tato oprávnění lze následně přidělit vč. časové platnosti konkrétnímu řidiči
+- Code list representing drivers abilities/skills/authorizations
+- These authorisations can then be assigned, including time validity, to a specific driver
 
-![Kódy způsobilosti](media/ac_transport_codes.png)
+![Professional Qualifications](media/ac_transport_codes.png)
 
-### Kódy PHM
-Číselník druhů paliv používaných ve vozidlech a s vazbou na karty, které jsou vám fakturovány jejich dodavateli (např. různé druhy pohonných hmot, poplatky,…).  Tato vazba je následně použita při vytváření nákupních faktur z výpisu čerpání.
-![Kódy PHM](media/ac_transport_PHM.png)
+### Fuel Codes
+A code list of the types of fuels used in vehicles and linked to the cards invoiced to you by their suppliers (e.g. different types of fuel, fees,...).  This link is then used when creating purchase invoices for purchase statements.
+![Fuel Codes](media/ac_transport_PHM.png)
 
-## Typy vozidel
+## Vehicle Types
 
-Číselník typů vozidel používaných ve vašem parku a členěných dle vašich potřeb
-![Typy vozidel](media/ac_transport_vehicles.png)
+Code list of vehicle types used in your fleet and broken down according to your needs
+![Vehicle Types](media/ac_transport_vehicles.png)
 
-## Vybavení vozidla
+## Vehicle Equipment
 
-Seznam položek výbavy, které chcete evidovat pro vozidla
-![Vybavení vozidel](media/ac_transport_vehicles_eq.png)
-
-
-## Typy údržby
-
-Pro členění údržby vozidla dle vašich potřeb
-![Typy údržby](media/ac_transport_main.png)
-
-## Typy provozu
-
-Číselník je možné použít ke stanovování různých nákladů a normovaných spotřeb u vozidel v závislosti na typu vozidla.
-
-![Typy provozu](media/ac_transport_types.png)
+List of equipment items you want to register for vehicles
+![Vehicle Equipment](media/ac_transport_vehicles_eq.png)
 
 
-## Šablony knihy jízd
+## Maintenance Types
 
-- Šablony umožnují definovat deník pro určitý záznam – například řidič, nebo vozidlo.
-- Šablona knihy jízd obsahuje jeden řádek pro každou šablonu, pole:
-   - **Vynutit návaznost stavu** – řádky musí být zadávány v pořadí, v jaké byly jízdy uskutečněny.
-   - **Čas jízdy nutný** – uživatel musí zadat dobu trvání jízdy.
+To break down vehicle maintenance according to your needs
+![Maintenance Types](media/ac_transport_main.png)
 
-![Šablony knihy jízd](media/ac_transport_templateKH.png)
+## Operation Types
 
-## Šablony výpisu čerpání
+The list can be used to determine different costs and standardised vehicle consumption depending on the vehicle type.
 
-- Šablony výpisu čerpání slouží k vytváření a sledování jednotlivých šablon výpisů. V šabloně je nutné vyplnit následující pole:
+![Operation Types](media/ac_transport_types.png)
 
-   - **Název** a **Popis**.
-   - **Čísla výpisů** – číselná řada pro výpisy čerpání PHM.
-   - **Čísla vydaných výpisů** – číselná řada pro vydané výpisy čerpání PHM.
-   - parametry pro elektronické zpracování vyúčtování **Cesta pro import**, **Typ souboru pro import**, **Typ objektu pro import**, **ID objektu pro import**, **Název objektu pro import**.
-   - **Číslo dodavatele** – je nutné vyplnit, budou-li z výpisů generovány nákupní faktury.
-   - **Číslo dodavatele PHM** – needitovatelné, je zkopírováno ze stejného pole na kartě dodavatele (jedná se o číslo dodavatele PHM, které uvádí v elektronických výpisech, a které je kontrolováno při jejich importu).
-   - **Šablona deníku PHM** – je nutné vyplnit, budou-li z výpisů generovány deníky PHM.
-   - **List deníku PHM** – je nutné vyplnit, budou-li z výpisů generovány deníky PHM.
 
-![Šablony výpisu čerpání PHM - CSS](media/ac_transport_css.png)
+## Drive Journal Templates
 
-## Dodavatelé
+- Templates allow you to define a Drive Journal for a specific entry - for example, a driver or a vehicle.
+- Drive Journal Template contains one line for each template, field:
+   - **Force Counter Continuity** – lines must be entered in the order in which the rides were made.
+   - **Drive Time Mandatory** – user must enter the duration of the journey.
 
-V případě, že budou využívány deníky čerpání PHM, tak je nutné nastavit na dodavateli následující údaje:
-- Číslo dodavatele PHM (Fuel Vendor No.) – jde o pole, které je kontrolované v průběhu zadávání výpisu čerpání PHM nebo jeho importu
-- Katalog zboží dodavatele PHM – pro označení zboží ve výpisu dodavatele a jeho napárování na karty zboží v systému.
+![Drive Journal Templates](media/ac_transport_templateKH.png)
+
+## Refuelling Statement Template
+
+- Refuelling Statement Template are used to create and track individual statement templates. You must fill in the following fields in the template:
+
+   - **Name** and **Description**.
+   - **Statement Nos.** – number series for Refuelling Statement.
+   - **Issued Statement Nos.** – number series for issued Refuelling Statement
+   - parameters for electronic processing of **Import path**, **Import File Type**, **Import Object Type**, **Import object ID**, **Import object ID Name**.
+   - **Vendor No.** – Must be filled in if purchase invoices will be generated from statements.
+   - **Fuel Vendor No.** – non-editable, it is copied from the same field on the supplier's card (this is the fuel supplier number that he states in the electronic statements and which is checked during their import).
+   - **Fuel Journal Template** – must be filled in if fuel journals will be generated from the statements.
+   - **Fuel Journal Batch** – it is necessary to fill in if fuel journals will be generated from the statements.
+
+![Refuelling Statement Template - CSS](media/ac_transport_css.png)
+
+## Vendors
+
+In the event that fuel Driver journal are used, it is necessary to set the following data on the supplier:
+- Fuel Vendor No. – this is the field that is checked during the entry of the fuel drawdown statement or its import
+- Fuel Item Vend. Catalog – to mark the items in the vendor's statement and pair them to the item cards in the system.
 
 **See also**
 
-[Doprava - základ](ac-transport-basic.md)  
+[Transport - Basic](ac-transport-basic.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -10,100 +10,100 @@ ms.workload: na
 ms.search.keywords: Czech, Transport basic, additional functions
 ms.author: v-makune
 ---
-# Doprava
+# Transport - Basic
 
-Add-on Doprava řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).
+The Transport add-on solves the issue of vehicle registration, vehicle maintenance planning, driver records, logbook records and fuel consumption records (including the possibility of importing purchase files on fuel cards, e.g. CCS).
 
-## Definice řidičů
-Karta řidiče definuje sledovanou osobu a k ní navázané informace.
+## Definition of drivers
+The driver card defines the monitored person and the information linked to it.
 
-Pro založení nového řidiče postupujte následujícím způsobem:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled řidičů** a poté vyberte související odkaz.
+To create a new driver, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Driver List** and then choose the related link.
 2. In the overview, select **New**.
-3. Na kartě řidiče vypňte potřebné informace.
+3. Na kartě řidiče vyplňte potřebné informace.
 
-![Karta řidiče](media/ac_transport_drivercard.png)
+![Driver Card](media/ac_transport_drivercard.png)
 
-K řidiči lze ukládat „**Odborné způsobilosti**“ – tj. věci související s osobou jako řidičem – řidičská oprávnění, speciální oprávnění a zároveň nastavovat platnosti těchto způsobilostí. Čísleník způsobilostí najdete v sekci navigace na stránce karty řidiče.
-![Odborné způsobilosti řidiče](media/ac_transport_driver_zp.png)
+It is possible to store "**Competencies**" to the driver - i.e. things related to the person as a driver - driving licences, special licences and at the same time to set the validity of these competencies. You can find the Professional Qualifications in the navigation section of the driver card page.
+![Driver Qualifications](media/ac_transport_driver_zp.png)
 
 
-## Definice vozidel
-Vozidla jsou definovány pro potřeby sledování spotřeby a údržby. K vozidlu lze evidovat informace o vozidlu jako vlastním, dále vazbu na přidělenou platební kartu (pro potřeby importu čerpání), přiděleného (výchozího řidiče) a vazby na další záznamy (Majetek, zdroj….)
+## Definition of vehicles
+Vehicles are defined for consumption monitoring and maintenance needs. It is possible to record information about the vehicle as its own, as well as a link to the assigned payment card (for the purpose of importing the drawdown), the assigned (default driver) and links to other records (Property, source....)
 
-Pro vytvoření karty vozidla postupujte následujícím způsobem:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled vozidel** a poté vyberte související odkaz.
+To create a vehicle card, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Vehicle List** and then choose the related link.
 2. In the overview, select **New**.
-3. Na kartě řidiče vypňte potřebné informace.
+3. Na kartě vozidla vyplňte potřebné informace.
 
-![Karta vozidla](media/ac_transport_vehiclecard.png)
+![Vehicle Card](media/ac_transport_vehiclecard.png)
 
-K vozidlu lze definovat další údaje:
-- **Vybavení** – vybavení jímž je jednotlivé vozidlo vybaveno.
-- **Měrné jednotky** – používané s tímto vozidlem.
-- **Náklady** – standardní náklady/ceny pro jednotlivé typy provozu.
-- **Spotřeba** – standardní spotřeba vozidla pro jednotlivé typy provozu.
-- **Evidence údržby** – sledování údržby vozidla vč. termínů příští údržby.
+Additional data can be defined for the vehicle:
+- **Equipment** – the equipment with which an individual vehicle is equipped.
+- **Units of measure** – used with this vehicle.
+- **Cost** – standard costs/prices for each type of operation.
+- **Consumption** – standard vehicle consumption for individual types of operation.
+- **Maintenance records** – monitoring of vehicle maintenance incl. dates of next maintenance.
 
-## Výpis čerpání PHM
-Pro zadání čerpání k vozidlům slouží „Výpis čerpání PHM“. Tyto čerpání jsou připravena pro import ze souboru dodavatele, alternativně lze zadat ručně.
+## Refuelling Statement
+The "Refuelling Statement" is used to enter the fuel consumption for vehicles. These drawdowns are ready for import from the vendor file, alternatively they can be entered manually.
 
 
-Pro založení Výpisu čerpání postupujte následujícím způsobem:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Výpis čerpání PHM** a poté vyberte související odkaz.
+To create a Refuelling Statement, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Refuelling Statement** and then choose the related link.
 2. In the overview, select **New**.
-3. Na kartě vypňte potřebné informace.
-4. Vyplňtě jednotlivé řádky a doklad vydejte.
+3. Fill in the necessary information on the card.
+4. Fill in the individual lines and issue the document.
 
-![Výpis čeprání PHM](media/ac_transport_phm_PHMV.png)
+Refuelling Statement List
 
-5. Dalším krokem zpracování výpisu je jeho „Vydání“. Na vydaném výpisu je možné použít následující funkce:
-   ![Vydání čerpání DPH](media/ac_transport_phm_PHM_release.png)
-   - Vytvoření deníku PHM – pro zapsání položek čerpání k vozidlu
-   - Vytvoření nákupní faktury – pro vytvoření nákupní faktury na základě čerpání
+5. The next step in processing the statement is its "Issue". The following functions can be used on the Issued Refuelling Statement:
+   ![Issued Refuelling Statement](media/ac_transport_phm_PHM_release.png)
+   - Create Fuel Journal – to record pumping items to the vehicle
+   - Create Purchase Invoice – to create a purchase invoice based on a drawdow
 
-6. Posledním krokem je zaúčtování Deníku PHM:
-   ![Deník PHM](media/ac_transport_phm_journal.png)
+6. The last step is to post the Fuel Journal:
+   ![Fuel Journal](media/ac_transport_phm_journal.png)
 
-## Knihy jízd
-Slouží k záznamům o provozu vozidla, zadává se prostřednictvím Kniha Jízd.
+## Drive Journal
+It is used to record the operation of the vehicle, it is entered via the Drive Journal
 
-Pro vyplnění knihy jízd pustupujte pomocí těchto kroků:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Kniha jízd** a poté vyberte související odkaz.
-2. Vyplňtě řádky dle potřeby.
-   - Typ cesty, Číslo vozidla, Popis, Číslo řidiče, Typ provozu a další.
-3. Zaúčtujte deník.
+To fill in the Drive Journal, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Drive Journal** and then choose the related link.
+2. Fill in the lines as needed.
+   - Drive Type, Vehicle No., Description, Driver No., Opeation Type Code and more.
+3. Post the journal.
 
-![Kniha jízd](media/ac_transport_rides_journal.png)
+![Drive Journal](media/ac_transport_rides_journal.png)
 
-V případě, že je využívána rozšířená funkcionalita plánování dopravy, tak lze použít funkci pro předgenerování knihy jízd na základě vydaných příkazů k jízdě.
+If the extended traffic planning functionality is used, the function for pre-generation of the Drive Journal based on the issued driving commands can be used.
 
-## Plánování dopravy
+## Transport planning
 
-Tato část je součástí rozšířené verze **Doprava – plánování**.
+This section is part of the extended version of  **Transportation – Planning**.
 
-V rámci plánování se pracuje s tzv. **Požadavkem dopravy**, který je záznamem o předpokládané dopravě, tyto požadavky je možné vytvářet z dokladů **Prodejní objednávka**, **Nákupní objednávka**, **Objednávka transferu** pomocí funkce **Vytvořit požadavek na dopravu**.
+As part of the planning, the so-called **Transport request**, which is a record of the anticipated transport, these requests can be created from **Sales order**, **Purchase order**, **Transfer order** using the **Create shipping request** function.
 
-Pro vytvoření požadavku z nákupní objednávky postupujte následujícím způsobem:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nákupní objednávky** a poté vyberte související odkaz.
-2. Otevřete existující objednávku nebo vytvořte novou.
-3. Pro vytvoření požadavku na dopravu použijte funkci **Vytvořit požadavek na dopravu**.
-4. Dokončete průvodce požadavku na dopravu.
+To create a request from a purchase order, follow these steps:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Purchase Order** and then choose the related link.
+2. Open an existing order or create a new one.
+3. Use the **Create Transport Request**feature to create a shipping request.
+4. Complete the Shipping Request Wizard.
 
-Tato funkce je průvodcem, kdy předvyplní maximální množství údajů ze vstupního dokladu. Předpokladem je, že tyto požadavky vytváří běžní uživatelé zpracovávající doklady.
+This function is a wizard where it pre-fills the maximum amount of data from the input document. The prerequisite is that these requests are made by ordinary users processing documents.
 
-![Vytvoření požadavku na dopravu](media/ac_transport_planning.png)
+![Create Transport Request](media/ac_transport_planning.png)
 
-Další fází je vlastní „**Plánování dopravy**“ pomocí stránky „Pult dispečera dopravy“ – kde odpovědný pracovník vidí jednotlivé požadavky a může je zpracovávat – plánovat data, přiřazovat vozidla/řidiče, kombinovat dle dostupných kapacit atd.
+The next phase is the actual "**Transport Planning**" using the "Transport Dispatcher Board" page - where the responsible employee can see the individual requests and can process them - plan data, assign vehicles/drivers, combine according to available capacities, etc.
 
-V rámci plánování se řeší stavy požadavku:
-- Nový – pouze vytvořený
-- Zaplánováno – Je vytvořen příkaz k jízdě
-- Uzavřeno – Doprava byla dokončena
+Demand states are addressed in the planning process:
+- New – only created
+- Scheduled – A driving command is created
+- Closed – Transport completed
 
-![vytvoření příkazu k jízdě](media/ac_transport_rideorder.png)
+![Create Drive Order](media/ac_transport_rideorder.png)
 
 **See also**
 
-[Doprava - základ - nastavení](ac-transport-basic-setup.md)  
+[Transport - Basic - Setup](ac-transport-basic-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)
