@@ -2359,6 +2359,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Odborné způsobilosti řidiče&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125007Z" creationid="kunes" creationdate="20220427T125007Z">
+        <seg>&lt;x2/&gt;Driver Qualifications&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x3/&gt;Účtoskupiny pro faktoring&lt;x4/&gt;|
 |&lt;g5&gt;Náhradní účto skupiny zákazníka&lt;/g5&gt;|Je nutné založit nové kombinace náhrad účto skupin zákazníka (dostupné ze stránky Náhr.</seg>
       </tuv>
@@ -2933,6 +2941,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122037Z" creationid="kunes" creationdate="20220427T122037Z">
         <seg>Definice vlastního výkazu se provádí založením prvků Výkazu obalů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definice vozidel</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125021Z" creationid="kunes" creationdate="20220427T125021Z">
+        <seg>Definition of vehicles</seg>
       </tuv>
     </tu>
     <tu>
@@ -4465,6 +4481,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K vozidlu lze evidovat informace o vozidlu jako vlastním, dále vazbu na přidělenou platební kartu (pro potřeby importu čerpání), přiděleného (výchozího řidiče) a vazby na další záznamy (Majetek, zdroj….)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125040Z" creationid="kunes" creationdate="20220427T125040Z">
+        <seg>It is possible to record information about the vehicle as its own, as well as a link to the assigned payment card (for the purpose of importing the drawdown), the assigned (default driver) and links to other records (Property, source....)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>K zobrazení archivovaných záznamů spusťe funkci Archivované záznamy na stránce Informace o pohledávce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102436Z" creationid="kunes" creationdate="20220419T102436Z">
@@ -4807,8 +4831,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Na kartě řidiče vypňte potřebné informace.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220427T123959Z" creationid="kunes" creationdate="20220427T123959Z">
-        <seg>Fill in the necessary information on the driver card.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125148Z" creationid="kunes" creationdate="20220427T123959Z">
+        <seg>Fill in the necessary information on the vehycle card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8000,6 +8024,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vytvoření karty vozidla postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125045Z" creationid="kunes" creationdate="20220427T125045Z">
+        <seg>To create a vehicle card, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vytvoření výjimky je nutné specifikovat také &lt;g10&gt;Kód prvku&lt;/g10&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122658Z" creationid="kunes" creationdate="20220427T122638Z">
@@ -10310,6 +10342,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vozidla jsou definovány pro potřeby sledování spotřeby a údržby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125031Z" creationid="kunes" creationdate="20220427T125031Z">
+        <seg>Vehicles are defined for consumption monitoring and maintenance needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vrácení faktoringové pohledávky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T120306Z" creationid="kunes" creationdate="20220420T120306Z">
@@ -10706,6 +10746,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114352Z" creationid="kunes" creationdate="20220421T114320Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Check Report List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled vozidel&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125101Z" creationid="kunes" creationdate="20220427T125101Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Vehicle List&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
