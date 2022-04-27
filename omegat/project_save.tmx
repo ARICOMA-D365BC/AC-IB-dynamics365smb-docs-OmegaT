@@ -13246,6 +13246,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Šablona knihy jízd obsahuje jeden řádek pro každou šablonu, pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134452Z" creationid="kunes" creationdate="20220427T134452Z">
+        <seg>Drive Journal Template contains one line for each template, field:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Šablony faktoringu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121553Z" creationid="kunes" creationdate="20220420T121553Z">
