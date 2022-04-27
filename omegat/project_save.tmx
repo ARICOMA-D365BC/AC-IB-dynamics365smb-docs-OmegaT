@@ -10744,6 +10744,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Výstupem modulu je tisková sestava &lt;g1&gt;Podklad pro výkaz obalů&lt;/g1&gt;, která poskytuje podklady pro vyplnění vyžadovaných tiskopisů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T090854Z" creationid="kunes" creationdate="20220427T090854Z">
+        <seg>The output of the module is the print report &lt;g1&gt;Packing Statement Basis&lt;/g1&gt;, which provides documents for filling in the required forms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Výstupem sestavy je seznam položkyDPH dle volby &lt;g1&gt;Zobrazit stav&lt;/g1&gt;:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091317Z" creationid="kunes" creationdate="20220419T091317Z">
