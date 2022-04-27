@@ -2143,10 +2143,26 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla vozidel&lt;/g1&gt; – číselná řada pro vytváření vozidel.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133442Z" creationid="kunes" creationdate="20220427T133442Z">
+        <seg>&lt;g1&gt;Vehicle Nos.&lt;/g1&gt; – a number series for creating vehicles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Čísla zásilek&lt;/g1&gt; - Číselná řada pro zásilky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120410Z" creationid="kunes" creationdate="20220411T120410Z">
         <seg>&lt;g1&gt;Parcels No.&lt;/g1&gt; - Specifies the No. Series for parcels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla řidičů&lt;/g1&gt; – číselná řada pro vytváření řidičů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133504Z" creationid="kunes" creationdate="20220427T133504Z">
+        <seg>&lt;g1&gt;Drivers Nos.&lt;/g1&gt; – a number series for creating drivers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2291,6 +2307,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124239Z" creationid="kunes" creationdate="20220420T124239Z">
         <seg>&lt;x1/&gt;SEPA Settings&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení dopravy&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133527Z" creationid="kunes" creationdate="20220427T133527Z">
+        <seg>&lt;x1/&gt;Transport Setup&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,6 +3359,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113148Z" creationid="kunes" creationdate="20220419T113148Z">
         <seg>Enforcement methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále Nastavení Dopravy obsahuje v ovládacím panelu další možnosti nastavení a doplnění číselníků:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133518Z" creationid="kunes" creationdate="20220427T133518Z">
+        <seg>In addition, the Transport Settings contains additional options for setting and adding lists in the control panel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4953,6 +4985,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121151Z" creationid="kunes" creationdate="20220420T121151Z">
         <seg>Fill in the following fields on the Factoring setup:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na kartě nastavení dopravy je několik polí k nastavení:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133320Z" creationid="kunes" creationdate="20220427T133320Z">
+        <seg>There are several settings fields on the Traffic Settings page:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10936,6 +10976,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení dopravy&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133311Z" creationid="kunes" creationdate="20220427T133311Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Transport Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
