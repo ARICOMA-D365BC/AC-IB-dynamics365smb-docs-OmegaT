@@ -3161,6 +3161,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dokončete průvodce požadavku na dopravu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130609Z" creationid="kunes" creationdate="20220427T130609Z">
+        <seg>Complete the Shipping Request Wizard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dokument je možné vytvořit na kartě faktoringu pomocí funkce &lt;g1&gt;Vytvořit dokument faktoringu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121620Z" creationid="kunes" creationdate="20220420T121620Z">
@@ -6473,6 +6481,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevřete existující objednávku nebo vytvořte novou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130417Z" creationid="kunes" creationdate="20220427T130417Z">
+        <seg>Open an existing order or create a new one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevřete kartu bankovního účtu pro který chcete nastavit kumulaci plateb.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112619Z" creationid="kunes" creationdate="20220419T112619Z">
@@ -8172,6 +8188,22 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vytvoření požadavku na dopravu použijte funkci &lt;g1&gt;Vytvořit požadavek na dopravu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130557Z" creationid="kunes" creationdate="20220427T130557Z">
+        <seg>Use the &lt;g1&gt;Create Transport Request&lt;/g1&gt;feature to create a shipping request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vytvoření požadavku z nákupní objednávky postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130400Z" creationid="kunes" creationdate="20220427T130400Z">
+        <seg>To create a request from a purchase order, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vytvoření výjimky je nutné specifikovat také &lt;g10&gt;Kód prvku&lt;/g10&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122658Z" creationid="kunes" creationdate="20220427T122638Z">
@@ -9474,6 +9506,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
 |SharePoint Publishing allows you to publish documents directly from within Dynamics 365 Business Central to a central SharePoint data store, file system, or Dynamics 365 Business Central database and link them to records in information system tables.|&lt;g7&gt;SharePoint publishing&lt;/g7&gt;|
 |A component that provides on-line or periodic bi-directional communication or synchronization of data between Dynamics 365 Business Central and other systems through different communication channels, in different formats, and for any purpose.|&lt;g8&gt;Spooler&lt;/g8&gt;|
 |Central Database allow you to synchronize data between different Business Central databases and companies via the Spooler add-on module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkce je průvodcem, kdy předvyplní maximální množství údajů ze vstupního dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130614Z" creationid="kunes" creationdate="20220427T130614Z">
+        <seg>This function is a wizard where it pre-fills the maximum amount of data from the input document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10886,6 +10926,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114240Z" creationid="kunes" creationdate="20220419T114240Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Posting Setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nákupní objednávky&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130412Z" creationid="kunes" creationdate="20220427T130412Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Purchase Order&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
