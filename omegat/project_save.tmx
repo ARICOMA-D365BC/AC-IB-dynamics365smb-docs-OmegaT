@@ -4273,6 +4273,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Knihy jízd</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125818Z" creationid="kunes" creationdate="20220427T125818Z">
+        <seg>Drive Journal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Koef.DPH účto skupiny zboží</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114256Z" creationid="kunes" creationdate="20220419T114256Z">
@@ -7383,6 +7391,16 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Posledním krokem je zaúčtování Deníku PHM:
+&lt;x1/&gt;Deník PHM&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125811Z" creationid="kunes" creationdate="20220427T125811Z">
+        <seg>The last step is to post the Fuel Journal:
+&lt;x1/&gt;Fuel Journal&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Postoupení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102358Z" creationid="kunes" creationdate="20220419T102358Z">
@@ -8110,6 +8128,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122150Z" creationid="kunes" creationdate="20220421T122150Z">
         <seg>To report received simplified invoices, you need to set the &lt;g1&gt;Section Code Below Limit&lt;/g1&gt; and &lt;g2&gt;Section Code Above Limit&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vyplnění knihy jízd pustupujte pomocí těchto kroků:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125836Z" creationid="kunes" creationdate="20220427T125836Z">
+        <seg>To fill in the Drive Journal, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9006,6 +9032,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Slouží k záznamům o provozu vozidla, zadává se prostřednictvím Kniha Jízd.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125828Z" creationid="kunes" creationdate="20220427T125828Z">
+        <seg>It is used to record the operation of the vehicle, it is entered via the Drive Journal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Slovenská pošta</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -9752,6 +9786,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120145Z" creationid="kunes" creationdate="20220411T120145Z">
         <seg>This serves to reduce the error rate of users so that they cannot combine documents with different shipping points into the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Typ cesty, Číslo vozidla, Popis, Číslo řidiče, Typ provozu a další.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T130054Z" creationid="kunes" creationdate="20220427T130054Z">
+        <seg>Drive Type, Vehicle No., Description, Driver No., Opeation Type Code and more.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,6 +10746,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Kniha jízd&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125844Z" creationid="kunes" creationdate="20220427T125844Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Drive Journal&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Konfigurační sešit – datové struktury&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103627Z" creationid="kunes" creationdate="20220419T103627Z">
@@ -11264,6 +11314,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyplňtě řádky dle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125848Z" creationid="kunes" creationdate="20220427T125848Z">
+        <seg>Fill in the lines as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vypořádáno</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102410Z" creationid="kunes" creationdate="20220419T102410Z">
@@ -11288,10 +11346,26 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vytvoření deníku PHM – pro zapsání položek čerpání k vozidlu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125743Z" creationid="kunes" creationdate="20220427T125743Z">
+        <seg>Create Fuel Journal – to record pumping items to the vehicle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vytvoření nové zásilky z účtovaného dokladu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110405Z" creationid="kunes" creationdate="20220407T110405Z">
         <seg>Creating a new shipment from a posted document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření nákupní faktury – pro vytvoření nákupní faktury na základě čerpání</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125755Z" creationid="kunes" creationdate="20220427T125755Z">
+        <seg>Create Purchase Invoice – to create a purchase invoice based on a drawdow</seg>
       </tuv>
     </tu>
     <tu>
