@@ -1901,6 +1901,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vynutit návaznost stavu&lt;/g1&gt; – řádky musí být zadávány v pořadí, v jaké byly jízdy uskutečněny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134542Z" creationid="kunes" creationdate="20220427T134542Z">
+        <seg>&lt;g1&gt;Force Counter Continuity&lt;/g1&gt; – lines must be entered in the order in which the rides were made.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Vynutit objem zásilky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125035Z" creationid="kunes" creationdate="20220411T125035Z">
@@ -2089,6 +2097,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101623Z" creationid="kunes" creationdate="20220414T101623Z">
         <seg>&lt;g1&gt;Posting a sales invoice with a payment calendar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čas jízdy nutný&lt;/g1&gt; – uživatel musí zadat dobu trvání jízdy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134558Z" creationid="kunes" creationdate="20220427T134558Z">
+        <seg>&lt;g1&gt;Drive Time Mandatory&lt;/g1&gt; – user must enter the duration of the journey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2477,6 +2493,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130834Z" creationid="kunes" creationdate="20220427T130834Z">
         <seg>&lt;x1/&gt;Create Drive Order&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablony knihy jízd&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134605Z" creationid="kunes" creationdate="20220427T134605Z">
+        <seg>&lt;x1/&gt;Drive Journal Templates&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13274,6 +13298,22 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T134201Z" creationid="kunes" creationdate="20220427T134201Z">
         <seg>Templates allow you to define a Drive Journal for a specific entry - for example, a driver or a vehicle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony výpisu čerpání</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134647Z" creationid="kunes" creationdate="20220427T134647Z">
+        <seg>Refuelling Statement Template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony výpisu čerpání slouží k vytváření a sledování jednotlivých šablon výpisů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134830Z" creationid="kunes" creationdate="20220427T134830Z">
+        <seg>Refuelling Statement Template are used to create and track individual statement templates.</seg>
       </tuv>
     </tu>
     <tu>
