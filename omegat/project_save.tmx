@@ -9166,6 +9166,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Umožňuje spravovat libovolný počet podkladů pro potřeby obalového výkaznictví požadovaného interně firmou nebo legislativou (základní parametrizace výkazu EKO-KOM pro potřeby výkaznictví příslušnými osobami dle Zákona o obalech č. 477/2001 Sb. je součástí).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T085121Z" creationid="kunes" creationdate="20220427T085121Z">
+        <seg>t allows you to manage any number of documents for the needs of packaging reporting required internally by the company or legislation (the basic parameterization of the EKO-KOM report for the purposes of reporting by the relevant persons pursuant to the Packaging Act No. 477/2001 Coll. is part of it).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.|&lt;g14&gt;Správa upozornění&lt;/g14&gt;|
 |Modul Zásilky je řešení pro vytváření, evidenci a expedici zásilek.</seg>
       </tuv>
