@@ -2425,6 +2425,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on Doprava řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123807Z" creationid="kunes" creationdate="20220427T123807Z">
+        <seg>The Transport add-on solves the issue of vehicle registration, vehicle maintenance planning, driver records, logbook records and fuel consumption records (including the possibility of importing purchase files on fuel cards, e.g. CCS).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Obecné parametry&lt;/g1&gt; umožňuje přidat ke kartám &lt;g2&gt;zboží&lt;/g2&gt; nebo &lt;g3&gt;dlouhodobého majetku&lt;/g3&gt; v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121044Z" creationid="kunes" creationdate="20220405T121044Z">
@@ -2917,6 +2925,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122037Z" creationid="kunes" creationdate="20220427T122037Z">
         <seg>Definice vlastního výkazu se provádí založením prvků Výkazu obalů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definice řidičů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123811Z" creationid="kunes" creationdate="20220427T123811Z">
+        <seg>Definition of drivers</seg>
       </tuv>
     </tu>
     <tu>
@@ -4093,6 +4109,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105027Z" creationid="kunes" creationdate="20220407T105027Z">
         <seg>The consignment card consists of a total of five parts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Karta řidiče definuje sledovanou osobu a k ní navázané informace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123818Z" creationid="kunes" creationdate="20220427T123818Z">
+        <seg>The driver card defines the monitored person and the information linked to it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8048,6 +8072,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro založení nového řidiče postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123822Z" creationid="kunes" creationdate="20220427T123822Z">
+        <seg>To create a new driver, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro založení číselníku obecných parametrů pokračujte tímto způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
@@ -10650,6 +10682,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114352Z" creationid="kunes" creationdate="20220421T114320Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Check Report List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled řidičů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123906Z" creationid="kunes" creationdate="20220427T123906Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Driver List&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
