@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122249Z" creationid="kunes" creationdate="20220427T122249Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>2</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121447Z" creationid="kunes" creationdate="20220427T121447Z">
@@ -6019,6 +6027,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Obaly pro jedno použití neplacené</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122300Z" creationid="kunes" creationdate="20220427T122300Z">
+        <seg>Single-use packaging free of charge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Obaly pro opakované použití</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121452Z" creationid="kunes" creationdate="20220427T121452Z">
@@ -7013,6 +7029,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T103817Z" creationid="kunes" creationdate="20220427T103817Z">
         <seg>The &lt;g4&gt;Base Unit Weight&lt;/g4&gt; field is related to the unit of measure on the report line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g5&gt;Popis&lt;/g5&gt; je pak systémem doplněno v závislosti na plnění pole na stránce &lt;g6&gt;Definice prvků vykazu obalů&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122157Z" creationid="kunes" creationdate="20220427T122157Z">
+        <seg>The &lt;g5&gt;Description&lt;/g5&gt; field is then added by the system depending on the field on the &lt;g6&gt;Packing Statement Element Definition&lt;/g6&gt;page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9788,6 +9812,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V každém založeném &lt;g1&gt;Výkazu obalů&lt;/g1&gt; lze definovat výjimky, specifikované stavem řádků v Deníku zboží, které nebudou do výkazu zahrnuty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122436Z" creationid="kunes" creationdate="20220427T122436Z">
+        <seg>In each &lt;g1&gt;Packaging Statement&lt;/g1&gt; that you create, you can define exceptions, specified by the status of the lines in the Item journal, that will not be included in the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V klientské zóně (https://client.balikobot.cz/) uživatel musí nastavit, zda se bude tisknout ve formátu na celou stránku nebo dle pozic na papíru velikosti A4. Vše záleží na tom, na jaké tiskárně se bude tisknout.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130309Z" creationid="kunes" creationdate="20220411T130309Z">
@@ -11572,6 +11604,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Založení výjimek ve výkazu obalů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122415Z" creationid="kunes" creationdate="20220427T122415Z">
+        <seg>Creating exceptions in the Packaging Statements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zaokrouhlední faktury dle způsobu úhrady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102816Z" creationid="kunes" creationdate="20220419T102816Z">
@@ -11914,6 +11954,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110645Z" creationid="kunes" creationdate="20220407T110645Z">
         <seg>You can also create shipments manually without accounting documents, e.g.: for sending letters or an additional package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Záznam stránky &lt;g1&gt;Prvky výkazu obalů&lt;/g1&gt; tak může vypadat třeba takto:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122246Z" creationid="kunes" creationdate="20220427T122246Z">
+        <seg>For example &lt;g1&gt;Packing Statement Elements&lt;/g1&gt; page might look like this:</seg>
       </tuv>
     </tu>
     <tu>
