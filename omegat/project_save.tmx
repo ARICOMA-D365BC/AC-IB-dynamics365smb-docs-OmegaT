@@ -2895,6 +2895,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Definice vlastního výkazu se provádí založením prvků Výkazu obalů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122037Z" creationid="kunes" creationdate="20220427T122037Z">
+        <seg>Definice vlastního výkazu se provádí založením prvků Výkazu obalů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Definovat kód země DPH a kód země plnění na dokladech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105441Z" creationid="kunes" creationdate="20220419T105441Z">
@@ -7099,6 +7107,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí vyhledávací funkce &lt;x1/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt; vyhledejte &lt;g4&gt;Prvky výkazu obalů&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122117Z" creationid="kunes" creationdate="20220427T122117Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt; Packing Statement Elements&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poměrně běžnou praxí je, že na kartách zákazníků je definován preferovaný či povolený způsob platby (typicky úhrada v hotovosti).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122702Z" creationid="kunes" creationdate="20220401T122702Z">
@@ -10028,6 +10044,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ve formuláři se definují jednotlivé řádky výkazu tak, že se vybírají z dříve definovaných prvků pro jednotlivé pozice výkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122123Z" creationid="kunes" creationdate="20220427T122123Z">
+        <seg>In the form, individual statement lines are defined by selecting from previously defined elements for each statement position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ve sloupci &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; vyberte &lt;g2&gt;SK&lt;/g2&gt; pro slovenské statutární výkazy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103917Z" creationid="kunes" creationdate="20220421T103917Z">
@@ -11542,8 +11566,8 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       <tuv lang="cs-CZ">
         <seg>Založení prvků ve Výkazu obalů (definice vlastního výkazu)</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220427T122036Z" creationid="kunes" creationdate="20220427T121518Z">
-        <seg>Creating Elements in a Packing Statements (Defining a Custom Report)</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122041Z" creationid="kunes" creationdate="20220427T121518Z">
+        <seg>Creating Elements in a Packing Statements (Defining a Custom Statement)</seg>
       </tuv>
     </tu>
     <tu>
