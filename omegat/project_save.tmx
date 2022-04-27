@@ -247,6 +247,16 @@ In connection with this functionality, the printouts of sales or service documen
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;&lt;x2/&gt;
+Pokud se chystáte importovat poskytnuté soubory parametrizace EKO-KOM, je nutné založit Výkaz obalů s kódem &lt;g3&gt;EKO-KOM&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120820Z" creationid="kunes" creationdate="20220427T120820Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;&lt;x2/&gt;
+If you are going to import the provided EKO-KOM parameterization files, you must create a Packaging Report with the code &lt;g3&gt;EKO-KOM&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!TIP&lt;/g1&gt;
 Nastavení závisí na používané verzi.</seg>
       </tuv>
@@ -6843,6 +6853,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
         <seg>Use &lt;g1&gt;OK&lt;/g1&gt; to start filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí &lt;x1/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt; vyhledejte &lt;g4&gt;Výkazy obalů&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120448Z" creationid="kunes" creationdate="20220427T120448Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statements&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
