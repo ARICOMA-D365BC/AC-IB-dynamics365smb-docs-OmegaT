@@ -9710,6 +9710,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V systému lze založit potřebný počet různých Výkazů obalů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120435Z" creationid="kunes" creationdate="20220427T120435Z">
+        <seg>The necessary number of different Packaging Statements can be created in the system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V takovém případě je třeba vydefinovat pro každý způsob úhrady i příslušný počet protiúčtů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081925Z" creationid="kunes" creationdate="20220404T081925Z">
@@ -11234,6 +11242,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130828Z" creationid="kunes" creationdate="20220420T130828Z">
         <seg>Include customer debts – adjusts the amount of the liability by the customer's debts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Založení Výkazu obalů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120423Z" creationid="kunes" creationdate="20220427T120423Z">
+        <seg>Establish a Packaging Statement</seg>
       </tuv>
     </tu>
     <tu>
