@@ -2165,6 +2165,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Karta řidiče&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T124101Z" creationid="kunes" creationdate="20220427T124101Z">
+        <seg>&lt;x1/&gt;Driver Card&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Kontrola směnného kurzu&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091505Z" creationid="kunes" creationdate="20220419T091505Z">
@@ -4473,6 +4481,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K řidiči lze ukládat „&lt;g1&gt;Odborné způsobilosti&lt;/g1&gt;“ – tj. věci související s osobou jako řidičem – řidičská oprávnění, speciální oprávnění a zároveň nastavovat platnosti těchto způsobilostí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T124152Z" creationid="kunes" creationdate="20220427T124152Z">
+        <seg>It is possible to store "&lt;g1&gt;Competencies&lt;/g1&gt;" to the driver - i.e. things related to the person as a driver - driving licences, special licences and at the same time to set the validity of these competencies.&lt;segment 2487 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Liftago</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
@@ -4785,6 +4801,14 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="en-US" changeid="kunes" changedate="20220420T120552Z" creationid="kunes" creationdate="20220420T120424Z">
         <seg>On the page Posted Factoring List use the function &lt;g1&gt;Return Factoring Receivable&lt;/g1&gt;
 &lt;x2/&gt;Refund factoring&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na kartě řidiče vypňte potřebné informace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123959Z" creationid="kunes" creationdate="20220427T123959Z">
+        <seg>Fill in the necessary information on the driver card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12526,6 +12550,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114933Z" creationid="kunes" creationdate="20220411T114933Z">
         <seg>Numbered series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Čísleník způsobilostí najdete v sekci navigace na stránce karty řidiče.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T124954Z" creationid="kunes" creationdate="20220427T124954Z">
+        <seg>You can find the Professional Qualifications in the navigation section of the driver card page.</seg>
       </tuv>
     </tu>
     <tu>
