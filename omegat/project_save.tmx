@@ -4331,6 +4331,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul Evidence obalů je rozšířením oblasti Zásoby.&lt;x1/&gt;
+Modul zakládá samostatnou evidenci obalů svázanou s oblastí zásob a standardními pohyby zboží (nákup, prodej, příjem, výdej, transfer, spotřeba a výroba).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T084537Z" creationid="kunes" creationdate="20220427T084537Z">
+        <seg>Pack Tracking Basic module is an extension of the Inventory area.&lt;x1/&gt;
+The module establishes a separate packaging record linked to the inventory area and standard goods movements (purchase, sale, receipt, issue, transfer, consumption and production).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul Sada rozšíření pro Finance je nutný pro ostatní add-on moduly AC Financial Packu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100818Z" creationid="kunes" creationdate="20220414T100818Z">
