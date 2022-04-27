@@ -20,7 +20,7 @@ Karta řidiče definuje sledovanou osobu a k ní navázané informace.
 Pro založení nového řidiče postupujte následujícím způsobem:
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled řidičů** a poté vyberte související odkaz.
 2. Na přehledu vyberte funkci **Nový**.
-3. Na kartě řidiče vypňte potřebné informace.
+3. Na kartě řidiče vyplňte potřebné informace.
 
 ![Karta řidiče](media/ac_transport_drivercard.png)
 
@@ -34,7 +34,7 @@ Vozidla jsou definovány pro potřeby sledování spotřeby a údržby. K vozi
 Pro vytvoření karty vozidla postupujte následujícím způsobem:
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled vozidel** a poté vyberte související odkaz.
 2. Na přehledu vyberte funkci **Nový**.
-3. Na kartě řidiče vypňte potřebné informace.
+3. Na kartě vozidla vyplňte potřebné informace.
 
 ![Karta vozidla](media/ac_transport_vehiclecard.png)
 
