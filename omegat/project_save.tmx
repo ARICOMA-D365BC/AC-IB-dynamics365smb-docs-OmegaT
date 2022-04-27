@@ -2375,6 +2375,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Výpis čeprání PHM&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125630Z" creationid="kunes" creationdate="20220427T125630Z">
+        <seg>Refuelling Statement List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Způsoby plateb&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082115Z" creationid="kunes" creationdate="20220404T082115Z">
@@ -2909,6 +2917,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125546Z" creationid="kunes" creationdate="20220405T125546Z">
         <seg>The next step is to select by which parameters the system will filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dalším krokem zpracování výpisu je jeho „Vydání“.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125638Z" creationid="kunes" creationdate="20220427T125638Z">
+        <seg>The next step in processing the statement is its "Issue".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,6 +4899,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na kartě vypňte potřebné informace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125537Z" creationid="kunes" creationdate="20220427T125537Z">
+        <seg>Fill in the necessary information on the card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na kartě účtovaného faktoringu použijte funkci &lt;g1&gt;Vrátit pohledávku faktoringu&lt;/g1&gt;
 &lt;x2/&gt;Vrácení faktoringu&lt;x3/&gt;</seg>
       </tuv>
@@ -5377,6 +5401,16 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102756Z" creationid="kunes" creationdate="20220414T102756Z">
         <seg>Run the &lt;g1&gt;Create Export Lines&lt;/g1&gt; function on the issued payment order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na vydaném výpisu je možné použít následující funkce:
+&lt;x1/&gt;Vydání čerpání DPH&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125724Z" creationid="kunes" creationdate="20220427T125724Z">
+        <seg>The following functions can be used on the Issued Refuelling Statement:
+&lt;x1/&gt;Issued Refuelling Statement&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8192,6 +8226,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro založení Výpisu čerpání postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125508Z" creationid="kunes" creationdate="20220427T125508Z">
+        <seg>To create a Refuelling Statement, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro založení nového Kontrolního výkazu zvolte funkci &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114357Z" creationid="kunes" creationdate="20220421T114357Z">
@@ -9730,6 +9772,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tyto čerpání jsou připravena pro import ze souboru dodavatele, alternativně lze zadat ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125457Z" creationid="kunes" creationdate="20220427T125457Z">
+        <seg>These drawdowns are ready for import from the vendor file, alternatively they can be entered manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tímto krokem uživatel nemusí ručně vypisovat údaje o zásilce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110501Z" creationid="kunes" creationdate="20220407T110501Z">
@@ -10926,6 +10976,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Výpis čerpání PHM&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125519Z" creationid="kunes" creationdate="20220427T125519Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Refuelling Statement&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;XML schémata&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123732Z" creationid="kunes" creationdate="20220420T123732Z">
@@ -11194,6 +11252,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132113Z" creationid="kunes" creationdate="20220420T132113Z">
         <seg>Fill in the required fields and choose the &lt;g1&gt;OK&lt;/g1&gt; function, which will create a .xml file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňtě jednotlivé řádky a doklad vydejte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125545Z" creationid="kunes" creationdate="20220427T125545Z">
+        <seg>Fill in the individual lines and issue the document.</seg>
       </tuv>
     </tu>
     <tu>
