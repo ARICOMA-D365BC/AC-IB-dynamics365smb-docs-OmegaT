@@ -12842,6 +12842,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>parametry pro elektronické zpracování vyúčtování &lt;g1&gt;Cesta pro import&lt;/g1&gt;, &lt;g2&gt;Typ souboru pro import&lt;/g2&gt;, &lt;g3&gt;Typ objektu pro import&lt;/g3&gt;, &lt;g4&gt;ID objektu pro import&lt;/g4&gt;, &lt;g5&gt;Název objektu pro import&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135423Z" creationid="kunes" creationdate="20220427T135423Z">
+        <seg>parameters for electronic processing of &lt;g1&gt;Import path&lt;/g1&gt;, &lt;g2&gt;Import File Type&lt;/g2&gt;, &lt;g3&gt;Import Object Type&lt;/g3&gt;, &lt;g4&gt;Import object ID&lt;/g4&gt;, &lt;g5&gt;Import object ID Name&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>prodejní dodávky, zásilka se vytvoří bez dobírky, naopak pokud ji vytvoří z faktury, tak se zásilka vytvoří s dobírkou.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104319Z" creationid="kunes" creationdate="20220407T104319Z">
