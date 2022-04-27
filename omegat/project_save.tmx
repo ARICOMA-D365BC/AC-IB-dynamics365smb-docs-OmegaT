@@ -653,6 +653,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Doprava - základ&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135924Z" creationid="kunes" creationdate="20220427T135924Z">
+        <seg>&lt;g1&gt;Transport - Basic&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;EDI konektor základ&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142356Z" creationid="Janousek" creationdate="20210625T142356Z">
@@ -3331,6 +3341,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dodavatelé</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135723Z" creationid="kunes" creationdate="20220427T135723Z">
+        <seg>Vendors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dokončete průvodce požadavku na dopravu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130609Z" creationid="kunes" creationdate="20220427T130609Z">
@@ -4415,6 +4433,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T123818Z" creationid="kunes" creationdate="20220427T123818Z">
         <seg>The driver card defines the monitored person and the information linked to it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Katalog zboží dodavatele PHM – pro označení zboží ve výpisu dodavatele a jeho napárování na karty zboží v systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T140009Z" creationid="kunes" creationdate="20220427T135914Z">
+        <seg>Fuel Item Vend. Catalog – to mark the items in the vendor's statement and pair them to the item cards in the system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12152,6 +12178,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V případě, že budou využívány deníky čerpání PHM, tak je nutné nastavit na dodavateli následující údaje:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135824Z" creationid="kunes" creationdate="20220427T135824Z">
+        <seg>In the event that fuel Driver journal are used, it is necessary to set the following data on the supplier:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V případě, že je využívána rozšířená funkcionalita plánování dopravy, tak lze použít funkci pro předgenerování knihy jízd na základě vydaných příkazů k jízdě.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130116Z" creationid="kunes" creationdate="20220427T130116Z">
@@ -13314,6 +13348,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T124954Z" creationid="kunes" creationdate="20220427T124954Z">
         <seg>You can find the Professional Qualifications in the navigation section of the driver card page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číslo dodavatele PHM (Fuel Vendor No.) – jde o pole, které je kontrolované v průběhu zadávání výpisu čerpání PHM nebo jeho importu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135853Z" creationid="kunes" creationdate="20220427T135853Z">
+        <seg>Fuel Vendor No. – this is the field that is checked during the entry of the fuel drawdown statement or its import</seg>
       </tuv>
     </tu>
     <tu>
