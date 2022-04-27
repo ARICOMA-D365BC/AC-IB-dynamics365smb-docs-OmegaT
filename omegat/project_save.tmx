@@ -6289,6 +6289,16 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po korektním nastavení add-on modulu &lt;g1&gt;Evidence obalů základ&lt;/g1&gt; je možné na kartách Zboží přiřazovat prvky Výkazu obalů.&lt;x2/&gt;
+Přiřazení se provede na příslušných kartách Zboží, v nabídce zvolte Akce/Zboží/&lt;g3&gt;Prvky výkazu obalů&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T091459Z" creationid="kunes" creationdate="20220427T091459Z">
+        <seg>After the correct setting of the add-on module &lt;g1&gt;Pack Tracking Basic&lt;/g1&gt; it is possible to assign elements of the Packing Statement Elements on the Item card.&lt;x2/&gt;
+Přiřazení se provede na příslušných kartách Zboží, v nabídce zvolte Akce/Zboží/&lt;g3&gt;Prvky výkazu obalů&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po nachystání dat pro zásilku funkce „Přidat ke svozu“ zaeviduje zásilku v systému Balíkobotu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110326Z" creationid="kunes" creationdate="20220411T110326Z">
@@ -8048,6 +8058,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082507Z" creationid="kunes" creationdate="20220404T082507Z">
         <seg>Přiřazením Kódu platebního místa na způsobu platby docílíte větší kontroly uživatelů, aby nebylo možné omylem provést úhradu vůči protiúčtu, který není uživateli přiřazen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Přiřazování prvků Výkazu obalů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T090922Z" creationid="kunes" creationdate="20220427T090922Z">
+        <seg>Assigning Packing Statement Elements</seg>
       </tuv>
     </tu>
     <tu>
