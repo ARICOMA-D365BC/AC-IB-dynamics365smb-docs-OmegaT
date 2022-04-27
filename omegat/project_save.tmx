@@ -6769,6 +6769,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Položky obalů se vyrovnávají automaticky na pozadí při pohybech zboží, a proto zpracování podkladů pro Evidenci obalů uživatele nijak nezatěžuje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T090835Z" creationid="kunes" creationdate="20220427T090835Z">
+        <seg>Packing entries are automatically leveled in the background during the movement of items, and therefore the processing of documents for the Pack Tracing does not burden the user in any way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí &lt;g1&gt;OK&lt;/g1&gt; spustíte filtrování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125621Z" creationid="kunes" creationdate="20220405T125621Z">
