@@ -5689,6 +5689,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení dopravy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133055Z" creationid="kunes" creationdate="20220427T133055Z">
+        <seg>Transport Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení faktoringu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121109Z" creationid="kunes" creationdate="20220420T121109Z">
@@ -8442,6 +8450,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124132Z" creationid="kunes" creationdate="20220420T124132Z">
         <seg>For the processing of a payment order or statement in SEPA format, the standard functionality of the system is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro základní nastavení addonu dopravy porakčujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133259Z" creationid="kunes" creationdate="20220427T133259Z">
+        <seg>For basic transport addon settings, do the following:</seg>
       </tuv>
     </tu>
     <tu>
