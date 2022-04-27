@@ -6843,6 +6843,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí vyhledávací funkce &lt;x1/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt; vyhledejte &lt;g4&gt;Podklad pro výkaz obalů&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T103938Z" creationid="kunes" creationdate="20220427T103938Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statement Basis&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poměrně běžnou praxí je, že na kartách zákazníků je definován preferovaný či povolený způsob platby (typicky úhrada v hotovosti).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122702Z" creationid="kunes" creationdate="20220401T122702Z">
@@ -10662,6 +10670,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115218Z" creationid="kunes" creationdate="20220411T115218Z">
         <seg>Create a new Shipping Agent using the fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytváření sestav</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T103828Z" creationid="kunes" creationdate="20220427T103828Z">
+        <seg>Report generating</seg>
       </tuv>
     </tu>
     <tu>
