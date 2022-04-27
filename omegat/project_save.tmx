@@ -30,6 +30,30 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121431Z" creationid="kunes" creationdate="20220427T121431Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121447Z" creationid="kunes" creationdate="20220427T121447Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121515Z" creationid="kunes" creationdate="20220427T121515Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>431/2002 Zz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130327Z" creationid="kunes" creationdate="20220420T130327Z">
@@ -869,10 +893,26 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kód pro vykazování&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121318Z" creationid="kunes" creationdate="20220427T121318Z">
+        <seg>&lt;g1&gt;Statement Code&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kód výchozího expedičního místa&lt;/g1&gt; - Výchozí expediční místo, odkud budou odváženy zásilky (viz další kapitola)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120425Z" creationid="kunes" creationdate="20220411T120425Z">
         <seg>&lt;g1&gt;Default Expediton Place Code&lt;/g1&gt; - Specifies the API credentials and shipment location from where the parcel will be shipped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kód&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121340Z" creationid="kunes" creationdate="20220427T121340Z">
+        <seg>&lt;g1&gt;Code&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1355,6 +1395,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Popis&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121345Z" creationid="kunes" creationdate="20220427T121345Z">
+        <seg>&lt;g1&gt;Description&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Poslední synchronizace master dat&lt;/g1&gt; – Datum poslední synchronizace master dat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124452Z" creationid="kunes" creationdate="20220411T124452Z">
@@ -1423,6 +1471,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083354Z" creationid="kunes" creationdate="20220404T082806Z">
         <seg>&lt;g1&gt;Enable Multiple Cash Operation Types&lt;/g1&gt; – allows you to define multiple payment methods with the same cash transaction type and for the same payment location. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pozice&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121332Z" creationid="kunes" creationdate="20220427T121332Z">
+        <seg>&lt;g1&gt;Position&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1709,6 +1765,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120439Z" creationid="kunes" creationdate="20220411T120439Z">
         <seg>&lt;g1&gt;Print Handover After Order&lt;/g1&gt; – Automatic print of Handover protocols after collection order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Umístění ve výkazu&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121358Z" creationid="kunes" creationdate="20220427T121358Z">
+        <seg>&lt;g1&gt;Statement Placement&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2559,6 +2623,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Celkem lze definovat 10 pozic (seskupení prvků).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121152Z" creationid="kunes" creationdate="20220427T121152Z">
+        <seg>A total of 10 positions can be defined (grouping of elements).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Celý postup lze realizovat ručně.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110358Z" creationid="kunes" creationdate="20220419T110358Z">
@@ -2795,6 +2867,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130031Z" creationid="kunes" creationdate="20220405T130031Z">
         <seg>Define parameter values</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Definice prvků Výkazu obalů (struktury výkazu)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121023Z" creationid="kunes" creationdate="20220427T121023Z">
+        <seg>Packing Statement Element Definition</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,6 +3211,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101239Z" creationid="kunes" creationdate="20220414T101239Z">
         <seg>The reason may be that the user has checked this partner and does not consider the issue for which this condition is listed to be important, so he will cancel it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>EKO-KOM</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121429Z" creationid="kunes" creationdate="20220427T121429Z">
+        <seg>EKO-KOM</seg>
       </tuv>
     </tu>
     <tu>
@@ -4255,10 +4343,34 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kód pro vykazování</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121414Z" creationid="kunes" creationdate="20220427T121414Z">
+        <seg>Reporting code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kód prvku v rámci pozice</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121342Z" creationid="kunes" creationdate="20220427T121342Z">
+        <seg>Element code within a position</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kód přepravce, kód služby přepravce případně kód pobočky přepravce</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104543Z" creationid="kunes" creationdate="20220407T104543Z">
         <seg>Shipping Agent Code, Shipping Angent Service Code or Shipping Angent Branch Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kód výkazu založeného v předchozím kroku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121327Z" creationid="kunes" creationdate="20220427T121327Z">
+        <seg>The report code created in the previous step</seg>
       </tuv>
     </tu>
     <tu>
@@ -4315,6 +4427,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104348Z" creationid="kunes" creationdate="20220407T104348Z">
         <seg>Lockers.ai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Lze tak například vytvořit tabulku s těmito hodnotami:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121409Z" creationid="kunes" creationdate="20220427T121409Z">
+        <seg>For example, you can create a table with the following values:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,6 +5883,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Neplacené</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121517Z" creationid="kunes" creationdate="20220427T121517Z">
+        <seg>Unpaid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Neslučované položky jsou převedeny do řádků exportu platebního příkazu ve stejném detailu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102825Z" creationid="kunes" creationdate="20220414T102825Z">
@@ -5871,6 +5999,22 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115352Z" creationid="kunes" creationdate="20220419T115352Z">
         <seg>OSS – EU regime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Obaly pro jedno použití</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121446Z" creationid="kunes" creationdate="20220427T121446Z">
+        <seg>Single-use packaging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Obaly pro opakované použití</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121452Z" creationid="kunes" creationdate="20220427T121452Z">
+        <seg>Reusable packaging</seg>
       </tuv>
     </tu>
     <tu>
@@ -6181,6 +6325,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>P1</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121430Z" creationid="kunes" creationdate="20220427T121430Z">
+        <seg>P1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>P2</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121452Z" creationid="kunes" creationdate="20220427T121452Z">
+        <seg>P2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>PDF reader</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130241Z" creationid="kunes" creationdate="20220411T130241Z">
@@ -6249,6 +6409,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130859Z" creationid="kunes" creationdate="20220411T130859Z">
         <seg>Paperless Trade is used to send an electronic invoice (in the case of a pro-forma invoice) for customs clearance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Parametrizace Výkazu obalů EKO-KOM</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120826Z" creationid="kunes" creationdate="20220427T120826Z">
+        <seg>Parameterization of the EKO-KOM Packaging Report</seg>
       </tuv>
     </tu>
     <tu>
@@ -6769,6 +6937,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121251Z" creationid="kunes" creationdate="20220427T121251Z">
+        <seg>Field</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Kumulovat export podle konstantního symbolu&lt;/g1&gt; – kumuluje se za KS</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112707Z" creationid="kunes" creationdate="20220419T112707Z">
@@ -6841,6 +7017,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole formuláře Definice prvků výkazu obalů:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121244Z" creationid="kunes" creationdate="20220427T121224Z">
+        <seg>Packing Statement Element Definition form fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Položky obalů se vyrovnávají automaticky na pozadí při pohybech zboží, a proto zpracování podkladů pro Evidenci obalů uživatele nijak nezatěžuje.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T090835Z" creationid="kunes" creationdate="20220427T090835Z">
@@ -6897,6 +7081,16 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí vyhledávací funkce &lt;x1/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt; vyhledejte &lt;g4&gt;Definice prvků výkazu obalů&lt;/g4&gt;.&lt;x5/&gt;
+Prvky ve výkazu lze seskupovat do pozic na výkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121142Z" creationid="kunes" creationdate="20220427T121117Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statement Element Def.&lt;/g4&gt; and then choose the related link.
+Elements in the report can be grouped into positions on the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí vyhledávací funkce &lt;x1/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt; vyhledejte &lt;g4&gt;Podklad pro výkaz obalů&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T103938Z" creationid="kunes" creationdate="20220427T103938Z">
@@ -6925,6 +7119,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082647Z" creationid="kunes" creationdate="20220404T082647Z">
         <seg>Description of individual parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Popis prvku výkazu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121347Z" creationid="kunes" creationdate="20220427T121347Z">
+        <seg>Description of the schedule element</seg>
       </tuv>
     </tu>
     <tu>
@@ -7125,6 +7327,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115241Z" creationid="kunes" creationdate="20220411T115241Z">
         <seg>Allow multiple packages - YES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pozice</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121419Z" creationid="kunes" creationdate="20220427T121419Z">
+        <seg>Position</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,6 +7623,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T101102Z" creationid="kunes" creationdate="20220427T091501Z">
         <seg>For each item and its unit of measure, you can assign any number of elements of packaging reports (include items in several statements).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každý založený výkaz je nutno nadefinovat jeho prvky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121030Z" creationid="kunes" creationdate="20220427T121030Z">
+        <seg>For each created report, it is necessary to define its elements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7964,6 +8182,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Prvky v rámci jedné pozice mají dále přiřazený kód.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121211Z" creationid="kunes" creationdate="20220427T121211Z">
+        <seg>Elements within a position are further assigned a code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>První slouží k upozornění uživatelů na nesrovnalosti s registrací k DPH při práci s doklady, druhá pak následně zpětně při zpracování podkladů pro výkaz DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090742Z" creationid="kunes" creationdate="20220419T090742Z">
@@ -8024,6 +8250,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115607Z" creationid="kunes" creationdate="20220420T115607Z">
         <seg>Before you can post a factoring document, you must &lt;g1&gt;Issue&lt;/g1&gt; the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Předplacené</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121513Z" creationid="kunes" creationdate="20220427T121513Z">
+        <seg>Prepaid</seg>
       </tuv>
     </tu>
     <tu>
@@ -8592,6 +8826,16 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Součástí dodávky add-on modulu Evidence obalů jsou excelové soubory &lt;g1&gt;ekokom_def.xlsx&lt;/g1&gt; a &lt;g2&gt;ekokom.xlsx&lt;/g2&gt; obsahující parametrizaci pro &lt;g3&gt;Výkaz obalů EKO-KOM&lt;/g3&gt;.&lt;x4/&gt;
+Soubory s parametrizací lze do systému nahrát pomocí služby &lt;g5&gt;RapidStart&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120954Z" creationid="kunes" creationdate="20220427T120954Z">
+        <seg>The add-on module Pack Tracking is supplied with excel files &lt;g1&gt;ekokom_def.xlsx&lt;/g1&gt; and &lt;g2&gt;ekokom.xlsx&lt;/g2&gt; containing the parameterization for &lt;g3&gt;EKO-KOM Packaging Statements&lt;/g3&gt;.&lt;x4/&gt;
+The parameterisation files can be uploaded to the system using the &lt;g5&gt;RapidStart Service&lt;/g5&gt;.&lt;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Specifické typy vymáhání lze nastavit pomocí číselníku Druhy vymáhání:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113152Z" creationid="kunes" creationdate="20220419T113152Z">
@@ -9092,6 +9336,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Textová popisná informace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121403Z" creationid="kunes" creationdate="20220427T121403Z">
+        <seg>Text descriptive information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tisk detailů – vytiskne přílohu se seznamem dokladů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130835Z" creationid="kunes" creationdate="20220420T130835Z">
@@ -9388,6 +9640,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112531Z" creationid="kunes" creationdate="20220411T112531Z">
         <seg>The user can order a collection only for the selected shipper or for all of them at once.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelem určená skupina prvků výkazu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121336Z" creationid="kunes" creationdate="20220427T121336Z">
+        <seg>User-specified group of schedule elements</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,6 +11540,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Založení prvků ve Výkazu obalů (definice vlastního výkazu)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122036Z" creationid="kunes" creationdate="20220427T121518Z">
+        <seg>Creating Elements in a Packing Statements (Defining a Custom Report)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zaokrouhlední faktury dle způsobu úhrady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102816Z" creationid="kunes" creationdate="20220419T102816Z">
@@ -11380,6 +11648,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101138Z" creationid="kunes" creationdate="20220414T101138Z">
         <seg>This form will appear:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zpoplatněné</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T121510Z" creationid="kunes" creationdate="20220427T121510Z">
+        <seg>Charged</seg>
       </tuv>
     </tu>
     <tu>
