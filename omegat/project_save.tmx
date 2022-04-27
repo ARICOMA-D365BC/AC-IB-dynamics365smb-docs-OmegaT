@@ -7682,6 +7682,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro zajištění fungování add-on modulu &lt;g1&gt;Evidence obalů základ&lt;/g1&gt; je třeba provést nutné kroky nastavení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T120413Z" creationid="kunes" creationdate="20220427T120413Z">
+        <seg>To ensure the functioning of the add-on module &lt;g1&gt;Pack Tracking Basic&lt;/g1&gt;, it is necessary to perform the necessary setup steps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro zajištění správné funkčnosti je potřeba nastavit několik níže uvedených oblastí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T121540Z" creationid="kunes" creationdate="20220421T121540Z">
