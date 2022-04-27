@@ -3129,6 +3129,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doprava</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T123609Z" creationid="kunes" creationdate="20220427T123609Z">
+        <seg>Transport - Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Doprava - plánování</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112618Z" creationid="Janousek" creationdate="20210603T112618Z">
