@@ -7333,8 +7333,8 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       <tuv lang="cs-CZ">
         <seg>Pro každé zboží a jeho měrnou jednotku lze přiřadit libovolný počet prvků výkazů obalů (zařadit zboží do několika výkazů).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220427T091501Z" creationid="kunes" creationdate="20220427T091501Z">
-        <seg>Pro každé zboží a jeho měrnou jednotku lze přiřadit libovolný počet prvků výkazů obalů (zařadit zboží do několika výkazů).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T101102Z" creationid="kunes" creationdate="20220427T091501Z">
+        <seg>For each item and its unit of measure, you can assign any number of elements of packaging reports (include items in several statements).</seg>
       </tuv>
     </tu>
     <tu>
