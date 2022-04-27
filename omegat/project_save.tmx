@@ -3147,6 +3147,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Evidence obalů obsahuje klasifikaci druhů obalů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T085029Z" creationid="kunes" creationdate="20220427T085029Z">
+        <seg>Pack Tracking contains a classification of the types of packaging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence obalů základ (EKOKOM)</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112230Z" creationid="Janousek" creationdate="20210603T111944Z">
