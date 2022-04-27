@@ -691,6 +691,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence obalů základ (EKOKOM)&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122648Z" creationid="kunes" creationdate="20220427T122648Z">
+        <seg>&lt;g1&gt;Pack Tracking Basic (EKOKOM)&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence pošty&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141347Z" creationid="Janousek" creationdate="20210625T141347Z">
@@ -7139,6 +7149,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí vyhledávací funkce &lt;x2/&gt;Žárovka, která otevře funkci Řekněte mi&lt;x3/&gt;Řekněte mi, co chcete dělat&lt;x4/&gt; vyhledejte &lt;g5&gt;Výjimky prvku výkazu obalů&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122447Z" creationid="kunes" creationdate="20220427T122447Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Stat. El. Exceptions&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poměrně běžnou praxí je, že na kartách zákazníků je definován preferovaný či povolený způsob platby (typicky úhrada v hotovosti).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122702Z" creationid="kunes" creationdate="20220401T122702Z">
@@ -7922,6 +7940,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114744Z" creationid="kunes" creationdate="20220421T114744Z">
         <seg>To fill the statement lines, run the &lt;g1&gt;Fill report lines&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro vytvoření výjimky je nutné specifikovat také &lt;g10&gt;Kód prvku&lt;/g10&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122658Z" creationid="kunes" creationdate="20220427T122638Z">
+        <seg>You must also specify the &lt;g10&gt;Element Code&lt;/g10&gt; to create an exception.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11160,6 +11186,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130316Z" creationid="kunes" creationdate="20220411T130316Z">
         <seg>Printer selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výjimka je definována údaji zadanými do polí &lt;g6&gt;Typ pohybu&lt;/g6&gt;, &lt;g7&gt;ID pole&lt;/g7&gt;, &lt;g8&gt;Hodnota&lt;/g8&gt; a &lt;g9&gt;Pozice&lt;/g9&gt; (ve výkazu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T122608Z" creationid="kunes" creationdate="20220427T122608Z">
+        <seg>The exception is defined by the data entered in the &lt;g6&gt;Movement Type&lt;/g6&gt;, &lt;g7&gt;Field no.&lt;/g7&gt;, &lt;g8&gt;Field Value&lt;/g8&gt; and &lt;g9&gt;Position&lt;/g9&gt; fields (in the report).</seg>
       </tuv>
     </tu>
     <tu>
