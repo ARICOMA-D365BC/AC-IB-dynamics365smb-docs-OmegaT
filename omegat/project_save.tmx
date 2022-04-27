@@ -2263,6 +2263,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Kódy PHM&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133730Z" creationid="kunes" creationdate="20220427T133730Z">
+        <seg>&lt;x1/&gt;Fuel Codes&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Kódy způsobilosti&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133705Z" creationid="kunes" creationdate="20220427T133705Z">
+        <seg>&lt;x1/&gt;Professional Qualifications&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Mapování souboru&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123207Z" creationid="kunes" creationdate="20220420T123207Z">
@@ -4647,6 +4663,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104554Z" creationid="kunes" creationdate="20220407T104554Z">
         <seg>Payment method code (if COD), variable symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kódy PHM</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133709Z" creationid="kunes" creationdate="20220427T133709Z">
+        <seg>Fuel Codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kódy odborné způsobilosti</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133532Z" creationid="kunes" creationdate="20220427T133532Z">
+        <seg>Professional Qualifications</seg>
       </tuv>
     </tu>
     <tu>
@@ -9704,6 +9736,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato oprávnění lze následně přidělit vč. časové platnosti konkrétnímu řidiči</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133604Z" creationid="kunes" creationdate="20220427T133604Z">
+        <seg>These authorisations can then be assigned, including time validity, to a specific driver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato se použije pouze v případě, že použijete způsob platby s jiným protiúčtem než Pokladna (pokladny mají vlastní číselné řady viz &lt;g1&gt;Nastavení číselných řad pro příjmové a výdajové doklady&lt;/g1&gt;).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083427Z" creationid="kunes" creationdate="20220404T083343Z">
@@ -9748,6 +9788,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123020Z" creationid="kunes" creationdate="20220420T123020Z">
         <seg>This table is part of the supplied configuration package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato vazba je následně použita při vytváření nákupních faktur z výpisu čerpání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133722Z" creationid="kunes" creationdate="20220427T133722Z">
+        <seg>This link is then used when creating purchase invoices for purchase statements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9988,6 +10036,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114251Z" creationid="kunes" creationdate="20220419T114251Z">
         <seg>VAT Coeff. Posting Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Typy vozidel</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133745Z" creationid="kunes" creationdate="20220427T133745Z">
+        <seg>Vehicle Types</seg>
       </tuv>
     </tu>
     <tu>
@@ -13052,6 +13108,32 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
         <seg>Česká pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselník druhů paliv používaných ve vozidlech a s vazbou na karty, které jsou vám fakturovány jejich dodavateli (např. různé druhy pohonných hmot, poplatky,…).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133715Z" creationid="kunes" creationdate="20220427T133715Z">
+        <seg>A code list of the types of fuels used in vehicles and linked to the cards invoiced to you by their suppliers (e.g. different types of fuel, fees,...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselník reprezentující schopnosti/dovednosti/oprávnění řidičů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133547Z" creationid="kunes" creationdate="20220427T133547Z">
+        <seg>Code list representing drivers abilities/skills/authorizations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselník typů vozidel používaných ve vašem parku a členěných dle vašich potřeb
+&lt;x1/&gt;Typy vozidel&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133826Z" creationid="kunes" creationdate="20220427T133826Z">
+        <seg>Code list of vehicle types used in your fleet and broken down according to your needs
+&lt;x1/&gt;Vehicle Types&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
