@@ -953,6 +953,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;List deníku PHM&lt;/g1&gt; – je nutné vyplnit, budou-li z výpisů generovány deníky PHM.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135604Z" creationid="kunes" creationdate="20220427T135604Z">
+        <seg>&lt;g1&gt;Fuel Journal Batch&lt;/g1&gt; – it is necessary to fill in if fuel journals will be generated from the statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Manipulační jednotky&lt;/g1&gt; - Tabulka manipulačních jednotek paletové přepravy</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124747Z" creationid="kunes" creationdate="20220411T124747Z">
@@ -2207,10 +2215,34 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo dodavatele PHM&lt;/g1&gt; – needitovatelné, je zkopírováno ze stejného pole na kartě dodavatele (jedná se o číslo dodavatele PHM, které uvádí v elektronických výpisech, a které je kontrolováno při jejich importu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135509Z" creationid="kunes" creationdate="20220427T135509Z">
+        <seg>&lt;g1&gt;Fuel Vendor No.&lt;/g1&gt; – non-editable, it is copied from the same field on the supplier's card (this is the fuel supplier number that he states in the electronic statements and which is checked during their import).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo dodavatele&lt;/g1&gt; – je nutné vyplnit, budou-li z výpisů generovány nákupní faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135440Z" creationid="kunes" creationdate="20220427T135440Z">
+        <seg>&lt;g1&gt;Vendor No.&lt;/g1&gt; – Must be filled in if purchase invoices will be generated from statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Číslo varování&lt;/g1&gt; – určuje kdy chcete obdržet varování o blížícím se konci řady (nepovinné)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102719Z" creationid="kunes" creationdate="20220419T102719Z">
         <seg>&lt;g1&gt;Warning No.&lt;/g1&gt; – determines when you want to receive a warning about the approaching end of the series (optional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Šablona deníku PHM&lt;/g1&gt; – je nutné vyplnit, budou-li z výpisů generovány deníky PHM.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135545Z" creationid="kunes" creationdate="20220427T135545Z">
+        <seg>&lt;g1&gt;Fuel Journal Template&lt;/g1&gt; – must be filled in if fuel journals will be generated from the statements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2533,6 +2565,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102232Z" creationid="kunes" creationdate="20220406T102232Z">
         <seg>&lt;x1/&gt;General parameter template&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablony výpisu čerpání PHM - CSS&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135719Z" creationid="kunes" creationdate="20220427T135719Z">
+        <seg>&lt;x1/&gt;Refuelling Statement Template - CSS&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
