@@ -8054,6 +8054,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Přiřazení prvku je vázáno na &lt;g1&gt;Kód pro vykazování&lt;/g1&gt; a &lt;g2&gt;Typ pohybu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T101446Z" creationid="kunes" creationdate="20220427T101446Z">
+        <seg>Packing Elements Assignment is bound to &lt;g1&gt;Statement Code&lt;/g1&gt; and &lt;g2&gt;Movement Type&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Přiřazení způsobů plateb k uživatelům</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083447Z" creationid="kunes" creationdate="20220404T083345Z">
