@@ -725,6 +725,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence údržby&lt;/g1&gt; – sledování údržby vozidla vč. termínů příští údržby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125358Z" creationid="kunes" creationdate="20220427T125358Z">
+        <seg>&lt;g1&gt;Maintenance records&lt;/g1&gt; – monitoring of vehicle maintenance incl. dates of next maintenance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Export Výkazu DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142410Z" creationid="Janousek" creationdate="20210625T142410Z">
@@ -955,6 +963,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120523Z" creationid="kunes" creationdate="20220411T120523Z">
         <seg>&lt;g1&gt;Limit Response Time&lt;/g1&gt; – Specifies the timeout of communication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Měrné jednotky&lt;/g1&gt; – používané s tímto vozidlem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125340Z" creationid="kunes" creationdate="20220427T125340Z">
+        <seg>&lt;g1&gt;Units of measure&lt;/g1&gt; – used with this vehicle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,6 +1325,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091334Z" creationid="kunes" creationdate="20220419T091334Z">
         <seg>&lt;g1&gt;Unverified and Valid&lt;/g1&gt; – used typically for checking items for non-VAT payers, where a valid registration is actually an error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Náklady&lt;/g1&gt; – standardní náklady/ceny pro jednotlivé typy provozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125347Z" creationid="kunes" creationdate="20220427T125347Z">
+        <seg>&lt;g1&gt;Cost&lt;/g1&gt; – standard costs/prices for each type of operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1747,6 +1771,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Spotřeba&lt;/g1&gt; – standardní spotřeba vozidla pro jednotlivé typy provozu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125352Z" creationid="kunes" creationdate="20220427T125352Z">
+        <seg>&lt;g1&gt;Consumption&lt;/g1&gt; – standard vehicle consumption for individual types of operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Správa upozornění&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142034Z" creationid="Janousek" creationdate="20210625T142034Z">
@@ -1823,6 +1855,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082452Z" creationid="kunes" creationdate="20220404T082452Z">
         <seg>&lt;g1&gt;See: Assign payment methods to users.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vybavení&lt;/g1&gt; – vybavení jímž je jednotlivé vozidlo vybaveno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125334Z" creationid="kunes" creationdate="20220427T125334Z">
+        <seg>&lt;g1&gt;Equipment&lt;/g1&gt; – the equipment with which an individual vehicle is equipped.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,6 +2201,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115525Z" creationid="kunes" creationdate="20220420T115525Z">
         <seg>&lt;x1/&gt;Fakctoring card&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Karta vozidla&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125238Z" creationid="kunes" creationdate="20220427T125238Z">
+        <seg>&lt;x1/&gt;Vehicle Card&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3197,6 +3245,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112855Z" creationid="Janousek" creationdate="20210603T112855Z">
         <seg>Transport and logistics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Doprava základ - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125148Z" creationid="kunes" creationdate="20220427T125148Z">
+        <seg>Doprava základ - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -4481,6 +4537,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K vozidlu lze definovat další údaje:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125252Z" creationid="kunes" creationdate="20220427T125252Z">
+        <seg>Additional data can be defined for the vehicle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>K vozidlu lze evidovat informace o vozidlu jako vlastním, dále vazbu na přidělenou platební kartu (pro potřeby importu čerpání), přiděleného (výchozího řidiče) a vazby na další záznamy (Majetek, zdroj….)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125040Z" creationid="kunes" creationdate="20220427T125040Z">
@@ -4831,8 +4895,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Na kartě řidiče vypňte potřebné informace.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220427T125148Z" creationid="kunes" creationdate="20220427T123959Z">
-        <seg>Fill in the necessary information on the vehycle card.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125230Z" creationid="kunes" creationdate="20220427T123959Z">
+        <seg>Fill in the necessary information on the vehicle card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +8124,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102810Z" creationid="kunes" creationdate="20220419T102810Z">
         <seg>For more information, visit Number Series Links Setup. &lt;g1&gt;Settings - Application extension set&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zadání čerpání k vozidlům slouží „Výpis čerpání PHM“.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125450Z" creationid="kunes" creationdate="20220427T125450Z">
+        <seg>The "Refuelling Statement" is used to enter the fuel consumption for vehicles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11338,6 +11410,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122723Z" creationid="Janousek" creationdate="20210625T131654Z">
         <seg>Intrastat statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výpis čerpání PHM</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T125404Z" creationid="kunes" creationdate="20220427T125404Z">
+        <seg>Refuelling Statement</seg>
       </tuv>
     </tu>
     <tu>
