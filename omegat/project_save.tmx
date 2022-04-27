@@ -4003,6 +4003,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kombinaci těchto hodnot doplňuje &lt;g3&gt;Kód&lt;/g3&gt; určující pozici ve výkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T101505Z" creationid="kunes" creationdate="20220427T101505Z">
+        <seg>The combination of these values is complemented by &lt;g3&gt;Code&lt;/g3&gt; that determines the position in the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Koncové datum DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105219Z" creationid="kunes" creationdate="20220419T105219Z">
