@@ -1363,6 +1363,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Název&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134851Z" creationid="kunes" creationdate="20220427T134851Z">
+        <seg>&lt;g1&gt;Name&lt;/g1&gt; and &lt;g2&gt;Description&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Obecné parametry - nastavení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -2163,6 +2171,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133442Z" creationid="kunes" creationdate="20220427T133442Z">
         <seg>&lt;g1&gt;Vehicle Nos.&lt;/g1&gt; – a number series for creating vehicles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla vydaných výpisů&lt;/g1&gt; – číselná řada pro vydané výpisy čerpání PHM.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T135100Z" creationid="kunes" creationdate="20220427T135100Z">
+        <seg>&lt;g1&gt;Issued Statement Nos.&lt;/g1&gt; – number series for issued Refuelling Statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Čísla výpisů&lt;/g1&gt; – číselná řada pro výpisy čerpání PHM.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134928Z" creationid="kunes" creationdate="20220427T134928Z">
+        <seg>&lt;g1&gt;Statement Nos.&lt;/g1&gt; – number series for Refuelling Statement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10660,6 +10684,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113923Z" creationid="kunes" creationdate="20220411T113923Z">
         <seg>On the &lt;g1&gt;Shipment Attachments tab&lt;/g1&gt; click in the line and attach the previously manually generated PDF (pro-form invoice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V šabloně je nutné vyplnit následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134835Z" creationid="kunes" creationdate="20220427T134835Z">
+        <seg>You must fill in the following fields in the template:</seg>
       </tuv>
     </tu>
     <tu>
