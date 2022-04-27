@@ -6779,6 +6779,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g4&gt;Hmotnost&lt;/g4&gt; je vztaženo k měrné jednotce na řádku výkazu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T103817Z" creationid="kunes" creationdate="20220427T103817Z">
+        <seg>The &lt;g4&gt;Base Unit Weight&lt;/g4&gt; field is related to the unit of measure on the report line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole DIČ – režim OSS je možný jen pro zákazníky bez registrace, tedy s nevyplněným DIČ</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110209Z" creationid="kunes" creationdate="20220419T110209Z">
