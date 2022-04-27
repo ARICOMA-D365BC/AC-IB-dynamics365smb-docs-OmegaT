@@ -2415,6 +2415,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Typy provozu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134128Z" creationid="kunes" creationdate="20220427T134128Z">
+        <seg>&lt;x1/&gt;Operation Types&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Vytvoření objednávky&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104508Z" creationid="kunes" creationdate="20220407T104508Z">
@@ -8550,6 +8558,16 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro členění údržby vozidla dle vašich potřeb
+&lt;x1/&gt;Typy údržby&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133937Z" creationid="kunes" creationdate="20220427T133937Z">
+        <seg>To break down vehicle maintenance according to your needs
+&lt;x1/&gt;Maintenance Types&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Proces zpracování výpisu je z pohledu uživatele beze změn.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090616Z" creationid="kunes" creationdate="20220419T090616Z">
@@ -9172,6 +9190,16 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100813Z" creationid="kunes" creationdate="20220414T100813Z">
         <seg>The list of functions can be found on the right side of the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Seznam položek výbavy, které chcete evidovat pro vozidla
+&lt;x1/&gt;Vybavení vozidel&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133911Z" creationid="kunes" creationdate="20220427T133837Z">
+        <seg>List of equipment items you want to register for vehicles
+&lt;x1/&gt;Vehicle Equipment&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10040,10 +10068,26 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Typy provozu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133941Z" creationid="kunes" creationdate="20220427T133941Z">
+        <seg>Operation Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Typy vozidel</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133745Z" creationid="kunes" creationdate="20220427T133745Z">
         <seg>Vehicle Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Typy údržby</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133917Z" creationid="kunes" creationdate="20220427T133917Z">
+        <seg>Maintenance Types</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,6 +10820,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110408Z" creationid="kunes" creationdate="20220419T110408Z">
         <seg>Purchase advance overpayment refund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vybavení vozidla</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T133834Z" creationid="kunes" creationdate="20220427T133834Z">
+        <seg>Vehicle Equipment</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13172,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Číselník je možné použít ke stanovování různých nákladů a normovaných spotřeb u vozidel v závislosti na typu vozidla.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134121Z" creationid="kunes" creationdate="20220427T134121Z">
+        <seg>The list can be used to determine different costs and standardised vehicle consumption depending on the vehicle type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Číselník reprezentující schopnosti/dovednosti/oprávnění řidičů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133547Z" creationid="kunes" creationdate="20220427T133547Z">
@@ -13190,6 +13250,22 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121553Z" creationid="kunes" creationdate="20220420T121553Z">
         <seg>Factoring Templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony knihy jízd</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134136Z" creationid="kunes" creationdate="20220427T134136Z">
+        <seg>Drive Journal Templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony umožnují definovat deník pro určitý záznam – například řidič, nebo vozidlo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220427T134201Z" creationid="kunes" creationdate="20220427T134201Z">
+        <seg>Templates allow you to define a Drive Journal for a specific entry - for example, a driver or a vehicle.</seg>
       </tuv>
     </tu>
     <tu>
