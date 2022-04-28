@@ -965,8 +965,8 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kód nutný&lt;/g1&gt; – Pokud do pole Kontrola hodnoty zadáte tuto možnost, systém bude kontrolovat, zda je v poli (které jste zadali do pole ID pole) vyplněna libovolná hodnota.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T095519Z" creationid="kunes" creationdate="20220428T095519Z">
-        <seg>&lt;g1&gt;Kód nutný&lt;/g1&gt; – Pokud do pole Kontrola hodnoty zadáte tuto možnost, systém bude kontrolovat, zda je v poli (které jste zadali do pole ID pole) vyplněna libovolná hodnota.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095627Z" creationid="kunes" creationdate="20220428T095519Z">
+        <seg>&lt;g1&gt;Code Mandatory&lt;/g1&gt; – If you enter this option in the Check value field, the system will check if any value is entered in the field (which you entered in the field Field No.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,6 +1521,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Porovnat hodnotu&lt;/g1&gt; - Při výběru této možnosti, systém porovnává hodnotu v daném poli s hodnotou vyplněnou v poli &lt;g2&gt;Hodnota&lt;/g2&gt; na stránce Kontrolovaná pole Řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095814Z" creationid="kunes" creationdate="20220428T095814Z">
+        <seg>&lt;g1&gt;Compare Value&lt;/g1&gt; - When you select this option, the system compares the value in the field with the value filled in the &lt;g2&gt;Value&lt;/g2&gt; field on the Status Management Checked Fields page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Poslední synchronizace master dat&lt;/g1&gt; – Datum poslední synchronizace master dat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124452Z" creationid="kunes" creationdate="20220411T124452Z">
@@ -1867,6 +1875,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143217Z" creationid="Janousek" creationdate="20210625T142429Z">
         <seg>&lt;g1&gt;Settings - Statutory statements&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Stejný kód&lt;/g1&gt; – Tato možnost označuje, že v poli (které je vyplněno v poli ID pole) musí být vyplněna stejná hodnota jako v poli &lt;g2&gt;Hodnota&lt;/g2&gt; na stránce Kontrolovaná pole Řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095710Z" creationid="kunes" creationdate="20220428T095710Z">
+        <seg>&lt;g1&gt;Same Code&lt;/g1&gt; – This option indicates that the field (which is populated in the Field ID field) must be filled with the same value as the &lt;g2&gt;Value&lt;/g2&gt; field on the Controlled Fields page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2301,6 +2317,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103735Z" creationid="kunes" creationdate="20220419T103735Z">
         <seg>&lt;g1&gt;Item Register - Value&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Žádný kód&lt;/g1&gt; – v poli (které je vyplněno v poli ID pole) nesmí být při přechodu do daného stavu nic vyplněno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095742Z" creationid="kunes" creationdate="20220428T095742Z">
+        <seg>&lt;g1&gt;No Code&lt;/g1&gt; – The field (which is filled in the field Field No.) must not be filled in when entering the given state.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,6 +7417,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je pole libovolně vyplněno, tak se bude dát přepnout stav do daného stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095634Z" creationid="kunes" creationdate="20220428T095634Z">
+        <seg>If the field is filled in arbitrarily, it will be possible to switch the state to the given state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je toto chování vhodné pouze pro některé případy, je třeba pro ně míst vydefinované zvláštní DPH účtoskupiny (zboží).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115506Z" creationid="kunes" creationdate="20220419T115506Z">
@@ -8890,6 +8922,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Proto musí být pole Hodnota, při výběru této možnosti, vyplněno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095820Z" creationid="kunes" creationdate="20220428T095820Z">
+        <seg>Therefore, the Value field must be filled in when you select this option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Proto, aby v systému bylo co nejvíce informací o vybraném partnerovi, jsou informace importovány přes webovou službu Creditcheck ERP viz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100908Z" creationid="kunes" creationdate="20220414T100908Z">
@@ -9280,6 +9320,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122745Z" creationid="kunes" creationdate="20220420T122745Z">
         <seg>The difference from the standard functionality is in the structure of the file with the extension .xml generated for the purposes of Slovak reporting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozdíl vůči možnosti Stejný kód je v tom, že v poli &lt;g3&gt;Podmínka&lt;/g3&gt; porovnání můžete zvolit metodu porovnání (Rovná se, Nerovná se, Menší než, Menší než nebo rovno, Větší než, Větší než nebo rovno).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095922Z" creationid="kunes" creationdate="20220428T095922Z">
+        <seg>The difference to the Same Code option is that in the &lt;g3&gt;Condition&lt;/g3&gt; field of the comparison you can select the comparison method (Equal, Not Equal, Less than, Less than or Equal, Greater than, Greater than or Equal).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10910,6 +10958,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111104Z" creationid="kunes" creationdate="20220411T111104Z">
         <seg>At this point, the shipment number is removed from the carrier and the label is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V tomhle případe, nemůžete vyplnit pole Podmínka porovnání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095720Z" creationid="kunes" creationdate="20220428T095720Z">
+        <seg>In this case, you can't fill in the Compare Condition field.</seg>
       </tuv>
     </tu>
     <tu>
