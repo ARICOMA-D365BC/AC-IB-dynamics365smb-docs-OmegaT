@@ -69,7 +69,7 @@ Pokud klikněte na funkci Kontrolované tabulky, otevře se stránka Kontrolovan
 
 
 
-**Viz také**
+## Viz také
 
 [WorkFlow - řízení stavů](ac-workflow-status-management.md)  
 [Productivity Pack](ac-productivity-pack.md)
