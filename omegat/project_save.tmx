@@ -4397,6 +4397,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je to obdobná funkce jako Akce Řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100822Z" creationid="kunes" creationdate="20220428T100822Z">
+        <seg>It is a similar feature to the Status Management Actions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je však možné hodnoty definovat i u parametrů zadávaných Ručním vstupem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101643Z" creationid="kunes" creationdate="20220406T101643Z">
@@ -5813,6 +5821,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103227Z" creationid="kunes" creationdate="20220419T103227Z">
         <seg>The Set Processing Order feature has been added to the Configuration Workbook and Configuration Package Tab pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na této stránce je potřebné vyplnit pole &lt;g3&gt;Code&lt;/g3&gt;, &lt;g4&gt;ID tabulky&lt;/g4&gt;, v které chcete zkontrolovat nějaké pole, &lt;g5&gt;Metoda kontroly tabulky&lt;/g5&gt; a popřípadě pole &lt;g6&gt;Hodnota&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T102027Z" creationid="kunes" creationdate="20220428T102027Z">
+        <seg>On this page, you need to fill in the &lt;g3&gt;Code&lt;/g3&gt; field, &lt;g4&gt;Table ID&lt;/g4&gt; in which you want to check a field, the &lt;g5&gt;Table Checking Condition&lt;/g5&gt;, and possibly the &lt;g6&gt;Value&lt;/g6&gt; field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7537,6 +7553,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud klikněte na funkci Kontrolované tabulky, otevře se stránka Kontrolované tabulky Řízení stavů, kde je automaticky vyplněno pole &lt;g1&gt;Kód šablony&lt;/g1&gt; a &lt;g2&gt;Kód stavu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100948Z" creationid="kunes" creationdate="20220428T100948Z">
+        <seg>If you click the Checked Tables feature, the Status management Checked Tables page opens, where the &lt;g1&gt;Template Code&lt;/g1&gt; and &lt;g2&gt;Status Code&lt;/g2&gt; fields are automatically populated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud má hodnotu ANO  položku do kontrolního výkazu nevybere (nepřenese se do xml a nereportuje se na Finanční správu).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114900Z" creationid="kunes" creationdate="20220421T114900Z">
@@ -7805,6 +7829,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104226Z" creationid="kunes" creationdate="20220407T104226Z">
         <seg>With this extension, the process of processing and creating shipments sent to customers is accelerated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí této funkce můžete ověřit či je pole na jiné stránce nastaveno tak, jak je potřebné při přechodu, do daného stavu, na kterém tuto funkci využíváte.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100914Z" creationid="kunes" creationdate="20220428T100914Z">
+        <seg>With this function, you can verify or a field on another page is set as needed when you transition to the state where you are using this feature.</seg>
       </tuv>
     </tu>
     <tu>
