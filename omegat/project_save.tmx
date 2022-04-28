@@ -10530,6 +10530,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tento kód je součástí XML dokumentu a na jeho základě se rozeznává, zda dokument může počkat se zpracováním.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114419Z" creationid="kunes" creationdate="20220428T114419Z">
+        <seg>This code is part of the XML document and is used to determine whether the document can wait for processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tento modul pak doplňuje pouze rozdílové funkcionality, pro pokrytí specifických požadavků slovenské legislativy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135249Z" creationid="Janousek" creationdate="20210625T135249Z">
