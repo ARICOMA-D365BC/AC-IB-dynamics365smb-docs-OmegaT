@@ -8277,6 +8277,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro každý stav (řádek na stránce Stavy Řízení stavů) je možné nadefinovat pole, která se budou kontrolovat při přechodu do daného stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095303Z" creationid="kunes" creationdate="20220428T094619Z">
+        <seg>For each state (the row on the Status Management States page), you can define fields to check when you enter that state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro každý stav Řízení stavů je třeba nadefinovat &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Filtr dalšího stavu&lt;/g3&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094129Z" creationid="kunes" creationdate="20220428T094129Z">
