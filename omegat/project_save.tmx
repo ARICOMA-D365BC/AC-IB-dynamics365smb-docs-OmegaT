@@ -6251,6 +6251,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení šablony řízení stavů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092706Z" creationid="kunes" creationdate="20220428T092706Z">
+        <seg>Set up a state management template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavit Kurzovní lístek pro zemi plnění.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105426Z" creationid="kunes" creationdate="20220419T105426Z">
@@ -11562,6 +11570,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony řízení stavů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092848Z" creationid="kunes" creationdate="20220428T092848Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Status Management Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu Žárovky, která otevře funkci Řekněte mi , zadejte &lt;g2&gt;Správa funkcí&lt;/g2&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112454Z" creationid="kunes" creationdate="20220419T112454Z">
@@ -13388,6 +13404,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112903Z" creationid="Janousek" creationdate="20210603T112903Z">
         <seg>Project and order management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řízení stavů - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092630Z" creationid="kunes" creationdate="20220428T092630Z">
+        <seg>WorkFlow - State Management - Setup</seg>
       </tuv>
     </tu>
     <tu>
