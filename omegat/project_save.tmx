@@ -13826,6 +13826,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Řízení stavů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T105942Z" creationid="kunes" creationdate="20220428T105942Z">
+        <seg>WorkFlow - State Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Řízení stavů - Nastavení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092630Z" creationid="kunes" creationdate="20220428T092630Z">
