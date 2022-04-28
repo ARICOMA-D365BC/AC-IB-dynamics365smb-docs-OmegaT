@@ -106,7 +106,7 @@ V tomhle nastavení je možné nadefinovat jednotlivé způsoby řešení požad
 
 Pro založení šabloby workflow je nutný **addon Řízení stavů**, který musíte mít nainstalován.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony řízení stavů** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Status Management Templates** and then choose the related link.
 2. Na stránce **Šablony řízení stavů** vyplňte pole na řádku **Kód**, **Popis** a **Číslo tabulky (52068298)**.
 3. V panely funkcí klikněte na **Stavy řízení stavů** pro nastavení jednotlivých stavů.
    - Pro stav workflow je třeba nadefinovat **Kód**, **Popis** a **Filtr dalšího stavu**, který určuje, do jakých dalších stavů je možné z daného stavu přejít. Jeden ze stavů musí být označen jako **Výchozí stav** – ten se vyplní při založení nového helpdesk požadavku. Některé stavy mohou být označeny jako **Konečný stav**, z něhož se už nepokračuje do dalšího stavu.

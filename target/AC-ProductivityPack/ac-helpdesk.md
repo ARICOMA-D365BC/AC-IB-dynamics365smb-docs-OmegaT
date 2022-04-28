@@ -69,7 +69,7 @@ Při zpracování HelpDesk požadavku se na kartě požadavku na záložce Zprac
 
 Délka **Trvání** se zadává ve dnech, hodinách, minutách, sekundách, příp. milisekundách, a to buď přímo vypsáním čísla a jednotky (lze použít zkratku počátku slova – např. d=den, m=minuta, mil=milisekunda apod.) nebo zadáním pouze čísla, které je interpretováno jako údaj v hodinách. Např. údaj 28,35 je převeden na 1 den 4 hodiny 21 minuty.
 
-### Změna stavu
+### Status change
 
 Pokud máte správně zadané informace na záložce Řešení múžete pro přechod do další fáze řešení požadavku stisknout funkci **Proces → Změna stavu**.
 

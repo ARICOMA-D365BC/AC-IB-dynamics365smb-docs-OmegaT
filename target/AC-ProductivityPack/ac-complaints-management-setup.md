@@ -61,15 +61,15 @@ Příklad vytvořené číselné řady **(detailněji viz. modul - Číselné ř
 
 Pokud chcete používat modul **Reklamace** je potřebné správně nastavit i modul **Workflow (Řízení stavů)**.
 
-### Nastavení šablony řízení stavů
+### Set up a state management template
 
 Nejprve je třeba nastavit šablonu řízení stavů *(detailněji viz. modul - Workflow)*.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony řízení stavů** a poté vyberte související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Status Management Templates** and then choose the related link.
 2. Na stránce **Šablony řízení stavů** zvolte funkci **Nový**.
 3. Vyplňte pole **Code** a **Popis**.
 4. Do pole **Číslo tabulky** zadejte číslo **52068271** (číslo tabulky Hlavička reklamace).
-5. Pokud chcete, aby se automaticky logovaly změny, zaškrtněte políčko **Logovat změny**.
+5. If you want changes to be automatically logged, select the **Log changes** check box.
    ![Šablona řízení stavů](media/complaints-status_management.png)
 6. Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na funkci **Šablona** →**Stavy Řízení stavů**.
    ![Stavy řízení stavů](media/complaints-status_mgt._statuses.png)
