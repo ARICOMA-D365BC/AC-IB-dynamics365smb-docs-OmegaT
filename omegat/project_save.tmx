@@ -2433,6 +2433,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení Řízení stavů - šablony Řízení stavů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T093032Z" creationid="kunes" creationdate="20220428T093032Z">
+        <seg>&lt;x1/&gt;State Management - Status Management Templates&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Obecné parametry karty&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
@@ -5457,6 +5465,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony řízení stavů&lt;/g1&gt; zvolte akci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092913Z" creationid="kunes" creationdate="20220428T092913Z">
+        <seg>On the &lt;g1&gt;Status Management Templates&lt;/g1&gt; page choose &lt;g2&gt;New&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Žurnály zboží&lt;/g1&gt; jsou doplněny sestavy:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103708Z" creationid="kunes" creationdate="20220419T103708Z">
@@ -7273,6 +7289,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na akci &lt;g1&gt;Šablona&lt;/g1&gt; a pak &lt;g2&gt;Stavy Řízení stavů&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T093906Z" creationid="kunes" creationdate="20220428T093906Z">
+        <seg>To specify individual states for the newly created State Management, click the &lt;g1&gt;Template&lt;/g1&gt; action, and then click &lt;g2&gt;Status Mgt. States&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete změnit výsledek, změňte nastavení a funkci pro vytvoření řádků spusťte znovu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102831Z" creationid="kunes" creationdate="20220414T102831Z">
@@ -7285,6 +7309,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113411Z" creationid="kunes" creationdate="20220411T113411Z">
         <seg>If you want to view individual shipment statuses from the shipper, use the &lt;g1&gt;Track Status&lt;/g1&gt; function on the shipment overview to open the individual shipment status page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete, aby se automaticky logovaly změny, zaškrtněte políčko &lt;g1&gt;Logovat změny&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092945Z" creationid="kunes" creationdate="20220428T092945Z">
+        <seg>If you want changes to be automatically logged, select the &lt;g1&gt;Log changes&lt;/g1&gt; check box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11742,6 +11774,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130723Z" creationid="kunes" creationdate="20220420T130723Z">
         <seg>Fill in the Return Date and Reconcile Date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte pole &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Číslo tabulky&lt;/g3&gt; (pro kterou bude šablona nastavena).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T092932Z" creationid="kunes" creationdate="20220428T092932Z">
+        <seg>Fill in the &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Table No.&lt;/g3&gt; fields (for which the template will be set).</seg>
       </tuv>
     </tu>
     <tu>
