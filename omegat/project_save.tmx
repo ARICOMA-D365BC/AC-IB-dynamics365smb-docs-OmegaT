@@ -2137,6 +2137,16 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;WorkFlow - řízení stavů&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T102037Z" creationid="kunes" creationdate="20220428T102037Z">
+        <seg>&lt;g1&gt;WorkFlow - Status management&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Zaznamenání stavu pohledávky&lt;/g1&gt;
 Pole Stav pohledávky, umístěné na stránce Informace o pohledávce, slouží k zaznamenání stavu vymáhání.</seg>
       </tuv>
