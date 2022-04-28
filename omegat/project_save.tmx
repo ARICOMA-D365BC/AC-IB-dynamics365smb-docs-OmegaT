@@ -593,6 +593,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Centrální databáze&lt;/g1&gt; – interně používané pole určující, zda je firma sama centrální databází.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111402Z" creationid="kunes" creationdate="20220428T111337Z">
+        <seg>&lt;g1&gt;Central Database&lt;/g1&gt; – an internally used field that determines whether the company is itself a central databas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142207Z" creationid="Janousek" creationdate="20210625T142207Z">
@@ -839,6 +847,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125045Z" creationid="kunes" creationdate="20220411T125045Z">
         <seg>&lt;g1&gt;Weight on line&lt;/g1&gt; - Weight must be filled in the shipment line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID Systému&lt;/g1&gt; – slouží k identifikaci systému - název firmy, jak bude používán v oblasti komunikací (důležité je správné nastavení tohoto názvu i v ostatních kooperujících firmách).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111234Z" creationid="kunes" creationdate="20220428T111234Z">
+        <seg>&lt;g1&gt;System ID&lt;/g1&gt; – used to identify the system - the name of the company as it will be used in the field of communications (it is important to set this name correctly in other cooperating companies).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID systému centrální databáze&lt;/g1&gt; – název firmy, která slouží jako řídící pro komunikačně-synchronizační proces.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111310Z" creationid="kunes" creationdate="20220428T111310Z">
+        <seg>&lt;g1&gt;Central Database System ID&lt;/g1&gt; – the name of the company that serves as the controller for the communication-synchronization process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,6 +1939,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120439Z" creationid="kunes" creationdate="20220411T120439Z">
         <seg>&lt;g1&gt;Print Handover After Order&lt;/g1&gt; – Automatic print of Handover protocols after collection order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Typ procesu&lt;/g1&gt; – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (&lt;g2&gt;viz nastavení spooleru&lt;/g2&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111503Z" creationid="kunes" creationdate="20220428T111503Z">
+        <seg>&lt;g1&gt;Process type&lt;/g1&gt; set up the code that corresponds to the code specified in the spooler task settings in the Process Type field (&lt;g2&gt;see Spooler Setup&lt;/g2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,6 +4529,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedna firma může přijímat nastavení od centrální databáze a zároveň být sama centrální databází pro jiné firmy = v systému může být více centrálních databází.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111338Z" creationid="kunes" creationdate="20220428T111333Z">
+        <seg>One company can receive settings from the central database and at the same time be the central database for other companies = there can be multiple central databases in the system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedno expediční místo může být přiřazeno jedné lokaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113557Z" creationid="kunes" creationdate="20220411T113557Z">
@@ -6175,6 +6215,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení je zásadní pro rozhodování o zasílání synchronizovaných dat a o kontrolách.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111420Z" creationid="kunes" creationdate="20220428T111420Z">
+        <seg>The setting is crucial for decisions about sending synchronized data and about checks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení kontrol směnných kurzů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112904Z" creationid="kunes" creationdate="20220419T112904Z">
@@ -6989,6 +7037,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130823Z" creationid="kunes" creationdate="20220411T130823Z">
         <seg>&lt;g1&gt;The Installed Extensions&lt;/g1&gt; page opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení centrální databáze&lt;/g1&gt;, kde nastavíte následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111215Z" creationid="kunes" creationdate="20220428T111215Z">
+        <seg>The &lt;g1&gt;Central Database Setup&lt;/g1&gt; page opens, where you set the following fields:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10278,6 +10334,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
 |SharePoint Publishing allows you to publish documents directly from within Dynamics 365 Business Central to a central SharePoint data store, file system, or Dynamics 365 Business Central database and link them to records in information system tables.|&lt;g7&gt;SharePoint publishing&lt;/g7&gt;|
 |A component that provides on-line or periodic bi-directional communication or synchronization of data between Dynamics 365 Business Central and other systems through different communication channels, in different formats, and for any purpose.|&lt;g8&gt;Spooler&lt;/g8&gt;|
 |Central Database allow you to synchronize data between different Business Central databases and companies via the Spooler add-on module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato firma stanovuje nastavení pro “podřízené” firmy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111319Z" creationid="kunes" creationdate="20220428T111319Z">
+        <seg>This company sets settings for "subordinate" companies.</seg>
       </tuv>
     </tu>
     <tu>
