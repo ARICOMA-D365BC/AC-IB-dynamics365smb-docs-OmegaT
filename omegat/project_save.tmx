@@ -2433,6 +2433,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení Řízení stavů - stavy Řízení stavů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094250Z" creationid="kunes" creationdate="20220428T094250Z">
+        <seg>&lt;x1/&gt;Status Management Settings - State Control Statuses&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení Řízení stavů - šablony Řízení stavů&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T093032Z" creationid="kunes" creationdate="20220428T093032Z">
@@ -6499,6 +6507,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Některé stavy mohou být označeny jako &lt;g1&gt;Konečný stav&lt;/g1&gt;, z něhož se už nepokračuje do žádného dalšího stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094209Z" creationid="kunes" creationdate="20220428T094209Z">
+        <seg>Some states may be labeled as &lt;g1&gt;Final Status&lt;/g1&gt;, from which no further state is continued.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>OSS – EU režim</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115352Z" creationid="kunes" creationdate="20220419T115352Z">
@@ -8013,6 +8029,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro aktivní řádek na stránce &lt;g1&gt;Stavy Řízení stavů&lt;/g1&gt; lze pomocí funkce &lt;g2&gt;Stav&lt;/g2&gt; specifikovat:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094457Z" creationid="kunes" creationdate="20220428T094255Z">
+        <seg>For the active row on the &lt;g1&gt;Status Management States page&lt;/g1&gt;, you can use the &lt;g2&gt;Status&lt;/g2&gt; function to specify:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro aktivování slovenských funkčností jsou potřebná tato nastavení, využijte následující postup:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122750Z" creationid="kunes" creationdate="20220420T122750Z">
@@ -8866,6 +8890,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Právě jeden ze stavů musí být označen jako &lt;g4&gt;Výchozí stav&lt;/g4&gt; (zaškrtnutím tlačítka Výchozí stav).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094149Z" creationid="kunes" creationdate="20220428T094149Z">
+        <seg>Just one of the states must be marked as &lt;g4&gt;Default Status&lt;/g4&gt; (by checking the Default Status button).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Průvodce vložení obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123109Z" creationid="kunes" creationdate="20220405T123109Z">
@@ -9088,6 +9120,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132905Z" creationid="kunes" creationdate="20220420T132905Z">
         <seg>You can see an example in the picture below:
 &lt;x1/&gt;Import of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Příklad nastavení stavů pro Řízení stavů je zobrazen na obrázku níže.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094214Z" creationid="kunes" creationdate="20220428T094214Z">
+        <seg>An example of state settings for State Control is shown in the figure below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,6 +10082,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112923Z" creationid="kunes" creationdate="20220411T112923Z">
         <seg>This status is not structured and is only informative without detail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento stav se pak automaticky vyplní při založení nového řádku tabulky, s kterou řízení stavů pracuje (dokument, požadavek, atd.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094157Z" creationid="kunes" creationdate="20220428T094157Z">
+        <seg>This state is then automatically filled in when a new row is created in the table with which the state control works (document, request, etc.).</seg>
       </tuv>
     </tu>
     <tu>
