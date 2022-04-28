@@ -3437,6 +3437,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do textu je možné vkládat kódy, které se při odeslání mailu nahradí obsahem polí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100501Z" creationid="kunes" creationdate="20220428T100501Z">
+        <seg>It is possible to insert codes into the text, which are replaced by the contents of the fields when you send the mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dobropis servisu,</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110049Z" creationid="kunes" creationdate="20220419T110049Z">
@@ -4789,6 +4797,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kontrolované tabulky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100525Z" creationid="kunes" creationdate="20220428T100525Z">
+        <seg>Checked Tables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kontroly a omezení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113427Z" creationid="kunes" creationdate="20220411T113427Z">
@@ -4929,6 +4945,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133532Z" creationid="kunes" creationdate="20220427T133532Z">
         <seg>Professional Qualifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kódy se definují pomocí funkce Pole mailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100512Z" creationid="kunes" creationdate="20220428T100512Z">
+        <seg>Codes are defined using the Mail Fields function</seg>
       </tuv>
     </tu>
     <tu>
@@ -10098,6 +10122,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103234Z" creationid="kunes" creationdate="20220419T103234Z">
         <seg>This function suggests the order in which the individual packages should be processed, taking into account the interrelationships (the Field Order and Table Order fields in the Configuration Workbook).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato funkce pomáhá kontrolovat nastavené pole na jiné stránce (v jiné tabulce, jako je tabulka, v které aktuálně pracujete).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100803Z" creationid="kunes" creationdate="20220428T100803Z">
+        <seg>This feature helps you check the field you set on another page (in a different table, such as the table you're currently working in).</seg>
       </tuv>
     </tu>
     <tu>
