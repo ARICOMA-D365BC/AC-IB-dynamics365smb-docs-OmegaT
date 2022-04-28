@@ -8205,6 +8205,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro každý stav Řízení stavů je třeba nadefinovat &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Filtr dalšího stavu&lt;/g3&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094129Z" creationid="kunes" creationdate="20220428T094129Z">
+        <seg>For each Status management state, you must define a &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Next status filter&lt;/g3&gt; that determines what other states can be accessed from that state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro každý založený výkaz je nutno nadefinovat jeho prvky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121030Z" creationid="kunes" creationdate="20220427T121030Z">
