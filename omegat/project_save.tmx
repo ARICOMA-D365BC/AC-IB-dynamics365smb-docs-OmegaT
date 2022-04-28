@@ -963,6 +963,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kód nutný&lt;/g1&gt; – Pokud do pole Kontrola hodnoty zadáte tuto možnost, systém bude kontrolovat, zda je v poli (které jste zadali do pole ID pole) vyplněna libovolná hodnota.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095519Z" creationid="kunes" creationdate="20220428T095519Z">
+        <seg>&lt;g1&gt;Kód nutný&lt;/g1&gt; – Pokud do pole Kontrola hodnoty zadáte tuto možnost, systém bude kontrolovat, zda je v poli (které jste zadali do pole ID pole) vyplněna libovolná hodnota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kód pro vykazování&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121318Z" creationid="kunes" creationdate="20220427T121318Z">
@@ -8279,8 +8287,8 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="cs-CZ">
         <seg>Pro každý stav (řádek na stránce Stavy Řízení stavů) je možné nadefinovat pole, která se budou kontrolovat při přechodu do daného stavu.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T095303Z" creationid="kunes" creationdate="20220428T094619Z">
-        <seg>For each state (the row on the Status Management States page), you can define fields to check when you enter that state.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095317Z" creationid="kunes" creationdate="20220428T094619Z">
+        <seg>For each state (the row on the Status Management Statuses page), you can define fields to check when you enter that state.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8313,6 +8321,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114247Z" creationid="kunes" creationdate="20220419T114247Z">
         <seg>For combinations of VAT account groups, where the reduction of the input VAT coefficient will be solved, it must be set (among other things):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro kontrolovaná pole je nutné vyplnit minimálně &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;ID pole&lt;/g2&gt; (kde se zaznamenává pole, které by mělo být kontrolováno) a pole &lt;g3&gt;Kontrola hodnoty&lt;/g3&gt; (udává, jaký typ kontroly bude prováděn při nastavení daného stavu):</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095534Z" creationid="kunes" creationdate="20220428T095311Z">
+        <seg>For the fields to be checked, it is necessary to fill in at least &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Fields No.&lt;/g2&gt; (where the field that should be checked is recorded) and the &lt;g3&gt;Value Checking&lt;/g3&gt; field (indicates what type of check will be performed when the state is set):</seg>
       </tuv>
     </tu>
     <tu>
