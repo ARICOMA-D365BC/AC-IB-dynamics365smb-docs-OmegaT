@@ -1945,8 +1945,8 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Typ procesu – okamžitá odpověď&lt;/g1&gt; – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (&lt;g2&gt;viz nastavení spooleru&lt;/g2&gt;).</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T114615Z" creationid="kunes" creationdate="20220428T114615Z">
-        <seg>&lt;g1&gt;Process Type - setting of the code that corresponds to the code specified in the spooler task settings in the Process Type field (&lt;g2&gt;see spooler settings&lt;/g2&gt;).</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114621Z" creationid="kunes" creationdate="20220428T114615Z">
+        <seg>&lt;g1&gt;Process Type - setting of the code that corresponds to the code specified in the spooler task settings in the Process Type field (&lt;g2&gt;see Spooler settings&lt;/g2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6095,6 +6095,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Cílových systémů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114758Z" creationid="kunes" creationdate="20220428T114758Z">
+        <seg>Set up Destination Systems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení Hierarchického návrhu prodejních cen</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112214Z" creationid="kunes" creationdate="20220419T112204Z">
@@ -7479,6 +7487,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121548Z" creationid="kunes" creationdate="20220420T121548Z">
         <seg>After filling in the fields, you can close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po vyplnění polí stránku zavřete.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114726Z" creationid="kunes" creationdate="20220428T114726Z">
+        <seg>After you fill in the fields, close the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10542,6 +10558,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T114419Z" creationid="kunes" creationdate="20220428T114419Z">
         <seg>This code is part of the XML document and is used to determine whether the document can wait for processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento kód je součástí XML dokumentu a na jeho základě se rozeznává, zda se dokument musí ihned zpracovat a odeslat odpověď.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114719Z" creationid="kunes" creationdate="20220428T114619Z">
+        <seg>This code is part of the XML document and uses it to identify whether the document must be processed immediately and a response sent.</seg>
       </tuv>
     </tu>
     <tu>
