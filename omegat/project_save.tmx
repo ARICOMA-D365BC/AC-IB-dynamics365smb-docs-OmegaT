@@ -6031,10 +6031,18 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Centrální databáze</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111109Z" creationid="kunes" creationdate="20220428T111109Z">
+        <seg>Central Database Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení Centrálních číselníků</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220331T090238Z" creationid="Janousek" creationdate="20220331T090238Z">
-        <seg>[přibližně]&lt;g1&gt;Settings - Central Database&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111100Z" creationid="Janousek" creationdate="20220331T090238Z">
+        <seg>Settings - Central Database</seg>
       </tuv>
     </tu>
     <tu>
@@ -9084,6 +9092,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro základní nastavení centrální databáze pokračujte podle následujícícho postupu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111124Z" creationid="kunes" creationdate="20220428T111119Z">
+        <seg>For basic setup of the central database, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro úpravu/smazání informací zásilky, musí být zásilka ve stavu &lt;g3&gt;Ke svozu&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111014Z" creationid="kunes" creationdate="20220411T111014Z">
@@ -11762,6 +11778,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123807Z" creationid="kunes" creationdate="20220411T123807Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Parcels setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení centrální databáze&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T111145Z" creationid="kunes" creationdate="20220428T111123Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Central Database Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
