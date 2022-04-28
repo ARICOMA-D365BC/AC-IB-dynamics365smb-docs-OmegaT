@@ -1943,6 +1943,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Typ procesu – okamžitá odpověď&lt;/g1&gt; – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (&lt;g2&gt;viz nastavení spooleru&lt;/g2&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114615Z" creationid="kunes" creationdate="20220428T114615Z">
+        <seg>&lt;g1&gt;Process Type - setting of the code that corresponds to the code specified in the spooler task settings in the Process Type field (&lt;g2&gt;see spooler settings&lt;/g2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Typ procesu&lt;/g1&gt; – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (&lt;g2&gt;viz nastavení spooleru&lt;/g2&gt;).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111503Z" creationid="kunes" creationdate="20220428T111503Z">
