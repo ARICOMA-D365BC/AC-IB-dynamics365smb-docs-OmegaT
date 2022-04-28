@@ -7207,6 +7207,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po dokončení operace je aktualizován &lt;g1&gt;Kód stavu Řízení stavů&lt;/g1&gt; na kartě úlohy, dokladu nebo záznamu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110439Z" creationid="kunes" creationdate="20220428T110439Z">
+        <seg>When the operation is complete, the &lt;g1&gt;Status Management Status Code&lt;/g1&gt; on the Job, Document, or Record tab is updated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po dokončení úprav zavřete okno.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115049Z" creationid="kunes" creationdate="20220421T115049Z">
@@ -7227,6 +7235,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123840Z" creationid="kunes" creationdate="20220420T123840Z">
         <seg>After import, a new line appears on the &lt;g1&gt;XML Schemas&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po kliknutí na tuto funkci se nabídnou další stavy řízení stavů, které podle definice filtru dalšího stavu připadají v úvahu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110428Z" creationid="kunes" creationdate="20220428T110428Z">
+        <seg>When you click on this function, additional state control states are offered, which according to the definition of the next state filter are considered.</seg>
       </tuv>
     </tu>
     <tu>
