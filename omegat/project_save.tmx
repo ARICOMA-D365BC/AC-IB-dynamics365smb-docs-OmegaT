@@ -2807,6 +2807,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Řízení stavů&lt;/g1&gt; přidává do systému Microsoft Dynamics 365 Business Central nástroje pro řízení stavů při postupném zpracování úloh jedním či více uživateli.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110002Z" creationid="kunes" creationdate="20220428T110002Z">
+        <seg>The &lt;g1&gt;State Management&lt;/g1&gt; add-on adds status management tools to Microsoft Dynamics 365 Business Central as one or more users process jobs sequentially.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul Faktoring rozšiřuje možnosti oblasti Správa financí systému Dynamics 365 Business Central o možnost evidence a účtování postoupení pohledávek a vytváření faktoringových smluv.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T114748Z" creationid="kunes" creationdate="20220420T114748Z">
@@ -2819,6 +2827,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T110639Z" creationid="Janousek" creationdate="20210603T110639Z">
         <seg>Add-on modul Sada rozšíření pro Finance obsahuje společné funkce pro podporu fungování ostatních add-on modulů balíčku rozšíření financí a současně obsahuje některé doplňující funkce jako:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Add-on Řízení stavů je především o správném nastavení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110057Z" creationid="kunes" creationdate="20220428T110057Z">
+        <seg>The Status Management add-on is all about the correct settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7475,6 +7491,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete tenhle add-on používat, tak hlavnou z funkčností je změna stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110107Z" creationid="kunes" creationdate="20220428T110107Z">
+        <seg>If you want to use this add-on, the main functionality is the status change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na akci &lt;g1&gt;Šablona&lt;/g1&gt; a pak &lt;g2&gt;Stavy Řízení stavů&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T093906Z" creationid="kunes" creationdate="20220428T093906Z">
@@ -8590,6 +8614,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130252Z" creationid="kunes" creationdate="20220411T130252Z">
         <seg>To work with labels, we recommend Foxit pdf and also have it set as the default program for PDF files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro přechod do další fáze řešení úlohy (dokladu, záznamu) je třeba kliknout na funkci &lt;g1&gt;Proces&lt;/g1&gt; a pak na možnost &lt;g2&gt;Změna stavu&lt;/g2&gt; (tuto funkci můžete najít také v informačním panelu pro danou úlohu, doklad nebo záznam, pro který je řízení stavů nastaven).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110421Z" creationid="kunes" creationdate="20220428T110421Z">
+        <seg>To move to the next stage of solving a task (document, record), click on the &lt;g1&gt;Process&lt;/g1&gt; function and then on the &lt;g2&gt;Change Status&lt;/g2&gt; option (you can also find this function in the information panel for the task, document or record for which state control is set)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,6 +10656,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Umožňuje konfigurovat stavy zpracování, ve kterých se může úloha (doklad, záznam) nacházet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110015Z" creationid="kunes" creationdate="20220428T110015Z">
+        <seg>Allows you to configure the processing states in which the task (document, record) can be located.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
@@ -10646,6 +10686,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T085121Z" creationid="kunes" creationdate="20220427T085121Z">
         <seg>t allows you to manage any number of documents for the needs of packaging reporting required internally by the company or legislation (the basic parameterization of the EKO-KOM report for the purposes of reporting by the relevant persons pursuant to the Packaging Act No. 477/2001 Coll. is part of it).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Umožňuje také sledovat aktuální stav a průběh zpracování a následně automatizovaně vyplňovat formuláře a záznamy definovanými hodnotami či spouštět libovolné programové akce při změně stavu úlohy (dokladu, záznamu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110030Z" creationid="kunes" creationdate="20220428T110030Z">
+        <seg>It also allows you to monitor the current status and progress of processing and then automatically fill in forms and records with defined values or run any program actions when the status of the task (document, record) changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uplatňuje se zejména pro řízené schvalování a oběh dokladů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110047Z" creationid="kunes" creationdate="20220428T110047Z">
+        <seg>It is mainly used for controlled approval and circulation of documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12976,6 +13032,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
         <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Změna stavu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110112Z" creationid="kunes" creationdate="20220428T110112Z">
+        <seg>Status change</seg>
       </tuv>
     </tu>
     <tu>
