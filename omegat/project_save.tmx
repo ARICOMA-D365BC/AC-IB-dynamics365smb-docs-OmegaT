@@ -2877,6 +2877,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Akce Řízení stavů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100233Z" creationid="kunes" creationdate="20220428T100233Z">
+        <seg>Status Management Actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace 01.04.2022</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
@@ -3049,6 +3057,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104501Z" creationid="kunes" creationdate="20220419T104450Z">
         <seg>The error message about the unavailability of goods in stock was supplemented by the location code and a specific serial number or batch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Codeunity pro akce si může partner vytvářet sám dle vlastní potřeby v číslech objektů povolených jeho licencí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100256Z" creationid="kunes" creationdate="20220428T100256Z">
+        <seg>Codeunits for events can be created by the partner himself according to his own needs in the object numbers allowed by his license.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7737,6 +7753,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí funkce Texty mailu je možné definovat obsah mailu (předmět a vlastní text).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100439Z" creationid="kunes" creationdate="20220428T100439Z">
+        <seg>Using the Mail Texts function, you can define the content of the mail (subject and custom text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí načítání čísla dokladu se automaticky předvyplní formulář &lt;g1&gt;Vytvořit zásilku&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110452Z" creationid="kunes" creationdate="20220407T110452Z">
@@ -8133,6 +8157,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro Akci je nutné nadefinovat pole &lt;g1&gt;Kód akce&lt;/g1&gt;, &lt;g2&gt;Číslo pole (hodnota)&lt;/g2&gt; a &lt;g3&gt;Hodnota&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100343Z" creationid="kunes" creationdate="20220428T100343Z">
+        <seg>For Action, you must define the &lt;g1&gt;Action Code&lt;/g1&gt;, &lt;g2&gt;Field No. (Value),&lt;/g2&gt; and &lt;g3&gt;Value&lt;/g3&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro Výkaz DPH od roku 2018 to je &lt;g1&gt;52068861&lt;/g1&gt;, pro Výkaz DPH do roku 2017 to je &lt;g2&gt;52068860&lt;/g2&gt;, pro Kontrolní výkaz DPH &lt;g3&gt;52068903&lt;/g3&gt; a pro Souhrnný Výkaz to je &lt;g4&gt;52068870&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132437Z" creationid="kunes" creationdate="20220420T132437Z">
@@ -8345,6 +8377,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095317Z" creationid="kunes" creationdate="20220428T094619Z">
         <seg>For each state (the row on the Status Management Statuses page), you can define fields to check when you enter that state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každý stav je možné nadefinovat akce, které se budou provádět při přechodu do daného stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100310Z" creationid="kunes" creationdate="20220428T100310Z">
+        <seg>For each status, you can define the actions that will be performed when you transition to that state.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10658,6 +10698,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V Akcích se definují Codeunity, Reporty a XMLPorty, které je možné spouštět při přechodu do daného stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100246Z" creationid="kunes" creationdate="20220428T100246Z">
+        <seg>The Actions define Codeunits, Reports and XMLPorts that can be run when entering a given status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V Nastavení financí a Nastavení účtování DPH je možné aktivovat systémové kontroly při účtování těchto komodit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T075823Z" creationid="kunes" creationdate="20220421T075823Z">
@@ -10830,6 +10878,30 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122528Z" creationid="kunes" creationdate="20220421T122528Z">
         <seg>In the &lt;g1&gt;Assigned Field field in the report line&lt;/g1&gt;, you can set from which system field the value will be populated into the Control Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Číslo pole (hodnota)&lt;/g1&gt; se definuje z jakého pole se vezme obsah a předá se jako parametr akci (např. při změně stavu na kartě zákazníka je možné vyplnit číslo pole 102 a jako parametr se akci předá obsah pole E-mail).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100410Z" creationid="kunes" creationdate="20220428T100410Z">
+        <seg>In the &lt;g1&gt;Field No. (Value)&lt;/g1&gt; field, it is defined from which field the content is taken and passed as a parameter to the action (e.g. when the status on the customer card changes, it is possible to fill in the field number 102 and the contents of the E-mail field are passed to the action as a parameter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli Hodnota se zadává přímo hodnota, která se předá akci jako parametr (např. konkrétní e-mail).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100422Z" creationid="kunes" creationdate="20220428T100422Z">
+        <seg>In the Value field, a value is entered directly, which is passed to the action as a parameter (for example, a specific email).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli Hodnota se zadává, na jakou hodnotu se nastaví pole při přechodu na daný stav Řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100208Z" creationid="kunes" creationdate="20220428T100208Z">
+        <seg>The Value field specifies what value the field is set to when it goes to the Status Management status.</seg>
       </tuv>
     </tu>
     <tu>
