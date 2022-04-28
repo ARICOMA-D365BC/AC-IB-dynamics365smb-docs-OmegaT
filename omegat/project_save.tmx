@@ -2129,6 +2129,16 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;WorkFlow - řízení stavů - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110647Z" creationid="kunes" creationdate="20220428T110647Z">
+        <seg>&lt;g1&gt;WorkFlow - State Management - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;WorkFlow - řízení stavů&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141921Z" creationid="Janousek" creationdate="20210625T141921Z">
@@ -2641,6 +2651,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125630Z" creationid="kunes" creationdate="20220427T125630Z">
         <seg>Refuelling Statement List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;WorkFlow - kontrolované tabulky&lt;x2/&gt;WorkFlow - kontrolované tabulky&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110634Z" creationid="kunes" creationdate="20220428T110634Z">
+        <seg>&lt;x1/&gt;WorkFlow - Checked Tables&lt;x2/&gt; WorkFlow - Checked Tables&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4071,6 +4089,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkce kontrolované tabulky rozšiřuje funkčnost add-onu Řízení stavů o možnost kontroly záznamů nebo polí v tabulkách svázaných s tabulkou, která je řízena Řízením stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110502Z" creationid="kunes" creationdate="20220428T110502Z">
+        <seg>The function of the checked table extends the functionality of the State Management add-on by the ability to check records or fields in tables bound to a table that is controlled by Status management.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkce nad přepravci</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124636Z" creationid="kunes" creationdate="20220411T124636Z">
@@ -5047,6 +5073,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Lze kontrolovat, zda zdrojový záznam k nějakému poli v tabulce s použitým Řízením stavů obsahuje v dalších polích potřebná data – např. je-li na hlavičce dokladu vyplněno pole Kód prodejce, pak zkontroluje zda-li má tento prodejce vyplněn email.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110620Z" creationid="kunes" creationdate="20220428T110620Z">
+        <seg>It is possible to check whether the source record for any field in the table with the used Status Management contains the necessary data in other fields - eg if the Vendor code field is filled in the document header, then it checks whether this seller has filled in the email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Lze tak například vytvořit tabulku s těmito hodnotami:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121409Z" creationid="kunes" creationdate="20220427T121409Z">
@@ -5961,6 +5995,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122307Z" creationid="kunes" creationdate="20220401T122307Z">
         <seg>Find the relevant document and open its card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Např. že objednávka obsahuje alespoň jeden řádek se zbožím, nebo že má na všech řádcích vyplněnu cenu nebo lokaci nebo glob.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110556Z" creationid="kunes" creationdate="20220428T110556Z">
+        <seg>For example, that the order contains at least one line with the item, or that it has a price or location or global dimension filled in on</seg>
       </tuv>
     </tu>
     <tu>
@@ -7555,6 +7597,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je použito Řízení stavů na dokladu s hlavičkou a s řádky, například na Prodejní objednávce, lze kontrolovat, zda k hlavičce existují nějaké řádky, nebo řádky nějakého typu nebo obsahu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110530Z" creationid="kunes" creationdate="20220428T110530Z">
+        <seg>If Status Management is used on a voucher with headers and lines, such as a Sales Order, you can check whether there are any lines or lines of any type or content for the header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je toto chování vhodné pouze pro některé případy, je třeba pro ně míst vydefinované zvláštní DPH účtoskupiny (zboží).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115506Z" creationid="kunes" creationdate="20220419T115506Z">
@@ -8251,6 +8301,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
         <seg>Pošta Bez Hranic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Praktické použití může být například toto:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110514Z" creationid="kunes" creationdate="20220428T110514Z">
+        <seg>Practical uses may include the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10080,6 +10138,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095738Z" creationid="kunes" creationdate="20220419T095548Z">
         <seg>The receivable collection status is displayed in the &lt;g1&gt;Customer Ledger Entry FactBox&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stav Řízení stavů je pak povoleno změnit pouze pokud všechny kontroly v rámci kontrolovaných tabulek vyhovují.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110509Z" creationid="kunes" creationdate="20220428T110509Z">
+        <seg>The Status Management status is then allowed to be changed only if all checks within the scanned tables match.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13370,6 +13436,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115900Z" creationid="kunes" creationdate="20220419T113352Z">
         <seg>cccc - variable part of a number; must be lowercase, length is not limited (only the total length of the final number)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>dimenzi, apod.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T110558Z" creationid="kunes" creationdate="20220428T110558Z">
+        <seg>all lines.</seg>
       </tuv>
     </tu>
     <tu>
