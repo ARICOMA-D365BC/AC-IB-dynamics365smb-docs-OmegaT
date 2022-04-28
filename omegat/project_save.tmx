@@ -553,6 +553,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Akce Řízení stavů&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094515Z" creationid="kunes" creationdate="20220428T094515Z">
+        <seg>&lt;g1&gt;Status management Actions&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Archivace&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102422Z" creationid="kunes" creationdate="20220419T102422Z">
@@ -919,6 +927,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143240Z" creationid="Janousek" creationdate="20210625T142444Z">
         <seg>&lt;g1&gt;Settings - VAT Control Statement&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrolovaná pole&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094523Z" creationid="kunes" creationdate="20220428T094523Z">
+        <seg>&lt;g1&gt;Checked fields&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Kontrolované tabulky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094540Z" creationid="kunes" creationdate="20220428T094540Z">
+        <seg>&lt;g1&gt;Checked Tables&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1337,6 +1361,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143203Z" creationid="Janousek" creationdate="20210625T142419Z">
         <seg>&lt;g1&gt;Settings - VIES and Intrastat export.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavovaná pole&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094531Z" creationid="kunes" creationdate="20220428T094531Z">
+        <seg>&lt;g1&gt;Set Fields&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2429,6 +2461,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114409Z" creationid="kunes" creationdate="20220419T114409Z">
         <seg>&lt;x1/&gt;Setup VAT posting&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení Řízení stavů - funkce Řízení stavů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094602Z" creationid="kunes" creationdate="20220428T094602Z">
+        <seg>&lt;x1/&gt;Status Management Settings - State Control Functions&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,6 +4713,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115151Z" creationid="kunes" creationdate="20220421T115151Z">
         <seg>The control report must be closed only after the data have been checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kontrolovaná pole</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T094617Z" creationid="kunes" creationdate="20220428T094617Z">
+        <seg>Checked fields</seg>
       </tuv>
     </tu>
     <tu>
