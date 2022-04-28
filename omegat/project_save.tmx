@@ -1529,6 +1529,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Porovnat pole&lt;/g1&gt; - Při výběre této možnosti je důležité vyplnit pole &lt;g2&gt;Číslo pole porovnání&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095953Z" creationid="kunes" creationdate="20220428T095953Z">
+        <seg>&lt;g1&gt;Compare Fields&lt;/g1&gt; - When selecting this option, it is important to fill in the &lt;g2&gt;Comparison Field No.&lt;/g2&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Poslední synchronizace master dat&lt;/g1&gt; – Datum poslední synchronizace master dat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124452Z" creationid="kunes" creationdate="20220411T124452Z">
@@ -3617,6 +3625,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112425Z" creationid="kunes" creationdate="20220411T112425Z">
         <seg>Next, use the &lt;g1&gt;Print Label&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále je podstatné vyplnit pole &lt;g3&gt;Podmínka porovnání&lt;/g3&gt;, kde můžeme také určit způsoby porovnání jako v předchozí možnosti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100017Z" creationid="kunes" creationdate="20220428T100017Z">
+        <seg>It is also important to fill in the &lt;g3&gt;Compare Condition&lt;/g3&gt;field, where we can also specify comparison methods as in the previous option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6395,6 +6411,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavovaná pole</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100032Z" creationid="kunes" creationdate="20220428T100032Z">
+        <seg>Set Fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavte kódy sekcí dle platných nařízení pro vykazování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122115Z" creationid="kunes" creationdate="20220421T122115Z">
@@ -8325,6 +8349,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro každý stav je možné nadefinovat pole, která se budou nastavovat při přechodu do tohoto stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100107Z" creationid="kunes" creationdate="20220428T100107Z">
+        <seg>It is possible to define fields for each status, which will be set when entering this status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro každý stav Řízení stavů je třeba nadefinovat &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Filtr dalšího stavu&lt;/g3&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094129Z" creationid="kunes" creationdate="20220428T094129Z">
@@ -8417,6 +8449,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102106Z" creationid="kunes" creationdate="20220406T102106Z">
         <seg>To set up general parameter templates for use on selected entities, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro nastavované pole je nutné vyplnit pole &lt;g1&gt;ID pole&lt;/g1&gt; a &lt;g2&gt;Hodnota&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T100148Z" creationid="kunes" creationdate="20220428T100148Z">
+        <seg>For the field you are setting, you must fill in &lt;g1&gt;Field No.&lt;/g1&gt; and &lt;g2&gt;Value&lt;/g2&gt; fields.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10958,6 +10998,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111104Z" creationid="kunes" creationdate="20220411T111104Z">
         <seg>At this point, the shipment number is removed from the carrier and the label is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V tomhle poli se určuje, s kterým polem budeme dané pole porovnávat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T095959Z" creationid="kunes" creationdate="20220428T095959Z">
+        <seg>This field determines which field we will compare the field to.</seg>
       </tuv>
     </tu>
     <tu>
