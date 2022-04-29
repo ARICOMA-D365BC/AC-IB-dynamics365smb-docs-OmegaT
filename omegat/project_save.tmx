@@ -803,6 +803,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Filtr oprávnění tabulky&lt;/g1&gt; – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data bude moci uživatel v podřízené firmě modifikovat či zakládat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132613Z" creationid="kunes" creationdate="20220429T132613Z">
+        <seg>&lt;g1&gt;Table Permissions Filter&lt;/g1&gt; – In the field (and the auxiliary child form), you can set a generic filter that determines which data the user in the child company will be able to modify or create.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Filtr synchronizace tabulky&lt;/g1&gt; – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data se budou synchronizovat (pouze data spadající do filtru).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T132536Z" creationid="kunes" creationdate="20220429T132536Z">
