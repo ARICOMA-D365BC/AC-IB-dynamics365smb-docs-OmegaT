@@ -609,6 +609,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Centrální číselníky&lt;/g1&gt;`&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;AUTOCONT řešení&lt;/g5&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132929Z" creationid="kunes" creationdate="20220429T132929Z">
+        <seg>&lt;g1&gt;Central Database&lt;/g1&gt;`&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;&lt;x4/&gt;
+&lt;g5&gt;AUTOCONT Solutions&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
