@@ -803,6 +803,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Filtr synchronizace tabulky&lt;/g1&gt; – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data se budou synchronizovat (pouze data spadající do filtru).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132536Z" creationid="kunes" creationdate="20220429T132536Z">
+        <seg>&lt;g1&gt;Table Synchronization Filter&lt;/g1&gt; – in the field (and auxiliary child form) you can set a general filter that determines which data will be synchronized (only data belonging to the filter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Financial Pack&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114623Z" creationid="kunes" creationdate="20220411T114623Z">
@@ -863,6 +871,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122657Z" creationid="kunes" creationdate="20220429T122657Z">
         <seg>&lt;g1&gt;Central DB ID&lt;/g1&gt; – The ID of the system that controls the synchronization of the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID cílového systému&lt;/g1&gt; – vazba do nastavení cílových systémů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T130059Z" creationid="kunes" creationdate="20220429T130059Z">
+        <seg>&lt;g1&gt;Destination System ID&lt;/g1&gt; – binding to the settings of the target systems.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,6 +1473,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091334Z" creationid="kunes" creationdate="20220419T091334Z">
         <seg>&lt;g1&gt;Unverified and Valid&lt;/g1&gt; – used typically for checking items for non-VAT payers, where a valid registration is actually an error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nevalidovat&lt;/g1&gt; – pole určuje, zda po synchronizace tohoto pole nastane tzv. validační proces (spuštění funkcí souvisejících se změnou hodnoty pole).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125927Z" creationid="kunes" creationdate="20220429T125927Z">
+        <seg>&lt;g1&gt;Do Not Validate&lt;/g1&gt; – field determines whether the so-called validation process (execution of functions related to changing the value of the field) occurs after the synchronization of this field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5209,6 +5233,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kód určuje, která firma bude příjemcem synchronizovaných dat při události.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T130105Z" creationid="kunes" creationdate="20220429T130105Z">
+        <seg>The code determines which company will be the recipient of the synchronized data at the event.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kód výkazu založeného v předchozím kroku</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121327Z" creationid="kunes" creationdate="20220427T121327Z">
@@ -6583,6 +6615,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení příjemců centrální databáze</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125958Z" creationid="kunes" creationdate="20220429T125958Z">
+        <seg>Set up central database Receivers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení registrace k DPH ve více zemích</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114619Z" creationid="kunes" creationdate="20220419T114619Z">
@@ -6627,6 +6667,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123003Z" creationid="kunes" creationdate="20220420T123003Z">
         <seg>The settings are used to map fields in the application to nodes .xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení slouží v definování komunikace pro konkrétní záznam z nastavení synchronizace tabulek (jak bylo popsáno výše, jedna tabulka může být synchronizována pro různé firmy různým způsobem).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T130005Z" creationid="kunes" creationdate="20220429T130005Z">
+        <seg>The settings are used in defining communication for a specific record from the table synchronization settings (as described above, one table can be synchronized for different companies in different ways).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7305,6 +7353,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde vybere řádek s odpovídající tabulkou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T130014Z" creationid="kunes" creationdate="20220429T130014Z">
+        <seg>The &lt;g1&gt;Central Database Table Setup&lt;/g1&gt; page opens, where you select the row with the corresponding table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde vyberte řádek s odpovídající tabulkou.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125624Z" creationid="kunes" creationdate="20220429T125624Z">
@@ -7751,6 +7807,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T114726Z" creationid="kunes" creationdate="20220428T114726Z">
         <seg>After you fill in the fields, close the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po vyplění polí stránku zavřete.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125940Z" creationid="kunes" creationdate="20220429T125940Z">
+        <seg>After the fields are filled out, close the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,6 +11138,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Toto pole musí nastavovat velmi zkušený uživatel systému, špatné nastavení způsobí kolizní situace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125933Z" creationid="kunes" creationdate="20220429T125933Z">
+        <seg>This field must be set by a very experienced user of the system, the wrong setting will cause collision situations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Toto pole nabývá hodnot:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102336Z" creationid="kunes" creationdate="20220419T102235Z">
@@ -11962,6 +12034,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125712Z" creationid="kunes" creationdate="20220429T125712Z">
         <seg>Select &lt;g1&gt;Related&lt;/g1&gt;, then &lt;g2&gt;Setup&lt;/g2&gt; and select &lt;g3&gt;Fields&lt;/g3&gt;, feature to fill in the following fields as needed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberete možnost &lt;g1&gt;Související&lt;/g1&gt;, dále &lt;g2&gt;Nastavení&lt;/g2&gt; a vyberete funkci &lt;g3&gt;Příjemci&lt;/g3&gt;, kde vyplňte náledující pole dle potřeby:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T130025Z" creationid="kunes" creationdate="20220429T130025Z">
+        <seg>Select &lt;g1&gt;Related&lt;/g1&gt;, then &lt;g2&gt;Setup&lt;/g2&gt; and select &lt;g3&gt;Receivers&lt;/g3&gt;, feature to fill in the following fields as needed:</seg>
       </tuv>
     </tu>
     <tu>
