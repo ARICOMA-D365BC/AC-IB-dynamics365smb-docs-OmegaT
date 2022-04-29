@@ -1601,6 +1601,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pole primárního klíče&lt;/g1&gt; – pole je používáno interně, systém hodnotu nastavuje  sám.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125900Z" creationid="kunes" creationdate="20220429T125900Z">
+        <seg>&lt;g1&gt;Primary Key Field&lt;/g1&gt; – the field is used internally, the system sets the value itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Pole&lt;/g1&gt; – tato volba určuje, zda se synchronizují některá nebo všechna pole (toto pole má návaznost na funkcionalitu nastavení synchronizovaných polí, viz níže).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125252Z" creationid="kunes" creationdate="20220429T125241Z">
@@ -1669,6 +1677,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125325Z" creationid="kunes" creationdate="20220429T125242Z">
         <seg>&lt;g1&gt;Allow Modify&lt;/g1&gt; – The field determines whether the user in the child database can change the value of the fields in the given record (checking on synchronized fields).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povol změnu&lt;/g1&gt; – pole určuje, zda uživatel v podřízené firmě může měnit hodnotu tohoto konkrétního pole.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125835Z" creationid="kunes" creationdate="20220429T125835Z">
+        <seg>&lt;g1&gt;Allow Modify&lt;/g1&gt; – The field determines whether a user in a child business can change the value of this particular field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2067,6 +2083,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120439Z" creationid="kunes" creationdate="20220411T120439Z">
         <seg>&lt;g1&gt;Print Handover After Order&lt;/g1&gt; – Automatic print of Handover protocols after collection order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Titulek pole&lt;/g1&gt; – toto pole se vyplní automaticky dle nastavení pole Číslo pole.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125801Z" creationid="kunes" creationdate="20220429T125801Z">
+        <seg>&lt;g1&gt;Field Caption&lt;/g1&gt; – This field is filled in automatically according to the field number field setting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2505,6 +2529,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135440Z" creationid="kunes" creationdate="20220427T135440Z">
         <seg>&lt;g1&gt;Vendor No.&lt;/g1&gt; – Must be filled in if purchase invoices will be generated from statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo pole&lt;/g1&gt; – číslo je vybíráno z objektu dané tabulky a je jednoznačnou identifikací pole v celém systému (spolu s číslem tabulky).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125739Z" creationid="kunes" creationdate="20220429T125739Z">
+        <seg>&lt;g1&gt;Field No.&lt;/g1&gt; – the number is selected from the object of the given table and is a unique identification of the field throughout the system (together with the table number).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6583,6 +6615,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení slouží k definici, která konkrétní pole dané tabulky a jakým způsobem chceme synchronizovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125606Z" creationid="kunes" creationdate="20220429T125606Z">
+        <seg>The settings are used to define which specific fields of a given table and how we want to synchronize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení slouží pro mapování polí v aplikaci na uzly .xml.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123003Z" creationid="kunes" creationdate="20220420T123003Z">
@@ -7261,6 +7301,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111215Z" creationid="kunes" creationdate="20220428T111215Z">
         <seg>The &lt;g1&gt;Central Database Setup&lt;/g1&gt; page opens, where you set the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde vyberte řádek s odpovídající tabulkou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125624Z" creationid="kunes" creationdate="20220429T125624Z">
+        <seg>The &lt;g1&gt;Central Database Table Setup&lt;/g1&gt; page opens, where you select the row with the corresponding table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8177,6 +8225,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121244Z" creationid="kunes" creationdate="20220427T121224Z">
         <seg>Packing Statement Element Definition form fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole s tímto označením je povinně synchronizováno vždy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125907Z" creationid="kunes" creationdate="20220429T125907Z">
+        <seg>A field with this designation is always required to be synchronized</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,6 +9826,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113540Z" creationid="kunes" creationdate="20220411T113540Z">
         <seg>When entering data on the shipment card (automatically by retrieving codes or manually) there is a &lt;g1&gt;Check Data&lt;/g1&gt; function on the shipment card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při změnách v systému se čísla polí nemění.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125746Z" creationid="kunes" creationdate="20220429T125746Z">
+        <seg>When changing in the system, the field numbers do not change.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11890,6 +11954,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133834Z" creationid="kunes" creationdate="20220427T133834Z">
         <seg>Vehicle Equipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberete možnost &lt;g1&gt;Související&lt;/g1&gt;, dále &lt;g2&gt;Nastavení&lt;/g2&gt; a vyberete funkci &lt;g3&gt;Pole&lt;/g3&gt;, kde vyplňte náledující pole dle potřeby:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125712Z" creationid="kunes" creationdate="20220429T125712Z">
+        <seg>Select &lt;g1&gt;Related&lt;/g1&gt;, then &lt;g2&gt;Setup&lt;/g2&gt; and select &lt;g3&gt;Fields&lt;/g3&gt;, feature to fill in the following fields as needed:</seg>
       </tuv>
     </tu>
     <tu>
