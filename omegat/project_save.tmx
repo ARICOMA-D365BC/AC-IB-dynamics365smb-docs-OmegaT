@@ -867,6 +867,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID&lt;/g1&gt; – kód firmy pro komunikaci (musí být shodný v celém komunikačním řetězci)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114907Z" creationid="kunes" creationdate="20220428T114907Z">
+        <seg>&lt;g1&gt;ID&lt;/g1&gt; – company code for communication (must be identical in the whole communication chain)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
@@ -1445,6 +1453,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Název databáze&lt;/g1&gt; – název databáze, ve které se firma nachází</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T115014Z" creationid="kunes" creationdate="20220428T115014Z">
+        <seg>&lt;g1&gt;Database name&lt;/g1&gt; – the name of the database in which the company is located</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Název firmy&lt;/g1&gt; – správný název firmy uvedený jako jméno firmy v její databázi (může být odlišné od kódového označení)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T115029Z" creationid="kunes" creationdate="20220428T115029Z">
+        <seg>&lt;g1&gt;Company name&lt;/g1&gt; – the correct company name listed as the company name in its database (may be different from the codename)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Název&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T134851Z" creationid="kunes" creationdate="20220427T134851Z">
@@ -1541,6 +1565,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121345Z" creationid="kunes" creationdate="20220427T121345Z">
         <seg>&lt;g1&gt;Description&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Popis&lt;/g1&gt; – orientační popis k dané firmě</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114919Z" creationid="kunes" creationdate="20220428T114919Z">
+        <seg>&lt;g1&gt;Description&lt;/g1&gt; – an indicative description of the company</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,6 +3053,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111912Z" creationid="kunes" creationdate="20220419T111912Z">
         <seg>You can update manually as needed or let the system update at regular intervals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aplikace umožňuje synchronizovat jednotlivé tabulky a jejich vybraná pole, lze  synchronizovat i pouze data spadající do určitého filtru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T104353Z" creationid="kunes" creationdate="20220428T115038Z">
+        <seg>The application allows you to synchronize individual tables and their selected fields, you can also synchronize only the data falling into a particular filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6423,6 +6463,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení tabulky centrální databáze</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T115036Z" creationid="kunes" creationdate="20220428T115036Z">
+        <seg>Central Database Table Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení tisku</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115001Z" creationid="kunes" creationdate="20220411T115001Z">
@@ -7045,6 +7093,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102348Z" creationid="kunes" creationdate="20220406T102348Z">
         <seg>The selected template window opens, where you can add parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Cílové systémy&lt;/g1&gt;, kde vyplníte následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114828Z" creationid="kunes" creationdate="20220428T114828Z">
+        <seg>The &lt;g1&gt;Destination Systems&lt;/g1&gt; page opens, where you fill in the following fields:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11762,6 +11818,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112611Z" creationid="kunes" creationdate="20220419T112611Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Banks&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Cílové systémy&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220428T114814Z" creationid="kunes" creationdate="20220428T114814Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Destination Systems&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
