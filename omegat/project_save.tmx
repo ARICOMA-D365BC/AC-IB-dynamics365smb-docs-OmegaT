@@ -819,6 +819,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Filtr tabulky&lt;/g1&gt; – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data budou synchronizována v rámci relační synchronizace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132838Z" creationid="kunes" creationdate="20220429T132838Z">
+        <seg>&lt;g1&gt;Table Filter&lt;/g1&gt; – A generic filter can be set in a field (and an auxiliary child form) to determine which data is synchronized as part of a relational synchronization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Financial Pack&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114623Z" creationid="kunes" creationdate="20220411T114623Z">
@@ -1533,6 +1541,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Název tabulky relace&lt;/g1&gt; – toto pole se vyplní automaticky dle nastavení pole Číslo tabulky relace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132822Z" creationid="kunes" creationdate="20220429T132822Z">
+        <seg>&lt;g1&gt;Table Relations name&lt;/g1&gt; – this field is filled in automatically according to the setting of the Session table number field</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Název tabulky&lt;/g1&gt; – toto pole se vyplní automaticky dle nastavení pole Číslo tabulky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122802Z" creationid="kunes" creationdate="20220429T122802Z">
@@ -1917,6 +1933,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142128Z" creationid="Janousek" creationdate="20210625T142128Z">
         <seg>&lt;g1&gt;Complaints Management&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Relace existuje&lt;/g1&gt; – pole, které určuje, zda je již definována relační vazba</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132902Z" creationid="kunes" creationdate="20220429T132902Z">
+        <seg>&lt;g1&gt;Relation Exist&lt;/g1&gt; – a field that determines whether a relational binding is already defined</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Relace&lt;/g1&gt; – pouze zobrazované formulářové pole, v jehož podřízeném formuláři lze definovat relační vazbu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132914Z" creationid="kunes" creationdate="20220429T132914Z">
+        <seg>&lt;g1&gt;Relation&lt;/g1&gt; – only the displayed form field, in the child form of which a relational binding can be defined</seg>
       </tuv>
     </tu>
     <tu>
@@ -2569,6 +2601,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125739Z" creationid="kunes" creationdate="20220429T125739Z">
         <seg>&lt;g1&gt;Field No.&lt;/g1&gt; – the number is selected from the object of the given table and is a unique identification of the field throughout the system (together with the table number).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo tabulky relace&lt;/g1&gt; – číslo objektu datové tabulky v systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132715Z" creationid="kunes" creationdate="20220429T132715Z">
+        <seg>&lt;g1&gt;Related Table No.&lt;/g1&gt; – The number of the data table object in the system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6639,6 +6679,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení relací</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132629Z" creationid="kunes" creationdate="20220429T132629Z">
+        <seg>Relations settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení rozšíření číselné řady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113216Z" creationid="kunes" creationdate="20220419T113216Z">
@@ -6667,6 +6715,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125606Z" creationid="kunes" creationdate="20220429T125606Z">
         <seg>The settings are used to define which specific fields of a given table and how we want to synchronize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení slouží k určení relačních vazeb, které zajišťují, aby při synchronizaci záznamů z určité tabulky proběhla synchronizace souvisejících záznamů (např. zboží + měrná jednotka zboží).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132637Z" creationid="kunes" creationdate="20220429T132637Z">
+        <seg>Use the settings to specify relational bindings that ensure that related records (e.g., goods + item unit of measure) are synchronized when records from a particular table are synchronized.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7357,6 +7413,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111215Z" creationid="kunes" creationdate="20220428T111215Z">
         <seg>The &lt;g1&gt;Central Database Setup&lt;/g1&gt; page opens, where you set the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde můžete vybrat řádek s odpovídající tabulkou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132644Z" creationid="kunes" creationdate="20220429T132644Z">
+        <seg>The &lt;g1&gt;Central Database Table Setup&lt;/g1&gt; page opens, where you select the row with the corresponding table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8629,6 +8693,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104251Z" creationid="kunes" creationdate="20220419T104251Z">
         <seg>The .NET component Microsoft.Dynamics.Nav.MX.dll, which is a standard AddIn from MS, is used. An example of use is in report 52057066 "Sales - Invoice QR_acb", only the printing of the QR code itself and an example of calling a function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Používá se hlavně při řešení kolizí nebo hromadném zpracování centralizovaných dat (importy, přejmenování atd.)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132658Z" creationid="kunes" creationdate="20220429T132658Z">
+        <seg>It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10718,6 +10790,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tabulku lze vybrat z číselníku již synchronizovaných tabulek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132720Z" creationid="kunes" creationdate="20220429T132720Z">
+        <seg>The table can be selected from the dial list of already synchronized tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tabulku lze vybrat z číselníku všech tabulek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122724Z" creationid="kunes" creationdate="20220429T122724Z">
@@ -10894,6 +10974,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114445Z" creationid="kunes" creationdate="20220411T114445Z">
         <seg>This page contains a list of features that have been moved, removed or replaced from the AC Financial Pack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato tabulka je relačně nebo logicky podřízena a její data mají vazbu k nadřízené tabulce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132727Z" creationid="kunes" creationdate="20220429T132727Z">
+        <seg>This table is relationally or logically subordinate and its data is bound to the parent table</seg>
       </tuv>
     </tu>
     <tu>
@@ -12706,6 +12794,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113641Z" creationid="kunes" creationdate="20220411T113641Z">
         <seg>Select one of your carriers and click On &lt;g1&gt;Connection Test&lt;/g1&gt; function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte možnost &lt;g1&gt;Související&lt;/g1&gt;, dále &lt;g2&gt;Nastavení&lt;/g2&gt; a vyberete funkci &lt;g3&gt;Relace&lt;/g3&gt;, kde vyplňte náledující pole dle potřeby:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T132650Z" creationid="kunes" creationdate="20220429T132650Z">
+        <seg>Select &lt;g1&gt;Related&lt;/g1&gt;, then &lt;g2&gt;Setup&lt;/g2&gt; and select &lt;g3&gt;Relations&lt;/g3&gt;, feature to fill in the following fields as needed:</seg>
       </tuv>
     </tu>
     <tu>
