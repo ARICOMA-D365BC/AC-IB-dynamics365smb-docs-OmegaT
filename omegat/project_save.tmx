@@ -1585,6 +1585,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pole&lt;/g1&gt; – tato volba určuje, zda se synchronizují některá nebo všechna pole (toto pole má návaznost na funkcionalitu nastavení synchronizovaných polí, viz níže).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125252Z" creationid="kunes" creationdate="20220429T125241Z">
+        <seg>&lt;g1&gt;Fields&lt;/g1&gt; – this option determines whether some or all fields are synchronized (this field is related to the functionality of setting synchronized fields, see below).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Popis&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121345Z" creationid="kunes" creationdate="20220427T121345Z">
@@ -1629,6 +1637,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124628Z" creationid="kunes" creationdate="20220411T124546Z">
         <seg>&lt;g1&gt;Branch only&lt;/g1&gt; – Specifies that the carrier serves only as a pickup point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povol změnu&lt;/g1&gt; – pole určuje, zda uživatel v podřízené databázi může změnit hodnotu polí v daném záznamu (kontrola na synchronizovaných polích).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125325Z" creationid="kunes" creationdate="20220429T125242Z">
+        <seg>&lt;g1&gt;Allow Modify&lt;/g1&gt; – The field determines whether the user in the child database can change the value of the fields in the given record (checking on synchronized fields).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1781,6 +1797,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141643Z" creationid="Janousek" creationdate="20210625T141643Z">
         <seg>&lt;g1&gt;Publication Tasks&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Pull&lt;/g1&gt; – tato volba znamená, že nově vytvořená data nejsou zasílána ihned do podřízených systémů, ale uživatel si sám může “sáhnout” do centrální databáze a vybrat si, které data z centrály chce ve svém systému (data jsou “tahána”).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125232Z" creationid="kunes" creationdate="20220429T125232Z">
+        <seg>&lt;g1&gt;Pull&lt;/g1&gt; – this option means that the newly created data is not sent immediately to subordinate systems, but the user can "reach" into the central database and choose which data from the headquarters he wants in his system (the data is "pulled").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Push&lt;/g1&gt; – volba znamená, že v případě změny dat jsou tato data ihned zaslána do podřízených systému a tam updatována (data jsou “tlačena”).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125222Z" creationid="kunes" creationdate="20220429T125222Z">
+        <seg>&lt;g1&gt;Push&lt;/g1&gt; – option means that in the event of a change in the data, this data is immediately sent to the subordinate systems and updated there (the data is "pushed").</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,6 +12938,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091317Z" creationid="kunes" creationdate="20220419T091317Z">
         <seg>The output of the report is a list of VAT items according to the option &lt;g1&gt;Show status&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Význam této volby je při zakládání nových dat do systému (změna dat a mazání dat jsou posílány vždy automaticky).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125210Z" creationid="kunes" creationdate="20220429T125210Z">
+        <seg>The importance of this option is when creating new data into the system (changing data and deleting data are always sent automatically).</seg>
       </tuv>
     </tu>
     <tu>
