@@ -2087,6 +2087,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Vypnuto&lt;/g1&gt; – toto pole umožňuje dočasně vypnout synchronizaci při ponechání nastavení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122454Z" creationid="kunes" creationdate="20220429T122454Z">
+        <seg>&lt;g1&gt;Disabled&lt;/g1&gt; – his field allows you to temporarily turn off sync while leaving the settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Vytvoření nové evidence pro pohledávku&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T101621Z" creationid="kunes" creationdate="20220419T095748Z">
@@ -7121,6 +7129,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde vyplníte následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T104622Z" creationid="kunes" creationdate="20220429T104622Z">
+        <seg>The &lt;g1&gt;Central Database Table Setup&lt;/g1&gt; page opens, where you fill in the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se vám okno pro import, kde vyberete příslušný XML soubor.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123813Z" creationid="kunes" creationdate="20220420T123813Z">
@@ -10326,6 +10342,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Synchronizace může být nezávislá a různá pro několik firem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T104401Z" creationid="kunes" creationdate="20220429T104401Z">
+        <seg>Synchronization can be independent and different for several companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Systém automaticky doplní data pro zásilku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113913Z" creationid="kunes" creationdate="20220411T113913Z">
@@ -12010,6 +12034,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111639Z" creationid="kunes" creationdate="20220419T111639Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;CreditCheck Settings&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení tabulky centrální databáze&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T104552Z" creationid="kunes" creationdate="20220429T104552Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Central Database Table Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
