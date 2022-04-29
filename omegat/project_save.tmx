@@ -859,6 +859,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID centrální databáze&lt;/g1&gt; – ID systému, který řídí synchronizaci dané tabulky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122657Z" creationid="kunes" creationdate="20220429T122657Z">
+        <seg>&lt;g1&gt;Central DB ID&lt;/g1&gt; – The ID of the system that controls the synchronization of the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;ID systému centrální databáze&lt;/g1&gt; – název firmy, která slouží jako řídící pro komunikačně-synchronizační proces.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111310Z" creationid="kunes" creationdate="20220428T111310Z">
@@ -1685,6 +1693,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102652Z" creationid="kunes" creationdate="20220419T102652Z">
         <seg>&lt;g1&gt;Starting date&lt;/g1&gt; – from which date the new number series should be active</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Priorita&lt;/g1&gt; – je možno nastavit pořadí pro odesílání k synchronizaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122518Z" creationid="kunes" creationdate="20220429T122518Z">
+        <seg>&lt;g1&gt;Priority&lt;/g1&gt; – you can set the order for sending to sync.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8349,6 +8365,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104251Z" creationid="kunes" creationdate="20220419T104251Z">
         <seg>The .NET component Microsoft.Dynamics.Nav.MX.dll, which is a standard AddIn from MS, is used. An example of use is in report 52057066 "Sales - Invoice QR_acb", only the printing of the QR code itself and an example of calling a function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Používá se hlavně při řešení kolizí nebo hromadném zpracování centralizovaných dat (importy, přejmenování atd.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122501Z" creationid="kunes" creationdate="20220429T122501Z">
+        <seg>It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.).</seg>
       </tuv>
     </tu>
     <tu>
