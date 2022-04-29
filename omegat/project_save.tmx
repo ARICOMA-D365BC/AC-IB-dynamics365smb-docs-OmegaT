@@ -2023,6 +2023,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Typ synchronizace&lt;/g1&gt; – tato volba nabývá dvou hodnot – Push a Pull.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125203Z" creationid="kunes" creationdate="20220429T125203Z">
+        <seg>&lt;g1&gt;Synchronization type&lt;/g1&gt; – this option takes two values – Push and Pull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Umístění ve výkazu&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121358Z" creationid="kunes" creationdate="20220427T121358Z">
@@ -10718,6 +10726,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T114719Z" creationid="kunes" creationdate="20220428T114619Z">
         <seg>This code is part of the XML document and uses it to identify whether the document must be processed immediately and a response sent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento kód nemá další vazbu v systému a uživatel si ho může nastavit, jak chce (jméno firmy, skupina firem, typ synchronizace atd.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122959Z" creationid="kunes" creationdate="20220429T122959Z">
+        <seg>This code has no other link in the system and the user can set it as he wants (company name, group of companies, type of synchronization, etc.).</seg>
       </tuv>
     </tu>
     <tu>
