@@ -883,6 +883,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID&lt;/g1&gt; – nezávislý kód, který je součástí primárního klíče a umožňuje nastavit rozdílné synchronizace pro jednu tabulku (např. pokud chci mít rozdíl v nastavení pro 2 firmy, kde u jedné chci povolit změnu určitých dat a u druhé nikoliv).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122950Z" creationid="kunes" creationdate="20220429T122950Z">
+        <seg>&lt;g1&gt;ID&lt;/g1&gt; – independent code that is part of the primary key and allows you to set different synchronizations for one table (eg if I want to have a difference in the settings for 2 companies, where I want to allow some data to change and the other not).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140629Z" creationid="Janousek" creationdate="20210625T140629Z">
@@ -1473,6 +1481,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T115029Z" creationid="kunes" creationdate="20220428T115029Z">
         <seg>&lt;g1&gt;Company name&lt;/g1&gt; – the correct company name listed as the company name in its database (may be different from the codename)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Název tabulky&lt;/g1&gt; – toto pole se vyplní automaticky dle nastavení pole Číslo tabulky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122802Z" creationid="kunes" creationdate="20220429T122802Z">
+        <seg>&lt;g1&gt;Table Caption&lt;/g1&gt; – is field is filled in automatically according to the table number field setting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2417,6 +2433,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135440Z" creationid="kunes" creationdate="20220427T135440Z">
         <seg>&lt;g1&gt;Vendor No.&lt;/g1&gt; – Must be filled in if purchase invoices will be generated from statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Číslo tabulky&lt;/g1&gt; – číslo objektu datové tabulky v systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122717Z" creationid="kunes" creationdate="20220429T122717Z">
+        <seg>&lt;g1&gt;Table No.&lt;/g1&gt; – The number of the data table object in the system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7917,6 +7941,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud se toto ID nerovná ID systému firmy, ve které se nacházíme, nelze záznam měnit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122703Z" creationid="kunes" creationdate="20220429T122703Z">
+        <seg>If this ID does not equal the system ID of the company in which we are located, the record cannot be changed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud si firma vydefinuje způsoby plateb s více pokladnami, může být pro ni výhodné pojmenovat si jednotlivá fyzická pokladní místa a definovat uživatele, které na nich pracují.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082223Z" creationid="kunes" creationdate="20220404T082205Z">
@@ -10374,6 +10406,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Synchronizace některých tabulek je z hlediska systému nesmyslná nebo může způsobit kolizi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122739Z" creationid="kunes" creationdate="20220429T122739Z">
+        <seg>Synchronizing some tables is meaningless from the point of view of the system or may cause a collision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Systém automaticky doplní data pro zásilku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113913Z" creationid="kunes" creationdate="20220411T113913Z">
@@ -10434,6 +10474,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124145Z" creationid="kunes" creationdate="20220411T124131Z">
         <seg>Table of Shipping Agents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tabulku lze vybrat z číselníku všech tabulek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T122724Z" creationid="kunes" creationdate="20220429T122724Z">
+        <seg>The table can be selected from the code list of all tables.</seg>
       </tuv>
     </tu>
     <tu>
