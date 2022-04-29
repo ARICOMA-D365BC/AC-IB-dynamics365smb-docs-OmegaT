@@ -1043,6 +1043,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Limit záznamů&lt;/g1&gt; – pole je využíváno pro optimalizaci přenosu dat a vytížení systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125428Z" creationid="kunes" creationdate="20220429T125428Z">
+        <seg>&lt;g1&gt;Records limit&lt;/g1&gt; – the field is used to optimize data transfer and system load.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;List deníku PHM&lt;/g1&gt; – je nutné vyplnit, budou-li z výpisů generovány deníky PHM.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135604Z" creationid="kunes" creationdate="20220427T135604Z">
@@ -1063,6 +1071,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124625Z" creationid="kunes" creationdate="20220411T124625Z">
         <seg>&lt;g1&gt;Maximum address length&lt;/g1&gt; – set the address length for the selected carrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Maximální počet záznamů v odpovědi&lt;/g1&gt; – pole je využíváno pro optimalizaci přenosu dat a vytížení systému; systém omezuje počet záznamů zasílaných jako odpověď z centrální databáze při dotazech na synchronizovaná data.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125510Z" creationid="kunes" creationdate="20220429T125510Z">
+        <seg>&lt;g1&gt;Max Query Answer Records&lt;/g1&gt; – the field is used to optimize data transfer and system load; the system limits the number of records sent in response from the central database when querying synchronized data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1641,6 +1657,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Povol vložit&lt;/g1&gt; – pole určuje, zda uživatel v podřízené databázi může založit nový záznam v synchronizované tabulce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125344Z" creationid="kunes" creationdate="20220429T125344Z">
+        <seg>&lt;g1&gt;Allow Insert&lt;/g1&gt; – the field determines whether the user in the child database can create a new record in the synchronized table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Povol změnu&lt;/g1&gt; – pole určuje, zda uživatel v podřízené databázi může změnit hodnotu polí v daném záznamu (kontrola na synchronizovaných polích).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125325Z" creationid="kunes" creationdate="20220429T125242Z">
@@ -2019,6 +2043,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124702Z" creationid="kunes" creationdate="20220411T124702Z">
         <seg>&lt;g1&gt;Master data synchronization&lt;/g1&gt; – Starts master data synchronization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Synchronizovat po&lt;/g1&gt; – pole je využíváno pro optimalizaci přenosu dat a vytížení systému; lze vybrat z hodnot Limitovaný počet záznamů a Všechny záznamy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125403Z" creationid="kunes" creationdate="20220429T125403Z">
+        <seg>&lt;g1&gt;Synchronize By&lt;/g1&gt; – the field is used to optimize data transfer and system load; can be selected from the Limited number of records and All records values.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4697,6 +4729,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedná se o konkrétní nastavení polí tabulek centrální databáze.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125531Z" creationid="kunes" creationdate="20220429T125531Z">
+        <seg>These are specific field settings for the central database tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedná se o číselníky:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081541Z" creationid="kunes" creationdate="20220404T081541Z">
@@ -6479,6 +6519,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení polí centrální databáze</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125601Z" creationid="kunes" creationdate="20220429T125601Z">
+        <seg>Set up Central Database Fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení pro datumový posun</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122128Z" creationid="kunes" creationdate="20220420T122128Z">
@@ -7103,6 +7151,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ostatní nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125515Z" creationid="kunes" creationdate="20220429T125515Z">
+        <seg>Other settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ostatní tabulky se stahují a plní po synchronizaci master dat a v tabulce přepravců.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124308Z" creationid="kunes" creationdate="20220411T124133Z">
@@ -7679,6 +7735,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102037Z" creationid="kunes" creationdate="20220414T102037Z">
         <seg>In addition, after posting a sales invoice (or order), customer items are created that balance the ba-lance of the original item and several new receivables (with the same document type, document nu-mber, etc.) are created with due dates and amounts according to the payment calendar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po základním nastavení addonu Centrální databáze je potřeba nastavit další oblasti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220429T125523Z" creationid="kunes" creationdate="20220429T125523Z">
+        <seg>After the basic setting of the Central Database addon, it is necessary to set up additional areas.</seg>
       </tuv>
     </tu>
     <tu>
