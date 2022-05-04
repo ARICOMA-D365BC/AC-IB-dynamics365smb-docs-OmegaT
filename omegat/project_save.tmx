@@ -2863,6 +2863,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení Helpdesku - číselná řada&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110050Z" creationid="kunes" creationdate="20220504T110050Z">
+        <seg>&lt;x1/&gt;Helpdesk settings - number series&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení SEPA&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124239Z" creationid="kunes" creationdate="20220420T124239Z">
@@ -5177,6 +5185,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kategorie uživatele obsahuje pole Kód, Popis a Váha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110235Z" creationid="kunes" creationdate="20220504T110235Z">
+        <seg>The user category contains the Code, Description, and Weight fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kategorie uživatelů představují skupiny uživatelů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110118Z" creationid="kunes" creationdate="20220504T110118Z">
+        <seg>User categories are groups of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Každý přepravce a služba přepravce má své specifické parametry, které v případně nevyplnění nahlásí zpráva, která informuje o tom, co za údaj není na zásilce vyplněn.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105131Z" creationid="kunes" creationdate="20220407T105131Z">
@@ -6827,6 +6851,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111420Z" creationid="kunes" creationdate="20220428T111420Z">
         <seg>The setting is crucial for decisions about sending synchronized data and about checks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení kategorie uživatelů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110107Z" creationid="kunes" creationdate="20220504T110107Z">
+        <seg>Set up a User Categories</seg>
       </tuv>
     </tu>
     <tu>
@@ -10416,6 +10448,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Příklad vytvořené číselné řady:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110039Z" creationid="kunes" creationdate="20220504T110039Z">
+        <seg>Example of a created number series:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Případné úpravy vzhledu dokladů s jinou registrací k DPH musí být realizovány jako zákaznické úpravy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105526Z" creationid="kunes" creationdate="20220419T105526Z">
@@ -10742,6 +10782,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114551Z" creationid="kunes" creationdate="20220411T114551Z">
         <seg>Discount credits for CZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Skupinám uživatelů se přiřadí určitá váha (stupeň důležitosti), která je jedním z faktorů při automatickém výpočtu priority požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110139Z" creationid="kunes" creationdate="20220504T110139Z">
+        <seg>User groups are assigned a certain level (level of importance), which is one of the factors in the automatic request priority calculation</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14174,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte Kód, Popis a Počáteční číslo číselné řady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110017Z" creationid="kunes" creationdate="20220504T110017Z">
+        <seg>Enter the Code, Description, and Starting No. of the number sequence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte alespoň jeden řádek faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124442Z" creationid="kunes" creationdate="20220401T124442Z">
@@ -14338,6 +14394,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125656Z" creationid="kunes" creationdate="20220420T125656Z">
         <seg>Check the box &lt;g1&gt;Depreciation Reduction First Year&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zaškrtněte políčko Výchozí čísla pro automatické vyplňování čísel při zadávaní nových požadavků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110030Z" creationid="kunes" creationdate="20220504T110030Z">
+        <seg>Select the Default Nos. for autofilling numbers when entering new requests check box.</seg>
       </tuv>
     </tu>
     <tu>
