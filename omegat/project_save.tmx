@@ -3157,8 +3157,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T090633Z" creationid="kunes" creationdate="20220504T090633Z">
-        <seg>The &lt;g1&gt;Incoming Mail&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090833Z" creationid="kunes" creationdate="20220504T090633Z">
+        <seg>The &lt;g1&gt;Mail record&lt;/g1&gt; extends &lt;/g1&gt; &lt;g2&gt;the Purchase&lt;/g2&gt; and &lt;g3&gt;Sales&lt;/g3&gt; modules of the Microsoft Dynamics 365 Business Central system to support the registration of incoming and outgoing mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3635,6 +3635,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Další možností je propojení karty evidence pošty se záznamem v modulu &lt;g7&gt;Datové schránky&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090921Z" creationid="kunes" creationdate="20220504T090921Z">
+        <seg>Another option is to link the mail records card with the record in the &lt;g7&gt;Data Boxes&lt;/g7&gt; module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Další části</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105207Z" creationid="kunes" creationdate="20220407T105207Z">
@@ -3911,6 +3919,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121620Z" creationid="kunes" creationdate="20220420T121620Z">
         <seg>You can create a document on the factoring tab by using the &lt;g1&gt;Create Factoring Document&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dokumenty lze vytvářet ručně a to, tak že:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090942Z" creationid="kunes" creationdate="20220504T090942Z">
+        <seg>Dokumenty lze vytvářet ručně a to, tak že:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4247,6 +4263,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122643Z" creationid="kunes" creationdate="20220401T122619Z">
         <seg>Records of payment – simplified mode with substitution of payment method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidovanou poštu je možné řízeně zpracovávat pomocí modulu &lt;g4&gt;Workflow (Řízení stavů)&lt;/g4&gt;, provázat s nákupními či prodejními doklady a prostřednictvím modulu &lt;g5&gt;Publikování SharePoint&lt;/g5&gt; a nebo modulu &lt;g6&gt;Došlé doklady&lt;/g6&gt; připojit ke kartě evidované pošty naskenovaný či elektronicky přijatý dokument.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090911Z" creationid="kunes" creationdate="20220504T090911Z">
+        <seg>Registered mail can be processed in a controlled manner using the &lt;g4&gt;Workflow module (Status Management),&lt;/g4&gt; linked to purchase or sales documents, and through the &lt;g5&gt;SharePoint Publishing&lt;/g5&gt; module or &lt;g6&gt;Incoming Documents&lt;/g6&gt; module to attach a scanned or electronically received document to the registered mail card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,6 +7929,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113652Z" creationid="kunes" creationdate="20220411T113652Z">
         <seg>After verifying your account, the message &lt;g1&gt;Service connection successful.&lt;/g1&gt; will pop up and you'll see information about your account and Active Carriers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po provedení potřebných nastavení lze vytvářet dokumenty Evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091006Z" creationid="kunes" creationdate="20220504T090941Z">
+        <seg>After making the necessary settings, you can create Mail Record documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13196,6 +13228,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125743Z" creationid="kunes" creationdate="20220427T125743Z">
         <seg>Create Fuel Journal – to record pumping items to the vehicle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření nové Karty evidence pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090933Z" creationid="kunes" creationdate="20220504T090933Z">
+        <seg>Create a new Mail Record Card</seg>
       </tuv>
     </tu>
     <tu>
