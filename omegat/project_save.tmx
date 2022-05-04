@@ -6197,6 +6197,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Kategorie uživatele&lt;/g1&gt; vyberte akci &lt;g2&gt;Nový&lt;/g2&gt; a poté zadejte &lt;g3&gt;Kód&lt;/g3&gt;, &lt;g4&gt;Popis&lt;/g4&gt; a &lt;g5&gt;Váhu&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110308Z" creationid="kunes" creationdate="20220504T110308Z">
+        <seg>On the &lt;g1&gt;User Category&lt;/g1&gt; page, choose &lt;g2&gt;New&lt;/g2&gt; action, and then enter &lt;g3&gt;Code&lt;/g3&gt;, &lt;g4&gt;Description&lt;/g4&gt;, and &lt;g5&gt;Weight&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Konfigurace rozšíření&lt;/g1&gt; aktivujte přepínač &lt;g2&gt;Povolit požadavky HttpClient&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130841Z" creationid="kunes" creationdate="20220411T130841Z">
@@ -6225,6 +6233,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090402Z" creationid="kunes" creationdate="20220401T120210Z">
         <seg>On the &lt;g1&gt;Sales Invoice&lt;/g1&gt; page, choose &lt;g2&gt;Issue&lt;/g2&gt; and then run &lt;g3&gt;Payment Schedule&lt;/g3&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Přehled oprávněných osob&lt;/g1&gt; vyberte akci &lt;g2&gt;Nový&lt;/g2&gt; a vyplňte pole nové oprávněné osoby podle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110435Z" creationid="kunes" creationdate="20220504T110435Z">
+        <seg>On the &lt;g1&gt;Entitled Person List&lt;/g1&gt; choose &lt;g2&gt;the New&lt;/g2&gt; action and fill in the new authorized person fields as needed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6539,6 +6555,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123636Z" creationid="kunes" creationdate="20220420T123636Z">
         <seg>Standard functionality is used to create the Summary Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na záložce &lt;g1&gt;Spojení&lt;/g1&gt; lze doplnit podrobnější kontaktní údaje k dané osobě (&lt;g2&gt;Adresa&lt;/g2&gt;, &lt;g3&gt;Telefon&lt;/g3&gt;, &lt;g4&gt;Fax&lt;/g4&gt;, &lt;g5&gt;Mobil&lt;/g5&gt;, &lt;g6&gt;E-mail&lt;/g6&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110511Z" creationid="kunes" creationdate="20220504T110511Z">
+        <seg>On the &lt;g1&gt;Communication&lt;/g1&gt; tab, you can add more detailed contact information for the given person (&lt;g2&gt;Address&lt;/g2&gt;, &lt;g3&gt;Phone No.&lt;/g3&gt;, &lt;g4&gt;Fax&lt;/g4&gt;, &lt;g5&gt;Mobile Phone No.&lt;/g5&gt;, &lt;g6&gt;E-mail&lt;/g6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7067,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122029Z" creationid="kunes" creationdate="20220421T122029Z">
         <seg>Setting the sections of the VAT Control Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení seznamu oprávněných osob</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110338Z" creationid="kunes" creationdate="20220504T110338Z">
+        <seg>Set up an Entitled Persons</seg>
       </tuv>
     </tu>
     <tu>
@@ -8741,6 +8773,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole Váha může nabývat hodnot 0-1 ve smyslu procent (0 =0 %, 1=100 %).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110316Z" creationid="kunes" creationdate="20220504T110316Z">
+        <seg>The Weight field can take values ​​0-1 in terms of percentages (0 = 0%, 1 = 100%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole formuláře Definice prvků výkazu obalů:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121244Z" creationid="kunes" creationdate="20220427T121224Z">
@@ -9433,6 +9473,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro každou oprávněnou osobu se zvolí příslušná Kategorie uživatele, podle které program automaticky předvyplní Váhu požadavku pro danou osobu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110352Z" creationid="kunes" creationdate="20220504T110352Z">
+        <seg>For each Authorized Person, the appropriate User Category is selected, according to which the program automatically pre-populates the Request Weight for that person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro každé expediční místo je nutné jiné API, dále je expediční místo spojeno s jednou lokací Vaší společnosti.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120012Z" creationid="kunes" creationdate="20220411T120012Z">
@@ -10086,6 +10134,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Program pak tuto hodnotu použije pro výpočet celkové priority požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110405Z" creationid="kunes" creationdate="20220504T110405Z">
+        <seg>The program then uses this value to calculate the overall priority of the request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Protiúčtem může být finanční účet či bankovní účet, nicméně nejčastěji se používá karta pokladny.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081936Z" creationid="kunes" creationdate="20220404T081936Z">
@@ -10274,6 +10330,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113748Z" creationid="kunes" creationdate="20220411T113748Z">
         <seg>A prerequisite for use is the correct setting of Paperless trade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Předvyplněnou hodnotu pole &lt;g1&gt;Váha&lt;/g1&gt; lze pro každou osobu individuálně upravit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110359Z" creationid="kunes" creationdate="20220504T110359Z">
+        <seg>The pre-filled value of the &lt;g1&gt;Weight&lt;/g1&gt; field can be adjusted individually for each person.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10788,8 +10852,8 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="cs-CZ">
         <seg>Skupinám uživatelů se přiřadí určitá váha (stupeň důležitosti), která je jedním z faktorů při automatickém výpočtu priority požadavku.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T110139Z" creationid="kunes" creationdate="20220504T110139Z">
-        <seg>User groups are assigned a certain level (level of importance), which is one of the factors in the automatic request priority calculation</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110240Z" creationid="kunes" creationdate="20220504T110139Z">
+        <seg>User groups are assigned a certain weight (level of importance), which is one of the factors in the automatic request priority calculation</seg>
       </tuv>
     </tu>
     <tu>
@@ -12878,6 +12942,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Kategorie uživatele&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110254Z" creationid="kunes" creationdate="20220504T110254Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;User Categories&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Kniha jízd&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125844Z" creationid="kunes" creationdate="20220427T125844Z">
@@ -13082,6 +13154,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T114352Z" creationid="kunes" creationdate="20220421T114320Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Check Report List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled oprávněných osob&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110415Z" creationid="kunes" creationdate="20220504T110415Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Entitled Person List&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14434,6 +14514,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124219Z" creationid="kunes" creationdate="20220420T124219Z">
         <seg>A page will appear, which may contain a list of already set imports and exports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazí se tabulka se všemi doposud zadanými oprávněnými osobami.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110419Z" creationid="kunes" creationdate="20220504T110419Z">
+        <seg>A table will appear with all authorized persons entered so far.</seg>
       </tuv>
     </tu>
     <tu>
