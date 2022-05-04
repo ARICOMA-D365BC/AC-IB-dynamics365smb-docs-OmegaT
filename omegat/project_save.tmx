@@ -3209,6 +3209,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aby bylo možné vyhodnocovat požadavky podle jejich naléhavosti, je nutné vyplnit &lt;g1&gt;Priority požadavků&lt;/g1&gt;:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115156Z" creationid="kunes" creationdate="20220504T115156Z">
+        <seg>In order to evaluate requirements according to their urgency, it is necessary to fill in &lt;g1&gt;Requirements Priorities&lt;/g1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aby bylo možné zadávat požadavky do HelpDesku, je nutné předem provést některá nastavení:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093422Z" creationid="kunes" creationdate="20220504T093422Z">
@@ -5225,6 +5233,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Když se do pole &lt;g1&gt;ID Uživatele&lt;/g1&gt; vyplní odpovídající přihlašovací jméno dané oprávněné osoby, bude se při pořizování požadavku do HelpDesku automaticky nabízet kód oprávněné osoby, která požadavek zadává.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110529Z" creationid="kunes" creationdate="20220504T110512Z">
+        <seg>When the corresponding login name of the authorized person is filled in the &lt;g1&gt;User ID&lt;/g1&gt; field, the code of the authorized person who enters the request will be automatically offered to the HelpDesk when making a request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kliknutím na &lt;g1&gt;Detaily…&lt;/g1&gt; se otevře tabulka Směnné kurzy pro měnu z dokladu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091457Z" creationid="kunes" creationdate="20220419T091457Z">
@@ -7007,6 +7023,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení priority požadavků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110619Z" creationid="kunes" creationdate="20220504T110619Z">
+        <seg>Request Priority Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení pro datumový posun</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122128Z" creationid="kunes" creationdate="20220420T122128Z">
@@ -8721,6 +8745,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112746Z" creationid="kunes" creationdate="20220419T112746Z">
         <seg>Field &lt;g1&gt;Description of the accumulated payment order</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Povolena změna uživatele&lt;/g1&gt; opravňuje ke změně Oprávněné osoby (poIe Identifikace helpdesk) při zadávání nového požadavku do HelpDesku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110550Z" creationid="kunes" creationdate="20220504T110550Z">
+        <seg>The &lt;g1&gt;User Change Allowed&lt;/g1&gt; field entitles you to change the Authorized Person (poIe Helpdesk Identification) when entering a new request into the HelpDesk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14580,6 +14612,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112923Z" creationid="kunes" creationdate="20220419T112923Z">
         <seg>This is especially advantageous for less used currencies, where there is an even greater risk of user error when entering the exchange rate on the document, etc. If the field with the currency limit is empty, the check is not performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zvolená &lt;g2&gt;Výchozí priorita&lt;/g2&gt; se bude automaticky nabízet v nově pořizovaném požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T110600Z" creationid="kunes" creationdate="20220504T110600Z">
+        <seg>The selected &lt;g2&gt;Default priority&lt;/g2&gt; will be automatically offered in the newly purchased request.</seg>
       </tuv>
     </tu>
     <tu>
