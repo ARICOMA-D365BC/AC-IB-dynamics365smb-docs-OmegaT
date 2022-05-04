@@ -967,6 +967,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Karta evidence pošty&lt;/g1&gt; zobrazuje relevantní informace vztahující se k danému dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091236Z" creationid="kunes" creationdate="20220504T091236Z">
+        <seg>&lt;g1&gt;Mail Record Card&lt;/g1&gt; displays relevant information related to the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Kontrola množství&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104453Z" creationid="kunes" creationdate="20220419T104401Z">
@@ -2695,6 +2703,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g3&gt;Typ kontaktu&lt;/g3&gt; a &lt;g4&gt;Číslo kontaktu&lt;/g4&gt; specifikuje o jaký doklad se jedná – Dodavatel, Zákazník, Kontakt (vyplňuje se pokud zatím neexistuje Dodavatel a nebo Zákazník).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091841Z" creationid="kunes" creationdate="20220504T091841Z">
+        <seg>&lt;g3&gt;Contact Type&lt;/g3&gt; and &lt;g4&gt;Contact No.&lt;/g4&gt; specify which document it is - Vendor, Customer, Contact (to be filled in if the Supplier or Customer does not yet exist).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;prázdné&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102341Z" creationid="kunes" creationdate="20220419T102341Z">
@@ -2731,6 +2747,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122007Z" creationid="kunes" creationdate="20220421T075720Z">
         <seg>&lt;x1/&gt;Import of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Karta evidence pošty&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091223Z" creationid="kunes" creationdate="20220504T091223Z">
+        <seg>&lt;x1/&gt;Mail Record Card&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,6 +3093,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125007Z" creationid="kunes" creationdate="20220427T125007Z">
         <seg>&lt;x2/&gt;Driver Qualifications&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Šablony evidence pošty&lt;x3/&gt;
+&lt;x4/&gt;Evidence pošty&lt;x5/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091146Z" creationid="kunes" creationdate="20220504T091146Z">
+        <seg>&lt;x2/&gt;Mail Record Template&lt;x3/&gt;
+&lt;x4/&gt;Mail Record&lt;x5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3925,8 +3959,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>Dokumenty lze vytvářet ručně a to, tak že:</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T090942Z" creationid="kunes" creationdate="20220504T090942Z">
-        <seg>Dokumenty lze vytvářet ručně a to, tak že:</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091014Z" creationid="kunes" creationdate="20220504T090942Z">
+        <seg>Documents can be created manually by:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6115,6 +6149,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T104045Z" creationid="kunes" creationdate="20220421T104045Z">
         <seg>On the &lt;g1&gt;Account Schedules&lt;/g1&gt;page, choose the &lt;g2&gt;Process&lt;/g2&gt; action, and then choose &lt;g3&gt;Edit Account Schedule&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt; vyberte kód pro správnou Šablonu evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091134Z" creationid="kunes" creationdate="20220504T091134Z">
+        <seg>On the &lt;g1&gt;Mail Record Templates&lt;/g1&gt; page select the code for the correct Mail Record Template.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8483,6 +8525,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112734Z" creationid="kunes" creationdate="20220419T112734Z">
         <seg>&lt;g1&gt;Variable symbol number series field&lt;/g1&gt; – if it is not accumulated according to VS, KS or SS, then the number according to the number series set here is added to the VS field (SS and KS are taken from the first merged line of the command)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g2&gt;Číslo&lt;/g2&gt; se vyplní automaticky dalším číslem z číselné řady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091251Z" creationid="kunes" creationdate="20220504T091251Z">
+        <seg>The &lt;g2&gt;Number&lt;/g2&gt; field is automatically populated with another number from the number series</seg>
       </tuv>
     </tu>
     <tu>
@@ -11968,6 +12018,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V přehledu &lt;g1&gt;Evidence pošty&lt;/g1&gt; vyberte funkci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091201Z" creationid="kunes" creationdate="20220504T091201Z">
+        <seg>In the &lt;g1&gt;Mail Records list,&lt;/g1&gt; select &lt;g2&gt;New&lt;/g2&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V přehledu zašktněte možnost &lt;g1&gt;Dobírka&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130232Z" creationid="kunes" creationdate="20220411T130232Z">
@@ -12524,6 +12582,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113159Z" creationid="kunes" creationdate="20220419T113159Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Enforcement Methods&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Evidence pošty&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091028Z" creationid="kunes" creationdate="20220504T091028Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Mail Record&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13308,6 +13374,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115218Z" creationid="kunes" creationdate="20220411T115218Z">
         <seg>Create a new Shipping Agent using the fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořte nový doklad Evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T091213Z" creationid="kunes" creationdate="20220504T091213Z">
+        <seg>Create a new Mail Record document.</seg>
       </tuv>
     </tu>
     <tu>
