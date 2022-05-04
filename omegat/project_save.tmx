@@ -3049,6 +3049,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Záznam dat. schránky&lt;x2/&gt;
+Jestliže se jedná o doklad vytvořený z Datové schránky je možno si nechat zobrazit původní doklad přes funkci – &lt;g3&gt;Proces/Záznam dat. schránky (detailněji viz  modul – Datové schránky)&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092624Z" creationid="kunes" creationdate="20220504T092624Z">
+        <seg>&lt;x1/&gt;Záznam dat. schránky&lt;x2/&gt;
+Jestliže se jedná o doklad vytvořený z Datové schránky je možno si nechat zobrazit původní doklad přes funkci – &lt;g3&gt;Proces/Záznam dat. schránky (detailněji viz  modul – Datové schránky)&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;vytvoření příkazu k jízdě&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130834Z" creationid="kunes" creationdate="20220427T130834Z">
@@ -4729,8 +4739,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>HelpDesk - Nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220405T125702Z" creationid="kunes" creationdate="20220405T125702Z">
-        <seg>HelpDesk - Nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092645Z" creationid="kunes" creationdate="20220405T125702Z">
+        <seg>HelpDesk - Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -5675,6 +5685,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T115540Z" creationid="Janousek" creationdate="20210603T093732Z">
         <seg>Microsoft Dynamics 365 Business Central is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul  Helpdesk slouží k centralizovanému zadávání, evidenci, zpracování a vyhodnocování různých požadavků uživatelů v systému Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T093403Z" creationid="kunes" creationdate="20220504T093403Z">
+        <seg>The Helpdesk module is used to centrally enter, record, process and evaluate various user requests in the Microsoft Dynamics 365 Business Central system.</seg>
       </tuv>
     </tu>
     <tu>
