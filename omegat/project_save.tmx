@@ -13357,8 +13357,8 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení řízení stavů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T120233Z" creationid="kunes" creationdate="20220504T120233Z">
-        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell MeTeat&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Status Control Settings&lt;/g4&gt;, and then select the related link.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T121108Z" creationid="kunes" creationdate="20220504T120233Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Status Control Settings&lt;/g4&gt;, and then select the related link.</seg>
       </tuv>
     </tu>
     <tu>
