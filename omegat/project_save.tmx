@@ -13570,6 +13570,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Všechny údaje v bílých polích lze editovat (je tedy možné vyplnit pole &lt;g1&gt;Popis&lt;/g1&gt;, všechny datumové pole, &lt;g2&gt;Kód platební podmínky&lt;/g2&gt;, &lt;g3&gt;Kód prodejce/nákupčího, Kód měny, Číslo externího dokladu&lt;/g3&gt; atd., které se následně převezmou do vytvořeného dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092025Z" creationid="kunes" creationdate="20220504T092025Z">
+        <seg>All data in the white fields can be edited (it is therefore possible to fill in the &lt;g1&gt;Description&lt;/g1&gt; field, all date fields, &lt;g2&gt;Payment Terms&lt;/g2&gt;, &lt;g3&gt;Salesperson/Purchaser code, Currency Code, External Document Number,&lt;/g3&gt; etc., which are then taken over into the created document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Všichni zákazníci</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101438Z" creationid="kunes" creationdate="20220414T101438Z">
