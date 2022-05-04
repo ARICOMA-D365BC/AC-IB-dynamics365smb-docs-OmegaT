@@ -2405,6 +2405,16 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;WorkFlow - kontrolované tabulky - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082845Z" creationid="kunes" creationdate="20220504T082845Z">
+        <seg>&lt;g1&gt;WorkFlow - Linker Tables - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;WorkFlow - kontrolované tabulky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141947Z" creationid="Janousek" creationdate="20210625T141947Z">
@@ -2965,8 +2975,8 @@ The Receivables Status field, located on the Receivable Information Card page, i
       <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;WorkFlow - kontrolované tabulky&lt;x2/&gt;WorkFlow - kontrolované tabulky&lt;x3/&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T110634Z" creationid="kunes" creationdate="20220428T110634Z">
-        <seg>&lt;x1/&gt;WorkFlow - Checked Tables&lt;x2/&gt; WorkFlow - Checked Tables&lt;x3/&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082830Z" creationid="kunes" creationdate="20220428T110634Z">
+        <seg>&lt;x1/&gt;WorkFlow - Linker Tables&lt;x2/&gt; WorkFlow - Linker Tables&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3121,6 +3131,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121044Z" creationid="kunes" creationdate="20220405T121044Z">
         <seg>The &lt;g1&gt;General Parameters&lt;/g1&gt; add-on module allows you to add an unlimited number of new parameters to &lt;g2&gt;Item&lt;/g2&gt; and &lt;g3&gt;Fixed Assest&lt;/g3&gt; in Dynamics 365 Business Central for detailed sorting and filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Publikační šablony&lt;/g1&gt; je rozšiřující modul k Publikování Sharepoint.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083043Z" creationid="kunes" creationdate="20220504T083043Z">
+        <seg>&lt;g1&gt;Publishing templates&lt;/g1&gt; add-on module is an extension module to Sharepoint Publishing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6439,6 +6457,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124136Z" creationid="kunes" creationdate="20220420T124136Z">
         <seg>SEPA payment settings:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení Spooleru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082959Z" creationid="kunes" creationdate="20220504T082959Z">
+        <seg>Nastavení Spooleru</seg>
       </tuv>
     </tu>
     <tu>
@@ -9844,8 +9870,16 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="cs-CZ">
         <seg>Publikační šablony</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220414T075533Z" creationid="kunes" creationdate="20220414T075533Z">
-        <seg>Publikační šablony</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083021Z" creationid="kunes" creationdate="20220414T075533Z">
+        <seg>Publishing templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikační šablony - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083006Z" creationid="kunes" creationdate="20220504T083006Z">
+        <seg>Publikační šablony - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,6 +9888,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112531Z" creationid="Janousek" creationdate="20210603T112531Z">
         <seg>SharePoint publishing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikování SharePoint - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083003Z" creationid="kunes" creationdate="20220504T083003Z">
+        <seg>Publikování SharePoint - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -10168,6 +10210,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103726Z" creationid="kunes" creationdate="20220421T103726Z">
         <seg>Differentiation of schemes for the selected country</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšiřuje možnosti publikování o nástroje k větší kontrole a řízení publikace dokumentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083048Z" creationid="kunes" creationdate="20220504T083048Z">
+        <seg>Extends publishing capabilities with tools to further control and control document publication.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11410,6 +11460,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110015Z" creationid="kunes" creationdate="20220428T110015Z">
         <seg>Allows you to configure the processing states in which the task (document, record) can be located.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Umožňuje navíc:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083052Z" creationid="kunes" creationdate="20220504T083052Z">
+        <seg>In addition, it allows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14180,6 +14238,38 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>definovat automaticky generovaný strukturovaný název souboru pro publikaci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083104Z" creationid="kunes" creationdate="20220504T083104Z">
+        <seg>define an automatically generated structured file name for the publication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>definovat metadata (parametry) publikovaných dokumentů z více zdrojů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083058Z" creationid="kunes" creationdate="20220504T083058Z">
+        <seg>define metadata (parameters) of published documents from multiple sources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>definovat povolené typy souborů pro publikaci do knihovny</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083121Z" creationid="kunes" creationdate="20220504T083121Z">
+        <seg>define allowed file types for publishing to the library</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>definovat způsob plnění polí na kartě dokumentu v Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083110Z" creationid="kunes" creationdate="20220504T083110Z">
+        <seg>define how fields on a document card are populated in Business Central</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>dimenzi, apod.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110558Z" creationid="kunes" creationdate="20220428T110558Z">
@@ -14192,6 +14282,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T121853Z" creationid="kunes" creationdate="20220421T121853Z">
         <seg>In the &lt;g1&gt;Assing legislation&lt;/g1&gt; select &lt;g2&gt;SK&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>hromadnou evidenci – více vazeb v jedné publikaci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083155Z" creationid="kunes" creationdate="20220504T083155Z">
+        <seg>bulk registration - multiple links in one publication</seg>
       </tuv>
     </tu>
     <tu>
@@ -14264,6 +14362,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122831Z" creationid="kunes" creationdate="20220401T122831Z">
         <seg>the system will make the change automatically (see &lt;g1&gt;Setting up Payment Methods&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>publikovat výstupy sestav Business Central</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083131Z" creationid="kunes" creationdate="20220504T083131Z">
+        <seg>publish outputs of Business Central reports</seg>
       </tuv>
     </tu>
     <tu>
@@ -14732,6 +14838,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092630Z" creationid="kunes" creationdate="20220428T092630Z">
         <seg>WorkFlow - State Management - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>řídit výběr knihovny dle místa publikace a uživatele</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083118Z" creationid="kunes" creationdate="20220504T083118Z">
+        <seg>manage the selection of the library according to the place of publication and the user</seg>
       </tuv>
     </tu>
     <tu>
