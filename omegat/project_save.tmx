@@ -3157,6 +3157,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul Workflow – kontrolované tabulky rozšiřuje funkčnost add-on modulu Workflow o možnost kontroly záznamů nebo polí v tabulkách svázaných s tabulkou, která je řízena workflow.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082529Z" creationid="kunes" creationdate="20220504T082529Z">
+        <seg>The Workflow – Linker Tables add-on extends the functionality of the Workflow add-on by the ability to check records or fields in tables bound to a table that is controlled by workflow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on Řízení stavů je především o správném nastavení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110057Z" creationid="kunes" creationdate="20220428T110057Z">
@@ -5421,6 +5429,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Lze kontrolovat, zda zdrojový záznam k nějakému poli v tabulce s použitým workflow obsahuje v dalších polích potřebná data – např. je-li na hlavičce dokladu vyplněno pole Kód prodejce, pak zkontroluje zda-li má tento prodejce vyplněn email.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082809Z" creationid="kunes" creationdate="20220504T082809Z">
+        <seg>It is possible to check whether the source record for any field in the table with the workflow used contains the necessary data in other fields – for example, if the Salesperson Code field is filled in on the document header, then it checks whether this salesperson has filled in the email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Lze kontrolovat, zda zdrojový záznam k nějakému poli v tabulce s použitým Řízením stavů obsahuje v dalších polích potřebná data – např. je-li na hlavičce dokladu vyplněno pole Kód prodejce, pak zkontroluje zda-li má tento prodejce vyplněn email.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110620Z" creationid="kunes" creationdate="20220428T110620Z">
@@ -6349,8 +6365,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Např. že objednávka obsahuje alespoň jeden řádek se zbožím, nebo že má na všech řádcích vyplněnu cenu nebo lokaci nebo glob.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T110556Z" creationid="kunes" creationdate="20220428T110556Z">
-        <seg>For example, that the order contains at least one line with the item, or that it has a price or location or global dimension filled in on</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082624Z" creationid="kunes" creationdate="20220428T110556Z">
+        <seg>For example, that the order contains at least one line with the goods, or that it has a price or location or glob filled in on</seg>
       </tuv>
     </tu>
     <tu>
@@ -8101,6 +8117,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095634Z" creationid="kunes" creationdate="20220428T095634Z">
         <seg>If the field is filled in arbitrarily, it will be possible to switch the state to the given state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je použito workflow na dokladu s hlavičkou a řádky, například na Prodejní objednávce, lze kontrolovat, zda k hlavičce existují nějaké řádky, nebo řádky nějakého typu nebo obsahu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082600Z" creationid="kunes" creationdate="20220504T082600Z">
+        <seg>If a workflow is applied to a document with a header and lines, such as on a Sales order, you can check whether there are any lines or lines of any type or content for the header.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10694,6 +10718,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095738Z" creationid="kunes" creationdate="20220419T095548Z">
         <seg>The receivable collection status is displayed in the &lt;g1&gt;Customer Ledger Entry FactBox&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stav workflow je pak povoleno změnit pouze pokud všechny kontroly v rámci kontrolovaných tabulek vyhovují.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082538Z" creationid="kunes" creationdate="20220504T082538Z">
+        <seg>The workflow status is then allowed to be changed only if all checks within the inspected tables are compliant.</seg>
       </tuv>
     </tu>
     <tu>
