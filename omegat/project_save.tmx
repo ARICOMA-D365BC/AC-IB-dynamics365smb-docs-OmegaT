@@ -3117,6 +3117,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x6/&gt;Karta evidence pošty II&lt;x7/&gt;
+V záložce &lt;g8&gt;Stav&lt;/g8&gt; se po založení objeví nový záznam s výchozím stavem podle definice v šabloně řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092207Z" creationid="kunes" creationdate="20220504T092207Z">
+        <seg>&lt;x6/&gt;Mail Record Card&lt;x7/&gt;
+In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with the default status as defined in the status control template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>A mnohé další.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104843Z" creationid="kunes" creationdate="20220407T104843Z">
@@ -4157,6 +4167,22 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále lze vyplnit – &lt;g9&gt;Další zodpovědnou osobu&lt;/g9&gt; (buď z Uživatelů a nebo z modulu Zaměstnanci) a textové pole &lt;g10&gt;Popis stavu&lt;/g10&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092250Z" creationid="kunes" creationdate="20220504T092250Z">
+        <seg>It is also possible to fill in - &lt;g9&gt;Additional responsible person&lt;/g9&gt; (either from Users or from the Employees module) and the &lt;g10&gt;Status Description&lt;/g10&gt; text field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále lze zadat evidenční pole &lt;g4&gt;Částka včetně DPH&lt;/g4&gt; a &lt;g5&gt;Částka bez DPH&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092133Z" creationid="kunes" creationdate="20220504T092133Z">
+        <seg>You can also enter the fields &lt;g4&gt;Amount including VAT&lt;/g4&gt; and &lt;g5&gt;Amount excluding VAT&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále musí být nastaveny nové kombinace stejné DPH obchodní účto skupiny a DPH účto skupiny zboží definované v poli „Koef.DPH účto skupiny zboží“ (viz výše) s Typem výpočtu DPH = Plná DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114305Z" creationid="kunes" creationdate="20220419T114305Z">
@@ -4265,6 +4291,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T090805Z" creationid="Janousek" creationdate="20210603T112513Z">
         <seg>Mail Record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence pošty - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092035Z" creationid="kunes" creationdate="20220504T092035Z">
+        <seg>Evidence pošty - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -4985,6 +5019,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125531Z" creationid="kunes" creationdate="20220429T125531Z">
         <seg>These are specific field settings for the central database tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jedná se o vazbu na modul &lt;g2&gt;Došlá pošta (detailněji viz modul – Došlá pošta)&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092525Z" creationid="kunes" creationdate="20220504T092525Z">
+        <seg>This is a link to the &lt;g2&gt;Incoming Mail module (for more details, see the Inbox module)&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10380,6 +10422,22 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Rozšíření fronty  úloh (Job Queue) - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092035Z" creationid="kunes" creationdate="20220504T092035Z">
+        <seg>Rozšíření fronty  úloh (Job Queue) - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšíření fronty úloh (Job Queue)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092033Z" creationid="kunes" creationdate="20220504T092033Z">
+        <seg>Rozšíření fronty úloh (Job Queue)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Rozšíření číslené řady</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102508Z" creationid="kunes" creationdate="20220419T102508Z">
@@ -12190,6 +12248,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113923Z" creationid="kunes" creationdate="20220411T113923Z">
         <seg>On the &lt;g1&gt;Shipment Attachments tab&lt;/g1&gt; click in the line and attach the previously manually generated PDF (pro-form invoice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V záložce &lt;g1&gt;Související došlý doklad&lt;/g1&gt; lze vytvořit anebo připojit či odpojit Došlý doklad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T092323Z" creationid="kunes" creationdate="20220504T092323Z">
+        <seg>On the &lt;g1&gt;Related Incoming Document&lt;/g1&gt; tab, you can create or attach or disconnect the Incoming Document.</seg>
       </tuv>
     </tu>
     <tu>
