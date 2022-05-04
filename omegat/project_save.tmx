@@ -6453,6 +6453,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce Priority požadavku vyberte akci &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115234Z" creationid="kunes" creationdate="20220504T115234Z">
+        <seg>On the Request Priorities page, choose &lt;g1&gt;the New&lt;/g1&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce Prodejní faktura spusťte akci Vydat a poté spusťte funkci Rozpis platby.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090424Z" creationid="kunes" creationdate="20220401T124636Z">
@@ -8808,6 +8816,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
         <seg>Pole Váha může nabývat hodnot 0-1 ve smyslu procent (0 =0 %, 1=100 %).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110316Z" creationid="kunes" creationdate="20220504T110316Z">
+        <seg>The Weight field can take values ​​0-1 in terms of percentages (0 = 0%, 1 = 100%).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole Váha může nabývat hodnot 0-1 ve smyslu procent (0-0 %, 1-100 %).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115258Z" creationid="kunes" creationdate="20220504T115258Z">
         <seg>The Weight field can take values ​​0-1 in terms of percentages (0 = 0%, 1 = 100%).</seg>
       </tuv>
     </tu>
@@ -13158,6 +13174,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Priority požadavku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115222Z" creationid="kunes" creationdate="20220504T115222Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Request Priorities&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktur&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101631Z" creationid="kunes" creationdate="20220414T101631Z">
@@ -13798,6 +13822,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Váhy lze stanovit libovolně, záleží na místních podmínkách a zvyklostech (zpravidla čím závažnější je požadavek, tím vyšší je váha).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115306Z" creationid="kunes" creationdate="20220504T115306Z">
+        <seg>Weights can be set arbitrarily, depending on local conditions and customs (usually, the more severe the requirement, the higher the weight).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Více DIČ dodavatelů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114739Z" creationid="kunes" creationdate="20220419T114739Z">
@@ -14334,10 +14366,34 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte pole &lt;g1&gt;Kód&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115243Z" creationid="kunes" creationdate="20220504T115243Z">
+        <seg>Enter the &lt;g1&gt;Code&lt;/g1&gt; and &lt;g2&gt;Description&lt;/g2&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte pole &lt;g1&gt;Výpočet data odezvy&lt;/g1&gt;, &lt;g2&gt;Výpočet data řešení&lt;/g2&gt; pomocí vzorce pro výpočet.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115402Z" creationid="kunes" creationdate="20220504T115402Z">
+        <seg>Enter the &lt;g1&gt;Response Date Calculation&lt;/g1&gt;, &lt;g2&gt;Solution Date Calculate&lt;/g2&gt; using a formula to calculate fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte požadované filtry jako Filtr data, případně další filtry, vyberte tlačítko &lt;g1&gt;Akce&lt;/g1&gt; a poté vyberte funkci &lt;g2&gt;Výsledky&lt;/g2&gt; a &lt;g3&gt;Uložit výsledky&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102913Z" creationid="kunes" creationdate="20220421T102913Z">
         <seg>Enter the filters you want as the Date Filter or other filters, select the &lt;g1&gt;Action&lt;/g1&gt; button, and then select the &lt;g2&gt;Results&lt;/g2&gt; and &lt;g3&gt;Save Results&lt;/g3&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadejte příslušnou hodnotu do pole &lt;g1&gt;Váha&lt;/g1&gt; pro výpočet výsledné priority požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115249Z" creationid="kunes" creationdate="20220504T115249Z">
+        <seg>Enter the appropriate value in the &lt;g1&gt;Weight&lt;/g1&gt; field to calculate the resulting request priority.</seg>
       </tuv>
     </tu>
     <tu>
