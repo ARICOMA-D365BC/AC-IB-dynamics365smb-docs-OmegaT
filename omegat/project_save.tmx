@@ -2855,6 +2855,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení Helpdesku - záložka Obecné&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T105756Z" creationid="kunes" creationdate="20220504T105756Z">
+        <seg>&lt;x1/&gt;Helpdesk settings - General tab&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení SEPA&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124239Z" creationid="kunes" creationdate="20220420T124239Z">
@@ -6237,6 +6245,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Číselná řada&lt;/g1&gt; klikněte na funkci &lt;g2&gt;Nový&lt;/g2&gt; a vytvořte novou číselnou řadu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T105843Z" creationid="kunes" creationdate="20220504T105843Z">
+        <seg>On the &lt;g1&gt;Number Series&lt;/g1&gt; page, click &lt;g2&gt;New&lt;/g2&gt; to create a new number series.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt; vyberte kód pro správnou Šablonu evidence pošty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T091134Z" creationid="kunes" creationdate="20220504T091134Z">
@@ -6499,6 +6515,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123636Z" creationid="kunes" creationdate="20220420T123636Z">
         <seg>Standard functionality is used to create the Summary Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na záložce &lt;g1&gt;Číslování&lt;/g1&gt; v poli &lt;g2&gt;Čísla požadavků&lt;/g2&gt; vyberte číselnou řadu pro nově vytvářené požadavky Helpdesku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T105816Z" creationid="kunes" creationdate="20220504T105816Z">
+        <seg>On the &lt;g1&gt;Numbering&lt;/g1&gt; tab, in the &lt;g2&gt;Request Nos.&lt;/g2&gt; field, select a number series for newly created Helpdesk requests.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13578,6 +13602,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T103828Z" creationid="kunes" creationdate="20220427T103828Z">
         <seg>Report generating</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytváření číselné řady pro požadavky HelpDesku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T105836Z" creationid="kunes" creationdate="20220504T105836Z">
+        <seg>Create a number series for HelpDesk requests</seg>
       </tuv>
     </tu>
     <tu>
