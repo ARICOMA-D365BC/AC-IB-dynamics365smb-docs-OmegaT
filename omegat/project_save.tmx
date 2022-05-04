@@ -3925,6 +3925,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Doprava - Plánování</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082231Z" creationid="kunes" creationdate="20220504T082231Z">
+        <seg>Doprava - Plánování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Doprava - plánování</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112618Z" creationid="Janousek" creationdate="20210603T112618Z">
@@ -13502,6 +13510,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
         <seg>We Do Uloženka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>WorkFlow - kontrolované tabulky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082512Z" creationid="kunes" creationdate="20220504T082228Z">
+        <seg>WorkFlow - Linker Tables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>WorkFlow - kontrolované tabulky - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T082230Z" creationid="kunes" creationdate="20220504T082230Z">
+        <seg>WorkFlow - kontrolované tabulky - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
