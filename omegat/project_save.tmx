@@ -3937,6 +3937,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do polí lze zadat celá čísla se zkratkou jednotky času (např. D = den, M = měsíc, K = kvartál, R = rok).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115418Z" creationid="kunes" creationdate="20220504T115418Z">
+        <seg>Integers can be entered in the fields with the abbreviation of the unit of time (e.g. D = day, M = month, Q = quarter, Y = year).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do polí zobrazeného okna zadejte parametry pro odepisování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125739Z" creationid="kunes" creationdate="20220420T125739Z">
@@ -6213,6 +6221,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Kategorie požadavku 1&lt;/g1&gt; zvolte akci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115606Z" creationid="kunes" creationdate="20220504T115606Z">
+        <seg>On the &lt;g1&gt;Request Categories 1&lt;/g1&gt; page, choose the &lt;g2&gt;New&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Kategorie uživatele&lt;/g1&gt; vyberte akci &lt;g2&gt;Nový&lt;/g2&gt; a poté zadejte &lt;g3&gt;Kód&lt;/g3&gt;, &lt;g4&gt;Popis&lt;/g4&gt; a &lt;g5&gt;Váhu&lt;/g5&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110308Z" creationid="kunes" creationdate="20220504T110308Z">
@@ -6899,6 +6915,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111420Z" creationid="kunes" creationdate="20220428T111420Z">
         <seg>The setting is crucial for decisions about sending synchronized data and about checks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení kategorie požadavků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115526Z" creationid="kunes" creationdate="20220504T115526Z">
+        <seg>Request Category Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -8339,6 +8363,16 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po zadání priorit požadavků může tabulka vypadat následovně:
+&lt;x1/&gt;Nastavení Helpdesku - Priority požadavků&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115507Z" creationid="kunes" creationdate="20220504T115507Z">
+        <seg>After specifying request priorities, the table can look like this:
+&lt;x1/&gt;Helpdesk Setup - Request Priorities&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po zaúčtování dodání nastává proces vytvoření zásilky pro zákazníka.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110422Z" creationid="kunes" creationdate="20220407T110422Z">
@@ -8457,6 +8491,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125003Z" creationid="kunes" creationdate="20220420T125003Z">
         <seg>If you want to set the export format on a specific bank account, go to the bank account card and set the required values ​​in the fields &lt;g1&gt;Foreign Payment Export Format&lt;/g1&gt; and &lt;g2&gt;Payment Export Format&lt;/g2&gt; on the &lt;g3&gt;Transfer&lt;/g3&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete pro danou kategorii vytvořit vícero podkategorií (kategorií 2 úrovně) vyberte akci &lt;g1&gt;Kategorie požadavku 2&lt;/g1&gt; na stránce &lt;g2&gt;Kategorie požadavku 1&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115655Z" creationid="kunes" creationdate="20220504T115655Z">
+        <seg>To create multiple subcategories (level 2 categories) for a given category, choose &lt;g1&gt;Request Categories 2&lt;/g1&gt; action on the &lt;g2&gt;Request Categories 1&lt;/g2&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9712,6 +9754,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120158Z" creationid="kunes" creationdate="20220411T120158Z">
         <seg>To assign a shipping location to a location, you need to set the &lt;g1&gt;Expedition Places Code&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro sledování požadavků z jiných hledisek, než podle závažnosti je možné nadefinovat kategorie požadavků, a to až ve 3 úrovních, pro které platí stromový rozpad (tzn. jsou ve vztahu hierarchické podřízenosti, tj. volba Kategorie 1 určí, jaké se budou nabízet Kategorie 2, a ty zase ovlivní nabídku Kategorií 3).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115540Z" creationid="kunes" creationdate="20220504T115540Z">
+        <seg>To monitor requirements from points of view other than severity, it is possible to define categories of requirements, up to 3 levels for which the tree decay applies (i.e. they are in a hierarchical subordination relationship, i.e. the Category 1 option determines which Category 2 will be offered, which in turn will affect the Category 3 offer).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,6 +13040,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Kategorie požadavku 1&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115549Z" creationid="kunes" creationdate="20220504T115549Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Request Categories&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Kategorie uživatele&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110254Z" creationid="kunes" creationdate="20220504T110254Z">
@@ -13630,6 +13688,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyplňte příslušná pole na řádku Kód (max. 10 znaků) a &lt;g1&gt;Popis&lt;/g1&gt; (max. 50 znaků) kategorie.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115612Z" creationid="kunes" creationdate="20220504T115612Z">
+        <seg>Fill in the appropriate fields in the Category Code (max. 10 characters) and &lt;g1&gt;Description&lt;/g1&gt; (max. 50 characters) rows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyplňtě jednotlivé řádky a doklad vydejte.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125545Z" creationid="kunes" creationdate="20220427T125545Z">
@@ -13946,6 +14012,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102946Z" creationid="kunes" creationdate="20220421T102946Z">
         <seg>The results of accounting schemes are stored in a list in the chronological sequence of their formation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výsledné datum, při zadávaní nového požadavku, se vypočte z data, kdy byl požadavek zadán (datum lze následně upravit).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115424Z" creationid="kunes" creationdate="20220504T115424Z">
+        <seg>The resulting date, when entering a new request, is calculated from the date when the request was entered (the date can then be edited).</seg>
       </tuv>
     </tu>
     <tu>
