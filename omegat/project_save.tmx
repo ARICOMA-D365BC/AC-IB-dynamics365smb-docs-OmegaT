@@ -1877,10 +1877,30 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikační šablony - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083206Z" creationid="kunes" creationdate="20220504T083206Z">
+        <seg>&lt;g1&gt;Publishing templates - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Publikační šablony&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141601Z" creationid="Janousek" creationdate="20210625T141601Z">
         <seg>&lt;g1&gt;Publishing templates&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikování SharePoint - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083345Z" creationid="kunes" creationdate="20220504T083329Z">
+        <seg>&lt;g1&gt;SharePoint Publishing - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2923,6 +2943,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Sharepoint&lt;x2/&gt;Sharepoint&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083322Z" creationid="kunes" creationdate="20220504T083322Z">
+        <seg>&lt;x1/&gt;Sharepoint&lt;x2/&gt;Sharepoint&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Spuštění webových zdrojů&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101147Z" creationid="kunes" creationdate="20220414T101147Z">
@@ -3127,6 +3155,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T090633Z" creationid="kunes" creationdate="20220504T090633Z">
+        <seg>The &lt;g1&gt;Incoming Mail&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Obecné parametry&lt;/g1&gt; umožňuje přidat ke kartám &lt;g2&gt;zboží&lt;/g2&gt; nebo &lt;g3&gt;dlouhodobého majetku&lt;/g3&gt; v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121044Z" creationid="kunes" creationdate="20220405T121044Z">
@@ -3139,6 +3175,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083043Z" creationid="kunes" creationdate="20220504T083043Z">
         <seg>&lt;g1&gt;Publishing templates&lt;/g1&gt; add-on module is an extension module to Sharepoint Publishing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Publikování SharePoint&lt;/g1&gt; umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat dokumenty v centrálním datovém úložišti SharePoint, souborovém systému či databázi Dynamics 365 Business Central a propojit je se záznamy v tabulkách informačního systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083253Z" creationid="kunes" creationdate="20220504T083253Z">
+        <seg>The &lt;g1&gt;SharePoint Publishing&lt;/g1&gt; add-on module allows you to publish documents in the SharePoint central data store, file system or Dynamics 365 Business Central database directly from the Dynamics 365 Business Central environment and link them to the records in the information system tables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,6 +5601,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121106Z" creationid="kunes" creationdate="20220405T121106Z">
         <seg>The module contains a wizard for easy entry of parameter values by manually entering or selecting from the prepared lists.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul tak výrazně rozšiřuje informační hodnotu a možnost využití záznamů v systému Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083314Z" creationid="kunes" creationdate="20220504T083314Z">
+        <seg>The module thus significantly expands the information value and the possibility of using records in dynamics 365 Business Central.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8903,6 +8955,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Praktickým využitím této technologie je připojení produktových informací ke kartám zboží nebo obchodních dokumentů (např. smluv) ke kartám dodavatelů či zákazníků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083321Z" creationid="kunes" creationdate="20220504T083321Z">
+        <seg>A practical use of this technology is to connect product information to goods cards or business documents (e.g. contracts) to supplier or customer cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro &lt;g1&gt;zrušení filtru&lt;/g1&gt; vyhledávání klikněte v přehledu v sekci Akce na funkci &lt;g2&gt;Vymazat filtry Obecných parametrů&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125644Z" creationid="kunes" creationdate="20220405T125644Z">
@@ -10064,6 +10124,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125746Z" creationid="kunes" creationdate="20220429T125746Z">
         <seg>When changing in the system, the field numbers do not change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Připojené publikované dokumenty lze přímo ze systému Dynamics 365 Business Central otevřít v asociované aplikaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T083303Z" creationid="kunes" creationdate="20220504T083303Z">
+        <seg>Attached published documents can be opened directly from Dynamics 365 Business Central in an associated application.</seg>
       </tuv>
     </tu>
     <tu>
