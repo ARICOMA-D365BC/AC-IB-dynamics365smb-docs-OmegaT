@@ -879,6 +879,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120504Z" creationid="kunes" creationdate="20220504T120504Z">
+        <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Hmotnost na řádku&lt;/g1&gt; - Hmotnost musí být vyplěna v řádku zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125045Z" creationid="kunes" creationdate="20220411T125045Z">
@@ -6265,6 +6275,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T105746Z" creationid="kunes" creationdate="20220504T105746Z">
         <seg>On the &lt;g1&gt;Helpdesk Settings&lt;/g1&gt; page, on the &lt;g2&gt;General&lt;/g2&gt; tab, you can choose whether to fill in request categories 1-3, the default priority, and whether you need to enter new requests using the wizard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Nastavení řízení stavů&lt;/g1&gt; zadejte do pole &lt;g2&gt;Číslo tabulky&lt;/g2&gt; číslo 52068298, které označuje tabulku Helpdesk požadavek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120446Z" creationid="kunes" creationdate="20220504T120446Z">
+        <seg>On &lt;g1&gt;Status Management Setup&lt;/g1&gt; page, in the &lt;g2&gt;Table number&lt;/g2&gt; field, type the 52068298 number that indicates the Request Helpdesk table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12489,6 +12507,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Šablony Řízení stavů&lt;/g1&gt; vyberte příslušnou šablonu pro řízení stavů pro HelpDesk požadavky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120502Z" creationid="kunes" creationdate="20220504T120502Z">
+        <seg>In the &lt;g1&gt;Status Management templates&lt;/g1&gt;field, select the appropriate template for status control for HelpDesk requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli Hodnota se zadává přímo hodnota, která se předá akci jako parametr (např. konkrétní e-mail).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T100422Z" creationid="kunes" creationdate="20220428T100422Z">
@@ -13325,6 +13351,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114240Z" creationid="kunes" creationdate="20220419T114240Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;VAT Posting Setup&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení řízení stavů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120233Z" creationid="kunes" creationdate="20220504T120233Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell MeTeat&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Status Control Settings&lt;/g4&gt;, and then select the related link.</seg>
       </tuv>
     </tu>
     <tu>
