@@ -5033,6 +5033,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jeden ze stavů musí být označen jako &lt;g4&gt;Výchozí stav&lt;/g4&gt; – ten se vyplní při založení nového helpdesk požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120050Z" creationid="kunes" creationdate="20220504T120050Z">
+        <seg>One of the states must be marked as &lt;g4&gt;Default State&lt;/g4&gt; – this is filled in when a new helpdesk request is created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedna firma může přijímat nastavení od centrální databáze a zároveň být sama centrální databází pro jiné firmy = v systému může být více centrálních databází.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111338Z" creationid="kunes" creationdate="20220428T111333Z">
@@ -5237,6 +5245,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122733Z" creationid="kunes" creationdate="20220401T122733Z">
         <seg>However, when there are more than one such code (due to record keeping requirements), it is necessary to ensure that the document is posted with the code appropriate to the user posting the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Když máte nadefinované stavy Řízení stavů potvrďte je pomocí tlačítka &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120124Z" creationid="kunes" creationdate="20220504T120124Z">
+        <seg>When you have defined Status Management Statuses, use the &lt;g1&gt;OK&lt;/g1&gt; button to confirm them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7319,6 +7335,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Řízení stavú pro HelpDesk</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120214Z" creationid="kunes" creationdate="20220504T120214Z">
+        <seg>Status Management settings for HelpDesk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení řešení požadavků</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115758Z" creationid="kunes" creationdate="20220504T115758Z">
@@ -7619,6 +7643,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094209Z" creationid="kunes" creationdate="20220428T094209Z">
         <seg>Some states may be labeled as &lt;g1&gt;Final Status&lt;/g1&gt;, from which no further state is continued.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Některé stavy mohou být označeny jako &lt;g5&gt;Konečný stav&lt;/g5&gt;, z něhož se už nepokračuje do dalšího stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120102Z" creationid="kunes" creationdate="20220504T120102Z">
+        <seg>Some states may be referred to as &lt;g5&gt;the Final Status&lt;/g5&gt;, from which no further state is continued.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8409,6 +8441,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115507Z" creationid="kunes" creationdate="20220504T115507Z">
         <seg>After specifying request priorities, the table can look like this:
 &lt;x1/&gt;Helpdesk Setup - Request Priorities&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po založení šablony je nutné nastavit tuto šablonu na stránce &lt;g1&gt;Nastavení Řízení stavů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120223Z" creationid="kunes" creationdate="20220504T120223Z">
+        <seg>After you create a template, you must set up the template on the &lt;g1&gt;Status Management Settings&lt;/g1&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9879,6 +9919,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro stav workflow je třeba nadefinovat &lt;g1&gt;Kód&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Filtr dalšího stavu&lt;/g3&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120040Z" creationid="kunes" creationdate="20220504T120040Z">
+        <seg>For workflow status, you need to define &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Next status filter&lt;/g3&gt;, which determines what other states can be accessed from that state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro takové se neprovádí import dalších dat (viz dále).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124355Z" creationid="kunes" creationdate="20220411T124355Z">
@@ -10019,6 +10067,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102810Z" creationid="kunes" creationdate="20220419T102810Z">
         <seg>For more information, visit Number Series Links Setup. &lt;g1&gt;Settings - Application extension set&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro více informací o založení a nastavení Řízení stavů navštivte &lt;g1&gt;Nastavení Řízení stavů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120155Z" creationid="kunes" creationdate="20220504T120155Z">
+        <seg>For more information about setting up and setting up Status Management, see &lt;g1&gt;Status Management Settings&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12373,6 +12429,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102935Z" creationid="kunes" creationdate="20220421T102935Z">
         <seg>In the &lt;g1&gt;Save Acc. Schedule Result&lt;/g1&gt; fill in the fields as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V panely funkcí klikněte na &lt;g1&gt;Stavy řízení stavů&lt;/g1&gt; pro nastavení jednotlivých stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T120000Z" creationid="kunes" creationdate="20220504T120000Z">
+        <seg>In the function panels, click &lt;g1&gt;Status Management Statuses&lt;/g1&gt; to set each state.</seg>
       </tuv>
     </tu>
     <tu>
