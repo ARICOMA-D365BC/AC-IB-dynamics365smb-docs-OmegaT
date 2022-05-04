@@ -6325,6 +6325,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Řešení&lt;/g1&gt; zvolte akci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115821Z" creationid="kunes" creationdate="20220504T115821Z">
+        <seg>On the &lt;g1&gt;Solution&lt;/g1&gt; page, choose the &lt;g2&gt;New&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt; vyberte kód pro správnou Šablonu evidence pošty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T091134Z" creationid="kunes" creationdate="20220504T091134Z">
@@ -6345,6 +6353,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132741Z" creationid="kunes" creationdate="20220420T132741Z">
         <seg>On the &lt;g1&gt;VAT Report Templates&lt;/g1&gt; page, select the &lt;g2&gt;Related&lt;/g2&gt;section, then the &lt;g3&gt;Template&lt;/g3&gt; section and open the &lt;g4&gt;Report Names&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony řízení stavů&lt;/g1&gt; vyplňte pole na řádku &lt;g2&gt;Kód&lt;/g2&gt;, &lt;g3&gt;Popis&lt;/g3&gt; a &lt;g4&gt;Číslo tabulky (52068298)&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115929Z" creationid="kunes" creationdate="20220504T115929Z">
+        <seg>On &lt;g1&gt;the Status Management Templates&lt;/g1&gt; page, fill in the fields in the &lt;g2&gt;Code&lt;/g2&gt;, &lt;g3&gt;Description&lt;/g3&gt;, and &lt;g4&gt;Table Number (52068298) rows&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7303,6 +7319,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení řešení požadavků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115758Z" creationid="kunes" creationdate="20220504T115758Z">
+        <seg>Set up a Request Solution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení řádků výkazu DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132913Z" creationid="kunes" creationdate="20220420T132913Z">
@@ -7739,6 +7763,22 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111639Z" creationid="Janousek" creationdate="20210603T111639Z">
         <seg>Online system operation in the cloud has a major advantage in lower initial implementation costs, ensured security, and easier system updates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Opakujte kroky 2 a 3 pro vyplnění Kategorie požadavku 2.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115701Z" creationid="kunes" creationdate="20220504T115701Z">
+        <seg>Repeat steps 2 and 3 to complete Requirement Category 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Opakujte kroky 2 a 3 pro vyplnění Kategorie požadavku 3.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115739Z" creationid="kunes" creationdate="20220504T115739Z">
+        <seg>Repeat steps 2 and 3 to complete Requirement Category 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8499,6 +8539,15 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115655Z" creationid="kunes" creationdate="20220504T115655Z">
         <seg>To create multiple subcategories (level 2 categories) for a given category, choose &lt;g1&gt;Request Categories 2&lt;/g1&gt; action on the &lt;g2&gt;Request Categories 1&lt;/g2&gt; page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete pro danou kategorii vytvořit vícero podkategorií (kategorií 3 úrovně) vyberte akci &lt;g1&gt;Kategorie požadavku 3&lt;/g1&gt; na stránce &lt;g2&gt;Kategorie požadavku 2&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115735Z" creationid="kunes" creationdate="20220504T115735Z">
+        <seg>To create multiple subcategories (level 3 categories) for a given category, choose &lt;g1&gt;Request Categories 3&lt;/g1&gt; action on the &lt;g2&gt;Request Categories 2&lt;/g2&gt; page.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,6 +10115,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125901Z" creationid="kunes" creationdate="20220405T125901Z">
         <seg>To create a code list of general parameters, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro založení šabloby workflow je nutný &lt;g1&gt;addon Řízení stavů&lt;/g1&gt;, který musíte mít nainstalován.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115913Z" creationid="kunes" creationdate="20220504T115913Z">
+        <seg>To set up a workflow, the &lt;g1&gt;Status Management addon&lt;/g1&gt; is required, which you must have installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12560,6 +12617,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V tomhle nastavení je možné nadefinovat jednotlivé způsoby řešení požadavků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115804Z" creationid="kunes" creationdate="20220504T115804Z">
+        <seg>In this setting, it is possible to define individual ways of solving requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V tomhle poli se určuje, s kterým polem budeme dané pole porovnávat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095959Z" creationid="kunes" creationdate="20220428T095959Z">
@@ -13472,6 +13537,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Řešení&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115811Z" creationid="kunes" creationdate="20220504T115811Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Solutions&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony obecných parametrů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102141Z" creationid="kunes" creationdate="20220406T102141Z">
@@ -13684,6 +13757,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132113Z" creationid="kunes" creationdate="20220420T132113Z">
         <seg>Fill in the required fields and choose the &lt;g1&gt;OK&lt;/g1&gt; function, which will create a .xml file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte příslušná pole na řádku &lt;g1&gt;Kód&lt;/g1&gt; (max. 10 znaků) a &lt;g2&gt;Popis&lt;/g2&gt; (max. 50 znaků) kategorie.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115837Z" creationid="kunes" creationdate="20220504T115837Z">
+        <seg>Fill in the appropriate fields in the Code (max. 10 characters) and &lt;g1&gt;Description&lt;/g1&gt; (max. 50 characters) rows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14532,6 +14613,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122415Z" creationid="kunes" creationdate="20220427T122415Z">
         <seg>Creating exceptions in the Packaging Statements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Založení šablony Řízení stavů pro HelpDesk</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220504T115849Z" creationid="kunes" creationdate="20220504T115849Z">
+        <seg>Create a Status Management template for Helpdesk</seg>
       </tuv>
     </tu>
     <tu>
