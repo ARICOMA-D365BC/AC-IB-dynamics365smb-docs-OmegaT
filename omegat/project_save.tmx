@@ -8706,6 +8706,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je instalován modul &lt;g1&gt;Publikování SharePoint&lt;/g1&gt;, pak je možné u každé Karty evidence pošty pomocí funkce &lt;g2&gt;Dokumenty/Publikovat&lt;/g2&gt; publikovat dokument a pomocí funkce &lt;g3&gt;Zobrazit&lt;/g3&gt; zobrazit publikovaný dokument &lt;g4&gt;(detailněji viz modul - SharePoint)&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T140546Z" creationid="kunes" creationdate="20220506T140546Z">
+        <seg>If &lt;g1&gt;the SharePoint Publishing&lt;/g1&gt; module is installed, then it is possible to publish a document using the &lt;g2&gt;Documents/Publish&lt;/g2&gt; function for each Mail Registration Card and view the published document using the &lt;g3&gt;View&lt;/g3&gt; function &lt;g4&gt;(for more details, see module - SharePoint)&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je pole libovolně vyplněno, tak se bude dát přepnout stav do daného stavu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095634Z" creationid="kunes" creationdate="20220428T095634Z">
