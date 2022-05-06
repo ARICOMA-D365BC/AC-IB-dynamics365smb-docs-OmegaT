@@ -655,6 +655,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Dimenze&lt;/g1&gt; jsou automaticky naplněny při vyplňování jednotlivých polí na kartě evidence pošty tzn. na základě vyplnění &lt;g2&gt;Čísla kontaktu&lt;/g2&gt;, &lt;g3&gt;Kódu prodejce/nákupčího&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T083341Z" creationid="kunes" creationdate="20220506T083341Z">
+        <seg>&lt;g1&gt;Dimensions&lt;/g1&gt; are automatically filled in when filling in individual fields on the mail records card, i.e. based on filling in &lt;g2&gt;Contact Number&lt;/g2&gt;, &lt;g3&gt;Salesperson/Purchaser Code&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Doprava - plánování&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141904Z" creationid="Janousek" creationdate="20210625T141904Z">
@@ -3078,9 +3086,9 @@ The Receivables Status field, located on the Receivable Information Card page, i
         <seg>&lt;x1/&gt;Záznam dat. schránky&lt;x2/&gt;
 Jestliže se jedná o doklad vytvořený z Datové schránky je možno si nechat zobrazit původní doklad přes funkci – &lt;g3&gt;Proces/Záznam dat. schránky (detailněji viz  modul – Datové schránky)&lt;/g3&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T092624Z" creationid="kunes" creationdate="20220504T092624Z">
-        <seg>&lt;x1/&gt;Záznam dat. schránky&lt;x2/&gt;
-Jestliže se jedná o doklad vytvořený z Datové schránky je možno si nechat zobrazit původní doklad přes funkci – &lt;g3&gt;Proces/Záznam dat. schránky (detailněji viz  modul – Datové schránky)&lt;/g3&gt;.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T083243Z" creationid="kunes" creationdate="20220504T092624Z">
+        <seg>&lt;x1/&gt;Record of Data Boxes&lt;x2/&gt;
+If it is a document created from the Data Box, it is possible to have the original document displayed via the function - &lt;g3&gt;Process / Data recording. mailboxes (for more details, see the module - Data mailboxes)&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
