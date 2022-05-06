@@ -5083,6 +5083,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedná se o funkci – &lt;g1&gt;Proces/Vydat&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T084638Z" creationid="kunes" creationdate="20220506T084638Z">
+        <seg>This is the &lt;g1&gt;Process/Issue&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedná se o integraci BC na komerční službu CreditCheck, která slouží pro kontrolu bonity partnerů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100902Z" creationid="kunes" creationdate="20220414T100902Z">
@@ -8437,6 +8445,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vyplnění všech potřebných dat je vhodné doklad odsouhlasit a zamezit jeho změnám.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T084631Z" creationid="kunes" creationdate="20220506T084631Z">
+        <seg>After filling in all the necessary data, it is advisable to approve the document and prevent its changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vyplění polí stránku zavřete.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125940Z" creationid="kunes" creationdate="20220429T125940Z">
@@ -9418,6 +9434,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104343Z" creationid="kunes" creationdate="20220419T104343Z">
         <seg>NOTE: In BC online it is necessary to use different method – see &lt;g1&gt;Barcode Fonts with Business Central Online - Business Central | Microsoft Docs&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Poznámky k požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090655Z" creationid="kunes" creationdate="20220506T090655Z">
+        <seg>Poznámky k požadavku</seg>
       </tuv>
     </tu>
     <tu>
