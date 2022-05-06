@@ -12627,6 +12627,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V případě, že uživatel chce tyto dimenze upravit či změnit je zde funkce &lt;g4&gt;Pošta/Dimenze&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T084625Z" creationid="kunes" creationdate="20220506T084625Z">
+        <seg>If the user wants to edit or change these dimensions, there is the &lt;g4&gt;Mail/Dimensions&lt;/g4&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V případě, že zákazník chce provést vyrovnání dokladu při účtování pouze jedním způsobem, např. bankovní kartou, lze použít zjednodušený režim zadáním vybraného Kódu způsobu platby přímo v hlavičce dokladu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T122536Z" creationid="kunes" creationdate="20220401T122536Z">
