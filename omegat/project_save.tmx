@@ -3125,6 +3125,14 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;List poznámek evidence pošty&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090837Z" creationid="kunes" creationdate="20220506T090837Z">
+        <seg>&lt;x2/&gt;Mail Record Comment Sheet&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x2/&gt;Nastavení AC Parcels&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120343Z" creationid="kunes" creationdate="20220411T120343Z">
@@ -4031,6 +4039,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121620Z" creationid="kunes" creationdate="20220420T121620Z">
         <seg>You can create a document on the factoring tab by using the &lt;g1&gt;Create Factoring Document&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dokumenty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090948Z" creationid="kunes" creationdate="20220506T090948Z">
+        <seg>Dokumenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -5119,6 +5135,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081541Z" creationid="kunes" creationdate="20220404T081541Z">
         <seg>These are code lists:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jedná se o Řádky poznámek na kartě požadavku – tyto strukturované poznámky obsahují pole Datum, Poznámka (100 znaků) a Kód.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090824Z" creationid="kunes" creationdate="20220506T090824Z">
+        <seg>These are Request Comment Line on the request card—these structured notes contain the Date, Note (100 characters), and Code fields.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9440,8 +9464,8 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="cs-CZ">
         <seg>Poznámky k požadavku</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220506T090655Z" creationid="kunes" creationdate="20220506T090655Z">
-        <seg>Poznámky k požadavku</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090701Z" creationid="kunes" creationdate="20220506T090655Z">
+        <seg>Request Comments</seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,6 +12343,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115122Z" creationid="kunes" creationdate="20220411T115122Z">
         <seg>Username</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelé mohou zadat řádkové poznámky dostupné jako funkce &lt;g1&gt;Související/Pošta/Poznámky&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220506T090802Z" creationid="kunes" creationdate="20220506T090656Z">
+        <seg>Users can enter comment lines available as &lt;g1&gt;Related/Mail/Comments&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
