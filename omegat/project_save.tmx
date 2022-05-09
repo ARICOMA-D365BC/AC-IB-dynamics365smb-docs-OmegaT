@@ -9286,6 +9286,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Posledím krokem je tlačítko &lt;g1&gt;Dokončit&lt;/g1&gt;, pomocí kterého vytvoříte zadaný požadavek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T110214Z" creationid="kunes" creationdate="20220509T110214Z">
+        <seg>The last step is the &lt;g1&gt;Finish&lt;/g1&gt; button, which you use to create the specified request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Postoupení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102358Z" creationid="kunes" creationdate="20220419T102358Z">
@@ -10671,6 +10679,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083003Z" creationid="kunes" creationdate="20220504T083003Z">
         <seg>Publikování SharePoint - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikování dokumentu vyžaduje modul &lt;g2&gt;Publikování SharePoint&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105906Z" creationid="kunes" creationdate="20220509T105906Z">
+        <seg>Publishing a document requires &lt;g2&gt;SharePoint Publishing&lt;/g2&gt; module.</seg>
       </tuv>
     </tu>
     <tu>
