@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="cs-CZ">
+        <seg>(Obě pole jsou povinná - nelze pokračovat bez vyplnění obou hodnot.)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105556Z" creationid="kunes" creationdate="20220509T105556Z">
+        <seg>(Both fields are required - you cannot continue without filling in both values.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>(Stejně tak se zásilky dají vytvářet z prodejních faktur.)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104454Z" creationid="kunes" creationdate="20220407T104454Z">
@@ -3767,6 +3775,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125546Z" creationid="kunes" creationdate="20220405T125546Z">
         <seg>The next step is to select by which parameters the system will filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dalším krokem je zadání &lt;g1&gt;stručného popisu požadavku&lt;/g1&gt; (nadpis) a &lt;g2&gt;popisu požadavku&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105651Z" creationid="kunes" creationdate="20220509T105651Z">
+        <seg>The next step is to enter &lt;g1&gt;Request Short Description&lt;/g1&gt; (title) and &lt;g2&gt;Request Description&lt;/g2&gt; of the request.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8203,6 +8219,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pak je možné zvolit nastavení do předem definovaných kategorií (1-3).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105715Z" creationid="kunes" creationdate="20220509T105715Z">
+        <seg>Then it is possible to choose settings to predefined categories (1-3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pak již stačí výsledný soubor naimportovat do elektronického formuláře finanční správy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103343Z" creationid="kunes" creationdate="20220421T103343Z">
@@ -8485,6 +8509,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vhodném výběru klikněte na možnost &lt;g1&gt;Dalsí&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105747Z" creationid="kunes" creationdate="20220509T105747Z">
+        <seg>Once you have made a suitable selection, click &lt;g1&gt;Next&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vyplnění polí můžete kartu zavřít.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121548Z" creationid="kunes" creationdate="20220420T121548Z">
@@ -8521,6 +8553,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
         <seg>After creating the final purchase invoice and assigning the paid purchase deposit, in case of an over-payment on the deposit, it is possible to insert another line with the overpayment amount and the Intended for return refund flag (the flag is also on the posted invoice line).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po výběre této možnosti se automaticky spustí průvodce publikováním.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105856Z" creationid="kunes" creationdate="20220509T105856Z">
+        <seg>When you select this option, the Publish Wizard starts automatically.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12503,6 +12543,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102655Z" creationid="kunes" creationdate="20220405T123200Z">
         <seg>Click &lt;g1&gt;Next&lt;/g1&gt; in the next step.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V dalším kroku průvodce se nachází volba &lt;g1&gt;Publikovat dokumenty&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105801Z" creationid="kunes" creationdate="20220509T105801Z">
+        <seg>In the next step of the wizard, you will find the &lt;g1&gt;Publish Documents&lt;/g1&gt; option.</seg>
       </tuv>
     </tu>
     <tu>
