@@ -8938,6 +8938,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud příslušný projekt ještě neexistuje je možné jej vytvořit přímo z karty požadavku na záložce &lt;g1&gt;Akce&lt;/g1&gt; pomocí tlačítka &lt;g2&gt;Vytvoř projekt&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122459Z" creationid="kunes" creationdate="20220509T122459Z">
+        <seg>If the project does not already exist, you can create it directly from the request tab on the &lt;g1&gt;Actions&lt;/g1&gt; tab by using the &lt;g2&gt;Create Job&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud se bude jednat o balíkovou přepravu (NE PALETOVOU), po zadání počtu balíků se vytvoří řádky zásilky, ke kterým budou přiřazeny jednotlivé štítky od dopravce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105155Z" creationid="kunes" creationdate="20220407T105155Z">
