@@ -6745,6 +6745,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na záložce &lt;g1&gt;Řádky&lt;/g1&gt; se po založení požadavku objeví nový záznam s výchozím stavem podle definice v šabloně Řízení stavů pro helpdesk.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122636Z" creationid="kunes" creationdate="20220509T122636Z">
+        <seg>On the &lt;g1&gt;Lines&lt;/g1&gt; page, after creating a request, a new record appears with the default state as defined in the Helpdesk Status Management template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na záložce Nastavení účtování DPH zvolte filtr, pro které položky DPH chcete spustit výpočet.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105355Z" creationid="kunes" creationdate="20220419T105355Z">
@@ -10851,6 +10859,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při každé další změně stavu požadavku se, v případě že máte pro tento stav nastavenu &lt;g2&gt;Akci Řízení stavů logování&lt;/g2&gt; (52068291 WriteStatusChangeHlpDesk), vygeneruje další řádek s odpovídajícími hodnotami (viz podrobnější popis níže u zpracování požadavku).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122749Z" creationid="kunes" creationdate="20220509T122749Z">
+        <seg>Each time the request state changes, if you have the &lt;g2&gt;Log Status Control action&lt;/g2&gt; set for this state (52068291 WriteStatusChangeHlpDesk), an additional line with the corresponding values is generated (see a more detailed description below for request processing).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Při procházení či vytváření prodejních, nákupních či servisních dokladů systém kontroluje existenci směnného kurzu pro určité datum.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091433Z" creationid="kunes" creationdate="20220419T091433Z">
@@ -12243,6 +12259,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120145Z" creationid="kunes" creationdate="20220411T120145Z">
         <seg>This serves to reduce the error rate of users so that they cannot combine documents with different shipping points into the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Touto operací je založen nový projekt se stejným kódem jako je číslo požadavku (i se stejným popisem) a tento kód se automaticky doplní do pole &lt;g3&gt;Číslo projektu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122539Z" creationid="kunes" creationdate="20220509T122539Z">
+        <seg>This operation creates a new project with the same code as the request number (even with the same description), and this code is automatically added to the &lt;g3&gt;Job number&lt;/g3&gt; field.</seg>
       </tuv>
     </tu>
     <tu>
