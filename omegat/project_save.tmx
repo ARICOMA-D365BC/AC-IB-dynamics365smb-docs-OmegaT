@@ -2769,6 +2769,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Helpdesk - Publikování SharePoint&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130442Z" creationid="kunes" creationdate="20220509T130442Z">
+        <seg>&lt;x1/&gt;Helpdesk - SharePoint publishing&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Helpdesk - detailní popis&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T123103Z" creationid="kunes" creationdate="20220509T123103Z">
@@ -5239,6 +5247,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093418Z" creationid="kunes" creationdate="20220504T093418Z">
         <seg>There is also a history of closed HelpDesk requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>K tomu se na Kartě helpdesk požadavku využívá především záložka &lt;g1&gt;Řešení požadavku&lt;/g1&gt; nebo funkce &lt;g2&gt;Změna stavu&lt;/g2&gt; požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130734Z" creationid="kunes" creationdate="20220509T130734Z">
+        <seg>To do this, the &lt;g1&gt;Processing&lt;/g1&gt; tab or the &lt;g2&gt;Request Status Change&lt;/g2&gt; Function is used on the Helpdesk Request Card.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8427,6 +8443,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po kliknutí na akci &lt;g1&gt;Reporty&lt;/g1&gt; a pak &lt;g2&gt;Tisk&lt;/g2&gt; v Přehledu HelpDesk požadavků se spustí sestava Helpdesk požadavky (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130512Z" creationid="kunes" creationdate="20220509T130512Z">
+        <seg>Clicking on the &lt;g1&gt;Reports&lt;/g1&gt; and then &lt;g2&gt;Print&lt;/g2&gt; action in the HelpDesk Requests Overview launches the Helpdesk Requests report (the number of the currently displayed request is offered in the input filter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po kliknutí na tuto funkci se nabídnou další stavy řízení stavů, které podle definice filtru dalšího stavu připadají v úvahu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110428Z" creationid="kunes" creationdate="20220428T110428Z">
@@ -8609,6 +8633,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
         <seg>After creating the final purchase invoice and assigning the paid purchase deposit, in case of an over-payment on the deposit, it is possible to insert another line with the overpayment amount and the Intended for return refund flag (the flag is also on the posted invoice line).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po vytvoření požadavku je možné jej dále zpracovávat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130616Z" creationid="kunes" creationdate="20220509T130616Z">
+        <seg>Once a request has been created, it can be further processed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,6 +10385,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro více informací o publikování dokumentů navštivte &lt;g1&gt;Publikování SharePoint&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130429Z" creationid="kunes" creationdate="20220509T130429Z">
+        <seg>For more information about publishing documents, see &lt;g1&gt;Publish SharePoint&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro více informací o založení a nastavení Řízení stavů navštivte &lt;g1&gt;Nastavení Řízení stavů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T120155Z" creationid="kunes" creationdate="20220504T120155Z">
@@ -11145,6 +11185,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103726Z" creationid="kunes" creationdate="20220421T103726Z">
         <seg>Differentiation of schemes for the selected country</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130520Z" creationid="kunes" creationdate="20220509T130520Z">
+        <seg>The print range can then be specified in more detail through filters and parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12171,6 +12219,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121403Z" creationid="kunes" creationdate="20220427T121403Z">
         <seg>Text descriptive information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tisk</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130455Z" creationid="kunes" creationdate="20220509T130455Z">
+        <seg>Printing</seg>
       </tuv>
     </tu>
     <tu>
@@ -15263,6 +15319,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121510Z" creationid="kunes" creationdate="20220427T121510Z">
         <seg>Charged</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zpracování požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130526Z" creationid="kunes" creationdate="20220509T130526Z">
+        <seg>Processing of requests</seg>
       </tuv>
     </tu>
     <tu>
