@@ -11027,6 +11027,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při zpracování HelpDesk požadavku se na kartě požadavku na záložce Zpracování vyplní příslušné údaje, především &lt;g1&gt;Kód řešení&lt;/g1&gt;, &lt;g2&gt;Trvání&lt;/g2&gt;, &lt;g3&gt;Popis zpracování&lt;/g3&gt; (max. 250 znaků) a &lt;g4&gt;Kód další zodpovědné osoby&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T131017Z" creationid="kunes" creationdate="20220509T131017Z">
+        <seg>When processing a HelpDesk request, the relevant data is filled in on the request card on the Processing tab, in particular &lt;g1&gt;Solution Code&lt;/g1&gt;, &lt;g2&gt;Duration&lt;/g2&gt;, &lt;g3&gt;Processing Description&lt;/g3&gt; (max. 250 characters) and &lt;g4&gt;Code of the next responsible person&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Připojené publikované dokumenty lze přímo ze systému Dynamics 365 Business Central otevřít v asociované aplikaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083303Z" creationid="kunes" creationdate="20220504T083303Z">
@@ -16189,6 +16197,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105242Z" creationid="kunes" creationdate="20220419T105242Z">
         <seg>Document No. (editable only if Use data from item = TRUE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řešení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130745Z" creationid="kunes" creationdate="20220509T130745Z">
+        <seg>Solutions</seg>
       </tuv>
     </tu>
     <tu>
