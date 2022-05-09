@@ -5853,6 +5853,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul Helpdesk slouží k centralizovanému zadávání, evidenci, zpracování a vyhodnocování různých požadavků uživatelů v systému Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T103553Z" creationid="kunes" creationdate="20220509T103553Z">
+        <seg>The Helpdesk module is used for centralized entry, registration, processing and evaluation of various user requests in Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul Sada rozšíření pro Finance je nutný pro ostatní add-on moduly AC Financial Packu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100818Z" creationid="kunes" creationdate="20220414T100818Z">
@@ -8397,6 +8405,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po provedení potřebných nastavení lze zadávat požadavky HelpDesku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T103625Z" creationid="kunes" creationdate="20220509T103625Z">
+        <seg>After making the necessary settings, you can enter HelpDesk requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po přečtení instrukcí klikněte na tlačítko &lt;g1&gt;Další&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115106Z" creationid="kunes" creationdate="20220411T115106Z">
@@ -9522,6 +9538,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
         <seg>Pošta Bez Hranic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Požadavky lze zadávat ručně nebo prostřednictvím Průvodce vytvořením požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T104142Z" creationid="kunes" creationdate="20220509T104142Z">
+        <seg>You can make requests manually or through the Wizard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14791,6 +14815,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125856Z" creationid="kunes" creationdate="20220405T125856Z">
         <seg>Creating and setting up general parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Založení požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T103620Z" creationid="kunes" creationdate="20220509T103620Z">
+        <seg>Creating a request</seg>
       </tuv>
     </tu>
     <tu>
