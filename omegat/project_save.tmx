@@ -2289,6 +2289,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Volné poznámky&lt;/g1&gt; - dostupné na záložce Detailní popis – tyto poznámky umožňují zadávat libovolný text, který může být navíc zobrazen v informačním okně v záložce Detaily.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T123055Z" creationid="kunes" creationdate="20220509T123055Z">
+        <seg>&lt;g1&gt;Free notes&lt;/g1&gt; - available on the Detailed Info tab - these notes allow you to enter any text, which can also be displayed in the information window in the Details tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Vybavení&lt;/g1&gt; – vybavení jímž je jednotlivé vozidlo vybaveno.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125334Z" creationid="kunes" creationdate="20220427T125334Z">
@@ -2701,6 +2709,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102719Z" creationid="kunes" creationdate="20220419T102719Z">
         <seg>&lt;g1&gt;Warning No.&lt;/g1&gt; – determines when you want to receive a warning about the approaching end of the series (optional)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Řádkové poznámky&lt;/g1&gt; - dostupné na záložce Řádky poznámek – tyto strukturované poznámky obsahují pole Datum, Poznámka (100 znaků) a Kód.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122945Z" creationid="kunes" creationdate="20220509T122945Z">
+        <seg>&lt;g1&gt;Comment Line&lt;/g1&gt; - available on the Note Lines tab - These structured notes contain date, Note (100 characters), and Code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,6 +5359,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110529Z" creationid="kunes" creationdate="20220504T110512Z">
         <seg>When the corresponding login name of the authorized person is filled in the &lt;g1&gt;User ID&lt;/g1&gt; field, the code of the authorized person who enters the request will be automatically offered to the HelpDesk when making a request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ke každému vytvořenému požadavku je možné doplnit poznámky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122822Z" creationid="kunes" creationdate="20220509T122822Z">
+        <seg>It is possible to add Comment Lines to each created request.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10675,6 +10699,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>První vstup do poznámek je možný už při vytváření požadavku v Průvodci, jak bylo popsáno výše.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122831Z" creationid="kunes" creationdate="20220509T122831Z">
+        <seg>The first entry into notes is possible when you create a request in the wizard, as described above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Prvním krokem v průvodci je určení &lt;g1&gt;Kódu zadavatele&lt;/g1&gt; a &lt;g2&gt;Priority požadavku&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T105518Z" creationid="kunes" creationdate="20220509T105518Z">
@@ -12543,6 +12575,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T115122Z" creationid="kunes" creationdate="20220411T115122Z">
         <seg>Username</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelé mohou využívat 2 formy poznámek:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122842Z" creationid="kunes" creationdate="20220509T122842Z">
+        <seg>Users can use 2 forms of notes:</seg>
       </tuv>
     </tu>
     <tu>
