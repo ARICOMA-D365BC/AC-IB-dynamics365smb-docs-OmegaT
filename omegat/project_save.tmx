@@ -3803,6 +3803,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Datové schránky - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T085357Z" creationid="kunes" creationdate="20220509T085357Z">
+        <seg>Datové schránky - nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Datum splatnosti se vezme ten nejnižší ze slučovaných řádků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090305Z" creationid="kunes" creationdate="20220419T090305Z">
@@ -7189,6 +7197,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114619Z" creationid="kunes" creationdate="20220419T114619Z">
         <seg>VAT registration in multiple countries setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení reklamací</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T085355Z" creationid="kunes" creationdate="20220509T085355Z">
+        <seg>Nastavení reklamací</seg>
       </tuv>
     </tu>
     <tu>
