@@ -9422,6 +9422,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Povinnost použití průvodce lze definovat v &lt;g1&gt;Nastavení helpdesku&lt;/g1&gt; zaškrtnutím políčka &lt;g2&gt;Nový helpdesk pomocí průvodce&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T104340Z" creationid="kunes" creationdate="20220509T104340Z">
+        <seg>You can define whether to use the wizard in &lt;g1&gt;Help Desk Settings&lt;/g1&gt; by selecting the &lt;g2&gt;New Helpdesk with Wizard&lt;/g2&gt; check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Povolit nebo zakázat Protokol aktivity</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124000Z" creationid="kunes" creationdate="20220411T124000Z">
