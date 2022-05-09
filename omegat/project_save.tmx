@@ -5251,6 +5251,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Karta helpdesk požadavku zobrazuje relevantní informace vztahující se ke zvolenému požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T110759Z" creationid="kunes" creationdate="20220509T110759Z">
+        <seg>The Helpdesk Request Card displays relevant information related to the selected request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Karta zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105016Z" creationid="kunes" creationdate="20220407T104933Z">
@@ -8858,6 +8866,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud klikněte na &lt;g1&gt;Číslo požadavku&lt;/g1&gt; v seznamu požadavků, zobrazí se příslušná karta požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T110737Z" creationid="kunes" creationdate="20220509T110619Z">
+        <seg>If you click &lt;g1&gt;Request number&lt;/g1&gt; in the list of requests, the appropriate request tab is displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud klikněte na funkci Kontrolované tabulky, otevře se stránka Kontrolované tabulky Řízení stavů, kde je automaticky vyplněno pole &lt;g1&gt;Kód šablony&lt;/g1&gt; a &lt;g2&gt;Kód stavu&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T100948Z" creationid="kunes" creationdate="20220428T100948Z">
@@ -9594,6 +9610,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
         <seg>Pošta Bez Hranic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Požadavek lze také přidělit k určitému projektu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T122356Z" creationid="kunes" creationdate="20220509T122356Z">
+        <seg>A requirement can also be assigned to a specific job.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15803,6 +15827,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
 |-|-|
 |&lt;g1&gt;Shipment Parameters&lt;/g1&gt;|Shipment Parameters Selectable.|
 |&lt;g2&gt;Attached documents&lt;/g2&gt;|In the Attached documents subpage it is possible to see all delivery notes or invoices that have been inserted in one shipment (only functional when the shipment is sent to one address).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Údaje v bílých polích lze editovat (např. je možné doplnit prioritu dispečera, upravit data odezvy či řešení, event. změnit zařazení do kategorií na záložce Kategorie).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T110817Z" creationid="kunes" creationdate="20220509T110817Z">
+        <seg>The data in the white fields can be edited (e.g. it is possible to add the priority of the dispatcher, edit the data of the response or solution, or change the classification into categories on the Categories tab).</seg>
       </tuv>
     </tu>
     <tu>
