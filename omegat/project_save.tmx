@@ -4339,6 +4339,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Délka &lt;g1&gt;Trvání&lt;/g1&gt; se zadává ve dnech, hodinách, minutách, sekundách, příp. milisekundách, a to buď přímo vypsáním čísla a jednotky (lze použít zkratku počátku slova – např. d=den, m=minuta, mil=milisekunda apod.) nebo zadáním pouze čísla, které je interpretováno jako údaj v hodinách.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T134026Z" creationid="kunes" creationdate="20220509T134026Z">
+        <seg>Délka &lt;g1&gt;Trvání&lt;/g1&gt; se zadává ve dnech, hodinách, minutách, sekundách, příp. milisekundách, a to buď přímo vypsáním čísla a jednotky (lze použít zkratku počátku slova – např. d=den, m=minuta, mil=milisekunda apod.) nebo zadáním pouze čísla, které je interpretováno jako údaj v hodinách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Díky tomu má uživatel okamžitě k dispozici tuto základní informaci, ale také detailní informace na jedno kliknutí.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T095746Z" creationid="kunes" creationdate="20220419T095746Z">
@@ -5743,6 +5751,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104554Z" creationid="kunes" creationdate="20220407T104554Z">
         <seg>Payment method code (if COD), variable symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kód řešení se vybírá z předdefinované tabulky možných způsobů řešení ze stránky &lt;g5&gt;Řešení&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T131038Z" creationid="kunes" creationdate="20220509T131038Z">
+        <seg>The solution code is selected from a predefined table of possible solutions from the &lt;g5&gt;Solutions&lt;/g5&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
