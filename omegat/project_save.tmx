@@ -10201,6 +10201,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro více informací o nastavení HelpDesku navštivte &lt;g3&gt;HelpDesk - Nastavení&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T104439Z" creationid="kunes" creationdate="20220509T104439Z">
+        <seg>For more information about setting up a HelpDesk, visit &lt;g3&gt;HelpDesk - Setup&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro více informací o založení a nastavení Řízení stavů navštivte &lt;g1&gt;Nastavení Řízení stavů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T120155Z" creationid="kunes" creationdate="20220504T120155Z">
@@ -14831,6 +14839,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T103620Z" creationid="kunes" creationdate="20220509T103620Z">
         <seg>Creating a request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Založení požadavku pomocí Průvodce vytvořením požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T104941Z" creationid="kunes" creationdate="20220509T104941Z">
+        <seg>Create a request by using the Request Wizard</seg>
       </tuv>
     </tu>
     <tu>
