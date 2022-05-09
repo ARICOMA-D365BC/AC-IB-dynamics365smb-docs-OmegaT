@@ -10579,6 +10579,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Prvním krokem v průvodci je určení &lt;g1&gt;Kódu zadavatele&lt;/g1&gt; a &lt;g2&gt;Priority požadavku&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105518Z" creationid="kunes" creationdate="20220509T105518Z">
+        <seg>The first step in the wizard is to specify &lt;g1&gt;Taskmaster Code&lt;/g1&gt; and &lt;g2&gt;Request Priority&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Právě jeden ze stavů musí být označen jako &lt;g4&gt;Výchozí stav&lt;/g4&gt; (zaškrtnutím tlačítka Výchozí stav).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094149Z" creationid="kunes" creationdate="20220428T094149Z">
@@ -13495,6 +13503,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T121108Z" creationid="kunes" creationdate="20220504T120233Z">
         <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Status Control Settings&lt;/g4&gt;, and then select the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nový požadavek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T105046Z" creationid="kunes" creationdate="20220509T105046Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;New Request&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
