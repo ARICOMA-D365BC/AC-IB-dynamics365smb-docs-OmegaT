@@ -2769,6 +2769,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Helpdesk - detailní popis&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T123103Z" creationid="kunes" creationdate="20220509T123103Z">
+        <seg>&lt;x1/&gt;Helpdesk - detailed description&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Hierarchický návrh cen povolen&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112344Z" creationid="kunes" creationdate="20220419T112344Z">
@@ -4085,8 +4093,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Dokumenty</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220506T090948Z" creationid="kunes" creationdate="20220506T090948Z">
-        <seg>Dokumenty</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T130148Z" creationid="kunes" creationdate="20220506T090948Z">
+        <seg>Documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,6 +5047,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124912Z" creationid="kunes" creationdate="20220411T124850Z">
         <seg>It is possible to force certain settings for individual Shipping Agents services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Je na rozhodnutí správce, která forma poznámek bude v rámci celé firmy využívána.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220509T123112Z" creationid="kunes" creationdate="20220509T123112Z">
+        <seg>It is up to the administrator to decide which form of notes will be used throughout the company.</seg>
       </tuv>
     </tu>
     <tu>
