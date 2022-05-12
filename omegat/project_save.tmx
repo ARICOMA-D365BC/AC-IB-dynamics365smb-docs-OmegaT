@@ -8443,6 +8443,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po dokončení operace je aktualizován &lt;g1&gt;Kód stavu Řízení stavů&lt;/g1&gt; na záložce Obecné na kartě požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063120Z" creationid="kunes" creationdate="20220512T063041Z">
+        <seg>When the operation is complete, &lt;g1&gt;the Status Control status code&lt;/g1&gt; is updated on the General tab of the request tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po dokončení úprav zavřete okno.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115049Z" creationid="kunes" creationdate="20220421T115049Z">
@@ -15327,6 +15335,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105246Z" creationid="kunes" creationdate="20220419T105246Z">
         <seg>Show VAT Entries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazí se dialogové okno s dalšími stavy řízení stavů, které podle definice filtru dalšího stavu připadají v úvahu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063043Z" creationid="kunes" creationdate="20220512T063039Z">
+        <seg>A dialog box appears with additional state control states that are considered according to the additional state filter definition.</seg>
       </tuv>
     </tu>
     <tu>
