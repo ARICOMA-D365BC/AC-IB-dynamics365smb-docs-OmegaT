@@ -8807,6 +8807,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Podle zadaných filtrů se vytisknou jednotlivé karty požadavků, zpožděné požadavky a seznam helpdesk požadavků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073148Z" creationid="kunes" creationdate="20220512T073148Z">
+        <seg>According to the specified filters, individual request cards, delayed requests and a list of helpdesk requests are printed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Podobně je upozorněn, když je ověření DIČ staršího data než dle nastavení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091053Z" creationid="kunes" creationdate="20220419T091053Z">
