@@ -2777,6 +2777,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Helpdesk - Pult dispečera&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071834Z" creationid="kunes" creationdate="20220512T071834Z">
+        <seg>&lt;x1/&gt;Helpdesk - Helpdesk Dispatch Board&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Helpdesk - detailní popis&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T123103Z" creationid="kunes" creationdate="20220509T123103Z">
@@ -13231,6 +13239,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T092323Z" creationid="kunes" creationdate="20220504T092323Z">
         <seg>On the &lt;g1&gt;Related Incoming Document&lt;/g1&gt; tab, you can create or attach or disconnect the Incoming Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V řádcích vyberte konkrétní požadavek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071931Z" creationid="kunes" creationdate="20220512T071931Z">
+        <seg>In the rows, select a specific request.</seg>
       </tuv>
     </tu>
     <tu>
