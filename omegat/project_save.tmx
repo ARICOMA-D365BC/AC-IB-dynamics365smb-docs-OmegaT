@@ -2001,6 +2001,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Productivity Pack&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122441Z" creationid="kunes" creationdate="20220512T122441Z">
+        <seg>&lt;g1&gt;Productivity Pack&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Protiúčet nákladů&lt;/g1&gt; – účet, na který se zaúčtuje pohledávka za zákazníkem</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121245Z" creationid="kunes" creationdate="20220420T121245Z">
@@ -16921,6 +16929,38 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>má možnost aktualizovat informace o zákazníkovi (akce Aktualizujte informace o zákazníkovi),</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122432Z" creationid="kunes" creationdate="20220512T122432Z">
+        <seg>can update customer information (Update Customer Information action),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>má možnost ukončit předplatné vybraného produktu,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122420Z" creationid="kunes" creationdate="20220512T122420Z">
+        <seg>has the possibility to terminate the subscription of the selected product,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>má možnost změnit platební kartu – při aktualizaci údajů (viz předchozí) lze zvolit Aktualizovat platební kartu, následně se zobrazí dialog Stripe.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122439Z" creationid="kunes" creationdate="20220512T122439Z">
+        <seg>can change the payment card - when updating the information (see previous), you can select Update payment card, then the Stripe dialog will appear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>má možnost zrušit předplatné,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122426Z" creationid="kunes" creationdate="20220512T122426Z">
+        <seg>can cancel the subscription,</seg>
       </tuv>
     </tu>
     <tu>
