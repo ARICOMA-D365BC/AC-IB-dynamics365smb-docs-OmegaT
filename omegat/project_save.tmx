@@ -577,6 +577,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Automaticky&lt;/g1&gt; při spuštění Asistovaného nastavení příslušného produktu (Instalace &amp; Rozšíření -&gt; Asistovaná nastavení, část Nastavit rozšíření AUTOCONT).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121958Z" creationid="kunes" creationdate="20220512T121958Z">
+        <seg>&lt;g1&gt;Automatically&lt;/g1&gt; when you start the Assisted Setup of the respective product (Installation &amp; Extensions -&gt; Assisted Setup, section Set up AUTOCONT extension).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Automatická aktualizace stavu přepravy&lt;/g1&gt; - Spustí na frontě úloh proceduru, která v určité časové periodě aktualizuje stav přepřavy zásilek za poslední měsíc.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T123711Z" creationid="kunes" creationdate="20220411T123711Z">
@@ -750,6 +758,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121437Z" creationid="kunes" creationdate="20220512T121437Z">
         <seg>&lt;g1&gt;EDI connector&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Elektronická fakturace - Nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121841Z" creationid="kunes" creationdate="20220512T121841Z">
+        <seg>&lt;g1&gt;Electronic invoicing - Setup&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
@@ -3081,6 +3099,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nákup produktu firmy AUTOCONT&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122059Z" creationid="kunes" creationdate="20220512T122059Z">
+        <seg>&lt;x1/&gt;Purchase of an AUTOCONT product &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Obecné parametry karty&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122200Z" creationid="kunes" creationdate="20220405T122200Z">
@@ -3415,6 +3441,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>AC Monetizace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121921Z" creationid="kunes" creationdate="20220512T121903Z">
+        <seg>AC Monetization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>AC Parcels - Integrace Balíkobot</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104148Z" creationid="kunes" creationdate="20220407T104148Z">
@@ -3639,10 +3673,34 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aktivace Zkušebního období</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121935Z" creationid="kunes" creationdate="20220512T121935Z">
+        <seg>Trial Period Activation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktivaci lze provést buď:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121948Z" creationid="kunes" creationdate="20220512T121948Z">
+        <seg>Activation can be done either:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace 01.04.2022</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
         <seg>Update 01.04.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aktualizace 03.02.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121925Z" creationid="kunes" creationdate="20220512T121925Z">
+        <seg>Update 03.02.2022</seg>
       </tuv>
     </tu>
     <tu>
@@ -4631,6 +4689,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>E-mail – tento bude využit pro komunikaci ohledně předplatného, např. pro zasílání upozorňování na blížící se termín konce předplatného, apod.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122112Z" creationid="kunes" creationdate="20220512T122112Z">
+        <seg>Email - this will be used for communication regarding subscriptions, e.g. to send notifications of the upcoming subscription end date, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>EDI konektor základ</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121443Z" creationid="kunes" creationdate="20220512T121438Z">
@@ -5511,6 +5577,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedná se o funkcionalitu umožňující uživateli správu předplatného produktů firmy AUTOCONT v prostředí Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121932Z" creationid="kunes" creationdate="20220512T121932Z">
+        <seg>It is a functionality that allows the user to manage subscriptions to AUTOCONT products in the Business Central environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedná se o integraci BC na komerční službu CreditCheck, která slouží pro kontrolu bonity partnerů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100902Z" creationid="kunes" creationdate="20220414T100902Z">
@@ -5707,6 +5781,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110118Z" creationid="kunes" creationdate="20220504T110118Z">
         <seg>User categories are groups of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Každý produkt má 30-ti denní zkušební období pro ověření, zda funkcionalita zákazníkovi vyhovuje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121943Z" creationid="kunes" creationdate="20220512T121943Z">
+        <seg>Each product has a 30-day trial period to verify that the functionality suits the customer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8619,6 +8701,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123813Z" creationid="kunes" creationdate="20220420T123813Z">
         <seg>An import window will open where you select the appropriate XML file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevřením stránky &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt; a spuštěním akce &lt;g2&gt;Koupit produkt&lt;/g2&gt; (pozn.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122046Z" creationid="kunes" creationdate="20220512T122022Z">
+        <seg>By opening the &lt;g1&gt;Purchase of an AUTOCONT Product&lt;/g1&gt; page and running the &lt;g2&gt;Buy Product&lt;/g2&gt; action (note:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12293,6 +12383,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Souhlas s &lt;g1&gt;Obchodními podmínkami&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122127Z" creationid="kunes" creationdate="20220512T122127Z">
+        <seg>Consent to &lt;g1&gt;Terms and Conditions&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Souhrnný Výkaz to je &lt;g1&gt;52068870&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123859Z" creationid="kunes" creationdate="20220420T123859Z">
@@ -12967,6 +13065,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T135249Z" creationid="Janousek" creationdate="20210625T135249Z">
         <seg>This module then complements only the differential functionalities, to cover the specific requirements of Slovak legislation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento modul poskytuje nástroje pro elektronické podepsání dokladu, případně možnost doplnění časového razítka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121829Z" creationid="kunes" creationdate="20220512T121829Z">
+        <seg>This module provides tools for electronic signing of the document, or the possibility of adding a time stamp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15713,6 +15819,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V obou případech se spustí krátký průvodce aktivací, v jehož průběhu je třeba povinně zadat:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122108Z" creationid="kunes" creationdate="20220512T122108Z">
+        <seg>In both cases, a short activation wizard will start, during which you must enter the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli &lt;g1&gt;Datum splatnosti&lt;/g1&gt; definujte nejzašší datum pro platební kalendář.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101655Z" creationid="kunes" creationdate="20220414T101655Z">
@@ -16823,6 +16937,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115905Z" creationid="kunes" creationdate="20220419T113342Z">
         <seg>yyyy (or yyyy) - year designation, which is completed by the generator from the specified start date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>seznam obsahuje všechna komerčně dostupná rozšíření; před aktivací je nutná instalace rozšíření).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122048Z" creationid="kunes" creationdate="20220512T122037Z">
+        <seg>the list contains all commercially available extensions; installation of the extension is required before activation).</seg>
       </tuv>
     </tu>
     <tu>
