@@ -647,10 +647,30 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Datové schránky - Nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121401Z" creationid="kunes" creationdate="20220512T121401Z">
+        <seg>&lt;g1&gt;Data Boxes - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Datové schránky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141338Z" creationid="Janousek" creationdate="20210625T141338Z">
         <seg>&lt;g1&gt;Data boxes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Datové schránky&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121317Z" creationid="kunes" creationdate="20220512T121317Z">
+        <seg>&lt;g1&gt;Data Boxes&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -707,10 +727,30 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;EDI konektor základ - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121455Z" creationid="kunes" creationdate="20220512T121455Z">
+        <seg>&lt;g1&gt;EDI connector - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;EDI konektor základ&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142356Z" creationid="Janousek" creationdate="20210625T142356Z">
         <seg>&lt;g1&gt;EDI connector base&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;EDI konektor základ&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121437Z" creationid="kunes" creationdate="20220512T121437Z">
+        <seg>&lt;g1&gt;EDI connector&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1507,6 +1547,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142328Z" creationid="Janousek" creationdate="20210625T142328Z">
         <seg>&lt;g1&gt;Settings - Parcels&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení Centrálních číselníků&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT řešení&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121207Z" creationid="kunes" creationdate="20220512T121207Z">
+        <seg>&lt;g1&gt;Central Database - Setup&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT řešení&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2781,6 +2833,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Datové schránky&lt;x2/&gt;Datové schránky&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121345Z" creationid="kunes" creationdate="20220512T121345Z">
+        <seg>&lt;x1/&gt;Data boxes&lt;x2/&gt; Data boxes&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Detail platebního kalendáře&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102107Z" creationid="kunes" creationdate="20220414T102107Z">
@@ -3411,6 +3471,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Datové schránky&lt;/g1&gt; poskytuje podporu pro správu datových schránek ve smyslu zákona 300/2008 Sb. o elektronických úkonech a následujících vyhlášek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121332Z" creationid="kunes" creationdate="20220512T121332Z">
+        <seg>&lt;g1&gt;Data Boxes&lt;/g1&gt; add-on module provides support for the management of data boxes within the meaning of Act No. 300/2008 Coll. on Electronic Acts and subsequent decrees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T085315Z" creationid="kunes" creationdate="20220504T090633Z">
@@ -3997,8 +4065,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Datové schránky - nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220509T085357Z" creationid="kunes" creationdate="20220509T085357Z">
-        <seg>Datové schránky - nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121309Z" creationid="kunes" creationdate="20220509T085357Z">
+        <seg>Data Boxes - Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -4555,6 +4623,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>EDI konektor základ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121443Z" creationid="kunes" creationdate="20220512T121438Z">
+        <seg>EDI connector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>EDI konektor základ - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121420Z" creationid="kunes" creationdate="20220512T121420Z">
+        <seg>EDI connector - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>EKO-KOM</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121429Z" creationid="kunes" creationdate="20220427T121429Z">
@@ -4571,10 +4655,34 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace -  PDFXChange - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121502Z" creationid="kunes" creationdate="20220512T121502Z">
+        <seg>Elektronická fakturace -  PDFXChange - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121504Z" creationid="kunes" creationdate="20220512T121504Z">
+        <seg>Elektronická fakturace - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace ISDOC</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220331T085104Z" creationid="Janousek" creationdate="20220331T085104Z">
         <seg>[přibližně]&lt;g1&gt;Electronic invoicing - ISDOC&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace ISDOC - nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121501Z" creationid="kunes" creationdate="20220512T121501Z">
+        <seg>Elektronická fakturace ISDOC - nastavení</seg>
       </tuv>
     </tu>
     <tu>
@@ -8411,6 +8519,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení centrální databáze&lt;/g1&gt;, kde můžete zvolit &lt;g2&gt;Akce&lt;/g2&gt; a funkci &lt;g3&gt;Synchronizovat&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121127Z" creationid="kunes" creationdate="20220512T121127Z">
+        <seg>The &lt;g1&gt;Central Database Settings&lt;/g1&gt; page opens, where you can choose &lt;g2&gt;Actions&lt;/g2&gt; and &lt;g3&gt;Synchronize&lt;/g3&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se stránka &lt;g1&gt;Nastavení centrální databáze&lt;/g1&gt;, kde nastavíte následující pole:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111215Z" creationid="kunes" creationdate="20220428T111215Z">
@@ -10617,6 +10733,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro ruční spuštění postupujte dle následujícího postupu:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120948Z" creationid="kunes" creationdate="20220512T120948Z">
+        <seg>To start manually, follow the procedure below:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro sledování požadavků z jiných hledisek, než podle závažnosti je možné nadefinovat kategorie požadavků, a to až ve 3 úrovních, pro které platí stromový rozpad (tzn. jsou ve vztahu hierarchické podřízenosti, tj. volba Kategorie 1 určí, jaké se budou nabízet Kategorie 2, a ty zase ovlivní nabídku Kategorií 3).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115540Z" creationid="kunes" creationdate="20220504T115540Z">
@@ -11471,6 +11595,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091433Z" creationid="kunes" creationdate="20220419T091433Z">
         <seg>When browsing or creating sales, purchasing or service documents, the system checks for the existence of an exchange rate for a specific date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při ruční synchronizaci lze pomocí filtrů přesně specifikovat, jaké tabulky, odkud a kam se mají aktuálně synchronizovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121149Z" creationid="kunes" creationdate="20220512T121149Z">
+        <seg>When you synchronize manually, you can use filters to specify exactly what tables, where and where to sync them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12687,6 +12819,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato volba se uplatňuje hlavně při synchronizaci již existujících dat do nových systémů (migrace a parametrizace).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121154Z" creationid="kunes" creationdate="20220512T121154Z">
+        <seg>This option is used mainly when synchronizing existing data into new systems (migration and parameterization).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato část je součástí rozšířené verze &lt;g1&gt;Doprava – plánování&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130136Z" creationid="kunes" creationdate="20220427T130136Z">
@@ -13101,6 +13241,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T085121Z" creationid="kunes" creationdate="20220427T085121Z">
         <seg>t allows you to manage any number of documents for the needs of packaging reporting required internally by the company or legislation (the basic parameterization of the EKO-KOM report for the purposes of reporting by the relevant persons pursuant to the Packaging Act No. 477/2001 Coll. is part of it).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Umožňuje správu a řízení rolí datové schránky (oprávněná osoba, administrátor, pověřená osoba).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121337Z" creationid="kunes" creationdate="20220512T121337Z">
+        <seg>It enables the administration and management of data box roles (authorized person, administrator, authorized person).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14303,8 +14451,8 @@ of the primary key fields).</seg>
       <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení centrální databáze&lt;/g4&gt; a klikněte na související odkaz.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T111145Z" creationid="kunes" creationdate="20220428T111123Z">
-        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Central Database Setup&lt;/g4&gt; and then choose the related link.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121138Z" creationid="kunes" creationdate="20220428T111123Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Central Database Tabble Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
