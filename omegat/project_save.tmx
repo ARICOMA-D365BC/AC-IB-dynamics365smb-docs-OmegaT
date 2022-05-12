@@ -3243,6 +3243,14 @@ The approval request can be approved using the function - &lt;g4&gt;Related/Post
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x3/&gt;Objednávky kontaktu&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083758Z" creationid="kunes" creationdate="20220512T083758Z">
+        <seg>&lt;x3/&gt;Contact orders&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x3/&gt;Účtoskupiny pro faktoring&lt;x4/&gt;|
 |&lt;g5&gt;Náhradní účto skupiny zákazníka&lt;/g5&gt;|Je nutné založit nové kombinace náhrad účto skupin zákazníka (dostupné ze stránky Náhr.</seg>
       </tuv>
@@ -7785,6 +7793,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115622Z" creationid="kunes" creationdate="20220419T115622Z">
         <seg>Set the flag in the Intended to return the deposit field on the advance tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Navigovat (Související doklady pošty)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084523Z" creationid="kunes" creationdate="20220512T084523Z">
+        <seg>Navigate (Mail Related Documents)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16745,6 +16761,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T083716Z" creationid="kunes" creationdate="20220512T083716Z">
         <seg>&lt;g1&gt;Purchase order&lt;/g1&gt; or &lt;g2&gt;Purchase Return Order lines&lt;/g2&gt; to the specified Vendor number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>řádky &lt;g1&gt;Prodejní objednávky&lt;/g1&gt; nebo &lt;g2&gt;Prodejní objednávky vratky&lt;/g2&gt; a to k zadanému číslu Zákazníka.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083749Z" creationid="kunes" creationdate="20220512T083722Z">
+        <seg>lines &lt;g1&gt;Sales Orders&lt;/g1&gt; or &lt;g2&gt;Sales Return Order Lines&lt;/g2&gt; to the Customer number entered.</seg>
       </tuv>
     </tu>
     <tu>
