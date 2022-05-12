@@ -3289,6 +3289,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x7/&gt;Související položky&lt;x8/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084624Z" creationid="kunes" creationdate="20220512T084624Z">
+        <seg>&lt;x7/&gt;Related Entries&lt;x8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>A mnohé další.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104843Z" creationid="kunes" creationdate="20220407T104843Z">
@@ -4201,6 +4209,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dole pod přehledem karet jsou pak doplňující informace o &lt;g6&gt;Stavu požadavku&lt;/g6&gt;, &lt;g7&gt;Částce dokladu&lt;/g7&gt;, &lt;g8&gt;Částce ke schválení&lt;/g8&gt; a &lt;g9&gt;Schválené částce&lt;/g9&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084913Z" creationid="kunes" creationdate="20220512T084913Z">
+        <seg>At the bottom of the list of cards there is additional information about &lt;g6&gt;Request Status&lt;/g6&gt;, &lt;g7&gt;Amout of document&lt;/g7&gt;, &lt;g8&gt;Amount to Approve&lt;/g8&gt; and &lt;g9&gt;Approved Amount&lt;/g9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Donáška do patra</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104802Z" creationid="kunes" creationdate="20220407T104802Z">
@@ -4421,6 +4437,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102357Z" creationid="kunes" creationdate="20220406T102357Z">
         <seg>Additionally, you can set the parameters to be the default template, mandatory, or you can specify a priority.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále pak lze požadavky filtrovat např. podle &lt;g1&gt;Zákazníka&lt;/g1&gt; či &lt;g2&gt;Dodavatele&lt;/g2&gt;, &lt;g3&gt;Stavu&lt;/g3&gt;, podle &lt;g4&gt;Zodpovědné osoby&lt;/g4&gt; či podle &lt;g5&gt;Typu pošty&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084811Z" creationid="kunes" creationdate="20220512T084811Z">
+        <seg>Furthermore, requests can be filtered by, for example, &lt;g1&gt;Customer&lt;/g1&gt; or &lt;g2&gt;Vendors&lt;/g2&gt;, &lt;g3&gt;Status&lt;/g3&gt;, &lt;g4&gt;Responsible Person&lt;/g4&gt; or &lt;g5&gt;Mail Type&lt;/g5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6999,6 +7023,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nabízí přehledové zobrazení požadavků s přednastavenými volitelnými filtry v záhlaví pro snadnější vyhledávání a orientaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084705Z" creationid="kunes" creationdate="20220512T084705Z">
+        <seg>It offers an overview view of requirements with preset optional filters in the header for easier searching and orientation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -7835,6 +7867,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
         <seg>However, the most common is the use of &lt;g1&gt;the Cashier as a counter-account&lt;/g1&gt;, which allows combining the use of Multiple Payment Methods and Cash Receipts and brings with it rounding advantages (it is automatically resolved only on the cash receipt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nejprve je třeba zvolit, o jaké karty evidence pošty se jedná, tzn. šablonu evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084710Z" creationid="kunes" creationdate="20220512T084710Z">
+        <seg>First of all, it is necessary to choose which cards of mail records it is, i.e. the template of mail records.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11169,6 +11209,22 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pult evidence pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084636Z" creationid="kunes" creationdate="20220512T084636Z">
+        <seg>Mail Record Board</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pult evidence pošty je dostupný následujícím způsobem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084645Z" creationid="kunes" creationdate="20220512T084645Z">
+        <seg>Mail Record Board is available as follows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Před odesláním výkazu DPH je vhodné ověřit, zda-li budou všechny reportované záznamy v pořádku z pohledu registrace k DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091142Z" creationid="kunes" creationdate="20220419T091142Z">
@@ -12449,6 +12505,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114445Z" creationid="kunes" creationdate="20220411T114445Z">
         <seg>This page contains a list of features that have been moved, removed or replaced from the AC Financial Pack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato stránka umožňuje souhrnný pohled na neuzavřené karty evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084659Z" creationid="kunes" creationdate="20220512T084659Z">
+        <seg>This page provides a summary view of unclosed mail records cards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14249,6 +14313,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Pult evidence pošty&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084654Z" creationid="kunes" creationdate="20220512T084654Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Mail Record Board&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled faktoringů&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T115310Z" creationid="kunes" creationdate="20220420T115310Z">
@@ -15765,6 +15837,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T071823Z" creationid="kunes" creationdate="20220512T071823Z">
         <seg>In addition, the displayed list of requirements can be sorted by different keys, especially by number, priority, workflow status or categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazený přehled požadavků je možno navíc seřadit podle různých klíčů, zvl. podle čísla, zákazníka nebo dodavatele, datumu či zodpovědné osoby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084822Z" creationid="kunes" creationdate="20220512T084822Z">
+        <seg>In addition, the displayed list of requirements can be sorted by different keys, especially by number, customer or supplier, date or responsible person.</seg>
       </tuv>
     </tu>
     <tu>
