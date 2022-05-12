@@ -12,24 +12,24 @@ ms.author: v-makune
 ---
 # Electronic invoicing
 
-Modul **Elektronická fakturace** slouží k moderní bezpapírové výměně daňových dokladů se zákazníkem.
+The **Electronic Invoicing** module is used for modern paperless exchange of tax documents with the customer.
 
-Modul umožňuje automaticky generovat jak strukturované dokumenty ve formátu XML, tak případně tvořit elektronické dokumenty pro vytištění v jiných formátech (PDF - moduly „Elektronická fakturace – pdf náhled“ a „Elektronická fakturace – PDFXChange“, DOC – modul „Elektronická fakturace – ISDOC“).
+The module allows you to automatically generate both structured documents in XML format and possibly create electronic documents for printing in other formats (PDF - modules "Electronic invoicing - pdf preview" and "Electronic invoicing - PDFXChange", DOC - module "Electronic invoicing - ISDOC").
 
-Pro naplnění legislativních požadavků je XML soubor elektronicky podepsán a jednoznačně identifikován. Elektronický podpis je nastavitelný v systému. Součástí add-on modulu je i aplikace dodávaná zákazníkům pro volné šíření, která umožňuje adresátům XML dokumentu zkontrolovat elektronický podpis včetně platnosti a neporušenosti dokumentu. Pro uživatelské zobrazení XML dokumentu (strukturovaná data využitelná pro automatické exporty do informačních systémů) lze definovat tzv. XSD šablony, které transformují data z XML do vizuální podoby HTML dokumentu. Výsledné dokumenty lze automaticky šířit pomocí add-on modulu Spooler pomocí e-mailu nebo dalších komunikačních kanálů (TCP, named pipe, uložení na disk).
-K šířené elektronické fakturaci lze připojit libovolné elektronické přílohy (dodací listy, certifikáty atd.) bez omezení typu souboru.
+To meet the legislative requirements, the XML file is electronically signed and uniquely identified. The electronic signature is adjustable in the system. The add-on module also includes an application supplied to customers for free distribution, which allows the addressees of an XML document to check the electronic signature, including the validity and integrity of the document. For user display of an XML document (structured data usable for automatic exports to information systems) it is possible to define so-called XSD templates, which transform data from XML into a visual form of an HTML document. The resulting documents can be automatically distributed using the Spooler add-on module via e-mail or other communication channels (TCP, named pipe, disk storage).
+Any electronic attachments (delivery notes, certificates, etc.) can be attached to the distributed electronic invoicing without file type restrictions.
 
-![Elektronická fakturace](media/electronic_documents.png "Elektronická fakturace")
+![Electronic invoicing](media/electronic_documents.png " Electronic invoicing")
 
-## [přibližně]<g1>Electronic invoicing - ISDOC</g1>
+## Electronic invoicing - ISDOC
 
-Viz. popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle.
+See Electronic invoicing – the difference only in how the invoice is sent.
 
-## Elektronická fakturace -  PDFXChange
+## Electronic invoicing - PDFXChange
 
-Viz. popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle. Tento modul poskytuje nástroje pro elektronické podepsání dokladu, případně možnost doplnění časového razítka.
+See Electronic invoicing – the difference only in how the invoice is sent. This module provides tools for electronic signing of the document, or the possibility of adding a time stamp.
 
 **See also**
 
-[Elektronická fakturace - Nastavení](ac-elektronic-dokuments-setup.md)  
+[Electronic invoicing - Setup](ac-elektronic-dokuments-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

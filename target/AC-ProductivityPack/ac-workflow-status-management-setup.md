@@ -25,7 +25,7 @@ ms.author: v-makune
 
 For each Status management state, you must define a **Code**, **Description**, and **Next status filter** that determines what other states can be accessed from that state. Just one of the states must be marked as **Default Status** (by checking the Default Status button). This state is then automatically filled in when a new row is created in the table with which the state control works (document, request, etc.).
 
-Some states may be labeled as **Final Status**, from which no further state is continued.
+Some states may be labeled as **Final Status**, from which no further state is progressed.
 
 An example of state settings for State Control is shown in the figure below.
 

@@ -18,7 +18,7 @@ ms.author: AC MartinKunes
 
 For basic setup of the central database, proceed as follows:
 
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Setup** and then choose the related link.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Tabble Setup** and then choose the related link.
 1. The **Central Database Setup** page opens, where you set the following fields:
    - **System ID** – used to identify the system - the name of the company as it will be used in the field of communications (it is important to set this name correctly in other cooperating companies).
    - **Central Database System ID** – the name of the company that serves as the controller for the communication-synchronization process. This company sets settings for "subordinate" companies. One company can receive settings from the central database and at the same time be the central database for other companies = there can be multiple central databases in the system.

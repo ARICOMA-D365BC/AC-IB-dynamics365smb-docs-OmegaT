@@ -10,74 +10,74 @@ ms.workload: na
 ms.search.keywords: Czech, Incoming mail setup, additional functions
 ms.author: v-makune
 ---
-# Evidence pošty - Nastavení
-## Šablony evidence pošty
-Po importu modulu je třeba provést vytvoření Šablony evidence pošty na stránce – **Šablony evidence pošty**.
+# Mail records - Setup
+## Mail Record Templates
+After installations of the module, it is necessary to create the Mail Record Templates on the page – **Mail Record Templates**.
 
-- Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony evidence pošty** a poté vyberte související odkaz.
+- Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Mail Record Templates** and then choose the related link.
 
-Na stránce **Šablony evidence pošty** je třeba vytvořit šablony pro **Typy pošty** - Odeslaná a Došlá pošta. Dále je možno zaškrtnout, jestli se má **Kontrolovat číslo externího dokladu**, **Otevřít kartu dokladu po vytvoření**, **Pouze jeden doklad**, **Vytvořit došlý doklad** nebo **Přenášet dimenze do dokladu**.
+On the **Mail Record Templates** page select the code for the correct Mail Record Template. It is also possible to check whether to **External document number Unique**, **Open document card after creation**, **Only one document**, **Create incoming document** or **Copy dimensions to document**.
 
-![Nastavení šablony](media/IM-layout.png)
+![Template setup](media/IM-layout.png)
 
-V poli **Číselná řada** se vybere číselná řada pro nově vytvářené doklady, kterou si dopředu musíme připravit, pokud jsme tak ještě neudělali. Číselná řada se tvoří stejným způsobem jako pro jiné agendy:
+In the **No. Series** field, a number sequence is selected for the newly created documents, which we must prepare in advance if we have not already done so. The number series is formed in the same way as for other agendas:
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
 2. On the **Number Series** page, click **New** to create a new number series.
-3. Zadejte **Kód**, **Popis** a **Počáteční číslo** číselné řady.
-4. Zaškrtněte políčko **Výchozí čísla** pro automatické vyplňovaní čísel při zadávaní nových požadavků.
+3. Enter the **Code**, **Description**, and **Starting number** of the number series.
+4. Select the **Default Nos.** for autofilling numbers when entering new requests check box.
 
-Příklad vytvořené číselné řady (*detailněji viz. modul - Číselné řady*):
+An example of a created number sequence (*for more details, see Number series*):
 
-![Přehled číselných řad](media/IM-no-series.png)
-## Nastavení řízení stavů
+![Overview of No. Series](media/IM-no-series.png)
+## Status management
 
-Pokud chcete používat modul **Evidence pošty**, je potřebné správně nastavit i modul **Workflow (řízení stavů)**.
+If you want to use **the Mail Records** module, it is also necessary to set up the **Workflow module (status management)** correctly.
 
 ### Set up a state management template
 
-Nejprve je třeba nastavit šablonu řízení stavů *(detailněji viz. modul - Workflow)*.
+First, you need to set up a state control template *(for more details, see module - Workflow)*.
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Status Management Templates** and then choose the related link.
-2. Na stránce **Šablony řízení stavů** zvolte funkci **Nový**.
-3. Vyplňte pole **Code** a **Popis**.
-4. Do pole **Číslo tabulky** zadejte číslo **52067961** (číslo tabulky Evidence pošty).
+2. On the **Status Management Templates** page choose **New** funciton.
+3. Enter the **Code** and **Description** fields.
+4. In the **Table Number** field, enter the number **52067961** (the number of the Mail Record,).
 5. If you want changes to be automatically logged, select the **Log changes** check box.
-6. Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na funkci **Šablona →Stavy Řízení stavů**.
+6. To specify individual states for the newly created state control, click **Template function → Status Management Statuses**.
 
-![Šablony řízení stavů](media/IM-status-mgt-setup.png)
+![Status management Templates](media/IM-status-mgt-setup.png)
 
-Pro každý stav řízení stavů je třeba nadefinovat **Code**, **Popis** a **Filtr dalšího stavu**, který určuje, do jakých dalších stavů je možné z daného stavu přejít. Právě jeden ze stavů musí být označen jako **Výchozí stav** (zaškrtnutím pole **Výchozí stav**). Takto označený stav se vyplní při založení nového dokumentu Evidence pošty.
+For each state control state, you must define a **Code**, **Description**, and **Next status filter** that specifies what other states can be accessed from that state. Just one of the states must be marked as **Default Status** (by checking the **Default Status check box**). The status marked in this way is filled in when creating a new Mail Record document.
 
-Some states may be labeled as **Final Status**, from which no further state is continued.
+Some states may be labeled as **Final Status**, from which no further state is progressed.
 
-Pro aktivní řádek lze specifikovat **Akce Řízení stavů**, **Kontrolovaná pole** a **Nastavovaná pole**.
+For the active row, you can specify **State Control Actions**, **Checked Fields**, and **Set Fields**.
 
-![Stavy řízení stavů - Pošta](media/IM-mail-records.png)
-### Nastavení řízení stavů pro Evidenci pošty
+![Status management states - Mail](media/IM-mail-records.png)
+### Settings status management for Mail Records
 
 1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Status Control Settings**, and then select the related link.
-2. Na stránce **Nastavení řízení stavů** zadejte do pole **Číslo tabulky** číslo 52067961, které označuje tabulku Evidence pošty.
-3. V poli **Šablony Řízení stavů** vyberte příslušnou šablonu pro řízení stavů pro Evidenci pošty.
+2. On the **Status Mgt. Setup** page enter 52067961 in the **Table Number** field, which identifies the Mail Record table.
+3. In the **Status management template** field select the appropriate status management template for Mail Records.
 
-![Šablony řízení stavů](media/IM-mail-mgt-setup.png)
-## Nastavení šablon interakce
+![Status management Templates](media/IM-mail-mgt-setup.png)
+## Interaction Template Setup
 
-Pokud chcete používat modul **Evidence pošty** i v modulu **Marketing** je potřebné správně nastavit i šablony interakce. Nastavení je pak využito při spuštění funkce **Vytvoř interakci** na Kartě evidence pošty, kdy ke Kartě kontaktu vznikne odpovídající Položka protokolu interakce *(detailněji viz. modul - Marketing)*.
+If you want to use **Mail Records** module in the **Marketing** module, you also need to set up the interaction templates correctly. The settings are then used when you start **Create Interaction** function on the Mail Record Card, when the corresponding Interaction Rec. Entry is created for the Contact Card *(for more details, see. module - Marketing)*.
 
-![Nastavení šablon interakce](media/IM-interaction-template-setup.png)
+![Set up interaction templates](media/IM-interaction-template-setup.png)
 
-### Nastavení šablon interakce
+### Interaction Template Setup
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení šablony interakce** a poté vyberte související odkaz.
-2. Na stránce **Nastavení šablony interakce** vyberte do pole **Příchozí pošta** a **Odchozí pošta** správné šablony interakce.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Interaction Template Setup**, and then select the related link.
+2. On the **Interaction Template Setup** page, in the **Incoming Mail** and **Outgoing Mail** select correct interaction templates.
 
-### Šablony interakce
+### nteraction Template
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablony interakce** a poté vyberte související odkaz.
-2. Na stránce **Šablony interakce** zadejte kód pro správnou skupinu interakce.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Interaction Templates**, and then select the related link.
+2. On the **Interaction Templates** page, enter the code for the correct interaction group.
 
-![Šablony interakce](media/IM-interaction-templates.png)
+![Interaction Template](media/IM-interaction-templates.png)
 
 
 
@@ -85,5 +85,5 @@ Pokud chcete používat modul **Evidence pošty** i v modulu **Marketing** je po
 
 ## See also
 
-[Evidence pošty](ac-incoming-mail.md)  
+[Mail Record](ac-incoming-mail.md)  
 [Productivity Pack](ac-productivity-pack.md)

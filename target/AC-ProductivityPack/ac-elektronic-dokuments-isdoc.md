@@ -10,9 +10,9 @@ ms.workload: na
 ms.search.keywords: Czech, Electronic documents, additional functions
 ms.author: v-makune
 ---
-# [přibližně]<g1>Electronic invoicing - ISDOC</g1>
+# Electronic invoicing - ISDOC
 
-Viz. popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle.
+See Electronic invoicing – the difference only in how the invoice is sent.
 
 **See also**
 

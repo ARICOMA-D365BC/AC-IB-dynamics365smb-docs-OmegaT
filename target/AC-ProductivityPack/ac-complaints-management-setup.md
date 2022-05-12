@@ -21,12 +21,12 @@ Na stránce **Nastavení reklamací** je třeba v záložce **Číslování** vy
 
 ![Nastavení reklamací](media/complaints-setup.png)
 
-Číselnou řadu si musíme připravit, pokud jsme tak ještě neudělali. Číselná řada se tvoří stejným způsobem jako pro jiné agendy:
+Číselnou řadu si musíme připravit, pokud jsme tak ještě neudělali. The number series is formed in the same way as for other agendas:
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
 2. On the **Number Series** page, click **New** to create a new number series.
-3. Zadejte **Kód**, **Popis** a **Počáteční číslo** číselné řady.
-4. Zaškrtněte políčko **Výchozí čísla** pro automatické vyplňovaní čísel při zadávaní nových požadavků.
+3. Enter the **Code**, **Description**, and **Starting number** of the number series.
+4. Select the **Default Nos.** for autofilling numbers when entering new requests check box.
 
 Příklad vytvořené číselné řady **(detailněji viz. modul - Číselné řady)**.
 ![Vytvořená číslená řada](media/complaints-no.series.png)
@@ -57,17 +57,17 @@ Příklad vytvořené číselné řady **(detailněji viz. modul - Číselné ř
 
 ![Způsoby vyřízení reklamace](media/complaint-fulfilment_methods.png)
 
-## Nastavení řízení stavů
+## Status management
 
 Pokud chcete používat modul **Reklamace** je potřebné správně nastavit i modul **Workflow (Řízení stavů)**.
 
 ### Set up a state management template
 
-Nejprve je třeba nastavit šablonu řízení stavů *(detailněji viz. modul - Workflow)*.
+First, you need to set up a state control template *(for more details, see module - Workflow)*.
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Status Management Templates** and then choose the related link.
-2. Na stránce **Šablony řízení stavů** zvolte funkci **Nový**.
-3. Vyplňte pole **Code** a **Popis**.
+2. On the **Status Management Templates** page choose **New** funciton.
+3. Enter the **Code** and **Description** fields.
 4. Do pole **Číslo tabulky** zadejte číslo **52068271** (číslo tabulky Hlavička reklamace).
 5. If you want changes to be automatically logged, select the **Log changes** check box.
    ![Šablona řízení stavů](media/complaints-status_management.png)

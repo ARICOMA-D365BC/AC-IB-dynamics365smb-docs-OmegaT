@@ -13,34 +13,34 @@ ms.author: AC MartinKunes
 ---
 # Central Database
 
-Modul **Centrální databáze** umožňuje pomocí modulu Spooler synchronizovat číselníky mezi různými Business Central databázemi a společnostmi. Způsob synchronizace (jaké tabulky, pole,odkud a kam) je parametrizovatelný.
+The **Central Database** module allows you to use the Spooler module to synchronize code lists between different Business Central databases and companies. The method of synchronization (what tables, fields, from where and where) is parameterizable.
 
-Modul je určen k synchronizaci dat mezi různými datovými zdroji – může se jednat o dvě firmy v jedné databázi stejně jako o 2 firmy v databázích od sebe vzdálených. Nastavení je vždy master-klient mezi dvěma datovými firmami.
+The module is designed to synchronize data between different data sources – it can be two companies in one database as well as 2 companies in databases distant from each other. The setup is always a master-client between two data company.
 
-Aplikaci umožňuje synchronizovat všemi směry a selektivně (viz nastavení). Aplikace nekontroluje možné datové kolize (speciální případ je validace synchronizovaných dat) ani případnou cyklickou synchronizaci (nastavení je vždy pouze mezi dvěma datovými zdroji).
+The application allows you to synchronize in all directions and selectively (see setup). The application does not check possible data collisions (a special case is the validation of synchronized data) or possible cyclic synchronization (the setting is always only between two data sources).
 
-Aplikaci lze použít k synchronizaci nejen mezi jednotlivými systémy Miscrosoft Business Solution – Business Central, ale též k synchronizaci dat s externími systémy (např. B2B aplikace, zákaznické aplikace, specializovaný výrobní software atd.).
+The application can be used not only between individual Miscrosoft Business Solution – Business Central systems, but also for data synchronization with external systems (e.g. B2B applications, customer applications, specialized production software, etc.).
 
-Proces synchronizace může probíhat online v okamžiku změny dat (je generován změnový dokument pro daný záznam), dle volby uživatele jako komplexní balík synchronizovaných dat nebo automaticky jako balík dat v periodických intervalech (pomocí modulu Shareplan).
+The synchronization process can take place online at the moment of data change (a change document is generated for the given record), according to the user's choice as a complex package of synchronized data or automatically as a data package at periodic intervals (using the Shareplan module).
 
-Datová komunikace o změnách nebo synchronizaci probíhá pomocí strukturovaných XML dokumentů.
+Data communication about changes or synchronization takes place using structured XML documents.
 
-Upozornění: V rámci synchronizovaných dat nelze provádět operaci přejmenování (změnu hodnoty
-polí primárního klíče).
+Note: You cannot perform a rename operation (change the value of the
+of the primary key fields).
 
-## Použití Celntrálních číselníků - Synchronizace
+## Using Celntral Database - Synchronization
 
-Samotné použití spočívá ve správném nastavení a spuštění synchronizace tabulek. Více o nastavení Centrálních čísleníků naleznete v tématu **[Nastavení Centrálních číselníků](ac-centraldatabase-setup.md)**.
+The use itself consists in correctly setting up and starting the synchronization of tables. For more information on setting up Central database, see **[Setting Up Central Database](ac-centraldatabase-setup.md)**.
 
-Synchronizace probíhá buď automaticky při změnách v definovaných datových tabulkách nebo ji můžete spustit ručně.
+Synchronization either takes place automatically when changes are made to the defined data tables or you can start it manually.
 
-Pro ruční spuštění postupujte dle následujícího postupu:
-1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Setup** and then choose the related link.
-1. Otevře se stránka **Nastavení centrální databáze**, kde můžete zvolit **Akce** a funkci **Synchronizovat**.
+To start manually, follow the procedure below:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Tabble Setup** and then choose the related link.
+1. The **Central Database Settings** page opens, where you can choose **Actions** and **Synchronize** feature.
 
-Při ruční synchronizaci lze pomocí filtrů přesně specifikovat, jaké tabulky, odkud a kam se mají aktuálně synchronizovat. Tato volba se uplatňuje hlavně při synchronizaci již existujících dat do nových systémů (migrace a parametrizace).
+When you synchronize manually, you can use filters to specify exactly what tables, where and where to sync them. This option is used mainly when synchronizing existing data into new systems (migration and parameterization).
 
 ## See also
-[Nastavení Centrálních číselníků](ac-centraldatabase-setup.md)
+[Central Database - Setup](ac-centraldatabase-setup.md)
 [AC Productivity Pack](ac-productivity-pack.md)  
 [AUTOCONT řešení](../index.md)

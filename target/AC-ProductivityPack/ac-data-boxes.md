@@ -12,12 +12,12 @@ ms.author: v-makune
 ---
 # Data boxes
 
-Add-on modul **Datové schránky** poskytuje podporu pro správu datových schránek ve smyslu zákona 300/2008 Sb. o elektronických úkonech a následujících vyhlášek.
-Umožňuje správu a řízení rolí datové schránky (oprávněná osoba, administrátor, pověřená osoba).
+**Data Boxes** add-on module provides support for the management of data boxes within the meaning of Act No. 300/2008 Coll. on Electronic Acts and subsequent decrees.
+It enables the administration and management of data box roles (authorized person, administrator, authorized person).
 
-![Datové schránky](media/data_boxes.png "Datové schránky")
+![Data boxes](media/data_boxes.png " Data boxes")
 
 **See also**
 
-[Datové schránky - Nastavení](ac-data-boxes-setup.md)  
+[Data Boxes - Setup](ac-data-boxes-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

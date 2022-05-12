@@ -10,10 +10,10 @@ ms.workload: na
 ms.search.keywords: Czech, Data boxes, additional functions
 ms.author: v-makune
 ---
-# Datové schránky - nastavení
+# Data Boxes - Setup
 
 
 **See also**
 
-[Datové schránky](ac-data-boxes.md)  
+[Data Boxes](ac-data-boxes.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -10,9 +10,9 @@ ms.workload: na
 ms.search.keywords: Czech, Electronic documents, additional functions
 ms.author: v-makune
 ---
-# Elektronická fakturace -  PDFXChange
+# Electronic invoicing - PDFXChange
 
-Viz. popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle. Tento modul poskytuje nástroje pro elektronické podepsání dokladu, případně možnost doplnění časového razítka.
+See Electronic invoicing – the difference only in how the invoice is sent. This module provides tools for electronic signing of the document, or the possibility of adding a time stamp.
 
 **See also**
 
