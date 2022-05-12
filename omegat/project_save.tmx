@@ -4601,6 +4601,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je možno zaškrtnout, jestli se má &lt;g3&gt;Kontrolovat číslo externího dokladu&lt;/g3&gt;, &lt;g4&gt;Otevřít kartu dokladu po vytvoření&lt;/g4&gt;, &lt;g5&gt;Pouze jeden doklad&lt;/g5&gt;, &lt;g6&gt;Vytvořit došlý doklad&lt;/g6&gt; nebo &lt;g7&gt;Přenášet dimenze do dokladu&lt;/g7&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135548Z" creationid="kunes" creationdate="20220512T135548Z">
+        <seg>It is also possible to check whether to &lt;g3&gt;External document number Unique&lt;/g3&gt;, &lt;g4&gt;Open document card after creation&lt;/g4&gt;, &lt;g5&gt;Only one document&lt;/g5&gt;, &lt;g6&gt;Create incoming document&lt;/g6&gt; or &lt;g7&gt;Copy dimensions to document&lt;/g7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je možné evidovat, zda-li a komu byla pohledávky předána, druh vymáhání a v neposlední řadě Datum uzavření vymáhání pohledávky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102417Z" creationid="kunes" creationdate="20220419T102417Z">
@@ -7041,6 +7049,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115821Z" creationid="kunes" creationdate="20220504T115821Z">
         <seg>On the &lt;g1&gt;Solution&lt;/g1&gt; page, choose the &lt;g2&gt;New&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt; je třeba vytvořit šablony pro &lt;g2&gt;Typy pošty&lt;/g2&gt; - Odeslaná a Došlá pošta.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135315Z" creationid="kunes" creationdate="20220512T135315Z">
+        <seg>On the &lt;g1&gt;Mail Record Templates&lt;/g1&gt; page select the code for the correct Mail Record Template.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15151,6 +15167,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115811Z" creationid="kunes" creationdate="20220504T115811Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Solutions&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony evidence pošty&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135252Z" creationid="kunes" creationdate="20220512T135252Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Mail Record Templates&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
