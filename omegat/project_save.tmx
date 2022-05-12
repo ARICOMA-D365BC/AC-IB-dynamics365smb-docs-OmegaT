@@ -3603,6 +3603,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Celková priorita je vypočtena jako:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072407Z" creationid="kunes" creationdate="20220512T072407Z">
+        <seg>The overall priority is calculated as:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Celý postup lze realizovat ručně.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110358Z" creationid="kunes" creationdate="20220419T110358Z">
@@ -6889,6 +6897,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nabídka tiskových sestav přiřazených modulu HelpDesk:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072454Z" creationid="kunes" creationdate="20220512T072454Z">
+        <seg>Menu of print reports assigned to the HelpDesk module:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabízí zvýšení produktivity a konkurenceschopnosti, šetří vstupní investice a snižuje starosti spojené s provozem a bezpečností.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
@@ -9838,6 +9854,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Priorita požadavku stanovená dispečerem helpdesku při event. následném přehodnocení důležitosti požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072401Z" creationid="kunes" creationdate="20220512T072401Z">
+        <seg>Priority of the request set by the helpdesk dispatcher during any subsequent reassessment of the request's importance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Priorita požadavku stanovená zadavatelem při vytváření</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T072326Z" creationid="kunes" creationdate="20220512T072326Z">
@@ -11505,6 +11529,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103419Z" creationid="kunes" creationdate="20220419T103409Z">
         <seg>The report can be found not only on the Configuration Worksheet page, but also completely separately:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Sestavy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072449Z" creationid="kunes" creationdate="20220512T072449Z">
+        <seg>Reports</seg>
       </tuv>
     </tu>
     <tu>
@@ -13711,6 +13743,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102601Z" creationid="kunes" creationdate="20220419T102601Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;No. Series Mask Generator&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Helpdesk požadavky (sestavy a analyzy)&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072926Z" creationid="kunes" creationdate="20220512T072926Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Helpdesk Requests (Reports and Analysis)&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15977,6 +16017,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113029Z" creationid="kunes" creationdate="20220419T113029Z">
         <seg>Lower Limit&lt;/g2&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>součin hodnot &lt;g1&gt;Váha zadavatele&lt;/g1&gt; (hodnota na kartě příslušné oprávněné osoby) a &lt;g2&gt;Priorita požadavku&lt;/g2&gt; stanovené zadavatelem pokud dispečer nestanoví jinou prioritu (tj. priorita dispečera je nevyplněna).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072436Z" creationid="kunes" creationdate="20220512T072436Z">
+        <seg>the product of &lt;g1&gt;Taskmaster weight&lt;/g1&gt; (the value on the appropriate authorized person card) and &lt;g2&gt;Request priority&lt;/g2&gt; set by the sponsor unless the dispatcher sets a different priority (i.e., the dispatcher priority is blank).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>součin hodnot &lt;g1&gt;Váha&lt;/g1&gt; zadavatele a &lt;g2&gt;Priorita&lt;/g2&gt; požadavku stanovené dispečerem (tj. priorita dispečera je vyplněna).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072446Z" creationid="kunes" creationdate="20220512T072446Z">
+        <seg>the product of &lt;g1&gt;Weight&lt;/g1&gt; of the requestor and &lt;g2&gt;Priority&lt;/g2&gt; of the request set by the dispatcher (i.e. the dispatcher's priority is filled).</seg>
       </tuv>
     </tu>
     <tu>
