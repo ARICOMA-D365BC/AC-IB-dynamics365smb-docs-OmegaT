@@ -3413,8 +3413,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; rozšiřuje moduly &lt;g2&gt;Nákupu&lt;/g2&gt; a &lt;g3&gt;Prodeje&lt;/g3&gt; systému Microsoft Dynamics 365 Business Central o podporu evidence doručené a odeslané pošty.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T090833Z" creationid="kunes" creationdate="20220504T090633Z">
-        <seg>The &lt;g1&gt;Mail record&lt;/g1&gt; extends &lt;/g1&gt; &lt;g2&gt;the Purchase&lt;/g2&gt; and &lt;g3&gt;Sales&lt;/g3&gt; modules of the Microsoft Dynamics 365 Business Central system to support the registration of incoming and outgoing mail.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085315Z" creationid="kunes" creationdate="20220504T090633Z">
+        <seg>The &lt;g1&gt;Mail record&lt;/g1&gt; extends &lt;g2&gt;the Purchase&lt;/g2&gt; and &lt;g3&gt;Sales&lt;/g3&gt; modules of the Microsoft Dynamics 365 Business Central system to support the registration of incoming and outgoing mail.</seg>
       </tuv>
     </tu>
     <tu>
