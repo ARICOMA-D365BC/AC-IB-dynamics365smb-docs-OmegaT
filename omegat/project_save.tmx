@@ -6921,6 +6921,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Např. údaj 28,35 je převeden na 1 den 4 hodiny 21 minuty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T062719Z" creationid="kunes" creationdate="20220512T062719Z">
+        <seg>For example, the figure of 28.35 is converted to 1 day 4 hours 21 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Např. že objednávka obsahuje alespoň jeden řádek se zbožím, nebo že má na všech řádcích vyplněnu cenu nebo lokaci nebo glob.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T082624Z" creationid="kunes" creationdate="20220428T110556Z">
@@ -8998,6 +9006,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122233Z" creationid="kunes" creationdate="20220405T122233Z">
         <seg>If a card has multiple parameter templates set up, you can switch between them, or view all values by deleting the filter on the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud máte správně zadané informace na záložce Řešení múžete pro přechod do další fáze řešení požadavku stisknout funkci &lt;g1&gt;Proces → Změna stavu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063030Z" creationid="kunes" creationdate="20220512T063030Z">
+        <seg>If you have correctly entered the information on the Solution tab, you can press the function &lt;g1&gt;Process → Change status&lt;/g1&gt;to go to the next phase of solving the request.</seg>
       </tuv>
     </tu>
     <tu>
