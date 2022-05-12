@@ -691,6 +691,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Detaily platební karty&lt;/g1&gt; – Zadání detailů o platební kartě, které budou uloženy ve službě STRIPE.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122343Z" creationid="kunes" creationdate="20220512T122343Z">
+        <seg>&lt;g1&gt;Payment Card Details&lt;/g1&gt; – Entering the payment card details that will be stored in STRIPE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Detaily zákazníka&lt;/g1&gt; – Doplnění chybějících údajů o firmě potřebných pro objednávku a fakturaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122331Z" creationid="kunes" creationdate="20220512T122331Z">
+        <seg>&lt;g1&gt;Customer Details&lt;/g1&gt; – Fill in missing company details required for ordering and billing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Dimenze&lt;/g1&gt; jsou automaticky naplněny při vyplňování jednotlivých polí na kartě evidence pošty tzn. na základě vyplnění &lt;g2&gt;Čísla kontaktu&lt;/g2&gt;, &lt;g3&gt;Kódu prodejce/nákupčího&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220506T083341Z" creationid="kunes" creationdate="20220506T083341Z">
@@ -2513,6 +2529,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T140650Z" creationid="Janousek" creationdate="20210625T140650Z">
         <seg>&lt;g1&gt;Multiple payments&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Výběr plánu&lt;/g1&gt; – nejprve je třeba zvolit, zda-li chce zákazník obnovovat předplatné každý měsíc nebo jednou ročně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122315Z" creationid="kunes" creationdate="20220512T122315Z">
+        <seg>&lt;g1&gt;Plan selection&lt;/g1&gt; - First, you need to choose whether you want to renew your subscription monthly or annually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,6 +5145,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkce &lt;g1&gt;Koupit&lt;/g1&gt; produkt na stránce &lt;g2&gt;Nákup produktu firmy AUTOCONT&lt;/g2&gt; uživatele postupně provede jednotlivými kroky:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122255Z" creationid="kunes" creationdate="20220512T122255Z">
+        <seg>The &lt;g1&gt;Buy&lt;/g1&gt; &lt;g2&gt;Product function on the AUTOCONT Product Purchase&lt;/g2&gt; page guides the user through the steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkce kontrolované tabulky rozšiřuje funkčnost add-onu Řízení stavů o možnost kontroly záznamů nebo polí v tabulkách svázaných s tabulkou, která je řízena Řízením stavů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110502Z" creationid="kunes" creationdate="20220428T110502Z">
@@ -5805,6 +5837,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114455Z" creationid="kunes" creationdate="20220411T114455Z">
         <seg>When?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kdykoliv v průběhu zkušebního období je možné zakoupit produkt s tím, že zákazník nepřijde o zbývající část zkušebního období.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122150Z" creationid="kunes" creationdate="20220512T122150Z">
+        <seg>At any time during the trial period, it is possible to purchase the product with the understanding that the customer will not lose the remainder of the trial period.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8367,6 +8407,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>O blížícím se konci zkušebního období informuje uživatele oznámení na Domovské stránce s odkazem na stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122217Z" creationid="kunes" creationdate="20220512T122217Z">
+        <seg>A notification on the Home page with a link to the &lt;g1&gt;Purchase of an AUTOCONT Product&lt;/g1&gt; page informs the user that the trial period is about to end.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>OSS – EU režim</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115352Z" creationid="kunes" creationdate="20220419T115352Z">
@@ -10316,6 +10364,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poznámka: Pokud se neobjeví požadavek na potvrzení, že uživatel opravdu chce vytvořit zkušební předplatné (a otevře se rovnou okno pro výběr plánu předplatného), pak v tomto tenantu již bylo zkušební období někdy dříve aktivováno.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122133Z" creationid="kunes" creationdate="20220512T122133Z">
+        <seg>Note: If you are not prompted to confirm that the user really wants to create a trial subscription (and the window for selecting a subscription plan opens directly), then the trial period has already been activated in this tenant sometime before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poznámka: Při použití funkce Odúčtovat přiřazenou zálohu (z karty Zálohového daňového dokladu) dojde analogicky k odúčtování těchto zúčtování přeplatků.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110452Z" creationid="kunes" creationdate="20220419T110452Z">
@@ -10931,6 +10987,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130903Z" creationid="kunes" creationdate="20220411T130903Z">
         <seg>To set it up correctly, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro správu předplatného slouží stránka &lt;g1&gt;Seznam předplatných AUTOCONT&lt;/g1&gt;, kde uživatel:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122410Z" creationid="kunes" creationdate="20220512T122410Z">
+        <seg>To manage subscriptions, use the &lt;g1&gt;AUTOCONT Subscription page&lt;/g1&gt;, where the user:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12461,6 +12525,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
         <seg>Spring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Správa předplatného</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122347Z" creationid="kunes" creationdate="20220512T122347Z">
+        <seg>Subscription management</seg>
       </tuv>
     </tu>
     <tu>
@@ -16187,6 +16259,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zakoupení produktu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122137Z" creationid="kunes" creationdate="20220512T122137Z">
+        <seg>Purchase of the product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Založení Výkazu obalů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T120423Z" creationid="kunes" creationdate="20220427T120423Z">
@@ -16721,6 +16801,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T122246Z" creationid="kunes" creationdate="20220427T122246Z">
         <seg>For example &lt;g1&gt;Packing Statement Elements&lt;/g1&gt; page might look like this:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Získá přehled o předplacených produktech od firmy AUTOCONT,</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T122416Z" creationid="kunes" creationdate="20220512T122416Z">
+        <seg>Get an overview of AUTOCONT's subscription products,</seg>
       </tuv>
     </tu>
     <tu>
