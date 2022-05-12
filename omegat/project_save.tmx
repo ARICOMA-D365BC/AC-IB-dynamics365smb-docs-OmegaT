@@ -887,6 +887,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;HelpDesk - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073341Z" creationid="kunes" creationdate="20220512T073341Z">
+        <seg>&lt;g1&gt;HelpDesk - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;AC Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;HelpDesk&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142154Z" creationid="Janousek" creationdate="20210625T142154Z">
@@ -3217,6 +3227,14 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x5/&gt;Dokument&lt;x6/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073549Z" creationid="kunes" creationdate="20220512T073549Z">
+        <seg>&lt;x5/&gt;Documents&lt;x6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x6/&gt;Karta evidence pošty II&lt;x7/&gt;
 V záložce &lt;g8&gt;Stav&lt;/g8&gt; se po založení objeví nový záznam s výchozím stavem podle definice v šabloně řízení stavů.</seg>
       </tuv>
@@ -4547,10 +4565,26 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Export HelpDesk požadavků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073250Z" creationid="kunes" creationdate="20220512T073250Z">
+        <seg>Export HelpDesk requests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Export Kontrolního výkazu DPH do XML</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115108Z" creationid="kunes" creationdate="20220421T115108Z">
         <seg>Export the VAT Control Report to XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Export požadavku potvrďte pomocí tlačítka &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073336Z" creationid="kunes" creationdate="20220512T073336Z">
+        <seg>Confirm the export of the request with the &lt;g1&gt;OK&lt;/g1&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9856,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Požadavky jsou uzavírány automaticky prostřednictvím nastavovaných stavů Řízení stavů po přechodu do jednoho z konečných stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073245Z" creationid="kunes" creationdate="20220512T073245Z">
+        <seg>Requests are closed automatically through the Status Control states set after the transition to one of the final states.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Požadavky lze filtrovat např. podle stavu, podle uživatele, zadavatele, řešitele či podle kategorií.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T071346Z" creationid="kunes" creationdate="20220512T071346Z">
@@ -11175,6 +11217,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T131017Z" creationid="kunes" creationdate="20220509T131017Z">
         <seg>When processing a HelpDesk request, the relevant data is filled in on the request card on the Processing tab, in particular &lt;g1&gt;Solution Code&lt;/g1&gt;, &lt;g2&gt;Duration&lt;/g2&gt;, &lt;g3&gt;Processing Description&lt;/g3&gt; (max. 250 characters) and &lt;g4&gt;Code of the next responsible person&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Připojené dokumenty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082453Z" creationid="kunes" creationdate="20220512T082453Z">
+        <seg>Attached documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -13739,6 +13789,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Export helpdesk požadavků&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073311Z" creationid="kunes" creationdate="20220512T073311Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Export Helpdesk Requests&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Export slouč.účt.schémat do XML&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103056Z" creationid="kunes" creationdate="20220421T103056Z">
@@ -14039,6 +14097,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110415Z" creationid="kunes" creationdate="20220504T110415Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Entitled Person List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled uzavřených helpdesk požadavků&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073213Z" creationid="kunes" creationdate="20220512T073213Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Helpdesk Closed Request List&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,6 +14497,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120223Z" creationid="kunes" creationdate="20220411T120223Z">
         <seg>Fill in &lt;g1&gt;Expedition Places Code&lt;/g1&gt; field on the General tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplnit vstupní filtry reportu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073318Z" creationid="kunes" creationdate="20220512T073318Z">
+        <seg>Fill in the report input filters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15491,6 +15565,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zobrazení uzavřetých požadavků</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073156Z" creationid="kunes" creationdate="20220512T073156Z">
+        <seg>View closed requests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zobrazený přehled požadavků je možno navíc seřadit podle různých klíčů, zvl. podle čísla, priority, stavu workflow nebo kategorií.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T071823Z" creationid="kunes" creationdate="20220512T071823Z">
@@ -15519,6 +15601,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T124219Z" creationid="kunes" creationdate="20220420T124219Z">
         <seg>A page will appear, which may contain a list of already set imports and exports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazí se stránka, která obsahuje seznam už vyřízených helpdesk požadavků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073225Z" creationid="kunes" creationdate="20220512T073225Z">
+        <seg>A page will appear that contains a list of already completed helpdesk requests.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16429,6 +16519,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105242Z" creationid="kunes" creationdate="20220419T105242Z">
         <seg>Document No. (editable only if Use data from item = TRUE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číslo, Nový požadavek, Uzavřený požadavek</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T073327Z" creationid="kunes" creationdate="20220512T073327Z">
+        <seg>Number, New Request, Closed Request</seg>
       </tuv>
     </tu>
     <tu>
