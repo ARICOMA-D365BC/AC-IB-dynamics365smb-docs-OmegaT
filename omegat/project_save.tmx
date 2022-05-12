@@ -7005,6 +7005,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Nastavení řízení stavů&lt;/g1&gt; zadejte do pole &lt;g2&gt;Číslo tabulky&lt;/g2&gt; číslo 52067961, které označuje tabulku Evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140842Z" creationid="kunes" creationdate="20220512T140842Z">
+        <seg>On the &lt;g1&gt;Status Mgt. Setup&lt;/g1&gt; page enter 52067961 in the &lt;g2&gt;Table Number&lt;/g2&gt; field, which identifies the Mail Record table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Nastavení řízení stavů&lt;/g1&gt; zadejte do pole &lt;g2&gt;Číslo tabulky&lt;/g2&gt; číslo 52068298, které označuje tabulku Helpdesk požadavek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T120446Z" creationid="kunes" creationdate="20220504T120446Z">
@@ -7735,6 +7743,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení je pak využito při spuštění funkce &lt;g3&gt;Vytvoř interakci&lt;/g3&gt; na Kartě evidence pošty, kdy ke Kartě kontaktu vznikne odpovídající Položka protokolu interakce &lt;g4&gt;(detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141010Z" creationid="kunes" creationdate="20220512T141010Z">
+        <seg>The settings are then used when you start &lt;g3&gt;Create Interaction&lt;/g3&gt; function on the Mail Record Card, when the corresponding Interaction Rec. Entry is created for the Contact Card &lt;g4&gt;(for more details, see.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení je vždy master-klient mezi dvěma datovými firmami.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T120505Z" creationid="kunes" creationdate="20220512T120505Z">
@@ -8187,6 +8203,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140704Z" creationid="kunes" creationdate="20220512T140704Z">
         <seg>Settings status management for Mail Records</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení šablon interakce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140914Z" creationid="kunes" creationdate="20220512T140914Z">
+        <seg>Interaction Template Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,6 +9571,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125003Z" creationid="kunes" creationdate="20220420T125003Z">
         <seg>If you want to set the export format on a specific bank account, go to the bank account card and set the required values ​​in the fields &lt;g1&gt;Foreign Payment Export Format&lt;/g1&gt; and &lt;g2&gt;Payment Export Format&lt;/g2&gt; on the &lt;g3&gt;Transfer&lt;/g3&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete používat modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; i v modulu &lt;g2&gt;Marketing&lt;/g2&gt; je potřebné správně nastavit i šablony interakce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140928Z" creationid="kunes" creationdate="20220512T140928Z">
+        <seg>If you want to use &lt;g1&gt;Mail Records&lt;/g1&gt; module in the &lt;g2&gt;Marketing&lt;/g2&gt; module, you also need to set up the interaction templates correctly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14079,6 +14111,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T100410Z" creationid="kunes" creationdate="20220428T100410Z">
         <seg>In the &lt;g1&gt;Field No. (Value)&lt;/g1&gt; field, it is defined from which field the content is taken and passed as a parameter to the action (e.g. when the status on the customer card changes, it is possible to fill in the field number 102 and the contents of the E-mail field are passed to the action as a parameter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Šablony Řízení stavů&lt;/g1&gt; vyberte příslušnou šablonu pro řízení stavů pro Evidenci pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140905Z" creationid="kunes" creationdate="20220512T140905Z">
+        <seg>In the &lt;g1&gt;Status management template&lt;/g1&gt; field select the appropriate status management template for Mail Records.</seg>
       </tuv>
     </tu>
     <tu>
