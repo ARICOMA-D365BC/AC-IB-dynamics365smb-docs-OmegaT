@@ -8954,6 +8954,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud je ve zvoleném stavu řízení stavů nastavena akce řízení stavů s přiřazenou codeunitou 52068291 – WriteStatusChangeHlpDesk, přičte se hodnota trvání do celkové doby trvání na záložce Obecné a vygeneruje se další řádek do položek helpdesk požadavku, který zobrazuje historii průběhu řešení - datum, řešitel, kód řešení, popis, trvání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063152Z" creationid="kunes" creationdate="20220512T063152Z">
+        <seg>If a status control action with assigned codeunit 52068291 – WriteStatusChangeHlpDesk, is set in the selected state control state, the duration value is added to the total duration on the General tab and another line is generated to the request helpdesk items, which displays the history of the solution progress - date, solver, solution code, description, duration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud je vše správně nastaveno, systém změní Způsob platby na dokladu, v opačném případě systém zobrazí chybové hlášení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082900Z" creationid="kunes" creationdate="20220404T082900Z">
@@ -10879,6 +10887,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20220412T145352Z" creationid="Janousek" creationdate="20220412T145352Z">
         <seg>Publikování úkolů - Nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pult dispečera</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063354Z" creationid="kunes" creationdate="20220512T063354Z">
+        <seg>Helpdesk Dispatch Board</seg>
       </tuv>
     </tu>
     <tu>
@@ -13871,6 +13887,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T121648Z" creationid="kunes" creationdate="20220401T120027Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Invoices&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Pult dispečera helpdesku&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063411Z" creationid="kunes" creationdate="20220512T063411Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Helpdesk Dispatch Board&lt;/g4&gt;, and then select the related link.</seg>
       </tuv>
     </tu>
     <tu>
