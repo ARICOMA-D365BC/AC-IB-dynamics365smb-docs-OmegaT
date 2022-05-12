@@ -3227,6 +3227,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Stavy řízení stavů - Pošta&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140641Z" creationid="kunes" creationdate="20220512T140641Z">
+        <seg>&lt;x1/&gt;Status management states - Mail&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Typy provozu&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T134128Z" creationid="kunes" creationdate="20220427T134128Z">
@@ -8175,6 +8183,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení řízení stavů pro Evidenci pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140704Z" creationid="kunes" creationdate="20220512T140704Z">
+        <seg>Settings status management for Mail Records</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -8473,8 +8489,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Některé stavy mohou být označeny jako &lt;g1&gt;Konečný stav&lt;/g1&gt;, z něhož se už nepokračuje do žádného dalšího stavu.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220428T094209Z" creationid="kunes" creationdate="20220428T094209Z">
-        <seg>Some states may be labeled as &lt;g1&gt;Final Status&lt;/g1&gt;, from which no further state is continued.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140613Z" creationid="kunes" creationdate="20220428T094209Z">
+        <seg>Some states may be labeled as &lt;g1&gt;Final Status&lt;/g1&gt;, from which no further state is progressed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10652,6 +10668,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro aktivní řádek lze specifikovat &lt;g1&gt;Akce Řízení stavů&lt;/g1&gt;, &lt;g2&gt;Kontrolovaná pole&lt;/g2&gt; a &lt;g3&gt;Nastavovaná pole&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140622Z" creationid="kunes" creationdate="20220512T140622Z">
+        <seg>For the active row, you can specify &lt;g1&gt;State Control Actions&lt;/g1&gt;, &lt;g2&gt;Checked Fields&lt;/g2&gt;, and &lt;g3&gt;Set Fields&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro aktivní řádek na stránce &lt;g1&gt;Stavy Řízení stavů&lt;/g1&gt; lze pomocí funkce &lt;g2&gt;Stav&lt;/g2&gt; specifikovat:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094457Z" creationid="kunes" creationdate="20220428T094255Z">
@@ -11701,6 +11725,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T105518Z" creationid="kunes" creationdate="20220509T105518Z">
         <seg>The first step in the wizard is to specify &lt;g1&gt;Taskmaster Code&lt;/g1&gt; and &lt;g2&gt;Request Priority&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Právě jeden ze stavů musí být označen jako &lt;g4&gt;Výchozí stav&lt;/g4&gt; (zaškrtnutím pole &lt;g5&gt;Výchozí stav&lt;/g5&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140553Z" creationid="kunes" creationdate="20220512T140553Z">
+        <seg>Just one of the states must be marked as &lt;g4&gt;Default Status&lt;/g4&gt; (by checking the &lt;g5&gt;Default Status check box&lt;/g5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12973,6 +13005,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103114Z" creationid="kunes" creationdate="20220419T103114Z">
         <seg>Today, the company has such an option for rounding using advanced settings based on the Payment Method Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Takto označený stav se vyplní při založení nového dokumentu Evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140604Z" creationid="kunes" creationdate="20220512T140604Z">
+        <seg>The status marked in this way is filled in when creating a new Mail Record document.</seg>
       </tuv>
     </tu>
     <tu>
