@@ -3619,10 +3619,34 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aplikace nekontroluje možné datové kolize (speciální případ je validace synchronizovaných dat) ani případnou cyklickou synchronizaci (nastavení je vždy pouze mezi dvěma datovými zdroji).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120544Z" creationid="kunes" creationdate="20220512T120535Z">
+        <seg>The application does not check possible data collisions (a special case is the validation of synchronized data) or possible cyclic synchronization (the setting is always only between two data sources).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aplikace umožňuje synchronizovat jednotlivé tabulky a jejich vybraná pole, lze  synchronizovat i pouze data spadající do určitého filtru.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T104353Z" creationid="kunes" creationdate="20220428T115038Z">
         <seg>The application allows you to synchronize individual tables and their selected fields, you can also synchronize only the data falling into a particular filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aplikaci lze použít k synchronizaci nejen mezi jednotlivými systémy Miscrosoft Business Solution – Business Central, ale též k synchronizaci dat s externími systémy (např. B2B aplikace, zákaznické aplikace, specializovaný výrobní software atd.).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120554Z" creationid="kunes" creationdate="20220512T120554Z">
+        <seg>The application can be used not only between individual Miscrosoft Business Solution – Business Central systems, but also for data synchronization with external systems (e.g. B2B applications, customer applications, specialized production software, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Aplikaci umožňuje synchronizovat všemi směry a selektivně (viz nastavení).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120538Z" creationid="kunes" creationdate="20220512T120533Z">
+        <seg>The application allows you to synchronize in all directions and selectively (see setup).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3951,6 +3975,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104446Z" creationid="kunes" creationdate="20220407T104446Z">
         <seg>he data from the sales order is transferred to the other documents from which the shipments are created, so it is essential to enter the data correctly at the beginning of the process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Datová komunikace o změnách nebo synchronizaci probíhá pomocí strukturovaných XML dokumentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120617Z" creationid="kunes" creationdate="20220512T120617Z">
+        <seg>Data communication about changes or synchronization takes place using structured XML documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6131,6 +6163,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Centrální databáze&lt;/g1&gt; umožňuje pomocí modulu Spooler synchronizovat číselníky mezi různými Business Central databázemi a společnostmi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120426Z" creationid="kunes" creationdate="20220512T120426Z">
+        <seg>The &lt;g1&gt;Central Database&lt;/g1&gt; module allows you to use the Spooler module to synchronize code lists between different Business Central databases and companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul Evidence obalů je rozšířením oblasti Zásoby.&lt;x1/&gt;
 Modul zakládá samostatnou evidenci obalů svázanou s oblastí zásob a standardními pohyby zboží (nákup, prodej, příjem, výdej, transfer, spotřeba a výroba).</seg>
       </tuv>
@@ -6153,6 +6193,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100818Z" creationid="kunes" creationdate="20220414T100818Z">
         <seg>The Controling Basic addon is required for other AC Financial Pack add-on modules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul je určen k synchronizaci dat mezi různými datovými zdroji – může se jednat o dvě firmy v jedné databázi stejně jako o 2 firmy v databázích od sebe vzdálených.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120442Z" creationid="kunes" creationdate="20220512T120442Z">
+        <seg>The module is designed to synchronize data between different data sources – it can be two companies in one database as well as 2 companies in databases distant from each other.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7333,6 +7381,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101632Z" creationid="kunes" creationdate="20220406T101545Z">
         <seg>Setting parameter values is necessary especially for parameters with &lt;g1&gt;Input method - Selection&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení je vždy master-klient mezi dvěma datovými firmami.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120505Z" creationid="kunes" creationdate="20220512T120505Z">
+        <seg>The setup is always a master-client between two data company.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11011,6 +11067,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Proces synchronizace může probíhat online v okamžiku změny dat (je generován změnový dokument pro daný záznam), dle volby uživatele jako komplexní balík synchronizovaných dat nebo automaticky jako balík dat v periodických intervalech (pomocí modulu Shareplan).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120604Z" creationid="kunes" creationdate="20220512T120604Z">
+        <seg>The synchronization process can take place online at the moment of data change (a change document is generated for the given record), according to the user's choice as a complex package of synchronized data or automatically as a data package at periodic intervals (using the Shareplan module).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Proces zpracování výpisu je z pohledu uživatele beze změn.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090616Z" creationid="kunes" creationdate="20220419T090616Z">
@@ -13037,6 +13101,16 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110047Z" creationid="kunes" creationdate="20220428T110047Z">
         <seg>It is mainly used for controlled approval and circulation of documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Upozornění: V rámci synchronizovaných dat nelze provádět operaci přejmenování (změnu hodnoty
+polí primárního klíče).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120712Z" creationid="kunes" creationdate="20220512T120712Z">
+        <seg>Note: You cannot perform a rename operation (change the value of the
+of the primary key fields).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16025,6 +16099,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
 |The Data boxes module provides support for the management of data boxes within the meaning of Act 300/2008 Coll. on electronic acts and the following directives.|&lt;g12&gt;Data boxes &lt;/g12&gt;|
 |The Job Queue Extension is an additional module that allows you to define the parameters for starting a job and the actions performed when a job starts, succeeds or fails, such as sending a notification email.|&lt;g13&gt;Job Queue Extension&lt;/g13&gt;|
 |Notifications management enables system notifications of data and process statuses recorded in Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Způsob synchronizace (jaké tabulky, pole,odkud a kam) je parametrizovatelný.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120432Z" creationid="kunes" creationdate="20220512T120432Z">
+        <seg>The method of synchronization (what tables, fields, from where and where) is parameterizable.</seg>
       </tuv>
     </tu>
     <tu>
