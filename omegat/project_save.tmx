@@ -3343,6 +3343,14 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablony řízení stavů&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140049Z" creationid="kunes" creationdate="20220512T140049Z">
+        <seg>&lt;x1/&gt;Status management Templates&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x2/&gt;List poznámek evidence pošty&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220506T090837Z" creationid="kunes" creationdate="20220506T090837Z">
@@ -4333,6 +4341,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T084858Z" creationid="kunes" creationdate="20220420T122617Z">
         <seg>In the &lt;g1&gt;SK Date Formula&lt;/g1&gt; field enter &lt;g2&gt;1D&lt;/g2&gt; o ensure that the date offset works for import.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Číslo tabulky&lt;/g1&gt; zadejte číslo &lt;g2&gt;52067961&lt;/g2&gt; (číslo tabulky Evidence pošty).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135928Z" creationid="kunes" creationdate="20220512T135928Z">
+        <seg>In the &lt;g1&gt;Table Number&lt;/g1&gt; field, enter the number &lt;g2&gt;52067961&lt;/g2&gt; (the number of the Mail Record,).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7117,6 +7133,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony řízení stavů&lt;/g1&gt; zvolte funkci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135852Z" creationid="kunes" creationdate="20220512T135852Z">
+        <seg>On the &lt;g1&gt;Status Management Templates&lt;/g1&gt; page choose &lt;g2&gt;New&lt;/g2&gt; funciton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Žurnály zboží&lt;/g1&gt; jsou doplněny sestavy:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103708Z" creationid="kunes" creationdate="20220419T103708Z">
@@ -8291,6 +8315,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115438Z" creationid="kunes" creationdate="20220401T115438Z">
         <seg>However, the most common is the use of &lt;g1&gt;the Cashier as a counter-account&lt;/g1&gt;, which allows combining the use of Multiple Payment Methods and Cash Receipts and brings with it rounding advantages (it is automatically resolved only on the cash receipt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nejprve je třeba nastavit šablonu řízení stavů &lt;g1&gt;(detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135830Z" creationid="kunes" creationdate="20220512T135830Z">
+        <seg>First, you need to set up a state control template &lt;g1&gt;(for more details, see</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,6 +9535,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete používat modul &lt;g1&gt;Evidence pošty&lt;/g1&gt;, je potřebné správně nastavit i modul &lt;g2&gt;Workflow (řízení stavů)&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135820Z" creationid="kunes" creationdate="20220512T135820Z">
+        <seg>If you want to use &lt;g1&gt;the Mail Records&lt;/g1&gt; module, it is also necessary to set up the &lt;g2&gt;Workflow module (status management)&lt;/g2&gt; correctly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete pro danou kategorii vytvořit vícero podkategorií (kategorií 2 úrovně) vyberte akci &lt;g1&gt;Kategorie požadavku 2&lt;/g1&gt; na stránce &lt;g2&gt;Kategorie požadavku 1&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115655Z" creationid="kunes" creationdate="20220504T115655Z">
@@ -9540,6 +9580,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T093906Z" creationid="kunes" creationdate="20220428T093906Z">
         <seg>To specify individual states for the newly created State Management, click the &lt;g1&gt;Template&lt;/g1&gt; action, and then click &lt;g2&gt;Status Mgt. States&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na funkci &lt;g1&gt;Šablona →Stavy Řízení stavů&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140034Z" creationid="kunes" creationdate="20220512T140034Z">
+        <seg>To specify individual states for the newly created state control, click &lt;g1&gt;Template function → Status Management Statuses&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10840,6 +10888,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094129Z" creationid="kunes" creationdate="20220428T094129Z">
         <seg>For each Status management state, you must define a &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Next status filter&lt;/g3&gt; that determines what other states can be accessed from that state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každý stav řízení stavů je třeba nadefinovat &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Filtr dalšího stavu&lt;/g3&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T140532Z" creationid="kunes" creationdate="20220512T140532Z">
+        <seg>For each state control state, you must define a &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Next status filter&lt;/g3&gt; that specifies what other states can be accessed from that state.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15443,6 +15499,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyplňte pole &lt;g1&gt;Code&lt;/g1&gt; a &lt;g2&gt;Popis&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135859Z" creationid="kunes" creationdate="20220512T135859Z">
+        <seg>Enter the &lt;g1&gt;Code&lt;/g1&gt; and &lt;g2&gt;Description&lt;/g2&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyplňte pole &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Číslo tabulky&lt;/g3&gt; (pro kterou bude šablona nastavena).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092932Z" creationid="kunes" creationdate="20220428T092932Z">
@@ -17017,6 +17081,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112943Z" creationid="Janousek" creationdate="20210603T112943Z">
         <seg>media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>modul - Workflow)&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135834Z" creationid="kunes" creationdate="20220512T135834Z">
+        <seg>module - Workflow)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
