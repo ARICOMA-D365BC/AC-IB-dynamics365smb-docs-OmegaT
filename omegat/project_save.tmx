@@ -857,6 +857,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence pošty&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141243Z" creationid="kunes" creationdate="20220512T141243Z">
+        <seg>&lt;g1&gt;Mail Record&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence souvisejících pohledávek&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102447Z" creationid="kunes" creationdate="20220419T102447Z">
@@ -3131,6 +3141,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení šablon interakce&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141023Z" creationid="kunes" creationdate="20220512T141023Z">
+        <seg>&lt;x1/&gt;Set up interaction templates&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení šablony&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135558Z" creationid="kunes" creationdate="20220512T135558Z">
@@ -3323,6 +3341,14 @@ If it is a document created from the Data Box, it is possible to have the origin
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130834Z" creationid="kunes" creationdate="20220427T130834Z">
         <seg>&lt;x1/&gt;Create Drive Order&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablony interakce&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141236Z" creationid="kunes" creationdate="20220512T141236Z">
+        <seg>&lt;x1/&gt;Interaction Template&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,6 +7047,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Nastavení šablony interakce&lt;/g1&gt; vyberte do pole &lt;g2&gt;Příchozí pošta&lt;/g2&gt; a &lt;g3&gt;Odchozí pošta&lt;/g3&gt; správné šablony interakce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141146Z" creationid="kunes" creationdate="20220512T141146Z">
+        <seg>On the &lt;g1&gt;Interaction Template Setup&lt;/g1&gt; page, in the &lt;g2&gt;Incoming Mail&lt;/g2&gt; and &lt;g3&gt;Outgoing Mail&lt;/g3&gt; select correct interaction templates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Položky zákazníka&lt;/g1&gt; přejděte na vybraný záznam a spusťte funkci &lt;g2&gt;Informace o pohledávce&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102141Z" creationid="kunes" creationdate="20220419T102141Z">
@@ -7113,6 +7147,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T091134Z" creationid="kunes" creationdate="20220504T091134Z">
         <seg>On the &lt;g1&gt;Mail Record Templates&lt;/g1&gt; page select the code for the correct Mail Record Template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Šablony interakce&lt;/g1&gt; zadejte kód pro správnou skupinu interakce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141227Z" creationid="kunes" creationdate="20220512T141227Z">
+        <seg>On the &lt;g1&gt;Interaction Templates&lt;/g1&gt; page, enter the code for the correct interaction group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15019,6 +15061,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení šablony interakce&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141046Z" creationid="kunes" creationdate="20220512T141046Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Interaction Template Setup&lt;/g4&gt;, and then select the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nový požadavek&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T105046Z" creationid="kunes" creationdate="20220509T105046Z">
@@ -15351,6 +15401,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135252Z" creationid="kunes" creationdate="20220512T135252Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Mail Record Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony interakce&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141202Z" creationid="kunes" creationdate="20220512T141202Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Interaction Templates&lt;/g4&gt;, and then select the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17165,6 +17223,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>modul - Marketing)&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141015Z" creationid="kunes" creationdate="20220512T141015Z">
+        <seg>module - Marketing)&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>modul - Workflow)&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135834Z" creationid="kunes" creationdate="20220512T135834Z">
@@ -17861,6 +17927,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121553Z" creationid="kunes" creationdate="20220420T121553Z">
         <seg>Factoring Templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony interakce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T141151Z" creationid="kunes" creationdate="20220512T141151Z">
+        <seg>nteraction Template</seg>
       </tuv>
     </tu>
     <tu>
