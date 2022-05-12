@@ -9958,6 +9958,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Použití Celntrálních číselníků - Synchronizace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120720Z" creationid="kunes" creationdate="20220512T120720Z">
+        <seg>Using Celntral Database - Synchronization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Použít údaje z položky – mají-li b</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105230Z" creationid="kunes" creationdate="20220419T105230Z">
@@ -11837,6 +11845,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Samotné použití spočívá ve správném nastavení a spuštění synchronizace tabulek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120751Z" creationid="kunes" creationdate="20220512T120751Z">
+        <seg>The use itself consists in correctly setting up and starting the synchronization of tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Samotný export pracuje s uloženými výsledky účetních schémat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T102457Z" creationid="kunes" creationdate="20220421T102457Z">
@@ -12367,6 +12383,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122739Z" creationid="kunes" creationdate="20220429T122739Z">
         <seg>Synchronizing some tables is meaningless from the point of view of the system or may cause a collision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Synchronizace probíhá buď automaticky při změnách v definovaných datových tabulkách nebo ji můžete spustit ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120928Z" creationid="kunes" creationdate="20220512T120928Z">
+        <seg>Synchronization either takes place automatically when changes are made to the defined data tables or you can start it manually.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15209,6 +15233,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111742Z" creationid="Janousek" creationdate="20210603T111742Z">
         <seg>More information about Business Central can be found on our &lt;g1&gt;website ACDynamics365.cz&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Více o nastavení Centrálních čísleníků naleznete v tématu &lt;g1&gt;&lt;g2&gt;Nastavení Centrálních číselníků&lt;/g2&gt;&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T120920Z" creationid="kunes" creationdate="20220512T120920Z">
+        <seg>For more information on setting up Central database, see &lt;g1&gt;&lt;g2&gt;Setting Up Central Database&lt;/g2&gt;&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
