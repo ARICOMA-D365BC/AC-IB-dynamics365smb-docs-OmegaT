@@ -15379,6 +15379,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zobrazený přehled požadavků je možno navíc seřadit podle různých klíčů, zvl. podle čísla, priority, stavu workflow nebo kategorií.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071823Z" creationid="kunes" creationdate="20220512T071823Z">
+        <seg>In addition, the displayed list of requirements can be sorted by different keys, especially by number, priority, workflow status or categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zobrazit položky DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105246Z" creationid="kunes" creationdate="20220419T105246Z">
