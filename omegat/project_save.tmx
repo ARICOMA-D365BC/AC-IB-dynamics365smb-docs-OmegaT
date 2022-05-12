@@ -3207,6 +3207,14 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Připojené dokumenty&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082617Z" creationid="kunes" creationdate="20220512T082617Z">
+        <seg>&lt;x2/&gt;Attached documents&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x2/&gt;Šablony evidence pošty&lt;x3/&gt;
 &lt;x4/&gt;Evidence pošty&lt;x5/&gt;</seg>
       </tuv>
@@ -8735,6 +8743,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vytvoření Karty evidence pošty je dokument možno dále zpracovávat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082717Z" creationid="kunes" creationdate="20220512T082717Z">
+        <seg>After creating the Mail Registration Card, the document can be further processed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vytvoření finální nákupní faktury a přiřazení uhrazené nákupní zálohy je v případě přeplatku na záloze možné vložit další řádek s částkou přeplatku a příznakem Určeno pro vrácení zálohy (příznak je následně i na řádku zaúčtované faktury).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
@@ -9040,6 +9056,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T063152Z" creationid="kunes" creationdate="20220512T063152Z">
         <seg>If a status control action with assigned codeunit 52068291 – WriteStatusChangeHlpDesk, is set in the selected state control state, the duration value is added to the total duration on the General tab and another line is generated to the request helpdesk items, which displays the history of the solution progress - date, solver, solution code, description, duration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je vytvořeno a povoleno workflow Výměny došlých dokladů a vytvořeno Nastavení uživatelů schvalování lze Odeslat požadavek ke schvalování – funkce &lt;g1&gt;Akce/Odeslat požadavek ke schválení (detailněji viz modul – Schvalování)&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082903Z" creationid="kunes" creationdate="20220512T082903Z">
+        <seg>If the Incoming Document Exchange workflow is created and enabled and the Approval user settings are created, you can Send request for approval – &lt;g1&gt;Action/Send request for approval function (for more details, see module – Approval)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9384,6 +9408,22 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T120448Z" creationid="kunes" creationdate="20220427T120448Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statements&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Reporty/Tisk&lt;/g1&gt; na stránce &lt;g2&gt;Karta evidence pošty&lt;/g2&gt; se spustí sestava &lt;g3&gt;Evidence pošty&lt;/g3&gt; (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku, rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082706Z" creationid="kunes" creationdate="20220512T082706Z">
+        <seg>Using the &lt;g1&gt;Reports/Print&lt;/g1&gt; function on the &lt;g2&gt;Mail Records Card&lt;/g2&gt; page, the &lt;g3&gt;Mail Records&lt;/g3&gt; report is launched (the number of the currently displayed request is offered to the input filter, the print range can then be specified in more detail through filters and parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Související/Pošta/Přílohy&lt;/g1&gt; lze ke kartě připojit jakýkoliv doklad, který je následně uložen do tabulky systému Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082610Z" creationid="kunes" creationdate="20220512T082610Z">
+        <seg>Using &lt;g1&gt;the Related/Mail/Attachments&lt;/g1&gt; function, any document can be attached to the card, which is then stored in a Microsoft Dynamics 365 Business Central table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11539,6 +11579,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112512Z" creationid="kunes" creationdate="20220411T112512Z">
         <seg>The process of ordering a collection is simple, it is done using the "Order collection" function on the shipment overview.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Schvalování požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082734Z" creationid="kunes" creationdate="20220512T082734Z">
+        <seg>Request approval</seg>
       </tuv>
     </tu>
     <tu>
