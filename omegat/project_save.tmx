@@ -4859,8 +4859,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Evidence pošty - Nastavení</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T092035Z" creationid="kunes" creationdate="20220504T092035Z">
-        <seg>Evidence pošty - Nastavení</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135119Z" creationid="kunes" creationdate="20220504T092035Z">
+        <seg>Mail records - Setup</seg>
       </tuv>
     </tu>
     <tu>
