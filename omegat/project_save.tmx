@@ -5227,6 +5227,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Jedním z nejdůležitějších kritérií pro rozhodování o plánování a koordinaci kapacit na řešení požadavků je stupeň naléhavosti, s jakou je nutno se tím kterým požadavkem zabývat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072041Z" creationid="kunes" creationdate="20220512T072041Z">
+        <seg>One of the most important criteria for deciding on the planning and coordination of capacities to address requirements is the degree of urgency with which a particular requirement must be addressed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Jedním ze způsobů je vytvoření zásilky s dodacího listu nebo účtované faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110432Z" creationid="kunes" creationdate="20220407T110432Z">
@@ -5431,6 +5439,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102059Z" creationid="kunes" creationdate="20220414T102059Z">
         <seg>Click Yes to open the relevant calendar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Klikněte na funkci &lt;g1&gt;Proces&lt;/g1&gt; a pak &lt;g2&gt;Karta&lt;/g2&gt; aby jste zobrazili kartu daného požadavku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071944Z" creationid="kunes" creationdate="20220512T071944Z">
+        <seg>Click &lt;g1&gt;Process&lt;/g1&gt;, and then &lt;g2&gt;Card&lt;/g2&gt; to display the tab for the request.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,6 +9826,22 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083321Z" creationid="kunes" creationdate="20220504T083321Z">
         <seg>A practical use of this technology is to connect product information to goods cards or business documents (e.g. contracts) to supplier or customer cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Priorita požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071953Z" creationid="kunes" creationdate="20220512T071953Z">
+        <seg>Request Priorities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Priorita požadavku stanovená zadavatelem při vytváření</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072326Z" creationid="kunes" creationdate="20220512T072326Z">
+        <seg>Request priority set by the taskmaster when creating</seg>
       </tuv>
     </tu>
     <tu>
@@ -14595,6 +14627,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Váha oprávněné osoby, tj. zadavatele požadavku</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072157Z" creationid="kunes" creationdate="20220512T072157Z">
+        <seg>Weight of the beneficiary, i.e. the taskmaster of the request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Váhy lze stanovit libovolně, záleží na místních podmínkách a zvyklostech (zpravidla čím závažnější je požadavek, tím vyšší je váha).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115306Z" creationid="kunes" creationdate="20220504T115306Z">
@@ -14751,6 +14791,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125210Z" creationid="kunes" creationdate="20220429T125210Z">
         <seg>The importance of this option is when creating new data into the system (changing data and deleting data are always sent automatically).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Významnou pomůckou dispečera v tomto procesu může být ukazatel celkové priority požadavku, jak byl vypočítán programem na základě vstupních parametrů:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T072053Z" creationid="kunes" creationdate="20220512T072053Z">
+        <seg>An important aid to the dispatcher in this process can be an indicator of the overall priority of the request, as calculated by the program based on the input parameters:</seg>
       </tuv>
     </tu>
     <tu>
