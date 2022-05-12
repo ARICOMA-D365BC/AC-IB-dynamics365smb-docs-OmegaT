@@ -3131,6 +3131,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení šablony&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135558Z" creationid="kunes" creationdate="20220512T135558Z">
+        <seg>&lt;x1/&gt;Template setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nákup produktu firmy AUTOCONT&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T122059Z" creationid="kunes" creationdate="20220512T122059Z">
@@ -3167,6 +3175,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130008Z" creationid="kunes" creationdate="20220405T130008Z">
         <seg>&lt;x1/&gt;Overview of general parameters&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Přehled číselných řad&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135754Z" creationid="kunes" creationdate="20220512T135754Z">
+        <seg>&lt;x1/&gt;Overview of No. Series&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8127,6 +8143,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení řízení stavů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135813Z" creationid="kunes" creationdate="20220512T135813Z">
+        <seg>Status management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení šablon obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102053Z" creationid="kunes" creationdate="20220406T102053Z">
@@ -11987,6 +12011,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Příklad vytvořené číselné řady (&lt;g1&gt;detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135735Z" creationid="kunes" creationdate="20220512T135735Z">
+        <seg>An example of a created number sequence (&lt;g1&gt;for more details, see</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Příklad vytvořené číselné řady:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110039Z" creationid="kunes" creationdate="20220504T110039Z">
@@ -13935,6 +13967,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122528Z" creationid="kunes" creationdate="20220421T122528Z">
         <seg>In the &lt;g1&gt;Assigned Field field in the report line&lt;/g1&gt;, you can set from which system field the value will be populated into the Control Report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Číselná řada&lt;/g1&gt; se vybere číselná řada pro nově vytvářené doklady, kterou si dopředu musíme připravit, pokud jsme tak ještě neudělali.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135624Z" creationid="kunes" creationdate="20220512T135624Z">
+        <seg>In the &lt;g1&gt;No. Series&lt;/g1&gt; field, a number sequence is selected for the newly created documents, which we must prepare in advance if we have not already done so.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16179,6 +16219,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zadejte &lt;g1&gt;Kód&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;Počáteční číslo&lt;/g3&gt; číselné řady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135709Z" creationid="kunes" creationdate="20220512T135709Z">
+        <seg>Enter the &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Starting number&lt;/g3&gt; of the number series.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Zadejte &lt;g1&gt;Název šablony&lt;/g1&gt;, &lt;g2&gt;Popis&lt;/g2&gt; a &lt;g3&gt;ID tabulky&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102216Z" creationid="kunes" creationdate="20220406T102216Z">
@@ -16463,6 +16511,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125656Z" creationid="kunes" creationdate="20220420T125656Z">
         <seg>Check the box &lt;g1&gt;Depreciation Reduction First Year&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zaškrtněte políčko &lt;g1&gt;Výchozí čísla&lt;/g1&gt; pro automatické vyplňovaní čísel při zadávaní nových požadavků.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135722Z" creationid="kunes" creationdate="20220512T135722Z">
+        <seg>Select the &lt;g1&gt;Default Nos.&lt;/g1&gt; for autofilling numbers when entering new requests check box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16965,6 +17021,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>modul - Číselné řady&lt;/g1&gt;):</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135741Z" creationid="kunes" creationdate="20220512T135741Z">
+        <seg>Number series&lt;/g1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>má možnost aktualizovat informace o zákazníkovi (akce Aktualizujte informace o zákazníkovi),</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T122432Z" creationid="kunes" creationdate="20220512T122432Z">
@@ -17459,6 +17523,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
         <seg>Česká pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselná řada se tvoří stejným způsobem jako pro jiné agendy:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135633Z" creationid="kunes" creationdate="20220512T135633Z">
+        <seg>The number series is formed in the same way as for other agendas:</seg>
       </tuv>
     </tu>
     <tu>
