@@ -765,6 +765,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Evidence pošty - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085241Z" creationid="kunes" creationdate="20220512T085241Z">
+        <seg>&lt;g1&gt;Mail Record - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Evidence pošty&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141347Z" creationid="Janousek" creationdate="20210625T141347Z">
@@ -3297,6 +3307,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x7/&gt;Zobrazený požadavek&lt;x8/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085029Z" creationid="kunes" creationdate="20220512T085029Z">
+        <seg>&lt;x7/&gt;Displayed request&lt;x8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x9/&gt;Uzavřená evidence pošty&lt;x10/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085222Z" creationid="kunes" creationdate="20220512T085222Z">
+        <seg>&lt;x9/&gt;Closed Mail Record&lt;x10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>A mnohé další.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104843Z" creationid="kunes" creationdate="20220407T104843Z">
@@ -4405,6 +4431,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082014Z" creationid="kunes" creationdate="20220404T082014Z">
         <seg>In addition, the  &lt;g1&gt;Cash Desk Operation Type&lt;/g1&gt; needs to be defined for other control mechanisms of the functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále jsou zde funkce pro &lt;g2&gt;Vytvořit interakci&lt;/g2&gt;, &lt;g3&gt;Stáhnout zprávy z datové schránky&lt;/g3&gt;, &lt;g4&gt;Navigovat&lt;/g4&gt; případně přidat &lt;g5&gt;Poznámky&lt;/g5&gt;, nebo zobrazit připojené &lt;g6&gt;Dokumenty&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085015Z" creationid="kunes" creationdate="20220512T084936Z">
+        <seg>There are also functions for &lt;g2&gt;Create Interaction&lt;/g2&gt;, &lt;g3&gt;Download Messages from Data Box&lt;/g3&gt;, &lt;g4&gt;Navigate&lt;/g4&gt; or Add &lt;g5&gt;Notes&lt;/g5&gt;, or view attached &lt;g6&gt;Documents&lt;/g6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dále jsou zde funkce pro zobrazení &lt;g7&gt;Související doklady pošty&lt;/g7&gt; a &lt;g8&gt;Záznam datové schránky&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085212Z" creationid="kunes" creationdate="20220512T085212Z">
+        <seg>There are also functions for displaying &lt;g7&gt; Related Mail Documents&lt;/g7&gt; and &lt;g8&gt;Data Box Record&lt;/g8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10044,6 +10086,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Požadavky jsou uzavírány ručně prostřednictvím funkce Uzavřít evidenci pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085130Z" creationid="kunes" creationdate="20220512T085130Z">
+        <seg>Requests are closed manually through the Close Mail Records feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Požadavky lze filtrovat např. podle stavu, podle uživatele, zadavatele, řešitele či podle kategorií.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T071346Z" creationid="kunes" creationdate="20220512T071346Z">
@@ -13017,6 +13067,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Uzavřená evidence pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085035Z" creationid="kunes" creationdate="20220512T085035Z">
+        <seg>Closed Mail Record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uzavřená evidence pošty je dostupná:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085042Z" creationid="kunes" creationdate="20220512T085042Z">
+        <seg>Closed mail records are available:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Uzavření Kontrolního výkazu DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115133Z" creationid="kunes" creationdate="20220421T115133Z">
@@ -14425,6 +14491,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Uzavřená evidence pošty&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085052Z" creationid="kunes" creationdate="20220512T085052Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Closed Mail Record&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Vypočti a účtuj koeficient DPH&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105128Z" creationid="kunes" creationdate="20220419T105128Z">
@@ -14669,6 +14743,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102535Z" creationid="kunes" creationdate="20220414T102535Z">
         <seg>Select the number of the bank with the set payment accumulation for which you want to crea-te a payment order and confirm with the OK button &lt;g1&gt;OK&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vybraný požadavek lze pak zobrazit volbou &lt;g1&gt;Karta&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084933Z" creationid="kunes" creationdate="20220512T084933Z">
+        <seg>The selected request can then be displayed by selecting &lt;g1&gt;Card&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vybraný požadavek lze pak zobrazit volbou &lt;g6&gt;Zobrazit&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085144Z" creationid="kunes" creationdate="20220512T085144Z">
+        <seg>The selected request can then be displayed by selecting &lt;g6&gt;View&lt;/g6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15829,6 +15919,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T073156Z" creationid="kunes" creationdate="20220512T073156Z">
         <seg>View closed requests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazením stránky &lt;g5&gt;Uzavřená evidence pošty&lt;/g5&gt; se zobrazí uzavřené požadavky, tj. požadavky, které už byly vyřízeny.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T085107Z" creationid="kunes" creationdate="20220512T085107Z">
+        <seg>Viewing the &lt;g5&gt;Closed Mail Record&lt;/g5&gt; page displays closed requests, that is, requests that have already been processed.</seg>
       </tuv>
     </tu>
     <tu>
