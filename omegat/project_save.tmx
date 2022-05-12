@@ -3109,6 +3109,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Vytvořit doklad&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083232Z" creationid="kunes" creationdate="20220512T083232Z">
+        <seg>&lt;x1/&gt;Create a document&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Výpis čeprání PHM&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125630Z" creationid="kunes" creationdate="20220427T125630Z">
@@ -4043,6 +4051,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103824Z" creationid="kunes" creationdate="20220419T103824Z">
         <seg>The Correction field is added to the header of the cash document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do hlavičky vytvořeného dokladu se přenesou všechny údaje z Karty evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083252Z" creationid="kunes" creationdate="20220512T083252Z">
+        <seg>All data from the Mail Record Card are transferred to the header of the created document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5947,6 +5963,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121409Z" creationid="kunes" creationdate="20220427T121409Z">
         <seg>For example, you can create a table with the following values:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Lze využít funkce &lt;g1&gt;Vytvořit doklad&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083156Z" creationid="kunes" creationdate="20220512T083156Z">
+        <seg>You can use the &lt;g1&gt;Create Document&lt;/g1&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9106,6 +9130,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110544Z" creationid="kunes" creationdate="20220411T110544Z">
         <seg>If a shipment is in the &lt;g2&gt;Collected&lt;/g2&gt; state, it can no longer be edited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud jsou na kartě evidence pošty vyplněny dimenze a v Šabloně evidence pošty je zaškrtnuto pole Přenášet dimenze do dokladu, tak budou přeneseny také dimenze do vytvořeného dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083440Z" creationid="kunes" creationdate="20220512T083440Z">
+        <seg>If dimensions are filled in on the Mail Records card and the Transfer dimensions to document check box is selected in the Mail Registration Template, the dimensions will also be transferred to the created document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12935,6 +12967,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Uživateli se zobrazí dotaz, jaký doklad se má vytvořit a po vytvoření se automaticky zobrazí karta nového dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083222Z" creationid="kunes" creationdate="20220512T083222Z">
+        <seg>The user is asked which document to create and after creation, the new document tab is automatically displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Uživatelsky je možné otevřít jednotlivé řádky kontrolního výkazu k editaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115008Z" creationid="kunes" creationdate="20220421T115008Z">
@@ -14675,6 +14715,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125743Z" creationid="kunes" creationdate="20220427T125743Z">
         <seg>Create Fuel Journal – to record pumping items to the vehicle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083147Z" creationid="kunes" creationdate="20220512T083147Z">
+        <seg>Creating a documents</seg>
       </tuv>
     </tu>
     <tu>
