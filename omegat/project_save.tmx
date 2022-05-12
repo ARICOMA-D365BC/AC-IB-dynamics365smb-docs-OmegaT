@@ -2849,6 +2849,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Elektronická fakturace&lt;x2/&gt;Elektronická fakturace&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121742Z" creationid="kunes" creationdate="20220512T121742Z">
+        <seg>&lt;x1/&gt;Electronic invoicing&lt;x2/&gt; Electronic invoicing&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Helpdesk - Publikování SharePoint&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T130442Z" creationid="kunes" creationdate="20220509T130442Z">
@@ -4655,6 +4663,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Elektronická fakturace -  PDFXChange</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121813Z" creationid="kunes" creationdate="20220512T121813Z">
+        <seg>Electronic invoicing - PDFXChange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Elektronická fakturace -  PDFXChange - Nastavení</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121502Z" creationid="kunes" creationdate="20220512T121502Z">
@@ -4673,8 +4689,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Elektronická fakturace ISDOC</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Janousek" changedate="20220331T085104Z" creationid="Janousek" creationdate="20220331T085104Z">
-        <seg>[přibližně]&lt;g1&gt;Electronic invoicing - ISDOC&lt;/g1&gt;</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121757Z" creationid="Janousek" creationdate="20220331T085104Z">
+        <seg>Electronic invoicing - ISDOC</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,6 +4699,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121501Z" creationid="kunes" creationdate="20220512T121501Z">
         <seg>Elektronická fakturace ISDOC - nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Elektronický podpis je nastavitelný v systému.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121617Z" creationid="kunes" creationdate="20220512T121617Z">
+        <seg>The electronic signature is adjustable in the system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5591,6 +5615,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K šířené elektronické fakturaci lze připojit libovolné elektronické přílohy (dodací listy, certifikáty atd.) bez omezení typu souboru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121737Z" creationid="kunes" creationdate="20220512T121737Z">
+        <seg>Any electronic attachments (delivery notes, certificates, etc.) can be attached to the distributed electronic invoicing without file type restrictions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kampaň</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101424Z" creationid="kunes" creationdate="20220414T101424Z">
@@ -6279,6 +6311,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Elektronická fakturace&lt;/g1&gt; slouží k moderní bezpapírové výměně daňových dokladů se zákazníkem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121600Z" creationid="kunes" creationdate="20220512T121600Z">
+        <seg>The &lt;g1&gt;Electronic Invoicing&lt;/g1&gt; module is used for modern paperless exchange of tax documents with the customer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul Evidence obalů je rozšířením oblasti Zásoby.&lt;x1/&gt;
 Modul zakládá samostatnou evidenci obalů svázanou s oblastí zásob a standardními pohyby zboží (nákup, prodej, příjem, výdej, transfer, spotřeba a výroba).</seg>
       </tuv>
@@ -6325,6 +6365,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083314Z" creationid="kunes" creationdate="20220504T083314Z">
         <seg>The module thus significantly expands the information value and the possibility of using records in dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul umožňuje automaticky generovat jak strukturované dokumenty ve formátu XML, tak případně tvořit elektronické dokumenty pro vytištění v jiných formátech (PDF - moduly „Elektronická fakturace – pdf náhled“ a „Elektronická fakturace – PDFXChange“, DOC – modul „Elektronická fakturace – ISDOC“).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121607Z" creationid="kunes" creationdate="20220512T121607Z">
+        <seg>The module allows you to automatically generate both structured documents in XML format and possibly create electronic documents for printing in other formats (PDF - modules "Electronic invoicing - pdf preview" and "Electronic invoicing - PDFXChange", DOC - module "Electronic invoicing - ISDOC").</seg>
       </tuv>
     </tu>
     <tu>
@@ -10634,6 +10682,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro naplnění legislativních požadavků je XML soubor elektronicky podepsán a jednoznačně identifikován.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121612Z" creationid="kunes" creationdate="20220512T121612Z">
+        <seg>To meet the legislative requirements, the XML file is electronically signed and uniquely identified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení a používání funkce zásilka na dobírku je zapotřebí nastavit na způsobu platby booeal &lt;g1&gt;Dobírka&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125159Z" creationid="kunes" creationdate="20220411T125159Z">
@@ -10857,6 +10913,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130339Z" creationid="kunes" creationdate="20220420T130339Z">
         <seg>For these purposes, the reports "Reconciliation of the supplier's balance" and "Reconciliation of the customer's balance" may be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro uživatelské zobrazení XML dokumentu (strukturovaná data využitelná pro automatické exporty do informačních systémů) lze definovat tzv. XSD šablony, které transformují data z XML do vizuální podoby HTML dokumentu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121637Z" creationid="kunes" creationdate="20220512T121637Z">
+        <seg>For user display of an XML document (structured data usable for automatic exports to information systems) it is possible to define so-called XSD templates, which transform data from XML into a visual form of an HTML document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12241,6 +12305,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123617Z" creationid="kunes" creationdate="20220420T123617Z">
         <seg>Summary Report (VIES)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Součástí add-on modulu je i aplikace dodávaná zákazníkům pro volné šíření, která umožňuje adresátům XML dokumentu zkontrolovat elektronický podpis včetně platnosti a neporušenosti dokumentu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121629Z" creationid="kunes" creationdate="20220512T121629Z">
+        <seg>The add-on module also includes an application supplied to customers for free distribution, which allows the addressees of an XML document to check the electronic signature, including the validity and integrity of the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13993,6 +14065,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121816Z" creationid="kunes" creationdate="20220512T121750Z">
+        <seg>See</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vložení a změna obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122247Z" creationid="kunes" creationdate="20220405T122247Z">
@@ -15497,6 +15577,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Výsledné dokumenty lze automaticky šířit pomocí add-on modulu Spooler pomocí e-mailu nebo dalších komunikačních kanálů (TCP, named pipe, uložení na disk).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121648Z" creationid="kunes" creationdate="20220512T121648Z">
+        <seg>The resulting documents can be automatically distributed using the Spooler add-on module via e-mail or other communication channels (TCP, named pipe, disk storage).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Výstupem modulu je tisková sestava &lt;g1&gt;Podklad pro výkaz obalů&lt;/g1&gt;, která poskytuje podklady pro vyplnění vyžadovaných tiskopisů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T090854Z" creationid="kunes" creationdate="20220427T090854Z">
@@ -16671,6 +16759,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135423Z" creationid="kunes" creationdate="20220427T135423Z">
         <seg>parameters for electronic processing of &lt;g1&gt;Import path&lt;/g1&gt;, &lt;g2&gt;Import File Type&lt;/g2&gt;, &lt;g3&gt;Import Object Type&lt;/g3&gt;, &lt;g4&gt;Import object ID&lt;/g4&gt;, &lt;g5&gt;Import object ID Name&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T121809Z" creationid="kunes" creationdate="20220512T121809Z">
+        <seg>Electronic invoicing – the difference only in how the invoice is sent.</seg>
       </tuv>
     </tu>
     <tu>
