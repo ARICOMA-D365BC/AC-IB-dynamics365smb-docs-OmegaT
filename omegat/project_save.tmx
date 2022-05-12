@@ -3243,6 +3243,16 @@ The approval request can be approved using the function - &lt;g4&gt;Related/Post
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x3/&gt;Navigovat&lt;x4/&gt;
+Pomocí funkce &lt;g5&gt;Související doklady pošty&lt;/g5&gt; nebo funkce &lt;g6&gt;Zobrazit Související položky&lt;/g6&gt; v rámci Navigace se zobrazí detailní přehled všech souvisejících dokladů k vybrané kartě evidence pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084605Z" creationid="kunes" creationdate="20220512T084605Z">
+        <seg>&lt;x3/&gt;Navigate&lt;x4/&gt;
+Using the &lt;g5&gt;Mail Related Documents&lt;/g5&gt; function or the &lt;g6&gt;View Related Items&lt;/g6&gt; function within Navigation, you will see a detailed overview of all related documents for the selected mail records tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x3/&gt;Objednávky kontaktu&lt;x4/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T083758Z" creationid="kunes" creationdate="20220512T083758Z">
@@ -12091,6 +12101,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124423Z" creationid="kunes" creationdate="20220401T124423Z">
         <seg>Run the New action to create a new document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Standardní funkce &lt;g1&gt;Navigovat&lt;/g1&gt; zobrazí kartu evidence pošty a &lt;g2&gt;Související doklady pošty&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T084534Z" creationid="kunes" creationdate="20220512T084534Z">
+        <seg>The standard &lt;g1&gt;Navigate&lt;/g1&gt; feature displays the Mail Records tab and &lt;g2&gt;the Related Mail Documents tab&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
