@@ -3207,6 +3207,16 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Odeslat požadavek ke schválení&lt;x3/&gt;
+Požadavek na schválení lze schválit pomocí funkce – &lt;g4&gt;Související/Pošta/Schvalování&lt;/g4&gt; a nebo jej zrušit pomocí funkce – &lt;g5&gt;Akce/Zrušit požadavek na schválení&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083019Z" creationid="kunes" creationdate="20220512T083019Z">
+        <seg>&lt;x2/&gt;Send request for approval&lt;x3/&gt;
+The approval request can be approved using the function - &lt;g4&gt;Related/Post/Approval&lt;/g4&gt; or cancelled using the function - &lt;g5&gt;Action/Cancel Approval Request&lt;/g5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x2/&gt;Připojené dokumenty&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T082617Z" creationid="kunes" creationdate="20220512T082617Z">
@@ -8647,6 +8657,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po spuštění funkce &lt;g1&gt;Vytvoř interakci&lt;/g1&gt; vznikne ke Kartě kontaktu odpovídající Položka protokolu interakce dle &lt;g2&gt;Nastavení šablon interakce&lt;/g2&gt; pro &lt;g3&gt;Příchozí&lt;/g3&gt; a &lt;g4&gt;Odchozí poštu (detailněji viz modul - Marketing)&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083140Z" creationid="kunes" creationdate="20220512T083140Z">
+        <seg>After select &lt;g1&gt;Create Interaction&lt;/g1&gt; function, the corresponding Interaction Log Entry is created for the Contact Card according to &lt;g2&gt;Interaction Template Setup&lt;/g2&gt; for &lt;g3&gt;Incoming&lt;/g3&gt; and &lt;g4&gt;Outgoing Mail (for more details, see module - Marketing)&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po spuštění funkce se vytiskne &lt;g1&gt;Předávací protokol svozu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112624Z" creationid="kunes" creationdate="20220411T112624Z">
@@ -9096,6 +9114,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113450Z" creationid="kunes" creationdate="20220411T113450Z">
         <seg>If the Shipping agent Code and Shipping agent Service Code fields are filled out on the sales order, you must enter the recipient's phone number and email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud karta pošty nebyla schválena nelze Vytvořit doklad.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T082914Z" creationid="kunes" creationdate="20220512T082914Z">
+        <seg>If the mail card has not been approved, you cannot create a document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14649,6 +14675,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125743Z" creationid="kunes" creationdate="20220427T125743Z">
         <seg>Create Fuel Journal – to record pumping items to the vehicle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření interakce</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083025Z" creationid="kunes" creationdate="20220512T083025Z">
+        <seg>Creating an interaction</seg>
       </tuv>
     </tu>
     <tu>
