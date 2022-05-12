@@ -10899,6 +10899,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pult dispečera umožňuje souhrnný pohled na zadané požadavky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T063434Z" creationid="kunes" creationdate="20220512T063434Z">
+        <seg>Dispatch Board allows a summary view of the specified requirements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Před odesláním výkazu DPH je vhodné ověřit, zda-li budou všechny reportované záznamy v pořádku z pohledu registrace k DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091142Z" creationid="kunes" creationdate="20220419T091142Z">
@@ -12171,6 +12179,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133722Z" creationid="kunes" creationdate="20220427T133722Z">
         <seg>This link is then used when creating purchase invoices for purchase statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato volba HelpDesku nabízí přehledové zobrazení požadavků s přednastavenými volitelnými filtry v záhlaví pro snadnější vyhledávání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071215Z" creationid="kunes" creationdate="20220512T071215Z">
+        <seg>This HelpDesk option offers an overview view of requests with preset optional filters in the header for easier searching.</seg>
       </tuv>
     </tu>
     <tu>
