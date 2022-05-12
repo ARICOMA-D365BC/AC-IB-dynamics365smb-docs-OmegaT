@@ -9774,6 +9774,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Požadavky lze filtrovat např. podle stavu, podle uživatele, zadavatele, řešitele či podle kategorií.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T071346Z" creationid="kunes" creationdate="20220512T071346Z">
+        <seg>Requests can be filtered, for example, by status, by user, responsible person, taskmaster or by category.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Požadavky lze zadávat ručně nebo prostřednictvím Průvodce vytvořením požadavku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T104142Z" creationid="kunes" creationdate="20220509T104142Z">
