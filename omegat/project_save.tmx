@@ -9065,6 +9065,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po importu modulu je třeba provést vytvoření Šablony evidence pošty na stránce – &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135245Z" creationid="kunes" creationdate="20220512T135245Z">
+        <seg>After installations of the module, it is necessary to create the Mail Record Templates on the page – &lt;g1&gt;Mail Record Templates&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po importu se na kartě &lt;g1&gt;XML schémata&lt;/g1&gt; objeví nový řádek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123840Z" creationid="kunes" creationdate="20220420T123840Z">
@@ -17589,6 +17597,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T134452Z" creationid="kunes" creationdate="20220427T134452Z">
         <seg>Drive Journal Template contains one line for each template, field:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šablony evidence pošty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T135131Z" creationid="kunes" creationdate="20220512T135131Z">
+        <seg>Mail Record Templates</seg>
       </tuv>
     </tu>
     <tu>
