@@ -8037,6 +8037,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Objednávky kontaktu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083526Z" creationid="kunes" creationdate="20220512T083526Z">
+        <seg>Contact orders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Objeví se &lt;g2&gt;průvodce&lt;/g2&gt;, pomocí kterého se ke konkrétní kartě vybere šablona (pokud jich je pro danou entitu definováno více než jedna), povinné a nepovinné parametry a nastaví se hodnoty těchto parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T122630Z" creationid="kunes" creationdate="20220405T122630Z">
@@ -9466,6 +9474,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T120448Z" creationid="kunes" creationdate="20220427T120448Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statements&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Objednávky kontaktu&lt;/g1&gt; si lze nechat zobrazit přehled Nákupních nebo Prodejních řádků a to podle typu Kontaktu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083623Z" creationid="kunes" creationdate="20220512T083623Z">
+        <seg>Use the &lt;g1&gt;Contact's Orders&lt;/g1&gt; feature to view an overview of Purchase or Sales Lines by Contact type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12463,6 +12479,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124122Z" creationid="kunes" creationdate="20220411T124122Z">
         <seg>This package contains data that is not downloaded from the Balíkobot API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento doklad lze otevřít standardní funkcionalitou Navigace, přes funkce – Navigace a nebo Související doklady pošty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083516Z" creationid="kunes" creationdate="20220512T083516Z">
+        <seg>This document can be opened by the standard Navigation functionality, via the navigation function or Mail Related documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16677,6 +16701,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Řádky jsou zafiltrované:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083629Z" creationid="kunes" creationdate="20220512T083629Z">
+        <seg>Rows are filtered:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Řádky zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105136Z" creationid="kunes" creationdate="20220407T105136Z">
@@ -16705,6 +16737,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092630Z" creationid="kunes" creationdate="20220428T092630Z">
         <seg>WorkFlow - State Management - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>řádky &lt;g1&gt;Nákupní objednávky&lt;/g1&gt; nebo &lt;g2&gt;Nákupní objednávky vratky&lt;/g2&gt; a to k zadanému číslu Dodavatele.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220512T083716Z" creationid="kunes" creationdate="20220512T083716Z">
+        <seg>&lt;g1&gt;Purchase order&lt;/g1&gt; or &lt;g2&gt;Purchase Return Order lines&lt;/g2&gt; to the specified Vendor number.</seg>
       </tuv>
     </tu>
     <tu>
