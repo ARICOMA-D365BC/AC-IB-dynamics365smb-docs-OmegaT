@@ -40,7 +40,7 @@ We have grouped the individual functionalities into the following packages.
 ### [AC Productivity Pack](../AC-ProductivityPack/ac-productivity-pack.md) - productivity extension
 - Electronic invoicing
 - Data boxes
-- Incoming Mail
+- Mail Record
 - General parameters
 - SharePoint publishing
 - Job Queue extension

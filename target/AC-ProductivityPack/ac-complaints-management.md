@@ -14,7 +14,7 @@ ms.author: v-makune
 Modul **Reklamace** slouží k evidenci reklamací zboží prodaného i nakoupeného. Umožňuje však také evidovat i reklamace interní. Lze sledovat proces reklamace od založení reklamace, evidenci jednotlivých stavů reklamace, vytváření řádků vyřízení a poskytuje také základní tisky k reklamaci a vyřízení reklamace. Modul je provázán na více úrovních se sledováním pomocí modulu Řízení stavů (workflow).
 
 ## Vytvoření nové Reklamace
-Po provedení potřebných nastavení lze vytvářet doklady **Reklamace**. Dokumenty lze vytvářet ručně a to, tak že:
+Po provedení potřebných nastavení lze vytvářet doklady **Reklamace**. Documents can be created manually by:
 
 1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled reklamací** a poté vyberte související odkaz.
 2. Na stránce **Přehled reklamací** vyberte ikonu **Nový**.
@@ -34,15 +34,15 @@ Z propojeného původního dokladu se předvyplní základní data – **Číslo
 ![Název](media/complaints-complaint_list.png)
 ### Poznámky k reklamaci
 
-Uživatelé mohou zadat řádkové poznámky dostupné jako funkce **Související/Reklamace/Poznámky**. Jedná se o Řádky poznámek na kartě požadavku – tyto strukturované poznámky obsahují pole Datum, Poznámka (100 znaků) a Kód.
+Uživatelé mohou zadat řádkové poznámky dostupné jako funkce **Související/Reklamace/Poznámky**. These are Request Comment Line on the request card—these structured notes contain the Date, Note (100 characters), and Code fields.
 
 ![Název](media/complaints-notes.png)
-### Dokumenty
+### Documents
 
 Pokud je instalován modul **Publikování SharePoint**, pak je možné u každé **Reklamace** pomocí funkce **Související/Dokumenty/Publikovat** publikovat dokument a pomocí funkce **Zobrazit** zobrazit publikovaný dokument *(detailněji viz. modul – SharePoint)*.
 
 ![Název](media/complaints-documents.png)
-### Tisk
+### Printing
 
 Pomocí funkce **Akce/Tisk/Reklamace** a **Akce/Tisk/Vyřízení reklamace** se spustí dvě základní sestavy pro zpracování reklamace a vyřízení reklamace (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku, rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.
 

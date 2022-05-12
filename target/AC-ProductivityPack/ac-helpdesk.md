@@ -9,117 +9,117 @@ Contentlocale: cs-cz
 
 # HelpDesk
 
-Modul Helpdesk slouží k centralizovanému zadávání, evidenci, zpracování a vyhodnocování různých požadavků uživatelů v systému Microsoft Dynamics 365 Business Central. Uživatelé zde mohou zadávat požadavky na servisní úkony, na poskytnutí podpory, úpravu nebo doplnění funkcionality, evidovat reklamace a podobně. Umožňuje také kategorizaci požadavků, nastavení priorit a řízené zpracování přiřazenými řešiteli. K dispozici je i historie uzavřených požadavků HelpDesku.
+The Helpdesk module is used for centralized entry, registration, processing and evaluation of various user requests in Microsoft Dynamics 365 Business Central. Users can enter requests for service operations, for providing support, modifying or supplementing functionality, register complaints and so on. It also allows you to categorize requests, set priorities, and manage processing by assigned solvers. There is also a history of closed HelpDesk requests.
 
-## Založení požadavku
+## Creating a request
 
-Po provedení potřebných nastavení lze zadávat požadavky HelpDesku. Požadavky lze zadávat ručně nebo prostřednictvím Průvodce vytvořením požadavku. Povinnost použití průvodce lze definovat v **Nastavení helpdesku** zaškrtnutím políčka **Nový helpdesk pomocí průvodce**. Pro více informací o nastavení HelpDesku navštivte [HelpDesk - Nastavení](ac-helpdesk-setup.md).
+After making the necessary settings, you can enter HelpDesk requests. You can make requests manually or through the Wizard. You can define whether to use the wizard in **Help Desk Settings** by selecting the **New Helpdesk with Wizard** check box. For more information about setting up a HelpDesk, visit [HelpDesk - Setup](ac-helpdesk-setup.md).
 
-### Založení požadavku pomocí Průvodce vytvořením požadavku
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nový požadavek** a poté vyberte související odkaz.
-2. Prvním krokem v průvodci je určení **Kódu zadavatele** a **Priority požadavku**. (Obě pole jsou povinná - nelze pokračovat bez vyplnění obou hodnot.)
-3. Dalším krokem je zadání **stručného popisu požadavku** (nadpis) a **popisu požadavku**.
-4. Pak je možné zvolit nastavení do předem definovaných kategorií (1-3). Po vhodném výběru klikněte na možnost **Dalsí**.
-5. V dalším kroku průvodce se nachází volba **Publikovat dokumenty**. Po výběre této možnosti se automaticky spustí průvodce publikováním. Publikování dokumentu vyžaduje modul **Publikování SharePoint**.
-6. Posledím krokem je tlačítko **Dokončit**, pomocí kterého vytvoříte zadaný požadavek.
+### Create a request by using the Request Wizard
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **New Request** and then choose the related link.
+2. The first step in the wizard is to specify **Taskmaster Code** and **Request Priority**. (Both fields are required - you cannot continue without filling in both values.)
+3. The next step is to enter **Request Short Description** (title) and **Request Description** of the request.
+4. Then it is possible to choose settings to predefined categories (1-3). Once you have made a suitable selection, click **Next**.
+5. In the next step of the wizard, you will find the **Publish Documents** option. When you select this option, the Publish Wizard starts automatically. Publishing a document requires **SharePoint Publishing** module.
+6. The last step is the **Finish** button, which you use to create the specified request.
 
-## Požadavky Helpdesku
-Přehled helpdesk požadavků lze zobrazit následovně:
+## Helpdesk Requests
+The list of helpdesk requests can be viewed as follows:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Seznam helpdesk požadavků** a poté vyberte související odkaz.
-2. Pokud klikněte na **Číslo požadavku** v seznamu požadavků, zobrazí se příslušná karta požadavku.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Helpdesk Request List** and then choose the related link.
+2. If you click **Request number** in the list of requests, the appropriate request tab is displayed.
 
-Karta helpdesk požadavku zobrazuje relevantní informace vztahující se ke zvolenému požadavku. Údaje v bílých polích lze editovat (např. je možné doplnit prioritu dispečera, upravit data odezvy či řešení, event. změnit zařazení do kategorií na záložce Kategorie).
+The Helpdesk Request Card displays relevant information related to the selected request. The data in the white fields can be edited (e.g. it is possible to add the priority of the dispatcher, edit the data of the response or solution, or change the classification into categories on the Categories tab).
 
-Požadavek lze také přidělit k určitému projektu. Pokud příslušný projekt ještě neexistuje je možné jej vytvořit přímo z karty požadavku na záložce **Akce** pomocí tlačítka **Vytvoř projekt**. Touto operací je založen nový projekt se stejným kódem jako je číslo požadavku (i se stejným popisem) a tento kód se automaticky doplní do pole **Číslo projektu**.
+A requirement can also be assigned to a specific job. If the project does not already exist, you can create it directly from the request tab on the **Actions** tab by using the **Create Job** action. This operation creates a new project with the same code as the request number (even with the same description), and this code is automatically added to the **Job number** field.
 
-Na záložce **Řádky** se po založení požadavku objeví nový záznam s výchozím stavem podle definice v šabloně Řízení stavů pro helpdesk. Při každé další změně stavu požadavku se, v případě že máte pro tento stav nastavenu **Akci Řízení stavů logování** (52068291 WriteStatusChangeHlpDesk), vygeneruje další řádek s odpovídajícími hodnotami (viz podrobnější popis níže u zpracování požadavku).
+On the **Lines** page, after creating a request, a new record appears with the default state as defined in the Helpdesk Status Management template. Each time the request state changes, if you have the **Log Status Control action** set for this state (52068291 WriteStatusChangeHlpDesk), an additional line with the corresponding values is generated (see a more detailed description below for request processing).
 
-### Poznámky k požadavku
+### Request Comments
 
-Ke každému vytvořenému požadavku je možné doplnit poznámky. První vstup do poznámek je možný už při vytváření požadavku v Průvodci, jak bylo popsáno výše.
+It is possible to add Comment Lines to each created request. The first entry into notes is possible when you create a request in the wizard, as described above.
 
-Uživatelé mohou využívat 2 formy poznámek:
-- **Řádkové poznámky** - dostupné na záložce Řádky poznámek – tyto strukturované poznámky obsahují pole Datum, Poznámka (100 znaků) a Kód.
-- **Volné poznámky** - dostupné na záložce Detailní popis – tyto poznámky umožňují zadávat libovolný text, který může být navíc zobrazen v informačním okně v záložce Detaily.
+Users can use 2 forms of notes:
+- **Comment Line** - available on the Note Lines tab - These structured notes contain date, Note (100 characters), and Code.
+- **Free notes** - available on the Detailed Info tab - these notes allow you to enter any text, which can also be displayed in the information window in the Details tab.
 
-![Helpdesk - detailní popis](media/HD_detail_description.png)
+![Helpdesk - detailed description](media/HD_detail_description.png)
 
-Je na rozhodnutí správce, která forma poznámek bude v rámci celé firmy využívána.
+It is up to the administrator to decide which form of notes will be used throughout the company.
 
-### Dokumenty
+### Documents
 
-Pokud je instalován modul **Publikování SharePoint**, pak je možné u každého požadavku v Přehledu HelpDesk požadavků na záložce **Akce** pomocí tlačítka **Publikovat** publikovat dokument a pomocí tlačítka **Zobrazit** zobrazit publikovaný dokument.
+If **the SharePoint Publishing** module is installed, then it is possible to publish a document for each request in the HelpDesk Request on the **Actions** tab using the **Publish** button and **View** for view the published document.
 
-Pro více informací o publikování dokumentů navštivte [Publikování SharePoint](ac-sharepoint-publisher.md)
+For more information about publishing documents, see [Publish SharePoint](ac-sharepoint-publisher.md)
 
-![Helpdesk - Publikování SharePoint](media/HD_sharepoint.png)
+![Helpdesk - SharePoint publishing](media/HD_sharepoint.png)
 
-### Tisk
+### Printing
 
-Po kliknutí na akci **Reporty** a pak **Tisk** v Přehledu HelpDesk požadavků se spustí sestava Helpdesk požadavky (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku). Rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.
+Clicking on the **Reports** and then **Print** action in the HelpDesk Requests Overview launches the Helpdesk Requests report (the number of the currently displayed request is offered in the input filter). The print range can then be specified in more detail through filters and parameters.
 
-## Zpracování požadavku
+## Processing of requests
 
-Po vytvoření požadavku je možné jej dále zpracovávat. K tomu se na Kartě helpdesk požadavku využívá především záložka **Řešení požadavku** nebo funkce **Změna stavu** požadavku.
+Once a request has been created, it can be further processed. To do this, the **Processing** tab or the **Request Status Change** Function is used on the Helpdesk Request Card.
 
-### Řešení
+### Solutions
 
-Při zpracování HelpDesk požadavku se na kartě požadavku na záložce Zpracování vyplní příslušné údaje, především **Kód řešení**, **Trvání**, **Popis zpracování** (max. 250 znaků) a **Kód další zodpovědné osoby**. Kód řešení se vybírá z předdefinované tabulky možných způsobů řešení ze stránky **Řešení**.
+When processing a HelpDesk request, the relevant data is filled in on the request card on the Processing tab, in particular **Solution Code**, **Duration**, **Processing Description** (max. 250 characters) and **Code of the next responsible person**. The solution code is selected from a predefined table of possible solutions from the **Solutions** page.
 
-Délka **Trvání** se zadává ve dnech, hodinách, minutách, sekundách, příp. milisekundách, a to buď přímo vypsáním čísla a jednotky (lze použít zkratku počátku slova – např. d=den, m=minuta, mil=milisekunda apod.) nebo zadáním pouze čísla, které je interpretováno jako údaj v hodinách. Např. údaj 28,35 je převeden na 1 den 4 hodiny 21 minuty.
+**Duration** is entered in days, hours, minutes, seconds, or milliseconds, either directly by writing out the number and unit (you can use the abbreviation of the beginning of the word – e.g. d=day, m=minute, mil=millisecond, etc.) or by entering only a number that is interpreted as an hourly figure. For example, the figure of 28.35 is converted to 1 day 4 hours 21 minutes.
 
 ### Status change
 
-Pokud máte správně zadané informace na záložce Řešení múžete pro přechod do další fáze řešení požadavku stisknout funkci **Proces → Změna stavu**.
+If you have correctly entered the information on the Solution tab, you can press the function **Process → Change status**to go to the next phase of solving the request.
 
-Zobrazí se dialogové okno s dalšími stavy řízení stavů, které podle definice filtru dalšího stavu připadají v úvahu.
+A dialog box appears with additional state control states that are considered according to the additional state filter definition.
 
-Po dokončení operace je aktualizován **Kód stavu Řízení stavů** na záložce Obecné na kartě požadavku. Pokud je ve zvoleném stavu řízení stavů nastavena akce řízení stavů s přiřazenou codeunitou 52068291 – WriteStatusChangeHlpDesk, přičte se hodnota trvání do celkové doby trvání na záložce Obecné a vygeneruje se další řádek do položek helpdesk požadavku, který zobrazuje historii průběhu řešení - datum, řešitel, kód řešení, popis, trvání.
+When the operation is complete, **the Status Control status code** is updated on the General tab of the request tab. If a status control action with assigned codeunit 52068291 – WriteStatusChangeHlpDesk, is set in the selected state control state, the duration value is added to the total duration on the General tab and another line is generated to the request helpdesk items, which displays the history of the solution progress - date, solver, solution code, description, duration.
 
-## Pult dispečera
+## Helpdesk Dispatch Board
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Pult dispečera helpdesku** a poté vyberte související odkaz.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Helpdesk Dispatch Board**, and then select the related link.
 
-- Pult dispečera umožňuje souhrnný pohled na zadané požadavky. Tato volba HelpDesku nabízí přehledové zobrazení požadavků s přednastavenými volitelnými filtry v záhlaví pro snadnější vyhledávání. Požadavky lze filtrovat např. podle stavu, podle uživatele, zadavatele, řešitele či podle kategorií. Zobrazený přehled požadavků je možno navíc seřadit podle různých klíčů, zvl. podle čísla, priority, stavu workflow nebo kategorií.
+- Dispatch Board allows a summary view of the specified requirements. This HelpDesk option offers an overview view of requests with preset optional filters in the header for easier searching. Requests can be filtered, for example, by status, by user, responsible person, taskmaster or by category. In addition, the displayed list of requirements can be sorted by different keys, especially by number, priority, workflow status or categories.
 
-![Helpdesk - Pult dispečera](media/HD_dispatch_board.png)
+![Helpdesk - Helpdesk Dispatch Board](media/HD_dispatch_board.png)
 
-2. V řádcích vyberte konkrétní požadavek.
-3. Klikněte na funkci **Proces** a pak **Karta** aby jste zobrazili kartu daného požadavku.
+2. In the rows, select a specific request.
+3. Click **Process**, and then **Card** to display the tab for the request.
 
-## Priorita požadavku
+## Request Priorities
 
-Jedním z nejdůležitějších kritérií pro rozhodování o plánování a koordinaci kapacit na řešení požadavků je stupeň naléhavosti, s jakou je nutno se tím kterým požadavkem zabývat. Významnou pomůckou dispečera v tomto procesu může být ukazatel celkové priority požadavku, jak byl vypočítán programem na základě vstupních parametrů:
+One of the most important criteria for deciding on the planning and coordination of capacities to address requirements is the degree of urgency with which a particular requirement must be addressed. An important aid to the dispatcher in this process can be an indicator of the overall priority of the request, as calculated by the program based on the input parameters:
 
-- Váha oprávněné osoby, tj. zadavatele požadavku
-- Priorita požadavku stanovená zadavatelem při vytváření
-- Priorita požadavku stanovená dispečerem helpdesku při event. následném přehodnocení důležitosti požadavku.
+- Weight of the beneficiary, i.e. the taskmaster of the request
+- Request priority set by the taskmaster when creating
+- Priority of the request set by the helpdesk dispatcher during any subsequent reassessment of the request's importance.
 
-### Celková priorita je vypočtena jako:
-- součin hodnot **Váha zadavatele** (hodnota na kartě příslušné oprávněné osoby) a **Priorita požadavku** stanovené zadavatelem pokud dispečer nestanoví jinou prioritu (tj. priorita dispečera je nevyplněna).
-- součin hodnot **Váha** zadavatele a **Priorita** požadavku stanovené dispečerem (tj. priorita dispečera je vyplněna).
+### The overall priority is calculated as:
+- the product of **Taskmaster weight** (the value on the appropriate authorized person card) and **Request priority** set by the sponsor unless the dispatcher sets a different priority (i.e., the dispatcher priority is blank).
+- the product of **Weight** of the requestor and **Priority** of the request set by the dispatcher (i.e. the dispatcher's priority is filled).
 
-## Sestavy
+## Reports
 
-Nabídka tiskových sestav přiřazených modulu HelpDesk:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Helpdesk požadavky (sestavy a analyzy)** a poté vyberte související odkaz.
-2. Podle zadaných filtrů se vytisknou jednotlivé karty požadavků, zpožděné požadavky a seznam helpdesk požadavků.
+Menu of print reports assigned to the HelpDesk module:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Helpdesk Requests (Reports and Analysis)** and then choose the related link.
+2. According to the specified filters, individual request cards, delayed requests and a list of helpdesk requests are printed.
 
-## Zobrazení uzavřetých požadavků
+## View closed requests
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled uzavřených helpdesk požadavků** a poté vyberte související odkaz.
-2. Zobrazí se stránka, která obsahuje seznam už vyřízených helpdesk požadavků.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Helpdesk Closed Request List** and then choose the related link.
+2. A page will appear that contains a list of already completed helpdesk requests.
 
-- Požadavky jsou uzavírány automaticky prostřednictvím nastavovaných stavů Řízení stavů po přechodu do jednoho z konečných stavů.
+- Requests are closed automatically through the Status Control states set after the transition to one of the final states.
 
-## Export HelpDesk požadavků
+## Export HelpDesk requests
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Export helpdesk požadavků** a poté vyberte související odkaz.
-2. Vyplnit vstupní filtry reportu.
-   - Číslo, Nový požadavek, Uzavřený požadavek
-3. Export požadavku potvrďte pomocí tlačítka **OK**.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Export Helpdesk Requests** and then choose the related link.
+2. Fill in the report input filters.
+   - Number, New Request, Closed Request
+3. Confirm the export of the request with the **OK** button.
 
 ## See also
-[HelpDesk - nastavení](ac-helpdesk-setup.md)  
+[HelpDesk - Setup](ac-helpdesk-setup.md)  
 [AC Productivity Pack](ac-productivity-pack.md)

@@ -31,10 +31,10 @@ The function of the checked table extends the functionality of the State Managem
 
 The Status Management status is then allowed to be changed only if all checks within the scanned tables match. Practical uses may include the following:
 
-- If Status Management is used on a voucher with headers and lines, such as a Sales Order, you can check whether there are any lines or lines of any type or content for the header. For example, that the order contains at least one line with the item, or that it has a price or location or global dimension filled in on all lines.
+- If Status Management is used on a voucher with headers and lines, such as a Sales Order, you can check whether there are any lines or lines of any type or content for the header. For example, that the order contains at least one line with the goods, or that it has a price or location or glob filled in on all lines.
 - It is possible to check whether the source record for any field in the table with the used Status Management contains the necessary data in other fields - eg if the Vendor code field is filled in the document header, then it checks whether this seller has filled in the email.
 
-![WorkFlow - Checked Tables](media/workflow_tables.png " WorkFlow - Checked Tables")
+![WorkFlow - Linker Tables](media/workflow_tables.png " WorkFlow - Linker Tables")
 
 ## See also
 

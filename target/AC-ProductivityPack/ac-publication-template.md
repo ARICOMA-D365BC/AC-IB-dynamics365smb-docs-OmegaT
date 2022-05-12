@@ -10,20 +10,20 @@ ms.workload: na
 ms.search.keywords: Czech, Publication template, additional functions
 ms.author: v-makune
 ---
-# Publikační šablony
+# Publishing templates
 
-Add-on modul **Publikační šablony** je rozšiřující modul k Publikování Sharepoint. Rozšiřuje možnosti publikování o nástroje k větší kontrole a řízení publikace dokumentů. Umožňuje navíc:
+**Publishing templates** add-on module is an extension module to Sharepoint Publishing. Extends publishing capabilities with tools to further control and control document publication. In addition, it allows:
 
-- definovat metadata (parametry) publikovaných dokumentů z více zdrojů
-- definovat automaticky generovaný strukturovaný název souboru pro publikaci
-- definovat způsob plnění polí na kartě dokumentu v Business Central
-- řídit výběr knihovny dle místa publikace a uživatele
-- definovat povolené typy souborů pro publikaci do knihovny
-- publikovat výstupy sestav Business Central
-- hromadnou evidenci – více vazeb v jedné publikaci
+- define metadata (parameters) of published documents from multiple sources
+- define an automatically generated structured file name for the publication
+- define how fields on a document card are populated in Business Central
+- manage the selection of the library according to the place of publication and the user
+- define allowed file types for publishing to the library
+- publish outputs of Business Central reports
+- bulk registration - multiple links in one publication
 
 
 **See also**
 
-[Publikační šablony - nastavení](ac-publication-template-setup.md)  
+[Publishing templates - Setup](ac-publication-template-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -35,7 +35,7 @@ Samotné použití spočívá ve správném nastavení a spuštění synchroniza
 Synchronizace probíhá buď automaticky při změnách v definovaných datových tabulkách nebo ji můžete spustit ručně.
 
 Pro ruční spuštění postupujte dle následujícího postupu:
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení centrální databáze** a klikněte na související odkaz.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Setup** and then choose the related link.
 1. Otevře se stránka **Nastavení centrální databáze**, kde můžete zvolit **Akce** a funkci **Synchronizovat**.
 
 Při ruční synchronizaci lze pomocí filtrů přesně specifikovat, jaké tabulky, odkud a kam se mají aktuálně synchronizovat. Tato volba se uplatňuje hlavně při synchronizaci již existujících dat do nových systémů (migrace a parametrizace).

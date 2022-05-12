@@ -12,12 +12,12 @@ ms.author: v-makune
 ---
 # SharePoint publishing
 
-Add-on modul **Publikování SharePoint** umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat dokumenty v centrálním datovém úložišti SharePoint, souborovém systému či databázi Dynamics 365 Business Central a propojit je se záznamy v tabulkách informačního systému. Připojené publikované dokumenty lze přímo ze systému Dynamics 365 Business Central otevřít v asociované aplikaci. Modul tak výrazně rozšiřuje informační hodnotu a možnost využití záznamů v systému Dynamics 365 Business Central. Praktickým využitím této technologie je připojení produktových informací ke kartám zboží nebo obchodních dokumentů (např. smluv) ke kartám dodavatelů či zákazníků.
+The **SharePoint Publishing** add-on module allows you to publish documents in the SharePoint central data store, file system or Dynamics 365 Business Central database directly from the Dynamics 365 Business Central environment and link them to the records in the information system tables. Attached published documents can be opened directly from Dynamics 365 Business Central in an associated application. The module thus significantly expands the information value and the possibility of using records in dynamics 365 Business Central. A practical use of this technology is to connect product information to goods cards or business documents (e.g. contracts) to supplier or customer cards.
 
 ![Sharepoint](media/sharepoint.png "Sharepoint")
 
 
 **See also**
 
-[Publikování SharePoint - nastavení](ac-sharepoint-publisher-setup.md)  
+[SharePoint Publishing - Setup](ac-sharepoint-publisher-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -24,7 +24,7 @@ Na stránce **Nastavení reklamací** je třeba v záložce **Číslování** vy
 Číselnou řadu si musíme připravit, pokud jsme tak ještě neudělali. Číselná řada se tvoří stejným způsobem jako pro jiné agendy:
 
 1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **No. Series** and then choose the related link.
-2. Na stránce **Číselná řada** klikněte na funkci **Nový** a vytvořte novou číselnou řadu.
+2. On the **Number Series** page, click **New** to create a new number series.
 3. Zadejte **Kód**, **Popis** a **Počáteční číslo** číselné řady.
 4. Zaškrtněte políčko **Výchozí čísla** pro automatické vyplňovaní čísel při zadávaní nových požadavků.
 
@@ -79,7 +79,7 @@ Nejprve je třeba nastavit šablonu řízení stavů *(detailněji viz. modul - 
 
 ### Nastavení řízení stavů pro Reklamace
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení řízení stavů** a poté vyberte související odkaz.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Status Control Settings**, and then select the related link.
 2. Na stránce **Nastavení řízení stavů** zadejte do pole **Číslo tabulky** číslo 52068271, které označuje tabulku Hlavička reklamace.
 3. V poli **Šablony Řízení stavů** vyberte příslušnou šablonu pro řízení stavů pro Reklamace.
    ![Nastavení řízení stavů](media/complaints-status_mgt._setup.png)

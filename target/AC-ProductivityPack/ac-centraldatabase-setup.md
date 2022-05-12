@@ -11,104 +11,104 @@ ms.search.keywords: klicova slova,
 ms.date: 05/05/2021
 ms.author: AC MartinKunes
 ---
-# [přibližně]<g1>Settings - Central Database</g1>
+# Settings - Central Database
 
-## Nastavení Centrální databáze
-
-
-Pro základní nastavení centrální databáze pokračujte podle následujícícho postupu:
-
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení centrální databáze** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení centrální databáze**, kde nastavíte následující pole:
-   - **ID Systému** – slouží k identifikaci systému - název firmy, jak bude používán v oblasti komunikací (důležité je správné nastavení tohoto názvu i v ostatních kooperujících firmách).
-   - **ID systému centrální databáze** – název firmy, která slouží jako řídící pro komunikačně-synchronizační proces. Tato firma stanovuje nastavení pro “podřízené” firmy. Jedna firma může přijímat nastavení od centrální databáze a zároveň být sama centrální databází pro jiné firmy = v systému může být více centrálních databází.
-   - **Centrální databáze** – interně používané pole určující, zda je firma sama centrální databází. Nastavení je zásadní pro rozhodování o zasílání synchronizovaných dat a o kontrolách.
-   - **Typ procesu** – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (*viz nastavení spooleru*). Tento kód je součástí XML dokumentu a na jeho základě se rozeznává, zda dokument může počkat se zpracováním.
-   - **Typ procesu – okamžitá odpověď** – nastavení kódu, který odpovídá kódu uvedenému v nastavení úloh spooleru v poli Process Type (*viz nastavení spooleru*). Tento kód je součástí XML dokumentu a na jeho základě se rozeznává, zda se dokument musí ihned zpracovat a odeslat odpověď.
-1. Po vyplnění polí stránku zavřete.
+## Central Database Settings
 
 
-## Nastavení Cílových systémů
+For basic setup of the central database, proceed as follows:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Cílové systémy** a klikněte na související odkaz.
-1. Otevře se stránka **Cílové systémy**, kde vyplníte následující pole:
-   - **ID** – kód firmy pro komunikaci (musí být shodný v celém komunikačním řetězci)
-   - **Popis** – orientační popis k dané firmě
-   - **Název databáze** – název databáze, ve které se firma nachází
-   - **Název firmy** – správný název firmy uvedený jako jméno firmy v její databázi (může být odlišné od kódového označení)
-1. Po vyplnění polí stránku zavřete.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Setup** and then choose the related link.
+1. The **Central Database Setup** page opens, where you set the following fields:
+   - **System ID** – used to identify the system - the name of the company as it will be used in the field of communications (it is important to set this name correctly in other cooperating companies).
+   - **Central Database System ID** – the name of the company that serves as the controller for the communication-synchronization process. This company sets settings for "subordinate" companies. One company can receive settings from the central database and at the same time be the central database for other companies = there can be multiple central databases in the system.
+   - **Central Database** – an internally used field that determines whether the company is itself a central databas The setting is crucial for decisions about sending synchronized data and about checks.
+   - **Process type** set up the code that corresponds to the code specified in the spooler task settings in the Process Type field (*see Spooler Setup*). This code is part of the XML document and is used to determine whether the document can wait for processing.
+   - **Process Type - setting of the code that corresponds to the code specified in the spooler task settings in the Process Type field (*see Spooler settings*). This code is part of the XML document and uses it to identify whether the document must be processed immediately and a response sent.
+1. After you fill in the fields, close the page.
 
-## Nastavení tabulky centrální databáze
 
-Aplikace umožňuje synchronizovat jednotlivé tabulky a jejich vybraná pole, lze  synchronizovat i pouze data spadající do určitého filtru. Synchronizace může být nezávislá a různá pro několik firem.
+## Set up Destination Systems
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení tabulky centrální databáze** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení tabulky centrální databáze**, kde vyplníte následující pole:
-   - **Vypnuto** – toto pole umožňuje dočasně vypnout synchronizaci při ponechání nastavení. Používá se hlavně při řešení kolizí nebo hromadném zpracování centralizovaných dat (importy, přejmenování atd.).
-   - **Priorita** – je možno nastavit pořadí pro odesílání k synchronizaci.
-   - **ID centrální databáze** – ID systému, který řídí synchronizaci dané tabulky. Pokud se toto ID nerovná ID systému firmy, ve které se nacházíme, nelze záznam měnit.
-   - **Číslo tabulky** – číslo objektu datové tabulky v systému. Tabulku lze vybrat z číselníku všech tabulek. Synchronizace některých tabulek je z hlediska systému nesmyslná nebo může způsobit kolizi.
-   - **Název tabulky** – toto pole se vyplní automaticky dle nastavení pole Číslo tabulky.
-   - **ID** – nezávislý kód, který je součástí primárního klíče a umožňuje nastavit rozdílné synchronizace pro jednu tabulku (např. pokud chci mít rozdíl v nastavení pro 2 firmy, kde u jedné chci povolit změnu určitých dat a u druhé nikoliv). Tento kód nemá další vazbu v systému a uživatel si ho může nastavit, jak chce (jméno firmy, skupina firem, typ synchronizace atd.).
-   - **Typ synchronizace** – tato volba nabývá dvou hodnot – Push a Pull. Význam této volby je při zakládání nových dat do systému (změna dat a mazání dat jsou posílány vždy automaticky).
-   - **Push** – volba znamená, že v případě změny dat jsou tato data ihned zaslána do podřízených systému a tam updatována (data jsou “tlačena”).
-   - **Pull** – tato volba znamená, že nově vytvořená data nejsou zasílána ihned do podřízených systémů, ale uživatel si sám může “sáhnout” do centrální databáze a vybrat si, které data z centrály chce ve svém systému (data jsou “tahána”).
-   - **Pole** – tato volba určuje, zda se synchronizují některá nebo všechna pole (toto pole má návaznost na funkcionalitu nastavení synchronizovaných polí, viz níže).
-   - **Povol změnu** – pole určuje, zda uživatel v podřízené databázi může změnit hodnotu polí v daném záznamu (kontrola na synchronizovaných polích).
-   - **Povol vložit** – pole určuje, zda uživatel v podřízené databázi může založit nový záznam v synchronizované tabulce.
-   - **Synchronizovat po** – pole je využíváno pro optimalizaci přenosu dat a vytížení systému; lze vybrat z hodnot Limitovaný počet záznamů a Všechny záznamy.
-   - **Limit záznamů** – pole je využíváno pro optimalizaci přenosu dat a vytížení systému.
-   - **Maximální počet záznamů v odpovědi** – pole je využíváno pro optimalizaci přenosu dat a vytížení systému; systém omezuje počet záznamů zasílaných jako odpověď z centrální databáze při dotazech na synchronizovaná data.
-1. Po vyplnění polí stránku zavřete.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Destination Systems** and then choose the related link.
+1. The **Destination Systems** page opens, where you fill in the following fields:
+   - **ID** – company code for communication (must be identical in the whole communication chain)
+   - **Description** – an indicative description of the company
+   - **Database name** – the name of the database in which the company is located
+   - **Company name** – the correct company name listed as the company name in its database (may be different from the codename)
+1. After you fill in the fields, close the page.
 
-## Ostatní nastavení
-Po základním nastavení addonu Centrální databáze je potřeba nastavit další oblasti. Jedná se o konkrétní nastavení polí tabulek centrální databáze.
+## Central Database Table Setup
 
-### Nastavení polí centrální databáze
+The application allows you to synchronize individual tables and their selected fields, you can also synchronize only the data falling into a particular filter. Synchronization can be independent and different for several companies.
 
-Nastavení slouží k definici, která konkrétní pole dané tabulky a jakým způsobem chceme synchronizovat.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Table Setup** and then choose the related link.
+1. The **Central Database Table Setup** page opens, where you fill in the following fields:
+   - **Disabled** – his field allows you to temporarily turn off sync while leaving the settings. It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.).
+   - **Priority** – you can set the order for sending to sync.
+   - **Central DB ID** – The ID of the system that controls the synchronization of the table. If this ID does not equal the system ID of the company in which we are located, the record cannot be changed.
+   - **Table No.** – The number of the data table object in the system. The table can be selected from the code list of all tables. Synchronizing some tables is meaningless from the point of view of the system or may cause a collision.
+   - **Table Caption** – is field is filled in automatically according to the table number field setting.
+   - **ID** – independent code that is part of the primary key and allows you to set different synchronizations for one table (eg if I want to have a difference in the settings for 2 companies, where I want to allow some data to change and the other not). This code has no other link in the system and the user can set it as he wants (company name, group of companies, type of synchronization, etc.).
+   - **Synchronization type** – this option takes two values – Push and Pull. The importance of this option is when creating new data into the system (changing data and deleting data are always sent automatically).
+   - **Push** – option means that in the event of a change in the data, this data is immediately sent to the subordinate systems and updated there (the data is "pushed").
+   - **Pull** – this option means that the newly created data is not sent immediately to subordinate systems, but the user can "reach" into the central database and choose which data from the headquarters he wants in his system (the data is "pulled").
+   - **Fields** – this option determines whether some or all fields are synchronized (this field is related to the functionality of setting synchronized fields, see below).
+   - **Allow Modify** – The field determines whether the user in the child database can change the value of the fields in the given record (checking on synchronized fields).
+   - **Allow Insert** – the field determines whether the user in the child database can create a new record in the synchronized table.
+   - **Synchronize By** – the field is used to optimize data transfer and system load; can be selected from the Limited number of records and All records values.
+   - **Records limit** – the field is used to optimize data transfer and system load.
+   - **Max Query Answer Records** – the field is used to optimize data transfer and system load; the system limits the number of records sent in response from the central database when querying synchronized data.
+1. After you fill in the fields, close the page.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení tabulky centrální databáze** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení tabulky centrální databáze**, kde vyberte řádek s odpovídající tabulkou.
-1. Vyberete možnost **Související**, dále **Nastavení** a vyberete funkci **Pole**, kde vyplňte náledující pole dle potřeby:
-   - **Číslo pole** – číslo je vybíráno z objektu dané tabulky a je jednoznačnou identifikací pole v celém systému (spolu s číslem tabulky). Při změnách v systému se čísla polí nemění.
-   - **Titulek pole** – toto pole se vyplní automaticky dle nastavení pole Číslo pole.
-   - **Povol změnu** – pole určuje, zda uživatel v podřízené firmě může měnit hodnotu tohoto konkrétního pole.
-   - **Pole primárního klíče** – pole je používáno interně, systém hodnotu nastavuje  sám. Pole s tímto označením je povinně synchronizováno vždy
-   - **Nevalidovat** – pole určuje, zda po synchronizace tohoto pole nastane tzv. validační proces (spuštění funkcí souvisejících se změnou hodnoty pole). Toto pole musí nastavovat velmi zkušený uživatel systému, špatné nastavení způsobí kolizní situace.
-1. Po vyplění polí stránku zavřete.
+## Other settings
+After the basic setting of the Central Database addon, it is necessary to set up additional areas. These are specific field settings for the central database tables.
 
-### Nastavení příjemců centrální databáze
+### Set up Central Database Fields
 
-Nastavení slouží v definování komunikace pro konkrétní záznam z nastavení synchronizace tabulek (jak bylo popsáno výše, jedna tabulka může být synchronizována pro různé firmy různým způsobem).
+The settings are used to define which specific fields of a given table and how we want to synchronize.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení tabulky centrální databáze** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení tabulky centrální databáze**, kde vybere řádek s odpovídající tabulkou.
-1. Vyberete možnost **Související**, dále **Nastavení** a vyberete funkci **Příjemci**, kde vyplňte náledující pole dle potřeby:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Table Setup** and then choose the related link.
+1. The **Central Database Table Setup** page opens, where you select the row with the corresponding table.
+1. Select **Related**, then **Setup** and select **Fields**, feature to fill in the following fields as needed:
+   - **Field No.** – the number is selected from the object of the given table and is a unique identification of the field throughout the system (together with the table number). When changing in the system, the field numbers do not change.
+   - **Field Caption** – This field is filled in automatically according to the field number field setting.
+   - **Allow Modify** – The field determines whether a user in a child business can change the value of this particular field.
+   - **Primary Key Field** – the field is used internally, the system sets the value itself. A field with this designation is always required to be synchronized
+   - **Do Not Validate** – field determines whether the so-called validation process (execution of functions related to changing the value of the field) occurs after the synchronization of this field. This field must be set by a very experienced user of the system, the wrong setting will cause collision situations.
+1. After the fields are filled out, close the page.
 
-   - **Vypnuto** – toto pole umožňuje dočasně vypnout synchronizaci při ponechání nastavení. Používá se hlavně při řešení kolizí nebo hromadném zpracování centralizovaných dat (importy, přejmenování atd.).
-   - **ID cílového systému** – vazba do nastavení cílových systémů. Kód určuje, která firma bude příjemcem synchronizovaných dat při události.
-   - **Filtr synchronizace tabulky** – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data se budou synchronizovat (pouze data spadající do filtru).
-   - **Filtr oprávnění tabulky** – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data bude moci uživatel v podřízené firmě modifikovat či zakládat.
-1. Po vyplění polí stránku zavřete.
+### Set up central database Receivers
 
-### Nastavení relací
+The settings are used in defining communication for a specific record from the table synchronization settings (as described above, one table can be synchronized for different companies in different ways).
 
-Nastavení slouží k určení relačních vazeb, které zajišťují, aby při synchronizaci záznamů z určité tabulky proběhla synchronizace souvisejících záznamů (např. zboží + měrná jednotka zboží).
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Table Setup** and then choose the related link.
+1. The **Central Database Table Setup** page opens, where you select the row with the corresponding table.
+1. Select **Related**, then **Setup** and select **Receivers**, feature to fill in the following fields as needed:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení tabulky centrální databáze** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení tabulky centrální databáze**, kde můžete vybrat řádek s odpovídající tabulkou.
-1. Vyberte možnost **Související**, dále **Nastavení** a vyberete funkci **Relace**, kde vyplňte náledující pole dle potřeby:
+   - **Disabled** – his field allows you to temporarily turn off sync while leaving the settings. It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.).
+   - **Destination System ID** – binding to the settings of the target systems. The code determines which company will be the recipient of the synchronized data at the event.
+   - **Table Synchronization Filter** – in the field (and auxiliary child form) you can set a general filter that determines which data will be synchronized (only data belonging to the filter).
+   - **Table Permissions Filter** – In the field (and the auxiliary child form), you can set a generic filter that determines which data the user in the child company will be able to modify or create.
+1. After the fields are filled out, close the page.
 
-   - **Vypnuto** – toto pole umožňuje dočasně vypnout synchronizaci při ponechání nastavení. Používá se hlavně při řešení kolizí nebo hromadném zpracování centralizovaných dat (importy, přejmenování atd.)
-   - **Číslo tabulky relace** – číslo objektu datové tabulky v systému. Tabulku lze vybrat z číselníku již synchronizovaných tabulek. Tato tabulka je relačně nebo logicky podřízena a její data mají vazbu k nadřízené tabulce
-   - **Název tabulky relace** – toto pole se vyplní automaticky dle nastavení pole Číslo tabulky relace
-   - **Filtr tabulky** – v poli (a pomocném podřízeném formuláři) lze nastavit obecný filtr, který určuje, která data budou synchronizována v rámci relační synchronizace
-   - **Relace existuje** – pole, které určuje, zda je již definována relační vazba
-   - **Relace** – pouze zobrazované formulářové pole, v jehož podřízeném formuláři lze definovat relační vazbu
+### Relations settings
+
+Use the settings to specify relational bindings that ensure that related records (e.g., goods + item unit of measure) are synchronized when records from a particular table are synchronized.
+
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Central Database Table Setup** and then choose the related link.
+1. The **Central Database Table Setup** page opens, where you select the row with the corresponding table.
+1. Select **Related**, then **Setup** and select **Relations**, feature to fill in the following fields as needed:
+
+   - **Disabled** – his field allows you to temporarily turn off sync while leaving the settings. It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.)
+   - **Related Table No.** – The number of the data table object in the system. The table can be selected from the dial list of already synchronized tables. This table is relationally or logically subordinate and its data is bound to the parent table
+   - **Table Relations name** – this field is filled in automatically according to the setting of the Session table number field
+   - **Table Filter** – A generic filter can be set in a field (and an auxiliary child form) to determine which data is synchronized as part of a relational synchronization
+   - **Relation Exist** – a field that determines whether a relational binding is already defined
+   - **Relation** – only the displayed form field, in the child form of which a relational binding can be defined
 
 ## See also
 
-[Centrální číselníky](ac-centraldatabase.md)`  
+[Central Database](ac-centraldatabase.md)`  
 [AC Productivity Pack](ac-productivity-pack.md)  
-[AUTOCONT řešení](../index.md)
+[AUTOCONT Solutions](../index.md)
