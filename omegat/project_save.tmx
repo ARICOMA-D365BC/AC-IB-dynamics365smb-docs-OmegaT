@@ -5471,6 +5471,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hodnota Číselný interval zase pracuje s poli &lt;g7&gt;Počáteční číslo&lt;/g7&gt; a &lt;g8&gt;Koncové číslo&lt;/g8&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T111927Z" creationid="kunes" creationdate="20220516T111927Z">
+        <seg>The Numerical Interval value, in turn, works with the &lt;g7&gt;Start Number&lt;/g7&gt; and &lt;g8&gt;End Number&lt;/g8&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hodnoty musí být nejdříve zadané v Kódech původu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T075300Z" creationid="kunes" creationdate="20220421T075300Z">
@@ -12287,6 +12295,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při výběru &lt;g4&gt;Datový interval&lt;/g4&gt; se pracuje s poli &lt;g5&gt;Začátek fáze&lt;/g5&gt; a &lt;g6&gt;Konec fáze&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110955Z" creationid="kunes" creationdate="20220516T110955Z">
+        <seg>When you select &lt;g4&gt;a Date Interval&lt;/g4&gt;, you use the &lt;g5&gt;Start Phase&lt;/g5&gt; and &lt;g6&gt;End Phase&lt;/g6&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Při výběru fází má nejvyšší prioritu výběru Položka, pak Datový interval a nakonec Číselný interval.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T110800Z" creationid="kunes" creationdate="20220516T110800Z">
@@ -14053,6 +14069,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T110531Z" creationid="kunes" creationdate="20220411T110531Z">
         <seg>You can edit shipments only if they are in the &lt;g1&gt;New&lt;/g1&gt; status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Určuje, jak dlouho bude fáze trvat od doby vzniku položky upozornění.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110909Z" creationid="kunes" creationdate="20220516T110909Z">
+        <seg>Specifies how long the stage will last from the time the alert item is created.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16829,6 +16853,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102241Z" creationid="kunes" creationdate="20220406T102241Z">
         <seg>Enter parameters for the selected template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadává se tedy vzorec data vztažený k systémovému datu (TODAY).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T111007Z" creationid="kunes" creationdate="20220516T111007Z">
+        <seg>Therefore, a date formula related to the system date (TODAY) is entered.</seg>
       </tuv>
     </tu>
     <tu>
