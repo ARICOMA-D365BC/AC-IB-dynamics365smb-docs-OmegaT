@@ -6881,8 +6881,16 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Na poli Vstupní filtr tabulky, zvolte, které položky z tabulky mají vstoupit, nebo nevstoupit pro jejich následné další pracování.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220516T102335Z" creationid="kunes" creationdate="20220516T102335Z">
-        <seg>In the Table Filter filter field, choose which items from the table to enter or not to enter for further processing.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102500Z" creationid="kunes" creationdate="20220516T102335Z">
+        <seg>In the Input Table Filter filter field, choose which items from the table to enter or not to enter for further processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na poli Výstupní filtr tabulky, zvolte další upřesnění filtru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102641Z" creationid="kunes" creationdate="20220516T102454Z">
+        <seg>In the Table Output Filter field, choose to refine the filter.</seg>
       </tuv>
     </tu>
     <tu>
