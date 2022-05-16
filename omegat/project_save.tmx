@@ -7907,8 +7907,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Nastavení modulu Správa upozornění</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220414T075547Z" creationid="kunes" creationdate="20220414T075547Z">
-        <seg>Nastavení modulu Správa upozornění</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T093040Z" creationid="kunes" creationdate="20220414T075547Z">
+        <seg>Notifications - Settings</seg>
       </tuv>
     </tu>
     <tu>
