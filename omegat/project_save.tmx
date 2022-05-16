@@ -4895,6 +4895,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>E-mail je pak uložen v poli E-mail v tabulce Prodejce/nákupčí, která má z prodejní hlavičky vazbu přes jedno pole &lt;g1&gt;Kód prodejce&lt;/g1&gt; – Kód.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114414Z" creationid="kunes" creationdate="20220516T114356Z">
+        <seg>The email is then stored in the E-mail field in the Salesperson/Purchaser table, which is bound from the sales header through one field &lt;g1&gt;Salesperson Code&lt;/g1&gt; – Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>E-mail – tento bude využit pro komunikaci ohledně předplatného, např. pro zasílání upozorňování na blížící se termín konce předplatného, apod.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T122112Z" creationid="kunes" creationdate="20220512T122112Z">
@@ -5683,6 +5691,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102627Z" creationid="kunes" creationdate="20220405T123153Z">
         <seg>Fill in the &lt;g1&gt;General Parameters Template&lt;/g1&gt; first, then the &lt;g2&gt;Value&lt;/g2&gt;, and finally the &lt;g3&gt;Description&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jde o textové pole z tabulky definované šablonou události.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114612Z" creationid="kunes" creationdate="20220516T114612Z">
+        <seg>This is a text box from a table defined by the event template.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,6 +7195,22 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;E-maily událostí&lt;/g1&gt; vyberte akci &lt;g2&gt;Nový&lt;/g2&gt; a vyplníte pole &lt;g3&gt;E-mail&lt;/g3&gt; podle potřeby.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114542Z" creationid="kunes" creationdate="20220516T114542Z">
+        <seg>On the &lt;g1&gt;Event Emails&lt;/g1&gt; page, choose &lt;g2&gt; New&lt;/g2&gt; action to fill in the &lt;g3&gt;Email&lt;/g3&gt; field as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;E-maily událostí&lt;/g1&gt; vyberte akci &lt;g2&gt;Nový&lt;/g2&gt; a vyplňte pole &lt;g3&gt;Číslo pole e-mailu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114605Z" creationid="kunes" creationdate="20220516T114605Z">
+        <seg>On the &lt;g1&gt;Event Emails page,&lt;/g1&gt; choose &lt;g2&gt;New&lt;/g2&gt; action and fill in the &lt;g3&gt;Email Field No.&lt;/g3&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Generátor číselných řad z masky&lt;/g1&gt; v záložce Možnosti zadejte:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102635Z" creationid="kunes" creationdate="20220419T102635Z">
@@ -7861,6 +7893,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení Dynamického emailu z pole v záznamu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114548Z" creationid="kunes" creationdate="20220516T114548Z">
+        <seg>Set up Dynamic Email from a field in a record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení HelpDesku</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093521Z" creationid="kunes" creationdate="20220504T093521Z">
@@ -7881,6 +7921,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130851Z" creationid="kunes" creationdate="20220411T130851Z">
         <seg>PaperLess Trade settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení Ručně definovaného emailu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114425Z" creationid="kunes" creationdate="20220516T114357Z">
+        <seg>Set up a Manually Defined Email</seg>
       </tuv>
     </tu>
     <tu>
@@ -7969,6 +8017,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133055Z" creationid="kunes" creationdate="20220427T133055Z">
         <seg>Transport Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení dynamického emailu z pole relační tabulky</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114618Z" creationid="kunes" creationdate="20220516T114618Z">
+        <seg>Set up a dynamic email from a relational table fields</seg>
       </tuv>
     </tu>
     <tu>
@@ -15817,6 +15873,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablona událostí&lt;/g4&gt;, a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114447Z" creationid="kunes" creationdate="20220516T114447Z">
+        <seg>Select the &lt;x1/&gt;Light Bulb icon that opens Tell Me feature.&lt;x2/&gt; me what you want to do&lt;x3/&gt;, enter &lt;g4&gt;Event Templates&lt;/g4&gt;, and then select the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Šablony evidence pošty&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135252Z" creationid="kunes" creationdate="20220512T135252Z">
@@ -17189,6 +17253,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
         <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zde vyberte &lt;g1&gt;Fáze polí&lt;/g1&gt; akci &lt;g2&gt;Emaily&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114511Z" creationid="kunes" creationdate="20220516T114511Z">
+        <seg>Here select &lt;g1&gt;Field Phases&lt;/g1&gt; action &lt;g2&gt;E-mails&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
