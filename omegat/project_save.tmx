@@ -6221,6 +6221,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kromě nastavení filtrů na stránce Šablony události v polích &lt;g1&gt;Výstupní a Vstupní filtr polí&lt;/g1&gt;, můžeme nastavit také filtry polí pomocí volby &lt;g2&gt;Filtry data&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T104102Z" creationid="kunes" creationdate="20220516T102922Z">
+        <seg>In addition to setting filters on the Event Templates page in the &lt;g1&gt;Output and Input Filter fields&lt;/g1&gt;, we can also set field filters using the &lt;g2&gt;Date Filters&lt;/g2&gt; option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Kromě rozšiřujících modulů jsou k dispozici níže uvedená specializovaná oborová řešení.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112848Z" creationid="Janousek" creationdate="20210603T112848Z">
