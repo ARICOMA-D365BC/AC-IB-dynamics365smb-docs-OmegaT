@@ -6879,6 +6879,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na poli Vstupní filtr tabulky, zvolte, které položky z tabulky mají vstoupit, nebo nevstoupit pro jejich následné další pracování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102335Z" creationid="kunes" creationdate="20220516T102335Z">
+        <seg>In the Table Filter filter field, choose which items from the table to enter or not to enter for further processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na prodejní faktuře spusťte funkci &lt;g1&gt;Účtovat&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T102003Z" creationid="kunes" creationdate="20220414T102003Z">
@@ -10134,6 +10142,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110209Z" creationid="kunes" creationdate="20220419T110209Z">
         <seg>VAT Registration No. field – OSS mode is possible only for customers without registration, ie with an unfilled VAT Registration No.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole ID objektu, pak blíže specifikuje jakou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102307Z" creationid="kunes" creationdate="20220516T102307Z">
+        <seg>The object ID field then specifies in more detail which one.</seg>
       </tuv>
     </tu>
     <tu>
