@@ -7891,6 +7891,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení fází událostí</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T104604Z" creationid="kunes" creationdate="20220516T104604Z">
+        <seg>Set up Event Phases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení hodnot parametru je nezbytné zejména u parametrů s &lt;g1&gt;Metodou zadávání – Výběr&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101632Z" creationid="kunes" creationdate="20220406T101545Z">
@@ -11084,6 +11092,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102525Z" creationid="kunes" creationdate="20220419T102525Z">
         <seg>Therefore, we have expanded its options with 2 additional tools:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro každou &lt;g1&gt;Kartu šablony události&lt;/g1&gt; je potřeba nastavit fáze, do kterých se daná událost může dostat při splnění podmínek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T105813Z" creationid="kunes" creationdate="20220516T105813Z">
+        <seg>For each &lt;g1&gt;Event Template Card&lt;/g1&gt;, you need to set the phases that the event can reach when the conditions are met.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16955,6 +16971,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
         <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zde, v polích &lt;g1&gt;Začátek fáze&lt;/g1&gt; a &lt;g2&gt;Konec fáze&lt;/g2&gt; zadejte vzorec data vztažený k systémovému datu (TODAY).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T104544Z" creationid="kunes" creationdate="20220516T104544Z">
+        <seg>Here, in &lt;g1&gt;Start Phase&lt;/g1&gt; and &lt;g2&gt;End Phase&lt;/g2&gt; boxes, enter a date formula related to the system date (TODAY).</seg>
       </tuv>
     </tu>
     <tu>
