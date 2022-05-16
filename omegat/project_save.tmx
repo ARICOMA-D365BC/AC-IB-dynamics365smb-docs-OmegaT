@@ -8451,6 +8451,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavte &lt;g1&gt;Číslo datumového pole&lt;/g1&gt;, na které se bude filtr vztahovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T104517Z" creationid="kunes" creationdate="20220516T104517Z">
+        <seg>Set the &lt;g1&gt;Date field number&lt;/g1&gt;to which the filter will apply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavte kódy sekcí dle platných nařízení pro vykazování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122115Z" creationid="kunes" creationdate="20220421T122115Z">
