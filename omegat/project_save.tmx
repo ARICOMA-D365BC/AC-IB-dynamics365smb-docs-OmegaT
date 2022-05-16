@@ -4479,6 +4479,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Číslo relačního pole e-mailu&lt;/g1&gt; zadejte pole s e-mailem v relační tabulce.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120255Z" creationid="kunes" creationdate="20220516T120255Z">
+        <seg>In &lt;g1&gt;E-mail relational field number&lt;/g1&gt; box, type the e-mail field in the relational table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole &lt;g1&gt;Číslo tabulky&lt;/g1&gt; zadejte číslo &lt;g2&gt;52067961&lt;/g2&gt; (číslo tabulky Evidence pošty).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135928Z" creationid="kunes" creationdate="20220512T135928Z">
@@ -16133,6 +16141,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092932Z" creationid="kunes" creationdate="20220428T092932Z">
         <seg>Fill in the &lt;g1&gt;Code&lt;/g1&gt;, &lt;g2&gt;Description&lt;/g2&gt;, and &lt;g3&gt;Table No.&lt;/g3&gt; fields (for which the template will be set).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte pole &lt;g1&gt;Číslo relační tabulky&lt;/g1&gt; tabulkou, kde se nachází pole s e-mailem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114859Z" creationid="kunes" creationdate="20220516T114859Z">
+        <seg>Fill in &lt;g1&gt;Relational Table No.&lt;/g1&gt; field with the table where the email field is located.</seg>
       </tuv>
     </tu>
     <tu>
