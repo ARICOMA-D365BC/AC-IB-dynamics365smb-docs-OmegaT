@@ -2345,6 +2345,16 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Správa upozornění&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120554Z" creationid="kunes" creationdate="20220516T120554Z">
+        <seg>&lt;g1&gt;Notifications&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Statutární výkazy - Nastavení&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143217Z" creationid="Janousek" creationdate="20210625T142429Z">
@@ -4479,6 +4489,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Číslo pole relace do&lt;/g1&gt; zadejte pole z relační tabulky, na kterém je definována vazba.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120410Z" creationid="kunes" creationdate="20220516T120406Z">
+        <seg>In the &lt;g1&gt;Relation To Field Number&lt;/g1&gt; box, type the field from the relational table on which the binding is defined.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Číslo pole relace z&lt;/g1&gt; zadejte pole z &lt;g2&gt;Tabulky šablony události&lt;/g2&gt;, které definuje vazbu do relační tabulky.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120338Z" creationid="kunes" creationdate="20220516T120338Z">
+        <seg>In the &lt;g1&gt;Relation From Field No.&lt;/g1&gt; field, enter the &lt;g2&gt;Event Template Table&lt;/g2&gt;field that defines the relation to the relational table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole &lt;g1&gt;Číslo relačního pole e-mailu&lt;/g1&gt; zadejte pole s e-mailem v relační tabulce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T120255Z" creationid="kunes" creationdate="20220516T120255Z">
@@ -5115,6 +5141,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081855Z" creationid="kunes" creationdate="20220404T081855Z">
         <seg>If there are several counters or branches in the company, it is customary to record operations in these places separately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Existují dva způsoby, jak definovat obsah e-mailu (předmět a tělo).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120419Z" creationid="kunes" creationdate="20220516T120412Z">
+        <seg>There are two ways to define the content of an email (subject and body).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8037,6 +8071,22 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení emailu s dynamickým obsahem</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120521Z" creationid="kunes" creationdate="20220516T120521Z">
+        <seg>Set up an email with dynamic content</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení emailu s pevně definovanou strukturou</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120429Z" creationid="kunes" creationdate="20220516T120429Z">
+        <seg>Set up an email with a fixed structure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení faktoringu</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121109Z" creationid="kunes" creationdate="20220420T121109Z">
@@ -8985,6 +9035,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114927Z" creationid="kunes" creationdate="20220411T114927Z">
         <seg>Addon settings areas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Obsah E-mailů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120407Z" creationid="kunes" creationdate="20220516T120407Z">
+        <seg>Obsah E-mailů</seg>
       </tuv>
     </tu>
     <tu>
@@ -12303,6 +12361,22 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Předmět i tělo tohoto druhu emailu se definuje v textech mailu s využitím polí e-mailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120525Z" creationid="kunes" creationdate="20220516T120525Z">
+        <seg>The subject and body of this kind of email are defined in the texts of the email using the email fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Předmětem tohoto druhu emailu je &lt;g1&gt;kód šablony události&lt;/g1&gt; a &lt;g2&gt;popis fáze&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120444Z" creationid="kunes" creationdate="20220516T120444Z">
+        <seg>The subject of this type of email is the &lt;g1&gt;event template code&lt;/g1&gt; and the &lt;g2&gt;phase description&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Předplacené</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121513Z" creationid="kunes" creationdate="20220427T121513Z">
@@ -12737,6 +12811,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>S &lt;g1&gt;pevně definovanou naprogramovanou strukturou&lt;/g1&gt;, kterou si sami navolíme a bude při každém spuštění použita, nebo pomocí &lt;g2&gt;dynamického obsahu&lt;/g2&gt;, kde je obsah definovaný pomocí polí a textů e-mailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120425Z" creationid="kunes" creationdate="20220516T120425Z">
+        <seg>With a &lt;g1&gt;fixed programmed structure&lt;/g1&gt;that we choose ourselves and will be used each time we run it, or with &lt;g2&gt;dynamic content&lt;/g2&gt;where the content is defined using fields and email texts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>S použitím metody zadávání Tabulka souvisí naplnění polí ID tabulky a ID pole a s použitím metody zadávání Funkce souvisí naplnění ID funkce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T130026Z" creationid="kunes" creationdate="20220405T130026Z">
@@ -12805,6 +12887,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111428Z" creationid="Janousek" creationdate="20220331T085154Z">
         <seg>Application extension set - Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Samotné pole je možné definovat z následujících tabulek: zdrojová tabulka šablony upozornění, Šablona událostí, Fáze pole.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120535Z" creationid="kunes" creationdate="20220516T120535Z">
+        <seg>The field itself can be defined from the following tables: Notification Template Source Table, Event Template, Field Phases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14095,6 +14185,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082530Z" creationid="kunes" creationdate="20220404T082436Z">
         <seg>This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tělem e-mailu je zase obsah z pole &lt;g3&gt;primární klíč&lt;/g3&gt; z položky události.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120450Z" creationid="kunes" creationdate="20220516T120450Z">
+        <seg>The body of the email, in turn, is the content from the &lt;g3&gt;primary key&lt;/g3&gt; field of the event item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16145,6 +16243,22 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyplňte pole &lt;g1&gt;Typ e-mailu&lt;/g1&gt; jako &lt;g2&gt;Jednoduchý&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120517Z" creationid="kunes" creationdate="20220516T120517Z">
+        <seg>Fill in &lt;g1&gt;Email Type&lt;/g1&gt; field as &lt;g2&gt;Standard&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte pole &lt;g1&gt;Typ e-mailu&lt;/g1&gt; jako &lt;g2&gt;Strukturovaný&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120546Z" creationid="kunes" creationdate="20220516T120546Z">
+        <seg>Fill in the &lt;g1&gt;Email Type&lt;/g1&gt; field as &lt;g2&gt;Structured&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyplňte pole &lt;g1&gt;Číslo relační tabulky&lt;/g1&gt; tabulkou, kde se nachází pole s e-mailem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T114859Z" creationid="kunes" creationdate="20220516T114859Z">
@@ -17276,6 +17390,14 @@ of the primary key fields).</seg>
         <seg>Zde vyberte &lt;g1&gt;Fáze polí&lt;/g1&gt; akci &lt;g2&gt;Emaily&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T114511Z" creationid="kunes" creationdate="20220516T114511Z">
+        <seg>Here select &lt;g1&gt;Field Phases&lt;/g1&gt; action &lt;g2&gt;E-mails&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zde vyberte &lt;g1&gt;Fáze polí&lt;/g1&gt; akci &lt;g2&gt;Emaily&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T120500Z" creationid="kunes" creationdate="20220516T120500Z">
         <seg>Here select &lt;g1&gt;Field Phases&lt;/g1&gt; action &lt;g2&gt;E-mails&lt;/g2&gt;</seg>
       </tuv>
     </tu>
