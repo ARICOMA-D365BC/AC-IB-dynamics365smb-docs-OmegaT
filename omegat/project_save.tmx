@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>(např. upozornění nad kartou zaměstnance, která obsahuje i jeho e-mail).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112426Z" creationid="kunes" creationdate="20220516T112426Z">
+        <seg>(e.g. a notification above an employee's card, which also contains their e-mail).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>(viz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104618Z" creationid="kunes" creationdate="20220407T104618Z">
@@ -767,6 +775,22 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135924Z" creationid="kunes" creationdate="20220427T135924Z">
         <seg>&lt;g1&gt;Transport - Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Dynamický e-mail z pole relační tabulky&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112430Z" creationid="kunes" creationdate="20220516T112430Z">
+        <seg>&lt;g1&gt;Dynamic email from a relational table field&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Dynamický e-mail z pole v záznamu&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112319Z" creationid="kunes" creationdate="20220516T112319Z">
+        <seg>&lt;g1&gt;Dynamic email from a field in a record&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2219,6 +2243,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Ručně definovaný e-mail&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112221Z" creationid="kunes" creationdate="20220516T112221Z">
+        <seg>&lt;g1&gt;Manually defined email&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;SEPA platby&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142451Z" creationid="Janousek" creationdate="20210625T142451Z">
@@ -2365,6 +2397,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125801Z" creationid="kunes" creationdate="20220429T125801Z">
         <seg>&lt;g1&gt;Field Caption&lt;/g1&gt; – This field is filled in automatically according to the field number field setting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Typ definice&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112212Z" creationid="kunes" creationdate="20220516T112139Z">
+        <seg>&lt;g1&gt;Definition Type&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3125,6 +3165,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T133527Z" creationid="kunes" creationdate="20220427T133527Z">
         <seg>&lt;x1/&gt;Transport Setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení emailu&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112131Z" creationid="kunes" creationdate="20220516T112131Z">
+        <seg>&lt;x1/&gt;Email Setup&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4935,6 +4983,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Email tak může odejít na všechny tři definice pro jednu položku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112122Z" creationid="kunes" creationdate="20220516T112122Z">
+        <seg>The email can then go to all three definitions for one item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Evidence EET přímo z rozpisu platby</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124458Z" creationid="kunes" creationdate="20220401T124458Z">
@@ -5043,6 +5099,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T081855Z" creationid="kunes" creationdate="20220404T081855Z">
         <seg>If there are several counters or branches in the company, it is customary to record operations in these places separately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Existují tři různé způsoby, jak zadat adresáta e-mailu, které jdou mezi sebou kombinovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112116Z" creationid="kunes" creationdate="20220516T112116Z">
+        <seg>There are three different ways to specify an email recipient that can be combined with each other.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6011,6 +6075,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110529Z" creationid="kunes" creationdate="20220504T110512Z">
         <seg>When the corresponding login name of the authorized person is filled in the &lt;g1&gt;User ID&lt;/g1&gt; field, the code of the authorized person who enters the request will be automatically offered to the HelpDesk when making a request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ke každé fázi událostí lze také přiřadit e-mailovou adresu určující, komu se daná událost odešle.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112112Z" creationid="kunes" creationdate="20220516T112112Z">
+        <seg>Each event phase can also be assigned an email address specifying to whom the event will be sent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7737,6 +7809,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101259Z" creationid="kunes" creationdate="20220414T101259Z">
         <seg>E.g. that he now also went into insolvency proceedings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Například při upozornění nad prodejním dokladem, kdy chceme e-mail poslat na prodejce dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T114348Z" creationid="kunes" creationdate="20220516T114348Z">
+        <seg>For example, when notifying you of a sales document, when we want to send an email to the seller of the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10694,6 +10774,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122501Z" creationid="kunes" creationdate="20220429T122501Z">
         <seg>It is mainly used for collision resolution or mass processing of centralized data (imports, renaming, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Používá se v případech, kdy chceme poslat upozornění na e-mail, který je uložen v relační tabulce ke zdrojové tabulce šablony upozornění s vazbou přes jedno pole, které nastavíme.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112436Z" creationid="kunes" creationdate="20220516T112436Z">
+        <seg>It is used in cases where we want to send an email alert that is stored in a relational table to the source table of the alert template with a link through one field that we set.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13855,6 +13943,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T122539Z" creationid="kunes" creationdate="20220509T122539Z">
         <seg>This operation creates a new project with the same code as the request number (even with the same description), and this code is automatically added to the &lt;g3&gt;Job number&lt;/g3&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tuto možnost použijte v případě, kdy chcete poslat upozornění vždy na tento definovaný e-mail.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112306Z" creationid="kunes" creationdate="20220516T112306Z">
+        <seg>Use this option if you always want to send notifications to this defined e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tuto možnost použijte, pokud chcete poslat upozornění na e-maily, které jsou přímo uloženy v záznamu ve zdrojové tabulce šablony upozornění, který je také zdrojem upozornění.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T112416Z" creationid="kunes" creationdate="20220516T112416Z">
+        <seg>Use this option if you want to send email alerts that are directly stored in a record in the source table of the alert template, which is also the source of the alert.</seg>
       </tuv>
     </tu>
     <tu>
