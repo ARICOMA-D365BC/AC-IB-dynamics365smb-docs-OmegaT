@@ -6203,6 +6203,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Kromě sledování aktuální události lze sledovat i vývoj události v čase.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T100350Z" creationid="kunes" creationdate="20220516T100350Z">
+        <seg>In addition to tracking the current event, it is also possible to monitor the development of the event over time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Krácení odpočtu DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104645Z" creationid="kunes" creationdate="20220419T104645Z">
@@ -6553,6 +6561,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T100818Z" creationid="kunes" creationdate="20220414T100818Z">
         <seg>The Controling Basic addon is required for other AC Financial Pack add-on modules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul dokáže pracovat off-line, jelikož nereaguje na okamžitou změnu v datech, ale &lt;g3&gt;zasílá informace v naplánovaných intervalech&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T093233Z" creationid="kunes" creationdate="20220516T093233Z">
+        <seg>The module can work off-line, as it does not respond to an immediate change in the data, but &lt;g3&gt;sends information at scheduled intervals&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13775,6 +13791,14 @@ polí primárního klíče).</seg>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T120712Z" creationid="kunes" creationdate="20220512T120712Z">
         <seg>Note: You cannot perform a rename operation (change the value of the
 of the primary key fields).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T093222Z" creationid="kunes" creationdate="20220516T093222Z">
+        <seg>Notification works both internally in the system environment and externally in the form of an e-mail.</seg>
       </tuv>
     </tu>
     <tu>
