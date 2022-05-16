@@ -11369,6 +11369,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vytvoření nové sledované události, je potřeba ji založit a definovat na stránce &lt;g1&gt;Přehled šablon událostí&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T100621Z" creationid="kunes" creationdate="20220516T100621Z">
+        <seg>To create a new tracked event, you need to create and define it on the &lt;g1&gt;Overview page of Event Templates List&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vytvoření požadavku na dopravu použijte funkci &lt;g1&gt;Vytvořit požadavek na dopravu&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130557Z" creationid="kunes" creationdate="20220427T130557Z">
@@ -15745,6 +15753,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T131016Z" creationid="kunes" creationdate="20220420T131016Z">
         <seg>Print amounts in currency – prints amounts in the currency of posted documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření a upravení karty šablony události</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T100405Z" creationid="kunes" creationdate="20220516T100405Z">
+        <seg>Create and edit Event Template Card</seg>
       </tuv>
     </tu>
     <tu>
