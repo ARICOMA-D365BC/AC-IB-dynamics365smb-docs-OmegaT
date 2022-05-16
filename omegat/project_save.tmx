@@ -89,6 +89,16 @@ The functionality described below will be part of the module only up to version 
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Funkcionalita &lt;g2&gt;ID pole&lt;/g2&gt; pracuje i s kalkulovanými poli a jedná se o nepovinné pole.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102854Z" creationid="kunes" creationdate="20220516T102854Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+The &lt;g2&gt;Field No.&lt;/g2&gt; functionality also works with calculated fields and is an optional field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Funkcionalita nabízí více možností, ale pro obecné parametry jsou vhodné následující datové typy &lt;g2&gt;Text, Code, Integer, Decimal, Boolean, Datetime, DateFormula, Date, Time, Duration, RecordID&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102734Z" creationid="kunes" creationdate="20220405T130019Z">
@@ -3349,6 +3359,14 @@ If it is a document created from the Data Box, it is possible to have the origin
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130834Z" creationid="kunes" creationdate="20220427T130834Z">
         <seg>&lt;x1/&gt;Create Drive Order&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Šablona událostí&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102915Z" creationid="kunes" creationdate="20220516T102915Z">
+        <seg>&lt;x1/&gt;Event Template&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,6 +7843,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nastavení filtrů dat</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102920Z" creationid="kunes" creationdate="20220516T102920Z">
+        <seg>Data filter settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nastavení financí</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122811Z" creationid="kunes" creationdate="20220420T122811Z">
@@ -9689,6 +9715,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud chcete položky, které projdou mimo filtr, uzavírat automaticky zvolte zaškrtávací políčko &lt;g1&gt;Aut. uzavřít položky mimo filtr&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102711Z" creationid="kunes" creationdate="20220516T102711Z">
+        <seg>To close items that pass out of the filter, automatically select the &lt;g1&gt;Close Entries Out of Filter&lt;/g1&gt; check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud chcete používat modul &lt;g1&gt;Evidence pošty&lt;/g1&gt; i v modulu &lt;g2&gt;Marketing&lt;/g2&gt; je potřebné správně nastavit i šablony interakce.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140928Z" creationid="kunes" creationdate="20220512T140928Z">
@@ -10262,6 +10296,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T110452Z" creationid="kunes" creationdate="20220407T110452Z">
         <seg>By retrieving the invoice number, the &lt;g1&gt;Create Parcel&lt;/g1&gt; form is automatically pre-populated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí polí &lt;g1&gt;Jméno přiřazeného uživatele&lt;/g1&gt;, nebo &lt;g2&gt;Skupina přiřazených uživatelů&lt;/g2&gt; nastavte, komu bude následná vytvořená úloha přiřazena.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102749Z" creationid="kunes" creationdate="20220516T102749Z">
+        <seg>Use &lt;g1&gt;Assigned User Name&lt;/g1&gt; or &lt;g2&gt;Assigned User Task Group&lt;/g2&gt; fields to set who the subsequent task you create will be assigned to.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13615,6 +13657,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>To určuje, zda se pole sleduje či nikoliv.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102841Z" creationid="kunes" creationdate="20220516T102841Z">
+        <seg>This determines whether the field is tracked or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Top Trans</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104350Z" creationid="kunes" creationdate="20220407T104350Z">
@@ -13763,6 +13813,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104351Z" creationid="kunes" creationdate="20220407T104351Z">
         <seg>UPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Událost začněte sledovat odškrtnutím pole &lt;g1&gt;Vypnuto&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102811Z" creationid="kunes" creationdate="20220516T102811Z">
+        <seg>To start watching the event, uncheck &lt;g1&gt;Disabled&lt;/g1&gt; box.</seg>
       </tuv>
     </tu>
     <tu>
