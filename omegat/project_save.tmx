@@ -7089,6 +7089,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Karty šablony události&lt;/g1&gt; vyberte akci &lt;g2&gt;Fáze&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110627Z" creationid="kunes" creationdate="20220516T110627Z">
+        <seg>On the &lt;g1&gt;Event Template Cards&lt;/g1&gt; page, choose the &lt;g2&gt;Phases&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Kategorie požadavku 1&lt;/g1&gt; zvolte akci &lt;g2&gt;Nový&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115606Z" creationid="kunes" creationdate="20220504T115606Z">
