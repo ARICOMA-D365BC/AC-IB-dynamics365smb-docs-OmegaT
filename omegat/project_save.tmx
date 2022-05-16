@@ -6523,6 +6523,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Správa upozornění&lt;/g1&gt; umožňuje &lt;g2&gt;systémové upozorňování&lt;/g2&gt; na stavy dat a procesů evidovaných v systému Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T093214Z" creationid="kunes" creationdate="20220516T093214Z">
+        <seg>The &lt;g1&gt;Notifications&lt;/g1&gt; module enables &lt;g2&gt;system notifications&lt;/g2&gt; for data and process statuses recorded in Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul Evidence obalů je rozšířením oblasti Zásoby.&lt;x1/&gt;
 Modul zakládá samostatnou evidenci obalů svázanou s oblastí zásob a standardními pohyby zboží (nákup, prodej, příjem, výdej, transfer, spotřeba a výroba).</seg>
       </tuv>
