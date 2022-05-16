@@ -10,114 +10,114 @@ ms.workload: na
 ms.search.keywords: Czech, Notification setup, additional functions
 ms.author: v-makune
 ---
-# Nastavení modulu Správa upozornění
+# Notifications - Settings
 
-Modul **Správa upozornění** umožňuje **systémové upozorňování** na stavy dat a procesů evidovaných v systému Microsoft Dynamics 365 Business Central. Upozorňování pracuje jak interně v prostředí systému, tak i externě formou e-mailu. Modul dokáže pracovat off-line, jelikož nereaguje na okamžitou změnu v datech, ale **zasílá informace v naplánovaných intervalech**. Kromě sledování aktuální události lze sledovat i vývoj události v čase.
+The **Notifications** module enables **system notifications** for data and process statuses recorded in Microsoft Dynamics 365 Business Central. Notification works both internally in the system environment and externally in the form of an e-mail. The module can work off-line, as it does not respond to an immediate change in the data, but **sends information at scheduled intervals**. In addition to tracking the current event, it is also possible to monitor the development of the event over time.
 
-## Vytvoření a upravení karty šablony události
+## Create and edit Event Template Card
 
-Pro vytvoření nové sledované události, je potřeba ji založit a definovat na stránce **Přehled šablon událostí**.
+To create a new tracked event, you need to create and define it on the **Overview page of Event Templates List**.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Přehled šablon událostí** a poté vyberte související odkaz. 
-2. Na stránce **Přehled šablon událostí** vytvořte novou události zvolením tlačítka **Nový**
-3. Otevře se nová karta události s některými genericky předvyplněnými poli.
-4. Na poli **Číslo tabulky** vybereme tabulku, nad kterou chceme provádět sledování a dále zvolíme **ID pole** z dané tabulky – dle tohoto pole se vyhodnocuje daná fáze. **Číslo pomocného pole** slouží pouze pro bližší rozlišení události.
-5. V poli **Připojit úlohu k**, zvolte, jestli chceme po zobrazení události v Položkách upozornění otevřít stránku nebo sestavu. Pole ID objektu, pak blíže specifikuje jakou.
-6. Na poli Vstupní filtr tabulky, zvolte, které položky z tabulky mají vstoupit, nebo nevstoupit pro jejich následné další pracování.
-7. Na poli Výstupní filtr tabulky, zvolte další upřesnění filtru.
-8. Pokud chcete položky, které projdou mimo filtr, uzavírat automaticky zvolte zaškrtávací políčko **Aut. uzavřít položky mimo filtr**.
-9. Pomocí polí **Jméno přiřazeného uživatele**, nebo **Skupina přiřazených uživatelů** nastavte, komu bude následná vytvořená úloha přiřazena.
-10. Událost začněte sledovat odškrtnutím pole **Vypnuto**. To určuje, zda se pole sleduje či nikoliv.
-
-> [!NOTE]
-> Funkcionalita **ID pole** pracuje i s kalkulovanými poli a jedná se o nepovinné pole.
-
-![Šablona událostí](media/Notifications-event_template_card.png)
-
-## Nastavení filtrů dat
-
-Kromě nastavení filtrů na stránce Šablony události v polích **Výstupní a Vstupní filtr polí**, můžeme nastavit také filtry polí pomocí volby **Filtry data**. Ten nastavíme následujícím způsobem.
-
-![Nastavení filtrů dat](media/Notifications-date_filters.png)
-
-1. Na stránce Šablona událostí vyberte akci **Filtry data**
-2. Nastavte **Číslo datumového pole**, na které se bude filtr vztahovat.
-3. Zde, v polích **Začátek fáze** a **Konec fáze** zadejte vzorec data vztažený k systémovému datu (TODAY).
-
-## Nastavení fází událostí
-
-Pro každou **Kartu šablony události** je potřeba nastavit fáze, do kterých se daná událost může dostat při splnění podmínek.
-
-1. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-2. Vytvořte nový řádek pomocí tlačítka **Nový**.
-3. U každého řádku zadejte **Code**, který slouží k rozlišení jednotlivých fází sledování.
-4. Navolte **Typ kontroly**.
-   Ten nabývá hodnot **Položka**, **Datový interval** nebo **Číselný interval**. Při výběru fází má nejvyšší prioritu výběru Položka, pak Datový interval a nakonec Číselný interval. Toto pole se vztahuje k poli Číslo pole z Karty šablony události.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Event Templates** and then choose the related link.
+2. On the **Event Templates List** page, create a new event by choosing the **New** button
+3. A new event tab opens with some generic pre-filled fields.
+4. In the **Table No.** field, select the table above which we want to perform tracking and then select the **field No.** from the table – according to this field, the given stage is evaluated. **Helping Field No.** is used only for a closer resolution of the event.
+5. In the **Attach task to** box, choose whether to open the page or report after the event appears in Event Entries. The object ID field then specifies in more detail which one.
+6. In the Input Table Filter filter field, choose which items from the table to enter or not to enter for further processing.
+7. In the Table Output Filter field, choose to refine the filter.
+8. To close items that pass out of the filter, automatically select the **Close Entries Out of Filter** check box.
+9. Use **Assigned User Name** or **Assigned User Task Group** fields to set who the subsequent task you create will be assigned to.
+10. To start watching the event, uncheck **Disabled** box. This determines whether the field is tracked or not.
 
 > [!NOTE]
-> Při výběru typu kontroly **Položka** se bere do úvahy pole **Trvání**. Určuje, jak dlouho bude fáze trvat od doby vzniku položky upozornění. Při výběru **Datový interval** se pracuje s poli **Začátek fáze** a **Konec fáze**. Zadává se tedy vzorec data vztažený k systémovému datu (TODAY). Hodnota Číselný interval zase pracuje s poli **Počáteční číslo** a **Koncové číslo**.
+> The **Field No.** functionality also works with calculated fields and is an optional field.
 
-![Nastavení fází událostí](media/Notifications-phases.png)
+![Event Template](media/Notifications-event_template_card.png)
 
-## Zadání adresáta E-mailů
+## Data filter settings
 
-Ke každé fázi událostí lze také přiřadit e-mailovou adresu určující, komu se daná událost odešle. Existují tři různé způsoby, jak zadat adresáta e-mailu, které jdou mezi sebou kombinovat. Email tak může odejít na všechny tři definice pro jednu položku.
+In addition to setting filters on the Event Templates page in the **Output and Input Filter fields**, we can also set field filters using the **Date Filters** option. We set it up as follows.
 
-![Nastavení emailu](media/Notifications-email.png)
+![Set up Date Filter](media/Notifications-date_filters.png)
 
-| **Typ definice** | **Description** |
+1. On the Event Template page, choose the **Date Filters** action
+2. Set the **Date field number**to which the filter will apply.
+3. Here, in **Start Phase** and **End Phase** boxes, enter a date formula related to the system date (TODAY).
+
+## Set up Event Phases
+
+For each **Event Template Card**, you need to set the phases that the event can reach when the conditions are met.
+
+1. On the **Event Template Cards** page, choose the **Phases** action.
+2. Create a new line using the **New** button.
+3. For each line, enter a **Code** that is used to distinguish between the stages of tracking.
+4. Choose **Control Type**.
+   It takes values **Entry**, **Date Interval** or **Numerical Interval**. When selecting phases, the highest priority is to select Item, then Date Interval, and finally Numerical Interval. This field refers to the Field Number field from the Event Template Card.
+
+> [!NOTE]
+> When selecting the **Entry** control type, the **Period** field is taken. Specifies how long the stage will last from the time the alert item is created. Selecting **Date Interval** works with the **Start Phase** and **End Phase**fields. Therefore, a date formula related to the system date (TODAY) is entered. The Numerical Interval value, in turn, works with the **Start Number** and **End Number** fields.
+
+![Event Phases Setup](media/Notifications-phases.png)
+
+## Specify the addressee of e-mails
+
+Each event phase can also be assigned an email address specifying to whom the event will be sent. There are three different ways to specify an email recipient that can be combined with each other. The email can then go to all three definitions for one item.
+
+![Email Setup](media/Notifications-email.png)
+
+| **Definition Type** | **Description** |
 |---------------------------------------------|-----------|
-| **Ručně definovaný e-mail** | Tuto možnost použijte v případě, kdy chcete poslat upozornění vždy na tento definovaný e-mail. |
-| **Dynamický e-mail z pole v záznamu** | Tuto možnost použijte, pokud chcete poslat upozornění na e-maily, které jsou přímo uloženy v záznamu ve zdrojové tabulce šablony upozornění, který je také zdrojem upozornění. (např. upozornění nad kartou zaměstnance, která obsahuje i jeho e-mail). |
-| **Dynamický e-mail z pole relační tabulky** | Používá se v případech, kdy chceme poslat upozornění na e-mail, který je uložen v relační tabulce ke zdrojové tabulce šablony upozornění s vazbou přes jedno pole, které nastavíme. Například při upozornění nad prodejním dokladem, kdy chceme e-mail poslat na prodejce dokladu. E-mail je pak uložen v poli E-mail v tabulce Prodejce/nákupčí, která má z prodejní hlavičky vazbu přes jedno pole **Kód prodejce** – Kód. |
+| **Manually defined email** | Use this option if you always want to send notifications to this defined e-mail. |
+| **Dynamic email from a field in a record** | Use this option if you want to send email alerts that are directly stored in a record in the source table of the alert template, which is also the source of the alert. (e.g. a notification above an employee's card, which also contains their e-mail). |
+| **Dynamic email from a relational table field** | It is used in cases where we want to send an email alert that is stored in a relational table to the source table of the alert template with a link through one field that we set. For example, when notifying you of a sales document, when we want to send an email to the seller of the document. The email is then stored in the E-mail field in the Salesperson/Purchaser table, which is bound from the sales header through one field **Salesperson Code** – Code. |
 
-## Nastavení Ručně definovaného emailu
+## Set up a Manually Defined Email
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablona událostí**, a poté vyberte související odkaz.
-2. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-3. Zde vyberte **Fáze polí** akci **Emaily**
-4. Na stránce **E-maily událostí** vyberte akci **Nový** a vyplníte pole **E-mail** podle potřeby.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Event Templates**, and then select the related link.
+2. On the **Event Template Cards** page, choose the **Phases** action.
+3. Here select **Field Phases** action **E-mails**
+4. On the **Event Emails** page, choose ** New** action to fill in the **Email** field as needed.
 
-## Nastavení Dynamického emailu z pole v záznamu
+## Set up Dynamic Email from a field in a record
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablona událostí**, a poté vyberte související odkaz.
-2. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-3. Zde vyberte **Fáze polí** akci **Emaily**
-4. Na stránce **E-maily událostí** vyberte akci **Nový** a vyplňte pole **Číslo pole e-mailu**. Jde o textové pole z tabulky definované šablonou události.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Event Templates**, and then select the related link.
+2. On the **Event Template Cards** page, choose the **Phases** action.
+3. Here select **Field Phases** action **E-mails**
+4. On the **Event Emails page,** choose **New** action and fill in the **Email Field No.** field. This is a text box from a table defined by the event template.
 
-## Nastavení dynamického emailu z pole relační tabulky
+## Set up a dynamic email from a relational table fields
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablona událostí**, a poté vyberte související odkaz.
-2. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-3. Zde vyberte **Fáze polí** akci **Emaily**
-4. Vyplňte pole **Číslo relační tabulky** tabulkou, kde se nachází pole s e-mailem.
-5. Do pole **Číslo relačního pole e-mailu** zadejte pole s e-mailem v relační tabulce.
-6. Do pole **Číslo pole relace z** zadejte pole z **Tabulky šablony události**, které definuje vazbu do relační tabulky.
-7. Do pole **Číslo pole relace do** zadejte pole z relační tabulky, na kterém je definována vazba.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Event Templates**, and then select the related link.
+2. On the **Event Template Cards** page, choose the **Phases** action.
+3. Here select **Field Phases** action **E-mails**
+4. Fill in **Relational Table No.** field with the table where the email field is located.
+5. In **E-mail relational field number** box, type the e-mail field in the relational table.
+6. In the **Relation From Field No.** field, enter the **Event Template Table**field that defines the relation to the relational table.
+7. In the **Relation To Field Number** box, type the field from the relational table on which the binding is defined.
 
 ## Obsah E-mailů
 
-Existují dva způsoby, jak definovat obsah e-mailu (předmět a tělo). S **pevně definovanou naprogramovanou strukturou**, kterou si sami navolíme a bude při každém spuštění použita, nebo pomocí **dynamického obsahu**, kde je obsah definovaný pomocí polí a textů e-mailu.
+There are two ways to define the content of an email (subject and body). With a **fixed programmed structure**that we choose ourselves and will be used each time we run it, or with **dynamic content**where the content is defined using fields and email texts.
 
-## Nastavení emailu s pevně definovanou strukturou
+## Set up an email with a fixed structure
 
-Předmětem tohoto druhu emailu je **kód šablony události** a **popis fáze**. Tělem e-mailu je zase obsah z pole **primární klíč** z položky události.
+The subject of this type of email is the **event template code** and the **phase description**. The body of the email, in turn, is the content from the **primary key** field of the event item.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablona událostí**, a poté vyberte související odkaz.
-2. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-3. Zde vyberte **Fáze polí** akci **Emaily**.
-4. Vyplňte pole **Typ e-mailu** jako **Jednoduchý**.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Event Templates**, and then select the related link.
+2. On the **Event Template Cards** page, choose the **Phases** action.
+3. Here select **Field Phases** action **E-mails**
+4. Fill in **Email Type** field as **Standard**.
 
-## Nastavení emailu s dynamickým obsahem
+## Set up an email with dynamic content
 
-Předmět i tělo tohoto druhu emailu se definuje v textech mailu s využitím polí e-mailu. Samotné pole je možné definovat z následujících tabulek: zdrojová tabulka šablony upozornění, Šablona událostí, Fáze pole.
+The subject and body of this kind of email are defined in the texts of the email using the email fields. The field itself can be defined from the following tables: Notification Template Source Table, Event Template, Field Phases.
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Šablona událostí**, a poté vyberte související odkaz.
-2. Na stránce **Karty šablony události** vyberte akci **Fáze**.
-3. Zde vyberte **Fáze polí** akci **Emaily**.
-4. Vyplňte pole **Typ e-mailu** jako **Strukturovaný**.
+1. Select the ![Light Bulb icon that opens Tell Me feature.](media/ui-search/search_small.png " me what you want to do"), enter **Event Templates**, and then select the related link.
+2. On the **Event Template Cards** page, choose the **Phases** action.
+3. Here select **Field Phases** action **E-mails**
+4. Fill in the **Email Type** field as **Structured**.
 
 **See also**
 
-[Správa upozornění](ac-notifications.md)  
+[Notifications](ac-notifications.md)  
 [Productivity Pack](ac-productivity-pack.md)
