@@ -238,6 +238,16 @@ Use the customize function to display the information window.</seg>
     <tu>
       <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Při výběru typu kontroly &lt;g2&gt;Položka&lt;/g2&gt; se bere do úvahy pole &lt;g3&gt;Trvání&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110904Z" creationid="kunes" creationdate="20220516T110904Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+When selecting the &lt;g2&gt;Entry&lt;/g2&gt; control type, the &lt;g3&gt;Duration&lt;/g3&gt; field is taken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
 Příznakem OSS se určuje, zda-li uvedená kombinace zemí je či není předmětem režimu OSS.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115445Z" creationid="kunes" creationdate="20220419T115445Z">
@@ -8515,6 +8525,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Navolte &lt;g1&gt;Typ kontroly&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110659Z" creationid="kunes" creationdate="20220516T110659Z">
+        <seg>Choose &lt;g1&gt;Control Type&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Neaktivujte pole &lt;g1&gt;Použít počet dní platnosti&lt;/g1&gt; a nezadávejte hodnotu do pole &lt;g2&gt;Počet dní platnosti&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125843Z" creationid="kunes" creationdate="20220420T125843Z">
@@ -12269,6 +12287,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při výběru fází má nejvyšší prioritu výběru Položka, pak Datový interval a nakonec Číselný interval.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110800Z" creationid="kunes" creationdate="20220516T110800Z">
+        <seg>When selecting phases, the highest priority is to select Item, then Date Interval, and finally Numerical Interval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Při zadávání dat na kartě zásilky (automaticky pomocí načtení kódů, nebo ručně) je na kartě zásilky funkce &lt;g1&gt;Ověřit data zásilky&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113540Z" creationid="kunes" creationdate="20220411T113540Z">
@@ -13497,6 +13523,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Ten nabývá hodnot &lt;g2&gt;Položka&lt;/g2&gt;, &lt;g3&gt;Datový interval&lt;/g3&gt; nebo &lt;g4&gt;Číselný interval&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110738Z" creationid="kunes" creationdate="20220516T110738Z">
+        <seg>It takes values &lt;g2&gt;Entry&lt;/g2&gt;, &lt;g3&gt;Date Interval&lt;/g3&gt; or &lt;g4&gt;Numerical Interval&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Ten nastavíme následujícím způsobem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T104108Z" creationid="kunes" creationdate="20220516T104108Z">
@@ -13777,6 +13811,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Toto pole se vztahuje k poli Číslo pole z Karty šablony události.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110819Z" creationid="kunes" creationdate="20220516T110819Z">
+        <seg>This field refers to the Field Number field from the Event Template Card.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Toto slouží k omezení chybovosti uživatelů, aby nemohli spojit do zásilky doklady s různými expedičními místy.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120145Z" creationid="kunes" creationdate="20220411T120145Z">
@@ -13861,6 +13903,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082530Z" creationid="kunes" creationdate="20220404T082436Z">
         <seg>This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>U každého řádku zadejte &lt;g1&gt;Code&lt;/g1&gt;, který slouží k rozlišení jednotlivých fází sledování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110643Z" creationid="kunes" creationdate="20220516T110643Z">
+        <seg>For each line, enter a &lt;g1&gt;Code&lt;/g1&gt; that is used to distinguish between the stages of tracking.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16083,6 +16133,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T091213Z" creationid="kunes" creationdate="20220504T091213Z">
         <seg>Create a new Mail Record document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořte nový řádek pomocí tlačítka &lt;g1&gt;Nový&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T110633Z" creationid="kunes" creationdate="20220516T110633Z">
+        <seg>Create a new line using the &lt;g1&gt;New&lt;/g1&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
