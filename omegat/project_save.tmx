@@ -14197,6 +14197,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Připojit úlohu k&lt;/g1&gt;, zvolte, jestli chceme po zobrazení události v Položkách upozornění otevřít stránku nebo sestavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220516T102258Z" creationid="kunes" creationdate="20220516T102258Z">
+        <seg>In the &lt;g1&gt;Attach task to&lt;/g1&gt; box, choose whether to open the page or report after the event appears in Event Entries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli &lt;g1&gt;Přiřazeno legislativě&lt;/g1&gt; vyberte hodnotu &lt;g2&gt;SK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123928Z" creationid="kunes" creationdate="20220420T123928Z">
