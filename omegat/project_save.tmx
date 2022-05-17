@@ -4025,6 +4025,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Agenti Spooleru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121930Z" creationid="kunes" creationdate="20220517T121930Z">
+        <seg>Spooler Agents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Airway</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104342Z" creationid="kunes" creationdate="20220407T104342Z">
@@ -12068,6 +12076,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro nastavení agentů spooleru postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T122028Z" creationid="kunes" creationdate="20220517T122028Z">
+        <seg>To set up spooler agents, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení komodit spadajících do režimu tuzemského samozdanění je využita standardní karta Čísla sazebníku.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T075816Z" creationid="kunes" creationdate="20220421T075816Z">
@@ -14133,6 +14149,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091059Z" creationid="kunes" creationdate="20220419T091059Z">
         <seg>Press Details… the user will display the &lt;g1&gt;VAT Verification Protocol&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stránku následně můžete zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121926Z" creationid="kunes" creationdate="20220517T121926Z">
+        <seg>You can then close the page.</seg>
       </tuv>
     </tu>
     <tu>
