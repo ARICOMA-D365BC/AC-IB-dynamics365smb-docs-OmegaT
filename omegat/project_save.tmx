@@ -2519,6 +2519,18 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Spooler&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT řešení&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131138Z" creationid="kunes" creationdate="20220517T131138Z">
+        <seg>&lt;g1&gt;Spooler&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT Solutions&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Spotřeba&lt;/g1&gt; – standardní spotřeba vozidla pro jednotlivé typy provozu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125352Z" creationid="kunes" creationdate="20220427T125352Z">
@@ -4425,6 +4437,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Cílové úlohy spooleru se zobrazují na formuláři Úlohy spooleru na tlačítku Úloha – Cílové systémy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130952Z" creationid="kunes" creationdate="20220517T130952Z">
+        <seg>The spooler target tasks appear on the Spooler task form on the Task - Target Systems button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>DB Schenker</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
@@ -4737,6 +4757,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Disk – cesta &lt;g1&gt;čárka&lt;/g1&gt; přípona</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131042Z" creationid="kunes" creationdate="20220517T131042Z">
+        <seg>Disk – path &lt;g1&gt;comma&lt;/g1&gt; extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dle evidovaného odhadu (zálohový koeficient) jsou v průběhu účetního období účtovány odpočty DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104741Z" creationid="kunes" creationdate="20220419T104729Z">
@@ -4757,6 +4785,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113523Z" creationid="kunes" creationdate="20220419T113523Z">
         <seg>Fill in one of the columns according to the number series:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dle zvoleného druhu komunikace nastavují parametry:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131018Z" creationid="kunes" creationdate="20220517T131018Z">
+        <seg>According to the selected type of communication, they set the parameters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5153,6 +5189,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je možno vyplněním tabulky T4002916 OUT Buffer Dokument odeslat více souborů příloh v jednom e-mailu z jedné položky OUT Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131118Z" creationid="kunes" creationdate="20220517T131118Z">
+        <seg>It is also possible to fill in the table T4002916 OUT Buffer Document to send multiple attachment files in one e-mail from one OUT Buffer entry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je možno zaškrtnout, jestli se má &lt;g3&gt;Kontrolovat číslo externího dokladu&lt;/g3&gt;, &lt;g4&gt;Otevřít kartu dokladu po vytvoření&lt;/g4&gt;, &lt;g5&gt;Pouze jeden doklad&lt;/g5&gt;, &lt;g6&gt;Vytvořit došlý doklad&lt;/g6&gt; nebo &lt;g7&gt;Přenášet dimenze do dokladu&lt;/g7&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135548Z" creationid="kunes" creationdate="20220512T135548Z">
@@ -5301,6 +5345,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T114414Z" creationid="kunes" creationdate="20220516T114356Z">
         <seg>The email is then stored in the E-mail field in the Salesperson/Purchaser table, which is bound from the sales header through one field &lt;g1&gt;Salesperson Code&lt;/g1&gt; – Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>E-mail – emailové adresy</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131050Z" creationid="kunes" creationdate="20220517T131050Z">
+        <seg>E-mail – email address</seg>
       </tuv>
     </tu>
     <tu>
@@ -7447,6 +7499,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T115338Z" creationid="kunes" creationdate="20220517T115338Z">
         <seg>On the &lt;g1&gt;IN Buffer&lt;/g1&gt; form, there is a &lt;g2&gt;Send Task&lt;/g2&gt; function that allows you to send the job from the IN Buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na formuláři Úlohy spooleru lze přes tlačítko Funkce exportovat, importovat, zobrazit nebo smazat XDR a XSL šablony k jednotlivým úlohám.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131127Z" creationid="kunes" creationdate="20220517T131127Z">
+        <seg>On the Spooler Tasks form, you can use the Function button to export, import, view, or delete XDR and XSL templates for individual tasks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12292,6 +12352,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro druh komunikace E-mail platí: Při vložení úlohy do OUT Bufferu lze přenastavit (přepsat) parametr komunikace pro konkrétní položku v OUT Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131105Z" creationid="kunes" creationdate="20220517T131105Z">
+        <seg>For the E-mail communication type, the e-mail applies: When inserting a task into the OUT Buffer, it is possible to reconfigure (override) the communication parameter for a specific task in the OUT Buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro eliminaci rizika nesprávného zadání směnného kurzu a tudíž zaúčtování dokladu s nesprávným kurzem, byly do systému doplněny 2 nové kontroly.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091347Z" creationid="kunes" creationdate="20220419T091347Z">
@@ -14705,6 +14773,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>TCP – IP adresa &lt;g1&gt;čárka&lt;/g1&gt; port &lt;g2&gt;čárka&lt;/g2&gt; Timeout</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131027Z" creationid="kunes" creationdate="20220517T131027Z">
+        <seg>TCP – IP address &lt;g1&gt;comma&lt;/g1&gt; port &lt;g2&gt;comma&lt;/g2&gt; Timeout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>TCP – port &lt;g1&gt;čárka&lt;/g1&gt; Timeout</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T125201Z" creationid="kunes" creationdate="20220517T125201Z">
@@ -15425,6 +15501,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082530Z" creationid="kunes" creationdate="20220404T082436Z">
         <seg>This assignment will help to guide user behavior to prevent errors due to inattention. See Assigning payment methods to users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Týká se pouze OUT úloh.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130958Z" creationid="kunes" creationdate="20220517T130958Z">
+        <seg>Applies only to OUT jobs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16343,6 +16427,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114449Z" creationid="kunes" creationdate="20220411T114449Z">
         <seg>Visible fee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Viz popis nastavení spooleru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130937Z" creationid="kunes" creationdate="20220517T130937Z">
+        <seg>See the description of spooler settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18735,6 +18827,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101654Z" creationid="kunes" creationdate="20220406T101654Z">
         <seg>Here, in addition to the values ​​entered in this way, it is possible to enter any other values ​​when entering general parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zde je vyplněno s kým komunikuji (pole ID cílového systému) a s jakým parametrem (pole Parametr komunikace).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T131014Z" creationid="kunes" creationdate="20220517T131014Z">
+        <seg>Here it is filled in with whom I communicate (field ID of the target system) and with what parameter (field Interaction parameter).</seg>
       </tuv>
     </tu>
     <tu>
