@@ -605,6 +605,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Archivovat IN Buffer při zpracování&lt;/g1&gt; a &lt;g2&gt;Archivovat IN Buffer při expiraci&lt;/g2&gt; určují, kdy a jestli se mají položky IN Bufferu archivovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120459Z" creationid="kunes" creationdate="20220517T120459Z">
+        <seg>&lt;g1&gt;Archive IN Buffer on Process&lt;/g1&gt; and &lt;g2&gt;Archive IN Buffer on Expirate&lt;/g2&gt; determine when and if IN Buffer entries should be archived.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Automaticky&lt;/g1&gt; při spuštění Asistovaného nastavení příslušného produktu (Instalace &amp; Rozšíření -&gt; Asistovaná nastavení, část Nastavit rozšíření AUTOCONT).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121958Z" creationid="kunes" creationdate="20220512T121958Z">
@@ -1731,6 +1739,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nezpracované In úlohy&lt;/g1&gt; a &lt;g2&gt;Nezpracované Out úlohy&lt;/g2&gt; zobrazují počet nezpracovaných úloh v In Bufferu nebo Out Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120338Z" creationid="kunes" creationdate="20220517T120338Z">
+        <seg>&lt;g1&gt;Unprocessed In Task&lt;/g1&gt; and &lt;g2&gt;Unprocessed Out Task&lt;/g2&gt; number of pending taks in In Buffer or Out Buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Náklady&lt;/g1&gt; – standardní náklady/ceny pro jednotlivé typy provozu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125347Z" creationid="kunes" creationdate="20220427T125347Z">
@@ -2047,6 +2063,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Počítat velikost dokumentu IN Bufferu&lt;/g1&gt; a &lt;g2&gt;Počítat velikost dokumentu OUT Bufferu&lt;/g2&gt; určují, zda se mají počítat velikosti dokumentů zobrazovaných v IN a OUT Bufferech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120422Z" creationid="kunes" creationdate="20220517T120422Z">
+        <seg>&lt;g1&gt;Calculate IN Buffer Doc. Size&lt;/g1&gt; a &lt;g2&gt;Calculate OUT Buffer Doc. Size&lt;/g2&gt; determine whether to count the sizes of documents displayed in IN and OUT Buffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Priorita&lt;/g1&gt; – je možno nastavit pořadí pro odesílání k synchronizaci.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122518Z" creationid="kunes" creationdate="20220429T122518Z">
@@ -2351,6 +2375,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125124Z" creationid="kunes" creationdate="20220411T125124Z">
         <seg>&lt;g1&gt;Services of ČP&lt;/g1&gt; – Only for Czech Post service - a long text string of postal services above the parcel
 o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Source System&lt;/g1&gt;, které označuje zdrojový systém - jak se daný systém v komunikaci identifikuje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120247Z" creationid="kunes" creationdate="20220517T120247Z">
+        <seg>&lt;g1&gt;Source System&lt;/g1&gt;, which refers to the source system - how the system is identified in communication.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9633,6 +9665,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Nastavení spooleru&lt;/g1&gt;, kde jsou nastavovací a informativní pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120234Z" creationid="kunes" creationdate="20220517T120234Z">
+        <seg>The &lt;g1&gt;Spooler Setup&lt;/g1&gt; page opens, where there are setting and information fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se stránka &lt;g1&gt;Nastavení tabulky centrální databáze&lt;/g1&gt;, kde můžete vybrat řádek s odpovídající tabulkou.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T132644Z" creationid="kunes" creationdate="20220429T132644Z">
@@ -16215,6 +16255,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111639Z" creationid="kunes" creationdate="20220419T111639Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;CreditCheck Settings&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Nastavení spooleru&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120222Z" creationid="kunes" creationdate="20220517T120222Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Spooler Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
