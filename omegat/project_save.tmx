@@ -2891,6 +2891,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Změnit agenta po počtu chyb&lt;/g1&gt; je pouze pro OUT Agenty a Procesní Agenty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123539Z" creationid="kunes" creationdate="20220517T123539Z">
+        <seg>&lt;g1&gt;Switch Agent After Number of Errors&lt;/g1&gt; is only for OUT Agents and Process Agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Zásilky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142316Z" creationid="Janousek" creationdate="20210625T142316Z">
@@ -10964,6 +10972,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T120847Z" creationid="kunes" creationdate="20220517T120847Z">
         <seg>If 0 is entered, it is an unlimited number of entries in Buffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud se úloha Spooleru nenajde dle hlavičky XML, vezme se výchozí úloha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123458Z" creationid="kunes" creationdate="20220517T123458Z">
+        <seg>If the Spooler job is not found by XML header, the default job is taken.</seg>
       </tuv>
     </tu>
     <tu>
