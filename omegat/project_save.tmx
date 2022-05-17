@@ -831,6 +831,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Elektronicky podepsáno&lt;/g1&gt; – pokud je toto pole zatrženo, dokument je elektronicky podepsán.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115632Z" creationid="kunes" creationdate="20220517T115632Z">
+        <seg>&lt;g1&gt;Electronically signed&lt;/g1&gt; – if this field is checked, the document is electronically signed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Elektronická fakturace - Nastavení&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1687,6 +1695,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094531Z" creationid="kunes" creationdate="20220428T094531Z">
         <seg>&lt;g1&gt;Set Fields&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Není XML&lt;/g1&gt; nás informuje, zda přiřazený dokument není nebo je XML.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115547Z" creationid="kunes" creationdate="20220517T115547Z">
+        <seg>&lt;g1&gt;Non XML&lt;/g1&gt; informs us whether the assigned document is not or is XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4029,6 +4045,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Archiv - In a Out Buffer</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115710Z" creationid="kunes" creationdate="20220517T115710Z">
+        <seg>Archive - In a Out Buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Automatická aktualizace master dat</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130438Z" creationid="kunes" creationdate="20220411T130438Z">
@@ -4317,6 +4341,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Další možností, jak dostat položky do archívu je pomocí &lt;g1&gt;reportů R4002900 Move IN Buffer to Archive&lt;/g1&gt; a &lt;g2&gt;R4002901 Move OUT Buffer to Archive&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115817Z" creationid="kunes" creationdate="20220517T115817Z">
+        <seg>Another way to get items into the archive is using  &lt;g1&gt;reports R4002900 Move IN Buffer to Archive&lt;/g1&gt; and &lt;g2&gt;R4002901 Move OUT Buffer to Archive&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Další části</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105207Z" creationid="kunes" creationdate="20220407T105207Z">
@@ -4521,6 +4553,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123712Z" creationid="kunes" creationdate="20220420T123712Z">
         <seg>Import the current XML schema template into the XML schemas by following these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do archivu se položky dostanou také ručně z formuláře IN Bufferu nebo OUT Bufferu pomocí funkce &lt;g1&gt;Přesun do archívu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115757Z" creationid="kunes" creationdate="20220517T115757Z">
+        <seg>Items can also be accessed manually from the IN Buffer or OUT Buffer form using the &lt;g1&gt;Move to Archive&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do archívu se položky dostanou automaticky při zpracování, pokud je to nastaveno v úloze spooleru (Nearchivovat při zpracování, Nearchivovat při expiraci) nebo v nastavení spooleru (Archivovat IN Buffer při zpracování a Archivovat IN Buffer při expiraci, Archivovat OUT Buffer při zpracování a Archivovat OUT Buffer při expiraci).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115741Z" creationid="kunes" creationdate="20220517T115741Z">
+        <seg>Entry will be accessed to the archive automatically during processing if this is set in the spooler task (Do not archive during processing, Do not archive at expiration) or in the spooler settings (Archive IN Buffer during processing and Archive IN Buffer during expiration, Archive OUT Buffer during processing and Archive OUT Buffer during expiration).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10225,6 +10273,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pod stejnou sekci je také možnost &lt;g3&gt;Zobrazit datum podpisu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115654Z" creationid="kunes" creationdate="20220517T115654Z">
+        <seg>Below the same section there is also an option &lt;g3&gt;Show date of signature&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Podklad pro vyrovnání s FÚ OSS</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105510Z" creationid="kunes" creationdate="20220419T105510Z">
@@ -10604,6 +10660,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud ne, tak se musí ručně nastavit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115536Z" creationid="kunes" creationdate="20220517T115536Z">
+        <seg>If not, it must be manually set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud pole nebudou vyplěny nelze doklad vydat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090453Z" creationid="kunes" creationdate="20220411T113513Z">
@@ -10640,6 +10704,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105155Z" creationid="kunes" creationdate="20220407T105155Z">
         <seg>If the shipment is a parcel shipment (NOT a PALETTE shipment), once the number of parcels is entered, shipment lines will be created with individual shipping angent labels assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud se dle hlavičky dokumentu najde úloha spooleru, tak se automaticky nastaví údaje ve formuláři např. ID agenta, Typ procesu, Typ dokumentu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115533Z" creationid="kunes" creationdate="20220517T115533Z">
+        <seg>If a spooler task is found according to the document header, the data in the form is automatically set, e.g. Agent ID, Process Type, Document Type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10768,6 +10840,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110550Z" creationid="kunes" creationdate="20220504T110550Z">
         <seg>The &lt;g1&gt;User Change Allowed&lt;/g1&gt; field entitles you to change the Authorized Person (poIe Helpdesk Identification) when entering a new request into the HelpDesk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Priorita&lt;/g1&gt; má pouze evidenční charakter.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115702Z" creationid="kunes" creationdate="20220517T115702Z">
+        <seg>The &lt;g1&gt;Priority&lt;/g1&gt; field has only a record-keeping character.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12359,6 +12439,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110147Z" creationid="kunes" creationdate="20220419T110147Z">
         <seg>You must use the Personalize feature to display.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zobrazení položek archivu In nebo Out Bufferu posutpujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115715Z" creationid="kunes" creationdate="20220517T115715Z">
+        <seg>To view the In or Out Buffer archive items, do the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14481,6 +14569,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>To je možno zkontrolovat v sekci Funkce výběrem možnosti &lt;g2&gt;Zobrazit certifikát podpisu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115641Z" creationid="kunes" creationdate="20220517T115641Z">
+        <seg>This can be checked in the Features section by selecting &lt;g2&gt;View Signing Certificate&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>To learn what’s coming, see the &lt;g1&gt;Microsoft Dynamics 365 Business Central Release Notes&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090506Z" creationid="kunes" creationdate="20220419T090506Z">
@@ -15827,6 +15923,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112006Z" creationid="kunes" creationdate="20220419T112006Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;CreditCheck Status Update&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Archivovaný In Buffer&lt;/g4&gt; nebo &lt;g5&gt;Archivovaný Out Buffer&lt;/g5&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115727Z" creationid="kunes" creationdate="20220517T115727Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Archived IN Buffer&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
