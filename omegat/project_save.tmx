@@ -11264,6 +11264,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Logovat&lt;/g1&gt; určuje, zda a jak se zapisuje do aplikačního logu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130133Z" creationid="kunes" creationdate="20220517T130133Z">
+        <seg>The &lt;g1&gt;Log&lt;/g1&gt; field determines whether and how it is written to the application log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Popis kumulovaného řádku plat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112746Z" creationid="kunes" creationdate="20220419T112746Z">
@@ -11292,6 +11300,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103840Z" creationid="kunes" creationdate="20220421T103840Z">
         <seg>The &lt;g1&gt;Assing Legislation&lt;/g1&gt; field in the list of accounting schemes is used to differentiation between Czech and Slovak statutory statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Typ odpovědi&lt;/g1&gt; využívají pouze IN úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130158Z" creationid="kunes" creationdate="20220517T130158Z">
+        <seg>The &lt;g1&gt;Answer Type&lt;/g1&gt; fields are used only by IN jobs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11328,6 +11344,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Čekat po množství chyb&lt;/g1&gt; a &lt;g2&gt;Čekací doba po chybách&lt;/g2&gt; slouží k určení, po kolika chybách se bude jak dlouho čekat s dalším pokusem o zpracování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130326Z" creationid="kunes" creationdate="20220517T130326Z">
+        <seg>Use &lt;g1&gt;Wait after numbers of errors&lt;/g1&gt; and &lt;g2&gt;Wait after Error&lt;/g2&gt; fields to specify how many errors to wait for how long to try to process again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Číselná řada variabilního symbolu&lt;/g1&gt; – pokud se nekumuluje dle VS, KS nebo SS, pak se do pole VS doplní číslo dle zde nastavené číselné řady (SS a KS se vezmou z prvního slučovaného řádku příkazu)</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112734Z" creationid="kunes" creationdate="20220419T112734Z">
@@ -11340,6 +11364,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T125937Z" creationid="kunes" creationdate="20220517T125937Z">
         <seg>The &lt;g1&gt;Last Document Number&lt;/g1&gt; field uses the system internally, is not set and is used only for OUT jobs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Šablona XSL&lt;/g1&gt; slouží k zobrazení dokumentu v HTML.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130247Z" creationid="kunes" creationdate="20220517T130247Z">
+        <seg>The &lt;g1&gt;XSL Template&lt;/g1&gt; field is used to display the document in HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11632,6 +11664,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102358Z" creationid="kunes" creationdate="20220419T102358Z">
         <seg>Delegation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Potvrzení – úloha se vloží do IN Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130228Z" creationid="kunes" creationdate="20220517T130228Z">
+        <seg>Confirmation - the task is inserted into the IN Buffer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17871,6 +17911,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T125703Z" creationid="kunes" creationdate="20220420T125703Z">
         <seg>Calculation of depreciation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Výsledek – úloha se vloží do IN Bufferu a okamžitě se spustí zpracování.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130236Z" creationid="kunes" creationdate="20220517T130236Z">
+        <seg>Result – the job is inserted into the IN Buffer and processing starts immediately.</seg>
       </tuv>
     </tu>
     <tu>
