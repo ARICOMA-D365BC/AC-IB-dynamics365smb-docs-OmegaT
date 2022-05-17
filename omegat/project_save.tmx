@@ -8463,6 +8463,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Např. pro odesílání dokladů E-Mailem (zde nemusí platit, že když neprojde odeslání jednoho dokladu (třeba kvůli velikosti), tak potom neprojde odesílání dalších).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130452Z" creationid="kunes" creationdate="20220517T130452Z">
+        <seg>For example, for sending documents by E-Mail (here it does not have to be true that if one document is not sent (for example, because of the size), then the sending of others will not pass).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Např. údaj 28,35 je převeden na 1 den 4 hodiny 21 minuty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T062719Z" creationid="kunes" creationdate="20220512T062719Z">
@@ -11208,10 +11216,26 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Elektronicky podepisovat&lt;/g1&gt; slouží pouze pro OUT úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130531Z" creationid="kunes" creationdate="20220517T130531Z">
+        <seg>Pole &lt;g1&gt;Elektronicky podepisovat&lt;/g1&gt; slouží pouze pro OUT úlohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;ID Agenta&lt;/g1&gt; určuje, který agent bude úlohu spooleru zpracovávat.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T125553Z" creationid="kunes" creationdate="20220517T125553Z">
         <seg>The &lt;g1&gt;Agent ID&lt;/g1&gt; field determines which agent will handle the spooler task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;ID codeunity při vložení&lt;/g1&gt; – umožňuje spustit codeunitu při vložení do Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130351Z" creationid="kunes" creationdate="20220517T130351Z">
+        <seg>&lt;g1&gt;On Insert Codeunit ID&lt;/g1&gt; – allows you to run codeunita when inserted into buffer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11268,6 +11292,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T130133Z" creationid="kunes" creationdate="20220517T130133Z">
         <seg>The &lt;g1&gt;Log&lt;/g1&gt; field determines whether and how it is written to the application log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Nenutit posloupnost odesílání&lt;/g1&gt; – pokud je toto pole zaškrtnuto, tak se položky úlohy neúčastní výpočtu pro vynucení posloupnosti odesílání (zaškrtnout pouze na úlohách, kde je vysloveně nežádoucí vynucovat posloupnost odesílání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130551Z" creationid="kunes" creationdate="20220517T130439Z">
+        <seg>&lt;g1&gt;Do not force send order&lt;/g1&gt; field – If this field is checked, the job items do not participate in the calculation to enforce the sending sequence (check only on jobs where it is explicitly undesirable to enforce the sending sequence.</seg>
       </tuv>
     </tu>
     <tu>
