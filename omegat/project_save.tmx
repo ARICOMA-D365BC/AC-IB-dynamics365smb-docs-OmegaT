@@ -743,6 +743,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Dokument&lt;/g1&gt;, kde se vybírá dokument úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115505Z" creationid="kunes" creationdate="20220517T115505Z">
+        <seg>&lt;g1&gt;Document&lt;/g1&gt; where the assignment document is selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Doprava - plánování&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141904Z" creationid="Janousek" creationdate="20210625T141904Z">
@@ -7119,6 +7127,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na formuláři &lt;g1&gt;IN Bufferu&lt;/g1&gt; je funkce &lt;g2&gt;Odeslat úlohu&lt;/g2&gt;, která umožňuje danou úlohu odeslat z IN Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115338Z" creationid="kunes" creationdate="20220517T115338Z">
+        <seg>On the &lt;g1&gt;IN Buffer&lt;/g1&gt; form, there is a &lt;g2&gt;Send Task&lt;/g2&gt; function that allows you to send the job from the IN Buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na formulářích IN Bufferu i OUT Bufferu možno exportovat dokument, zobrazit dokument a zobrazit jako HTML – to v případě, že pro úlohu spooleru je nadefinovaná šablona XSL.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T110955Z" creationid="kunes" creationdate="20220517T110955Z">
@@ -7597,6 +7613,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103309Z" creationid="kunes" creationdate="20220419T103309Z">
         <seg>On the &lt;g1&gt;Configuration Worksheet&lt;/g1&gt; page, run the &lt;g2&gt;Set Processing Order&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Vložit In Buffer&lt;/g1&gt; vyplňte následující pole podle potřeby:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115457Z" creationid="kunes" creationdate="20220517T115457Z">
+        <seg>On the &lt;g1&gt;Insert In Buffer&lt;/g1&gt; page, fill in the following fields as needed:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9509,6 +9533,22 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;In Buffer&lt;/g1&gt;, kde můžete použít funkci &lt;g2&gt;Spustit úlohu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115235Z" creationid="kunes" creationdate="20220517T115235Z">
+        <seg>The &lt;g1&gt;In Buffer&lt;/g1&gt; page opens, where you can use the &lt;g2&gt;Run Task&lt;/g2&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;In Buffer&lt;/g1&gt;, kde vyberte sekci &lt;g2&gt;Akce&lt;/g2&gt;, dále &lt;g3&gt;Funkce&lt;/g3&gt; a nakonec funci &lt;g4&gt;Vložit úlohu&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115444Z" creationid="kunes" creationdate="20220517T115444Z">
+        <seg>&lt;g1&gt;IN Buffer&lt;/g1&gt; page opens, where you select the &lt;g2&gt;Actions&lt;/g2&gt; section, then &lt;g3&gt;Functions&lt;/g3&gt;, and finally the &lt;g4&gt;Insert Task&lt;/g4&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se stránka &lt;g1&gt;Nainstalovaná rozšíření&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130823Z" creationid="kunes" creationdate="20220411T130823Z">
@@ -10624,6 +10664,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T110245Z" creationid="kunes" creationdate="20220517T110245Z">
         <seg>If an entry fails to be sent, no other items heading to the same destination will be sent (according to &lt;g1&gt;Destination System ID&lt;/g1&gt; and &lt;g2&gt;Interaction Parameter&lt;/g2&gt; fields from the recipient settings, regardless of the task).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud se po ručním spuštění úloha nezpracovala, je zřejmě problém s aplikačním serverem (např. uživatelská práva).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115250Z" creationid="kunes" creationdate="20220517T115250Z">
+        <seg>If the task did not process after manual execution, there may be a problem with the application server (e.g. user rights).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12043,6 +12091,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro vložení úkolu do In nebo Out Bufferu postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115412Z" creationid="kunes" creationdate="20220517T115412Z">
+        <seg>To insert a task into an IN or OUT Buffer, do the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro vyhledání dle parametrů u dlouhodobého majetku pokračujte následujícím způsobem:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123315Z" creationid="kunes" creationdate="20220405T123315Z">
@@ -12449,6 +12505,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110405Z" creationid="kunes" creationdate="20220504T110405Z">
         <seg>The program then uses this value to calculate the overall priority of the request.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Program pak umožňuje zobrazit chybu, kvůli které se úloha nezpracovala.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115244Z" creationid="kunes" creationdate="20220517T115244Z">
+        <seg>The program then allows you to view an error due to which the task did not process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13139,6 +13203,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102508Z" creationid="kunes" creationdate="20220419T102508Z">
         <seg>Extension of number series</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Ruční vložení úkolu do In nebo Out Bufferu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115353Z" creationid="kunes" creationdate="20220517T115353Z">
+        <seg>Manually insert a task into the IN or OUT Buffer</seg>
       </tuv>
     </tu>
     <tu>
