@@ -5629,6 +5629,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hlavní částí spooleru jsou dvě tabulky, ve kterých jsou uchovány jednotlivé záznamy o komunikaci včetně souborů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104840Z" creationid="kunes" creationdate="20220517T104840Z">
+        <seg>The main part of the spooler are two tables in which individual records of communication, including files, are stored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hodnota Číselný interval zase pracuje s poli &lt;g7&gt;Počáteční číslo&lt;/g7&gt; a &lt;g8&gt;Koncové číslo&lt;/g8&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T111927Z" creationid="kunes" creationdate="20220516T111927Z">
@@ -5687,8 +5695,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>In Buffer a Out Buffer</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220517T104825Z" creationid="kunes" creationdate="20220517T104825Z">
-        <seg>In Buffer a Out Buffer</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104834Z" creationid="kunes" creationdate="20220517T104825Z">
+        <seg>In Buffer and Out Buffer</seg>
       </tuv>
     </tu>
     <tu>
@@ -6145,6 +6153,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T105131Z" creationid="kunes" creationdate="20220407T105131Z">
         <seg>Each shipping angent and shipping angent service has its own specific parameters that will report a message if the data is incomplete, indicating what data is missing from the shipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Každý záznam v tabulce IN Bufferu i OUT Bufferu má přiděleno jedinečné číslo &lt;g1&gt;ID dokumentu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105158Z" creationid="kunes" creationdate="20220517T105158Z">
+        <seg>Each record in both the IN Buffer and OUT Buffer tables is assigned a unique &lt;g1&gt;Document ID&lt;/g1&gt; number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12827,6 +12843,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095922Z" creationid="kunes" creationdate="20220428T095922Z">
         <seg>The difference to the Same Code option is that in the &lt;g3&gt;Condition&lt;/g3&gt; field of the comparison you can select the comparison method (Equal, Not Equal, Less than, Less than or Equal, Greater than, Greater than or Equal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozhraní obou tabulek je téměř stejné.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104847Z" creationid="kunes" creationdate="20220517T104847Z">
+        <seg>The interface of both tables is almost the same.</seg>
       </tuv>
     </tu>
     <tu>
