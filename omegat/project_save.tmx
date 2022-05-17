@@ -11218,8 +11218,8 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Elektronicky podepisovat&lt;/g1&gt; slouží pouze pro OUT úlohy.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220517T130531Z" creationid="kunes" creationdate="20220517T130531Z">
-        <seg>Pole &lt;g1&gt;Elektronicky podepisovat&lt;/g1&gt; slouží pouze pro OUT úlohy.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130616Z" creationid="kunes" creationdate="20220517T130531Z">
+        <seg>The &lt;g1&gt;Electronically Sign&lt;/g1&gt; field is for OUT jobs only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11292,6 +11292,22 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T130133Z" creationid="kunes" creationdate="20220517T130133Z">
         <seg>The &lt;g1&gt;Log&lt;/g1&gt; field determines whether and how it is written to the application log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Nearchivovat při zpracování a Nearchivovat při expiraci&lt;/g1&gt; nám určují, kdy a jestli se mají položky Bufferu archivovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130836Z" creationid="kunes" creationdate="20220517T130831Z">
+        <seg>The &lt;g1&gt;Dont Archive on Expirate and Dont Archive on Process&lt;/g1&gt; fields determine when and whether Buffer entries should be archived.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Nehledat příchozí zprávu v archívu&lt;/g1&gt; a &lt;g2&gt;Nehledat odpověď v archívu&lt;/g2&gt; slouží k zabezpečení komunikace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130933Z" creationid="kunes" creationdate="20220517T130933Z">
+        <seg>Use the &lt;g1&gt;Dont Search IN Msg in archive&lt;/g1&gt; and &lt;g2&gt;Dont Search for a Response in Archive&lt;/g2&gt; fields to secure communications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11476,6 +11492,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125907Z" creationid="kunes" creationdate="20220429T125907Z">
         <seg>A field with this designation is always required to be synchronized</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Polem &lt;g1&gt;Kódování XML&lt;/g1&gt; určujeme, jak bude XML dokument kódován.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130737Z" creationid="kunes" creationdate="20220517T130737Z">
+        <seg>The &lt;g1&gt;XML Encoding&lt;/g1&gt; field specifies how the XML document will be encoded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15373,6 +15397,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tyto pole mají vyšší prioritu než pole v nastavení spooleru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130841Z" creationid="kunes" creationdate="20220517T130832Z">
+        <seg>These fields have a higher priority than the fields in the spooler settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tyto čerpání jsou připravena pro import ze souboru dodavatele, alternativně lze zadat ručně.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125457Z" creationid="kunes" creationdate="20220427T125457Z">
@@ -15591,6 +15623,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T123340Z" creationid="kunes" creationdate="20220517T123340Z">
         <seg>Specifies the time interval in which it activates and performs the activity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Určuje, zda se úloha při vložení do Bufferu automaticky podepíše.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130631Z" creationid="kunes" creationdate="20220517T130631Z">
+        <seg>Specifies whether the job is automatically signed when inserted into Buffer.</seg>
       </tuv>
     </tu>
     <tu>
