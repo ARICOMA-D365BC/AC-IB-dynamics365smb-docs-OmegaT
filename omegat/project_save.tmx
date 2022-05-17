@@ -681,6 +681,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Certifikát Pfx&lt;/g1&gt; – pokud zadáte *, tak pole zobrazuje, že je zde uložen elektronický podpis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120914Z" creationid="kunes" creationdate="20220517T120914Z">
+        <seg>&lt;g1&gt;Certificate Pfx&lt;/g1&gt; – if you enter *, the field shows that an electronic signature is stored there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Controling Basic&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
@@ -1085,6 +1093,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Heslo k certifikátu Pfx&lt;/g1&gt; - vyplněno pokud se používá.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121006Z" creationid="kunes" creationdate="20220517T121006Z">
+        <seg>&lt;g1&gt;Pfx certificate password&lt;/g1&gt; - filled in if used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Hmotnost na řádku&lt;/g1&gt; - Hmotnost musí být vyplěna v řádku zásilky</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T125045Z" creationid="kunes" creationdate="20220411T125045Z">
@@ -1329,6 +1345,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124625Z" creationid="kunes" creationdate="20220411T124625Z">
         <seg>&lt;g1&gt;Maximum address length&lt;/g1&gt; – set the address length for the selected carrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Maximální počet položek v Bufferu&lt;/g1&gt; omezuje počet položek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120838Z" creationid="kunes" creationdate="20220517T120812Z">
+        <seg>&lt;g1&gt;Maximal Entries in Bufffer&lt;/g1&gt; limits the number of items.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1715,10 +1739,18 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nehledat odpověď v archívu&lt;/g1&gt; určuje, zda se má hledat odpověď dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120821Z" creationid="kunes" creationdate="20220517T120805Z">
+        <seg>&lt;g1&gt;Dont Search Resp. in Archive&lt;/g1&gt; determines whether to search for an answer by the unique GUID (Document ID) in the archived entries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nehledat příchozí zprávu v archívu&lt;/g1&gt; určuje, zda se má hledat příchozí zpráva dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220517T120744Z" creationid="kunes" creationdate="20220517T120744Z">
-        <seg>&lt;g1&gt;Dont Search IN Msg in Archiv&lt;/g1&gt; determines whether to search for incoming message by unique GUID (Document ID) in archived items.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120816Z" creationid="kunes" creationdate="20220517T120744Z">
+        <seg>&lt;g1&gt;Dont Search IN Msg in Archiv&lt;/g1&gt; determines whether to search for incoming message by unique GUID (Document ID) in archived entries.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1743,6 +1775,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091334Z" creationid="kunes" creationdate="20220419T091334Z">
         <seg>&lt;g1&gt;Unverified and Valid&lt;/g1&gt; – used typically for checking items for non-VAT payers, where a valid registration is actually an error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nepovolit elektronické podepisování&lt;/g1&gt; slouží k zapínání a vypínání použití elektronického podpisu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121030Z" creationid="kunes" creationdate="20220517T121030Z">
+        <seg>&lt;g1&gt;Do not enable electronic signing&lt;/g1&gt; is used to turn the use of electronic signatures on or off.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,6 +10864,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud se zadá hodnota 0, jedná se o neomezený počet položek v Bufferech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120847Z" creationid="kunes" creationdate="20220517T120847Z">
+        <seg>If 0 is entered, it is an unlimited number of entries in Buffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud si firma vydefinuje způsoby plateb s více pokladnami, může být pro ni výhodné pojmenovat si jednotlivá fyzická pokladní místa a definovat uživatele, které na nich pracují.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T082223Z" creationid="kunes" creationdate="20220404T082205Z">
@@ -10860,6 +10908,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121251Z" creationid="kunes" creationdate="20220427T121251Z">
         <seg>Field</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Cesta k certifikátu Pfx&lt;/g1&gt; se využívá, pokud není certifikát uložen přímo v databázi.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121000Z" creationid="kunes" creationdate="20220517T121000Z">
+        <seg>The &lt;g1&gt;Pfx Certificate Path&lt;/g1&gt; field is used if the certificate is not stored directly in the database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15775,6 +15831,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123325Z" creationid="kunes" creationdate="20220420T123325Z">
         <seg>Insert journal lines with the &lt;g1&gt;Suggest Lines...&lt;/g1&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Volba nezaškrtnuto znamená nepoužívat elektronický podpis.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121034Z" creationid="kunes" creationdate="20220517T121034Z">
+        <seg>Unchecked means do not use an electronic signature.</seg>
       </tuv>
     </tu>
     <tu>
