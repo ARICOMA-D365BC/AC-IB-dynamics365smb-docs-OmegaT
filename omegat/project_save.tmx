@@ -2973,6 +2973,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g7&gt;Pole ID zdrojového systému&lt;/g7&gt; nám v IN Bufferu ukazuje odkud (z jakého systému) daný záznam pochází.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105712Z" creationid="kunes" creationdate="20220517T105712Z">
+        <seg>&lt;g7&gt;Source System ID&lt;/g7&gt; field in the IN Buffer shows us where (from which system) the given record comes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;prázdné&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102341Z" creationid="kunes" creationdate="20220419T102341Z">
@@ -7337,6 +7345,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na rozdíl od IN Buffer je na OUT Bufferu pole &lt;g1&gt;Nenutit posloupnost odesílání&lt;/g1&gt; - tady je možno kódem vyjmout položku Bufferu z výpočtu o posloupnosti odesílání.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110102Z" creationid="kunes" creationdate="20220517T110102Z">
+        <seg>Unlike IN Buffer, there is an outgoing &lt;g1&gt;Send sequence&lt;/g1&gt; field on the OUT Buffer - here it is possible to exclude the Buffer item from the calculation of the sending sequence by code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;DPH Výkaz DPH&lt;/g1&gt; vyberte pro každý řádek příslušné schéma, která bude použito při exportu – pole &lt;g2&gt;XML schéma&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132756Z" creationid="kunes" creationdate="20220420T132756Z">
@@ -8919,6 +8935,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113051Z" creationid="kunes" creationdate="20220419T113051Z">
         <seg>If the Ex.Rate Check DateForm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Neodeslání položky Out Bufferu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105748Z" creationid="kunes" creationdate="20220517T105748Z">
+        <seg>Not sending Out Buffer entry</seg>
       </tuv>
     </tu>
     <tu>
