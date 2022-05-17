@@ -3353,6 +3353,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení spooleru&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121043Z" creationid="kunes" creationdate="20220517T121043Z">
+        <seg>&lt;x1/&gt;Spooleru Setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení účtování DHP&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T114409Z" creationid="kunes" creationdate="20220419T114409Z">
@@ -10429,6 +10437,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Podpis je možné dále zobrazit, exportovat nebo smazat pomocí funkcí &lt;g1&gt;Exportovat, Odstranit a Ukázat&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121919Z" creationid="kunes" creationdate="20220517T121919Z">
+        <seg>You can also view, export or delete your signature using &lt;g1&gt;Export, Delete and View&lt;/g1&gt; features.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Podrozvahová položka je uzavřena v okamžiku uzavření faktoringové pohledávky.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T120256Z" creationid="kunes" creationdate="20220420T120256Z">
@@ -11872,6 +11888,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132320Z" creationid="kunes" creationdate="20220420T132320Z">
         <seg>The standard functionality of the system is used to generate the VAT statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro import elektronického podpisu, použijte &lt;g1&gt;Certifikát Pfx&lt;/g1&gt; a dále funkci &lt;g2&gt;Impotovat...&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T121052Z" creationid="kunes" creationdate="20220517T121052Z">
+        <seg>To import an electronic signature, use &lt;g1&gt;the Pfx Certificate&lt;/g1&gt; and the &lt;g2&gt;Impote...&lt;/g2&gt; function.</seg>
       </tuv>
     </tu>
     <tu>
