@@ -17,7 +17,8 @@ Modul **Fronta úloh** umožňuje automatizované spouštění sestav či proced
 Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.
 
 ![Rozšíření fronty  úloh](media/job_queue.png "Rozšíření fronty úloh")
-**Viz také**
+
+##Viz také
 
 [Rozšíření fronty  úloh (Job Queue) - nastavení](ac-job-queue-extension-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)
