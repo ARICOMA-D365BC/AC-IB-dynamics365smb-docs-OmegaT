@@ -4877,6 +4877,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je v záznamu vidět jaká úloha se zpracovává – pole &lt;g4&gt;ID úkolu&lt;/g4&gt; a jakým agentem je zpracovávána – pole &lt;g5&gt;ID agenta&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105253Z" creationid="kunes" creationdate="20220517T105253Z">
+        <seg>In addition, the record shows what task is being processed – &lt;g4&gt;Task ID&lt;/g4&gt; field and by which agent it is processed – &lt;g5&gt;Agent ID&lt;/g5&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále jsou zde funkce pro &lt;g2&gt;Vytvořit interakci&lt;/g2&gt;, &lt;g3&gt;Stáhnout zprávy z datové schránky&lt;/g3&gt;, &lt;g4&gt;Navigovat&lt;/g4&gt; případně přidat &lt;g5&gt;Poznámky&lt;/g5&gt;, nebo zobrazit připojené &lt;g6&gt;Dokumenty&lt;/g6&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T085015Z" creationid="kunes" creationdate="20220512T084936Z">
@@ -5857,6 +5865,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101643Z" creationid="kunes" creationdate="20220406T101643Z">
         <seg>However, it is also possible to define values for parameters entered by Manual input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Je zde také zobrazen &lt;g2&gt;Typ procesu&lt;/g2&gt; a &lt;g3&gt;Typ dokumentu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105234Z" creationid="kunes" creationdate="20220517T105234Z">
+        <seg>It also displays &lt;g2&gt;Process Type&lt;/g2&gt; and &lt;g3&gt;Document Type&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +7927,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T111028Z" creationid="Janousek" creationdate="20210603T110738Z">
         <seg>It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nabývá hodnot Ne, Ano, Expirováno a Odloženo.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105448Z" creationid="kunes" creationdate="20220517T105448Z">
+        <seg>It takes the values No, Yes, Expired, and Delayed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13553,6 +13577,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T082538Z" creationid="kunes" creationdate="20220504T082538Z">
         <seg>The workflow status is then allowed to be changed only if all checks within the inspected tables are compliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Stav záznamu označuje pole &lt;g6&gt;Zpracováno&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T105303Z" creationid="kunes" creationdate="20220517T105303Z">
+        <seg>The status of the record is indicated by the &lt;g6&gt;Processed&lt;/g6&gt; field.</seg>
       </tuv>
     </tu>
     <tu>
