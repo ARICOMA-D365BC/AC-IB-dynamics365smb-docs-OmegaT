@@ -4269,6 +4269,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Další funkcí pod plačítkem &lt;g1&gt;Export Dokumentu&lt;/g1&gt; je také volba Zkontrolovat elektronický podpis a zobrazit certifikát podpisu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111107Z" creationid="kunes" creationdate="20220517T111107Z">
+        <seg>Another feature under the &lt;g1&gt;Export Document&lt;/g1&gt; banner is the Check Electronic Signature and View Signature Certificate option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Další fází je vlastní „&lt;g1&gt;Plánování dopravy&lt;/g1&gt;“ pomocí stránky „Pult dispečera dopravy“ – kde odpovědný pracovník vidí jednotlivé požadavky a může je zpracovávat – plánovat data, přiřazovat vozidla/řidiče, kombinovat dle dostupných kapacit atd.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130721Z" creationid="kunes" creationdate="20220427T130721Z">
@@ -9067,6 +9075,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nezpracovaný záznam</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111131Z" creationid="kunes" creationdate="20220517T111131Z">
+        <seg>Raw record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nová CU 52057071 "QR Code_acb", kde je funkce pro QR kód pro prodejní fakturu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104244Z" creationid="kunes" creationdate="20220419T103854Z">
@@ -9545,6 +9561,14 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T104622Z" creationid="kunes" creationdate="20220429T104622Z">
         <seg>The &lt;g1&gt;Central Database Table Setup&lt;/g1&gt; page opens, where you fill in the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;Out Buffer&lt;/g1&gt;, kde můžete použít funkci &lt;g2&gt;Export Dokumentu&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111036Z" creationid="kunes" creationdate="20220517T111036Z">
+        <seg>The &lt;g1&gt;OUT Buffer&lt;/g1&gt; page opens, where you can use the &lt;g2&gt;Document Export&lt;/g2&gt; feature.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10352,6 +10376,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092945Z" creationid="kunes" creationdate="20220428T092945Z">
         <seg>If you want changes to be automatically logged, select the &lt;g1&gt;Log changes&lt;/g1&gt; check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je daný záznam ve stavu Zpracováno = Ne, tak je možno danou úlohu spustit z formuláře ručně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111236Z" creationid="kunes" creationdate="20220517T111236Z">
+        <seg>If the given record is in the state Processed = No, it is possible to run the task manually from the form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11564,6 +11596,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115415Z" creationid="kunes" creationdate="20220401T115415Z">
         <seg>It is possible to use all three counter-account options included in the localization (Financial Account, Bank Account, Cashier) to record the settlement counter-account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro export dokumentu postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111006Z" creationid="kunes" creationdate="20220517T111006Z">
+        <seg>To export a document, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13929,6 +13969,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Tato funkce je dostupná pouze pro In Buffer.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115201Z" creationid="kunes" creationdate="20220517T115201Z">
+        <seg>This function is only available for In Buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Tato funkce je průvodcem, kdy předvyplní maximální množství údajů ze vstupního dokladu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130614Z" creationid="kunes" creationdate="20220427T130614Z">
@@ -16035,6 +16083,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T125914Z" creationid="kunes" creationdate="20220405T125914Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;General Parameters&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Out Buffer&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111017Z" creationid="kunes" creationdate="20220517T111017Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;OUT Buffer&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
