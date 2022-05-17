@@ -3331,6 +3331,16 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Rozšíření fronty  úloh&lt;x2/&gt;Rozšíření fronty úloh&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074342Z" creationid="kunes" creationdate="20220517T074342Z">
+        <seg>&lt;x1/&gt;Job Queue Extension&lt;x2/&gt;Job Queue Extensions&lt;x3/&gt;
+&lt;g4&gt;See Also&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Sharepoint&lt;x2/&gt;Sharepoint&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083322Z" creationid="kunes" creationdate="20220504T083322Z">
@@ -4293,6 +4303,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125638Z" creationid="kunes" creationdate="20220427T125638Z">
         <seg>The next step in processing the statement is its "Issue".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dalším možným využitím je pravidelné bezobslužné spouštění dávkových úloh, jako například adjustace nebo účtování nákladů na zboží.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074258Z" creationid="kunes" creationdate="20220517T074258Z">
+        <seg>Another possible use is the regular unattended execution of batch jobs, such as adjustment or billing of goods.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12799,6 +12817,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T073947Z" creationid="kunes" creationdate="20220504T092033Z">
         <seg>Job Queue Extension (Job Queue)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074320Z" creationid="kunes" creationdate="20220517T074320Z">
+        <seg>The Job Queue Extension is an additional module that allows you to define the parameters of job execution and actions performed at the start, successful or unsuccessful completion of the task, such as sending a notification email.</seg>
       </tuv>
     </tu>
     <tu>
