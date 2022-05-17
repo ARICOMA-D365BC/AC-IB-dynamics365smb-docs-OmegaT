@@ -4745,6 +4745,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dle polí &lt;g1&gt;Typ procesu&lt;/g1&gt; a &lt;g2&gt;Typ dokumentu&lt;/g2&gt; se rozpoznává úloha.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125657Z" creationid="kunes" creationdate="20220517T125657Z">
+        <seg>The &lt;g1&gt;Process Type&lt;/g1&gt; and &lt;g2&gt;Document Type&lt;/g2&gt; fields recognize the task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dle určení číselné řady vyplňte některý ze sloupců:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113523Z" creationid="kunes" creationdate="20220419T113523Z">
@@ -4789,6 +4797,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T083252Z" creationid="kunes" creationdate="20220512T083252Z">
         <seg>All data from the Mail Record Card are transferred to the header of the created document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Expirovat po&lt;/g1&gt; se zadává doba trvání (proměnná Duration).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T130128Z" creationid="kunes" creationdate="20220517T130128Z">
+        <seg>In the &lt;g1&gt;Expirate After&lt;/g1&gt; field, a duration (Duration variable) is entered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11288,6 +11304,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Výchozí cílový systém&lt;/g1&gt; se může vyplnit pouze pro OUT úlohy, pokud se cílový systém neurčí přímo z hlavičky XML dokumentu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125926Z" creationid="kunes" creationdate="20220517T125926Z">
+        <seg>The &lt;g1&gt;Destination System&lt;/g1&gt; field can be filled in only for OUT tasks if the target system is not specified directly from the XML document header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g1&gt;Výchozí priorita&lt;/g1&gt; označuje, v jakém pořadí se úlohy zpracovávají.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T125541Z" creationid="kunes" creationdate="20220517T125541Z">
@@ -11308,6 +11332,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112734Z" creationid="kunes" creationdate="20220419T112734Z">
         <seg>&lt;g1&gt;Variable symbol number series field&lt;/g1&gt; – if it is not accumulated according to VS, KS or SS, then the number according to the number series set here is added to the VS field (SS and KS are taken from the first merged line of the command)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Číslo posledního dokladu&lt;/g1&gt; využívá systém interně, nenastavuje se a slouží pouze pro OUT úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125937Z" creationid="kunes" creationdate="20220517T125937Z">
+        <seg>The &lt;g1&gt;Last Document Number&lt;/g1&gt; field uses the system internally, is not set and is used only for OUT jobs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14083,6 +14115,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125828Z" creationid="kunes" creationdate="20220427T125828Z">
         <seg>It is used to record the operation of the vehicle, it is entered via the Drive Journal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Slouží tedy k nalezení úlohy dle hlavičky XML dokumentu v Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125712Z" creationid="kunes" creationdate="20220517T125712Z">
+        <seg>It is used to find the task according to the header of the XML document in Buffer.</seg>
       </tuv>
     </tu>
     <tu>
