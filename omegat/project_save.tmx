@@ -4909,6 +4909,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je zde možnost daný záznam expirovat, změnit poznámku nebo ručně odeslat do archívu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T111002Z" creationid="kunes" creationdate="20220517T111002Z">
+        <seg>There is also the option to expire the record, change the note or manually send it to the archive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále jsou zde funkce pro &lt;g2&gt;Vytvořit interakci&lt;/g2&gt;, &lt;g3&gt;Stáhnout zprávy z datové schránky&lt;/g3&gt;, &lt;g4&gt;Navigovat&lt;/g4&gt; případně přidat &lt;g5&gt;Poznámky&lt;/g5&gt;, nebo zobrazit připojené &lt;g6&gt;Dokumenty&lt;/g6&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T085015Z" creationid="kunes" creationdate="20220512T084936Z">
@@ -5265,6 +5273,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115108Z" creationid="kunes" creationdate="20220421T115108Z">
         <seg>Export the VAT Control Report to XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Export dokumentu komunikace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110836Z" creationid="kunes" creationdate="20220517T110836Z">
+        <seg>Export a communication document</seg>
       </tuv>
     </tu>
     <tu>
@@ -5729,6 +5745,38 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122012Z" creationid="Janousek" creationdate="20210625T131659Z">
         <seg>Import of exchange rates from the ECB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>In Buffer - Dotaz</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110801Z" creationid="kunes" creationdate="20220517T110801Z">
+        <seg>In Buffer - Query</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>In Buffer - Dotaz (včetně archivu)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110815Z" creationid="kunes" creationdate="20220517T110815Z">
+        <seg>In Buffer - Query (incl. Archiv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>In Buffer - Odpověď</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110742Z" creationid="kunes" creationdate="20220517T110742Z">
+        <seg>In Buffer - Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>In Buffer - Odpověď (včetně archivu)</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110755Z" creationid="kunes" creationdate="20220517T110755Z">
+        <seg>In Buffer - Response (incl. Archive)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7059,6 +7107,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115125Z" creationid="kunes" creationdate="20220401T115125Z">
         <seg>On sales invoice or sales credit note documents, instead of one payment method, it is now possible to define multiple payment methods, typically partly by credit card and partly in cash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na formulářích IN Bufferu i OUT Bufferu možno exportovat dokument, zobrazit dokument a zobrazit jako HTML – to v případě, že pro úlohu spooleru je nadefinovaná šablona XSL.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110955Z" creationid="kunes" creationdate="20220517T110955Z">
+        <seg>It is possible to export a document, display the document and display it as HTML on the IN Buffer and OUT Buffer forms - if an XSL template is defined for the spooler task.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,6 +10776,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125907Z" creationid="kunes" creationdate="20220429T125907Z">
         <seg>A field with this designation is always required to be synchronized</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Položky elektronických dokladů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110731Z" creationid="kunes" creationdate="20220517T110731Z">
+        <seg>Electronic Document Entries</seg>
       </tuv>
     </tu>
     <tu>
@@ -14481,6 +14545,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>U Out Bufferu jsou volby obdobně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110821Z" creationid="kunes" creationdate="20220517T110821Z">
+        <seg>For Out Buffer, the options are similar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>U každého řádku zadejte &lt;g1&gt;Code&lt;/g1&gt;, který slouží k rozlišení jednotlivých fází sledování.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T110643Z" creationid="kunes" creationdate="20220516T110643Z">
@@ -15251,6 +15323,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T095720Z" creationid="kunes" creationdate="20220428T095720Z">
         <seg>In this case, you can't fill in the Compare Condition field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V zobrazených řádcích se řadí vždy dle &lt;g1&gt;ID dokumentu&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110830Z" creationid="kunes" creationdate="20220517T110830Z">
+        <seg>In the displayed rows, it is always sorted by &lt;g1&gt;Document ID&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
