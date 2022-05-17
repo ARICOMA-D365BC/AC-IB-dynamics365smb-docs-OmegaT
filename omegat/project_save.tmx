@@ -12781,8 +12781,8 @@ Elements in the report can be grouped into positions on the report.</seg>
       <tuv lang="cs-CZ">
         <seg>Rozšíření fronty úloh (Job Queue)</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T092033Z" creationid="kunes" creationdate="20220504T092033Z">
-        <seg>Rozšíření fronty úloh (Job Queue)</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T073947Z" creationid="kunes" creationdate="20220504T092033Z">
+        <seg>Job Queue Extension (Job Queue)</seg>
       </tuv>
     </tu>
     <tu>
