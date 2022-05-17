@@ -811,6 +811,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Druh komunikace a Parametr komunikace&lt;/g1&gt; je pouze pro IN Agenty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125149Z" creationid="kunes" creationdate="20220517T125149Z">
+        <seg>&lt;g1&gt;Interaction Method and Interaction Parameter&lt;/g1&gt; is only for IN Agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Dynamický e-mail z pole relační tabulky&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T112430Z" creationid="kunes" creationdate="20220516T112430Z">
@@ -1915,6 +1923,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       <tuv lang="en-US" changeid="kunes" changedate="20220406T102509Z" creationid="kunes" creationdate="20220406T102509Z">
         <seg>&lt;g1&gt;General Parameters&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Odpovídat pouze na XML&lt;/g1&gt; je pro IN Agenty TCP a ukazuje, zda se bude odpovídat pouze na XML</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125105Z" creationid="kunes" creationdate="20220517T125105Z">
+        <seg>&lt;g1&gt;Reply only to XML&lt;/g1&gt; is for IN TCP Agents and shows whether to reply only to XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,6 +4129,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aktivní agent se sám aktivuje a vykonává nějakou činnost.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125328Z" creationid="kunes" creationdate="20220517T125328Z">
+        <seg>The active agent activates itself and performs some activity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizace 01.04.2022</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115047Z" creationid="kunes" creationdate="20220401T115047Z">
@@ -4693,6 +4717,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105301Z" creationid="kunes" creationdate="20220419T105301Z">
         <seg>Dim. values from coeff. cost acc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Disk – cesta &lt;g1&gt;čárka&lt;/g1&gt; filtr souboru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125235Z" creationid="kunes" creationdate="20220517T125235Z">
+        <seg>Disk – path &lt;g1&gt;comma&lt;/g1&gt; filter file</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,6 +5897,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>HTTP – adresa http</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125218Z" creationid="kunes" creationdate="20220517T125218Z">
+        <seg>HTTP – address http</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>HelpDesk</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112720Z" creationid="Janousek" creationdate="20210603T112720Z">
@@ -5981,6 +6021,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T123154Z" creationid="kunes" creationdate="20220517T123154Z">
         <seg>IN - used for incoming communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>IN Agent TCP a IN Agent MSMQ jsou pasivní agenti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125345Z" creationid="kunes" creationdate="20220517T125345Z">
+        <seg>IN Agent TCP and IN Agent MSMQ are passive agents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7085,6 +7133,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112853Z" creationid="Janousek" creationdate="20210603T112853Z">
         <seg>Spa, hotel and wellness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>MSMQ – název MSMQ</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125204Z" creationid="kunes" creationdate="20220517T125204Z">
+        <seg>MSMQ – Name MSMQ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10089,6 +10145,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Parametr komunikace se nastavuje dle zvoleného druhu komunikace:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125153Z" creationid="kunes" creationdate="20220517T125153Z">
+        <seg>The communication parameter is set according to the selected type of communication:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Parametrizace Výkazu obalů EKO-KOM</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T120826Z" creationid="kunes" creationdate="20220427T120826Z">
@@ -10125,6 +10189,30 @@ These data are updated manually using the "Resynchronize master data" function.<
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114958Z" creationid="kunes" creationdate="20220411T114958Z">
         <seg>Shipment parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pasivní agent běží sám na aplikačním serveru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125340Z" creationid="kunes" creationdate="20220517T125340Z">
+        <seg>The passive agent runs alone on the application server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pasivní agent čeká na podnět zvenčí, na nějaké přerušení systému a na tuto změnu pak reaguje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125335Z" creationid="kunes" creationdate="20220517T125335Z">
+        <seg>The passive agent waits for a stimulus from the outside, for some interruption of the system, and then reacts to this change.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pipe – název named PIPE</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125209Z" creationid="kunes" creationdate="20220517T125209Z">
+        <seg>Pipe – Name named PIPE</seg>
       </tuv>
     </tu>
     <tu>
@@ -11840,6 +11928,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T100343Z" creationid="kunes" creationdate="20220428T100343Z">
         <seg>For Action, you must define the &lt;g1&gt;Action Code&lt;/g1&gt;, &lt;g2&gt;Field No. (Value),&lt;/g2&gt; and &lt;g3&gt;Value&lt;/g3&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro Diskového a HTTP (timer) In agenta je možné nastavit ID výchozí úlohy pro každý parametr komunikace, aby bylo možné rozlišit, jakým typem úlohy bude přijatá zpráva následně zpracována.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125319Z" creationid="kunes" creationdate="20220517T125311Z">
+        <seg>For disk and HTTP (timer) In agent, it is possible to set the default task ID for each Interaction parameter in order to distinguish what type of task the received message will be subsequently processed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14365,6 +14461,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115058Z" creationid="kunes" creationdate="20220421T115058Z">
         <seg>The system will automatically ask if you want to recalculate the total rows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>TCP – port &lt;g1&gt;čárka&lt;/g1&gt; Timeout</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125201Z" creationid="kunes" creationdate="20220517T125201Z">
+        <seg>TCP – port &lt;g1&gt;comma&lt;/g1&gt; Timeout</seg>
       </tuv>
     </tu>
     <tu>
@@ -17679,6 +17783,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T092025Z" creationid="kunes" creationdate="20220504T092025Z">
         <seg>All data in the white fields can be edited (it is therefore possible to fill in the &lt;g1&gt;Description&lt;/g1&gt; field, all date fields, &lt;g2&gt;Payment Terms&lt;/g2&gt;, &lt;g3&gt;Salesperson/Purchaser code, Currency Code, External Document Number,&lt;/g3&gt; etc., which are then taken over into the created document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Všichni agenti jsou buď tzv. pasivní, nebo aktivní.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125322Z" creationid="kunes" creationdate="20220517T125322Z">
+        <seg>All agents are either passive or active.</seg>
       </tuv>
     </tu>
     <tu>
