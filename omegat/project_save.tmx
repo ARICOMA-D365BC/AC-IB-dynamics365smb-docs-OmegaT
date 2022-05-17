@@ -4645,6 +4645,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dodrží posloupnost odesílaných dokumentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110315Z" creationid="kunes" creationdate="20220517T110315Z">
+        <seg>They shall keep the sequence of documents to be sent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dokončete průvodce požadavku na dopravu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T130609Z" creationid="kunes" creationdate="20220427T130609Z">
@@ -4817,6 +4825,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113148Z" creationid="kunes" creationdate="20220419T113148Z">
         <seg>Enforcement methods</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Držení posloupnosti odesílání ve spooleru má 2 základní důvody:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110310Z" creationid="kunes" creationdate="20220517T110310Z">
+        <seg>Holding the sending sequence in a spooler has 2 basic reasons:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5509,6 +5525,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkcionalita posloupnosti odesílání pracuje tak, že pokud je v OUT Bufferu vyplněno pole &lt;g1&gt;Parametr komunikace&lt;/g1&gt;, tak se zpracovává právě podle toho pole.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110302Z" creationid="kunes" creationdate="20220517T110302Z">
+        <seg>The functionality of the sending sequence works in such a way that if the &lt;g1&gt;Interaction Parameter&lt;/g1&gt; field is filled in in the OUT Buffer, it is processed according to that field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkcionalita rozšiřuje možnosti nastavení pravidel uživatelům i v případě použití jednoho způsobu platby, a to jak na prodejních tak i nákupních dokladech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T115146Z" creationid="kunes" creationdate="20220401T115146Z">
@@ -5809,6 +5833,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T114612Z" creationid="kunes" creationdate="20220516T114612Z">
         <seg>This is a text box from a table defined by the event template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Je dobré používat pole &lt;g1&gt;Nenutit posloupnost odesílání&lt;/g1&gt; po důkladné úvaze.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110409Z" creationid="kunes" creationdate="20220517T110409Z">
+        <seg>It's a good idea to use the &lt;g1&gt;Do not force the send sequence&lt;/g1&gt; field after careful consideration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10484,6 +10516,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud se nějakou položku nepodaří odeslat, tak se neodešlou ani žádné další položky směřující ke stejnému cíli (dle polí &lt;g1&gt;ID cílového systému&lt;/g1&gt; a &lt;g2&gt;Parametr komunikace&lt;/g2&gt; z nastavení příjemců, bez ohledu na úlohu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110245Z" creationid="kunes" creationdate="20220517T110245Z">
+        <seg>If an entry fails to be sent, no other items heading to the same destination will be sent (according to &lt;g1&gt;Destination System ID&lt;/g1&gt; and &lt;g2&gt;Interaction Parameter&lt;/g2&gt; fields from the recipient settings, regardless of the task).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud se toto ID nerovná ID systému firmy, ve které se nacházíme, nelze záznam měnit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122703Z" creationid="kunes" creationdate="20220429T122703Z">
@@ -12625,6 +12665,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T122749Z" creationid="kunes" creationdate="20220509T122749Z">
         <seg>Each time the request state changes, if you have the &lt;g2&gt;Log Status Control action&lt;/g2&gt; set for this state (52068291 WriteStatusChangeHlpDesk), an additional line with the corresponding values is generated (see a more detailed description below for request processing).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Při odesílání dokladů z OUT Bufferu se snaží OUT Agent držet posloupnost odesílání následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110109Z" creationid="kunes" creationdate="20220517T110109Z">
+        <seg>When sending documents from OUT Buffer, the OUT Agent tries to keep the sending sequence as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18865,6 +18913,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T134830Z" creationid="kunes" creationdate="20220427T134830Z">
         <seg>Refuelling Statement Template are used to create and track individual statement templates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Šetří čas aplikačnímu serveru v případě nefunkčnosti spojení - pokud je potřeba poslat větší množství dokumentů na jedno místo (například TCP adresa/port) a spojení není funkční, tak pokus o odeslání může trvat i několik vteřin a je nežádoucí aby se tento pokus opakoval s každou položkou - v krajním případě to může zastavit Aplikační server i na několik hodin.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110329Z" creationid="kunes" creationdate="20220517T110329Z">
+        <seg>It saves time for the application server in case of malfunction of the connection - if it is necessary to send a larger number of documents to one place (for example, TCP address / port) and the connection is not working, so the attempt to send may take several seconds and it is undesirable for this attempt to be repeated with each item - in extreme cases it can stop the Application Server for several hours.</seg>
       </tuv>
     </tu>
     <tu>
