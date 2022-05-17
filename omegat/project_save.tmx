@@ -3331,6 +3331,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Rozšíření fronty  úloh&lt;x2/&gt;Rozšíření fronty úloh&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T075526Z" creationid="kunes" creationdate="20220517T075526Z">
+        <seg>&lt;x1/&gt;Job Queue Extension&lt;x2/&gt;Job Queue Extension&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Rozšíření fronty  úloh&lt;x2/&gt;Rozšíření fronty úloh&lt;x3/&gt;
 &lt;g4&gt;Viz také&lt;/g4&gt;</seg>
       </tuv>
