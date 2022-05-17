@@ -10,14 +10,15 @@ ms.workload: na
 ms.search.keywords: Czech, Job Queue extension, additional functions
 ms.author: v-makune
 ---
-# Rozšíření fronty úloh (Job Queue)
+# Job Queue Extension (Job Queue)
 
-Modul **Fronta úloh** umožňuje automatizované spouštění sestav či procedur v systému Dynamics 365 Business Central v plánovaných intervalech. Je využíván především pro automatické periodické generování sestav, přičemž umožňuje odesílat výsledné sestavy jako přílohu e-mailu ve formátu HTML, ukládat je, nebo publikovat na SharePoint. Zejména vedoucí pracovníci tak mají k dispozici aktuální výsledky či přehledy na určeném místě, aniž by museli sestavu pokaždé ručně generovat. Dalším možným využitím je pravidelné bezobslužné spouštění dávkových úloh, jako například adjustace nebo účtování nákladů na zboží.
+**Job Queue** module enables automated execution of reports or procedures in Dynamics 365 Business Central at scheduled intervals. It is mainly used for automatic periodic reporting, allowing you to send the resulting reports as an e-mail attachment in HTML format, save them, or publish them to SharePoint. Managers, in particular, have up-to-date results or overviews available at a specified location without having to manually generate the report each time. Another possible use is the regular unattended execution of batch jobs, such as adjustment or billing of goods.
 
-Rozšíření fronty úloh je doplňující modul umožňující definovat parametry spouštění úlohy a akce vykonávané při startu, úspěšném nebo neúspěšném dokončení úlohy jako je například zaslání notifikačního emailu.
+The Job Queue Extension is an additional module that allows you to define the parameters of job execution and actions performed at the start, successful or unsuccessful completion of the task, such as sending a notification email.
 
-![Rozšíření fronty  úloh](media/job_queue.png "Rozšíření fronty úloh")
-**Viz také**
+![Job Queue Extension](media/job_queue.png "Job Queue Extension")
 
-[Rozšíření fronty  úloh (Job Queue) - nastavení](ac-job-queue-extension-setup.md)  
+## See also
+
+[Job Queue Extension (Job Queue) - Setup](ac-job-queue-extension-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

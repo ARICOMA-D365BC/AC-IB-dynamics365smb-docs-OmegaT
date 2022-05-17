@@ -11,120 +11,120 @@ ms.search.keywords: klicova slova,
 ms.date: 05/05/2021
 ms.author: AC MartinKunes
 ---
-# Nastavení Spooleru
+# Spooleru Setup
 
-Spooler slouží pro komunikaci systému Business Central s externími systémy nebo datovými zdroji.
+Spooler is used for communication of the Business Central system with external systems or data sources.
 
-## Základní nastavení Spooleru
+## Basic Spooler settings
 
-Pro nastavení spooleru postupujte následujícím způsobem:
+To set up a spooler, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Nastavení spooleru** a klikněte na související odkaz.
-1. Otevře se stránka **Nastavení spooleru**, kde jsou nastavovací a informativní pole:
-   - **Source System**, které označuje zdrojový systém - jak se daný systém v komunikaci identifikuje.
-   - **Nezpracované In úlohy** a **Nezpracované Out úlohy** zobrazují počet nezpracovaných úloh v In Bufferu nebo Out Bufferu.
-   - **Počítat velikost dokumentu IN Bufferu** a **Počítat velikost dokumentu OUT Bufferu** určují, zda se mají počítat velikosti dokumentů zobrazovaných v IN a OUT Bufferech.
-   - **Archivovat IN Buffer při zpracování** a **Archivovat IN Buffer při expiraci** určují, kdy a jestli se mají položky IN Bufferu archivovat.
-   - **Archivovat OUT Buffer při zpracování** a **Archivovat OUT Buffer při expiraci** určují, kdy a jestli se mají položky OUT Bufferu archivovat.
-   - **Nehledat příchozí zprávu v archívu** určuje, zda se má hledat příchozí zpráva dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.
-   - **Nehledat odpověď v archívu** určuje, zda se má hledat odpověď dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.
-   - **Maximální počet položek v Bufferu** omezuje počet položek. Pokud se zadá hodnota 0, jedná se o neomezený počet položek v Bufferech.
-   - **Certifikát Pfx** – pokud zadáte *, tak pole zobrazuje, že je zde uložen elektronický podpis.
-   - Pole **Cesta k certifikátu Pfx** se využívá, pokud není certifikát uložen přímo v databázi.
-   - **Heslo k certifikátu Pfx** - vyplněno pokud se používá.
-   - **Nepovolit elektronické podepisování** slouží k zapínání a vypínání použití elektronického podpisu. Volba nezaškrtnuto znamená nepoužívat elektronický podpis.
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Spooler Setup** and then choose the related link.
+1. The **Spooler Setup** page opens, where there are setting and information fields:
+   - **Source System**, which refers to the source system - how the system is identified in communication.
+   - **Unprocessed In Task** and **Unprocessed Out Task** number of pending taks in In Buffer or Out Buffer.
+   - **Calculate IN Buffer Doc. Size** a **Calculate OUT Buffer Doc. Size** determine whether to count the sizes of documents displayed in IN and OUT Buffers.
+   - **Archive IN Buffer on Process** and **Archive IN Buffer on Expirate** determine when and if IN Buffer entries should be archived.
+   - **Archive OUT Buffer on Processg** and **Archive Iou Buffer on Expirate** determine when and if OUT Buffer entries should be archived.
+   - **Dont Search IN Msg in Archiv** determines whether to search for incoming message by unique GUID (Document ID) in archived entries.
+   - **Dont Search Resp. in Archive** determines whether to search for an answer by the unique GUID (Document ID) in the archived entries.
+   - **Maximal Entries in Bufffer** limits the number of items. If 0 is entered, it is an unlimited number of entries in Buffers.
+   - **Certificate Pfx** – if you enter *, the field shows that an electronic signature is stored there.
+   - The **Pfx Certificate Path** field is used if the certificate is not stored directly in the database.
+   - **Pfx certificate password** - filled in if used.
+   - **Do not enable electronic signing** is used to turn the use of electronic signatures on or off. Unchecked means do not use an electronic signature.
 
-![Nastavení spooleru](media/spooler-setup.png)
+![Spooleru Setup](media/spooler-setup.png)
 
-3. Pro import elektronického podpisu, použijte **Certifikát Pfx** a dále funkci **Impotovat...**.
-1. Podpis je možné dále zobrazit, exportovat nebo smazat pomocí funkcí **Exportovat, Odstranit a Ukázat**.
-1. Stránku následně můžete zavřít.
+3. To import an electronic signature, use **the Pfx Certificate** and the **Impote...** function.
+1. You can also view, export or delete your signature using **Export, Delete and View** features.
+1. You can then close the page.
 
 
-## Agenti Spooleru
+## Spooler Agents
 
-Pro nastavení agentů spooleru postupujte následujícím způsobem:
+To set up spooler agents, follow these steps:
 
-1. Vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Agenti** a klikněte na související odkaz.
-   Otevře se stránka **Agenti**, kde musíte vyplnit následující pole:
-   - pole **ID agenta a Popis** slouží k evidenčnímu rozlišení agentů.
-   - **Typ** rozlišuje agenty
-      - IN - slouží pro příchozí komunikace. Přijímá zprávy z okolí a ukládá je do IN Bufferu.
-      - OUT - prochází OUT Buffer a odesílá zprávy do okolí.
-      - Procesní - prochází úlohy v IN Bufferu, zpracovává úlohy IN Bufferu a ukládá je do OUT Bufferu.
-   - **ID codeunity agenta** se nastaví automaticky, ale dá se přepsat na jinou.
-   - **Interval komunikace (s)** slouží pro aktivní agenty. Určuje, v jakém časovém intervalu se aktivuje a vykonává činnost.
-   - **Přídavné parametry komunikace** využívají v podstatě aktivní agenti. Někteří agenti mohou mít více parametrů. Např. Diskový agent může sbírat data z více adresářů.
-   - Pro IN Agenty slouží pole **ID výchozí úlohy**. Pokud se úloha Spooleru nenajde dle hlavičky XML, vezme se výchozí úloha.
-   - **Změnit agenta po počtu chyb** je pouze pro OUT Agenty a Procesní Agenty. Pokud se agentovi nepodaří úlohu zpracovat (např. 5 chyb) lze nastavit do pole Změnit na agenta ID nového agenta, který se pokusí úlohu zpracovat.
-   - **Logovat** určuje, zda a jak se zapisuje do aplikačního logu. Hodnoty mohou být Nikdy, Dle úlohy a Vždy.
-   - **Odpovídat pouze na XML** je pro IN Agenty TCP a ukazuje, zda se bude odpovídat pouze na XML
-   - **Druh komunikace a Parametr komunikace** je pouze pro IN Agenty. Parametr komunikace se nastavuje dle zvoleného druhu komunikace:
-      - TCP – port [čárka] Timeout
-      - MSMQ – název MSMQ
-      - Pipe – název named PIPE
-      - HTTP – adresa http
-      - Disk – cesta [čárka] filtr souboru
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Agents** and then choose the related link.
+   The **Agents** page opens, where you must fill in the following fields:
+   - The **Agent ID and Description** fields are used to differentiate between agents.
+   - **Type** distinguishes agents
+      - IN - used for incoming communications. It receives messages from the surroundings and stores them in the IN Buffer.
+      - OUT - passes through the OUT Buffer and sends messages to the surroundings.
+      - Procesing - passes through task in IN Buffer, processes IN Buffer task and stores them in out buffer.
+   - **CU Agent** is set automatically, but can be overridden to another.
+   - **Interaction Interval (s)** is used for active agents. Specifies the time interval in which it activates and performs the activity.
+   - **Additional Iteration Parameters** are basically used by active agents. Some agents may have multiple parameters. For example, a disk agent can collect data from multiple directories.
+   - For IN Agents, the **Default Task ID** field is used. If the Spooler job is not found by XML header, the default job is taken.
+   - **Switch Agent After Number of Errors** is only for OUT Agents and Process Agents. If the agent fails to process the task (eg 5 errors), the ID of the new agent that will try to process the task can be set in the Change to agent field.
+   - **Log** specifies whether and how it is written to the application log. Values can be Never, By Task, and Always.
+   - **Reply only to XML** is for IN TCP Agents and shows whether to reply only to XML
+   - **Interaction Method and Interaction Parameter** is only for IN Agents. The communication parameter is set according to the selected type of communication:
+      - TCP – port [comma] Timeout
+      - MSMQ – Name MSMQ
+      - Pipe – Name named PIPE
+      - HTTP – address http
+      - Disk – path [comma] filter file
 
-Pro Diskového a HTTP (timer) In agenta je možné nastavit ID výchozí úlohy pro každý parametr komunikace, aby bylo možné rozlišit, jakým typem úlohy bude přijatá zpráva následně zpracována.
+For disk and HTTP (timer) In agent, it is possible to set the default task ID for each Interaction parameter in order to distinguish what type of task the received message will be subsequently processed.
 
-Všichni agenti jsou buď tzv. pasivní, nebo aktivní. Aktivní agent se sám aktivuje a vykonává nějakou činnost. Pasivní agent čeká na podnět zvenčí, na nějaké přerušení systému a na tuto změnu pak reaguje.
+All agents are either passive or active. The active agent activates itself and performs some activity. The passive agent waits for a stimulus from the outside, for some interruption of the system, and then reacts to this change.
 
-Pasivní agent běží sám na aplikačním serveru. IN Agent TCP a IN Agent MSMQ jsou pasivní agenti.
+The passive agent runs alone on the application server. IN Agent TCP and IN Agent MSMQ are passive agents.
 
-2. Po vyplnění polí je možno stránku zavřít.
-3. Pokud uživatel potřebuje spustit agenta ručně, může to povést ve skupině **Zpracovat** funkcí **Spusť agenta**.
+2. After filling in the fields, the page can be closed.
+3. If a user needs to run the agent manually, they can do so in the **Process** group with **Run Agent** feature.
 
-## Úlohy spooleru
+## Spooler Tasks
 
-1. Pro základní nastavení úloh spooleru vyberte ikonu ![Žárovky, která otevře funkci Řekněte mi](media/ui-search/search_small.png "Řekněte mi, co chcete dělat"), zadejte **Úlohy Spooleru** a klikněte na související odkaz.
-1. Na stránce **Úlohy spooleru** můžete založit řádek pro novou úlohu obsahující následující pole:
+1. Choose the ![Lightbulb that opens the Tell Me feature.](media/ui-search/search_small.png "Tell me what you want to do"), icon, enter **Spooler Tasks** and then choose the related link.
+1. On the **Spooler Tasks** page, you can create a row for a new task that contains the following fields:
 
-- Pole **ID úlohy** označuje danou úlohu spooleru.
-- Pole **Typ** určuje, zda je daná úloha pro IN Buffer (In) nebo pro OUT Buffer (Out).
-- Pole **Druh komunikace** slouží pouze pro OUT úlohy. Druh komunikace je podobný jako u agentů, tzn. Disk, MSMQ, Pipe, HTTP, TCP a E-mail.
-- **Popis** slouží k popsání dané úlohy.
-- Pole **Výchozí priorita** označuje, v jakém pořadí se úlohy zpracovávají.
-- Pole **ID Agenta** určuje, který agent bude úlohu spooleru zpracovávat. U IN úloh to bude Procesní agent a u OUT úloh to bude OUT agent.
-- Pole **XDR** zobrazuje existenci schéma XML dokumentu (*).
-- Pole **ID codeunity zpracování** označuje, kterou codeunitu agent spustí nad položkou Bufferu. U OUT úloh se pole vyplní automaticky při výběru druhu komunikace
-- Dle polí **Typ procesu** a **Typ dokumentu** se rozpoznává úloha. Slouží tedy k nalezení úlohy dle hlavičky XML dokumentu v Bufferu.
-- Pole **Výchozí cílový systém** se může vyplnit pouze pro OUT úlohy, pokud se cílový systém neurčí přímo z hlavičky XML dokumentu.
-- Pole **Číslo posledního dokladu** využívá systém interně, nenastavuje se a slouží pouze pro OUT úlohy.
-- Do pole **Expirovat po** se zadává doba trvání (proměnná Duration).
-- Pole **Logovat** určuje, zda a jak se zapisuje do aplikačního logu. Hodnoty mohou být Nikdy, Dle úlohy a Vždy.
-- Pole **Typ odpovědi** využívají pouze IN úlohy.
-   - Potvrzení – úloha se vloží do IN Bufferu.
-   - Výsledek – úloha se vloží do IN Bufferu a okamžitě se spustí zpracování.
-- Pole **Šablona XSL** slouží k zobrazení dokumentu v HTML.
-- Pole **Čekat po množství chyb** a **Čekací doba po chybách** slouží k určení, po kolika chybách se bude jak dlouho čekat s dalším pokusem o zpracování.
-- Pole **ID codeunity při vložení** – umožňuje spustit codeunitu při vložení do Bufferu.
-- Pole **Nenutit posloupnost odesílání** – pokud je toto pole zaškrtnuto, tak se položky úlohy neúčastní výpočtu pro vynucení posloupnosti odesílání (zaškrtnout pouze na úlohách, kde je vysloveně nežádoucí vynucovat posloupnost odesílání. Např. pro odesílání dokladů E-Mailem (zde nemusí platit, že když neprojde odeslání jednoho dokladu (třeba kvůli velikosti), tak potom neprojde odesílání dalších).
-- Pole **Elektronicky podepisovat** slouží pouze pro OUT úlohy. Určuje, zda se úloha při vložení do Bufferu automaticky podepíše.
-- Polem **Kódování XML** určujeme, jak bude XML dokument kódován.
-- Pole **Nearchivovat při zpracování a Nearchivovat při expiraci** nám určují, kdy a jestli se mají položky Bufferu archivovat. Tyto pole mají vyšší prioritu než pole v nastavení spooleru.
-- Pole **Nehledat příchozí zprávu v archívu** a **Nehledat odpověď v archívu** slouží k zabezpečení komunikace. Viz popis nastavení spooleru.
+- The **Task ID** field indicates the spooler job.
+- The **Type** field determines whether the job is for IN Buffer (In) or out Buffer (Out).
+- **Interaction type** field is used only for OUT tasks. The type of communication is similar to that of agents, ie. Disk, MSMQ, Pipe, HTTP, TCP and E-mail.
+- **Description** is used to describe the task.
+- The **Default priority** field indicates the order in which tasks are processed.
+- The **Agent ID** field determines which agent will handle the spooler task. For IN tasks it will be a Process Agent and for OUT jobs it will be an OUT agent.
+- The **XDR** field shows the existence of the XML document schema (*).
+- The **Processing codeunit ID** field indicates which codeunitu the agent runs over the Buffer entry. For OUT tasks, the field is filled in automatically when selecting the type of communication
+- The **Process Type** and **Document Type** fields recognize the task. It is used to find the task according to the header of the XML document in Buffer.
+- The **Destination System** field can be filled in only for OUT tasks if the target system is not specified directly from the XML document header.
+- The **Last Document Number** field uses the system internally, is not set and is used only for OUT jobs.
+- In the **Expirate After** field, a duration (Duration variable) is entered.
+- The **Log** field determines whether and how it is written to the application log. Values can be Never, By Task, and Always.
+- The **Answer Type** fields are used only by IN jobs.
+   - Confirmation - the task is inserted into the IN Buffer.
+   - Result – the job is inserted into the IN Buffer and processing starts immediately.
+- The **XSL Template** field is used to display the document in HTML.
+- Use **Wait after numbers of errors** and **Wait after Error** fields to specify how many errors to wait for how long to try to process again.
+- **On Insert Codeunit ID** – allows you to run codeunita when inserted into buffer.
+- **Do not force send order** field – If this field is checked, the job items do not participate in the calculation to enforce the sending sequence (check only on jobs where it is explicitly undesirable to enforce the sending sequence. For example, for sending documents by E-Mail (here it does not have to be true that if one document is not sent (for example, because of the size), then the sending of others will not pass).
+- The **Electronically Sign** field is for OUT jobs only. Specifies whether the job is automatically signed when inserted into Buffer.
+- The **XML Encoding** field specifies how the XML document will be encoded.
+- The **Dont Archive on Expirate and Dont Archive on Process** fields determine when and whether Buffer entries should be archived. These fields have a higher priority than the fields in the spooler settings.
+- Use the **Dont Search IN Msg in archive** and **Dont Search for a Response in Archive** fields to secure communications. See the description of spooler settings.
 
-Cílové úlohy spooleru se zobrazují na formuláři Úlohy spooleru na tlačítku Úloha – Cílové systémy. Týká se pouze OUT úloh.
+The spooler target tasks appear on the Spooler task form on the Task - Target Systems button. Applies only to OUT jobs.
 
-Zde je vyplněno s kým komunikuji (pole ID cílového systému) a s jakým parametrem (pole Parametr komunikace).
+Here it is filled in with whom I communicate (field ID of the target system) and with what parameter (field Interaction parameter).
 
-Dle zvoleného druhu komunikace nastavují parametry:
+According to the selected type of communication, they set the parameters:
 
-- TCP – IP adresa [čárka] port [čárka] Timeout
-- MSMQ – název MSMQ
-- Pipe – název named PIPE
-- Disk – cesta [čárka] přípona
-- HTTP – adresa http
-- E-mail – emailové adresy
+- TCP – IP address [comma] port [comma] Timeout
+- MSMQ – Name MSMQ
+- Pipe – Name named PIPE
+- Disk – path [comma] extension
+- HTTP – address http
+- E-mail – email address
 
-Pro druh komunikace E-mail platí: Při vložení úlohy do OUT Bufferu lze přenastavit (přepsat) parametr komunikace pro konkrétní položku v OUT Bufferu. Dále je možno vyplněním tabulky T4002916 OUT Buffer Dokument odeslat více souborů příloh v jednom e-mailu z jedné položky OUT Bufferu.
+For the E-mail communication type, the e-mail applies: When inserting a task into the OUT Buffer, it is possible to reconfigure (override) the communication parameter for a specific task in the OUT Buffer. It is also possible to fill in the table T4002916 OUT Buffer Document to send multiple attachment files in one e-mail from one OUT Buffer entry.
 
-Na formuláři Úlohy spooleru lze přes tlačítko Funkce exportovat, importovat, zobrazit nebo smazat XDR a XSL šablony k jednotlivým úlohám.
+On the Spooler Tasks form, you can use the Function button to export, import, view, or delete XDR and XSL templates for individual tasks.
 
-3. Po vyplnění polí je možno stránku zavřít.
+3. After filling in the fields, the page can be closed.
 
 ## See also
 [Spooler](ac-spooler.md)
 [AC Productivity Pack](ac-productivity-pack.md)  
-[AUTOCONT řešení](../index.md)
+[AUTOCONT Solutions](../index.md)
