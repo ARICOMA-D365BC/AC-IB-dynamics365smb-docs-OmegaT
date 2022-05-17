@@ -2015,6 +2015,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Popis&lt;/g1&gt; slouží k popsání dané úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125534Z" creationid="kunes" creationdate="20220517T125534Z">
+        <seg>&lt;g1&gt;Description&lt;/g1&gt; is used to describe the task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Popis&lt;/g1&gt; – orientační popis k dané firmě</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T114919Z" creationid="kunes" creationdate="20220428T114919Z">
@@ -5081,6 +5089,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Druh komunikace je podobný jako u agentů, tzn. Disk, MSMQ, Pipe, HTTP, TCP a E-mail.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125529Z" creationid="kunes" creationdate="20220517T125529Z">
+        <seg>The type of communication is similar to that of agents, ie. Disk, MSMQ, Pipe, HTTP, TCP and E-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Druhy vymáhání</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113148Z" creationid="kunes" creationdate="20220419T113148Z">
@@ -7925,6 +7941,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Úlohy spooleru&lt;/g1&gt; můžete založit řádek pro novou úlohu obsahující následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125438Z" creationid="kunes" creationdate="20220517T125438Z">
+        <seg>On the &lt;g1&gt;Spooler Tasks&lt;/g1&gt; page, you can create a row for a new task that contains the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Úpravy - Mapování souborů úč.schéma SK&lt;/g1&gt; v poli &lt;g2&gt;Typ mapování&lt;/g2&gt; vyberte hodnotu Xml.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T113745Z" creationid="kunes" creationdate="20220421T113745Z">
@@ -10459,6 +10483,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vyplnění polí je možno stránku zavřít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125349Z" creationid="kunes" creationdate="20220517T125349Z">
+        <seg>After filling in the fields, the page can be closed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vyplnění polí můžete kartu zavřít.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T121548Z" creationid="kunes" creationdate="20220420T121548Z">
@@ -11120,6 +11152,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pokud uživatel potřebuje spustit agenta ručně, může to povést ve skupině &lt;g1&gt;Zpracovat&lt;/g1&gt; funkcí &lt;g2&gt;Spusť agenta&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125406Z" creationid="kunes" creationdate="20220517T125406Z">
+        <seg>If a user needs to run the agent manually, they can do so in the &lt;g1&gt;Process&lt;/g1&gt; group with &lt;g2&gt;Run Agent&lt;/g2&gt; feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pokud uživatel vytvoří zásilku z účt.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104307Z" creationid="kunes" creationdate="20220407T104307Z">
@@ -11140,6 +11180,38 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T121000Z" creationid="kunes" creationdate="20220517T121000Z">
         <seg>The &lt;g1&gt;Pfx Certificate Path&lt;/g1&gt; field is used if the certificate is not stored directly in the database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Druh komunikace&lt;/g1&gt; slouží pouze pro OUT úlohy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125514Z" creationid="kunes" creationdate="20220517T125514Z">
+        <seg>&lt;g1&gt;Interaction type&lt;/g1&gt; field is used only for OUT tasks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;ID Agenta&lt;/g1&gt; určuje, který agent bude úlohu spooleru zpracovávat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125553Z" creationid="kunes" creationdate="20220517T125553Z">
+        <seg>The &lt;g1&gt;Agent ID&lt;/g1&gt; field determines which agent will handle the spooler task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;ID codeunity zpracování&lt;/g1&gt; označuje, kterou codeunitu agent spustí nad položkou Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125635Z" creationid="kunes" creationdate="20220517T125635Z">
+        <seg>The &lt;g1&gt;Processing codeunit ID&lt;/g1&gt; field indicates which codeunitu the agent runs over the Buffer entry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;ID úlohy&lt;/g1&gt; označuje danou úlohu spooleru.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125448Z" creationid="kunes" creationdate="20220517T125448Z">
+        <seg>The &lt;g1&gt;Task ID&lt;/g1&gt; field indicates the spooler job.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11204,6 +11276,30 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T103840Z" creationid="kunes" creationdate="20220421T103840Z">
         <seg>The &lt;g1&gt;Assing Legislation&lt;/g1&gt; field in the list of accounting schemes is used to differentiation between Czech and Slovak statutory statements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Typ&lt;/g1&gt; určuje, zda je daná úloha pro IN Buffer (In) nebo pro OUT Buffer (Out).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125454Z" creationid="kunes" creationdate="20220517T125454Z">
+        <seg>The &lt;g1&gt;Type&lt;/g1&gt; field determines whether the job is for IN Buffer (In) or out Buffer (Out).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;Výchozí priorita&lt;/g1&gt; označuje, v jakém pořadí se úlohy zpracovávají.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125541Z" creationid="kunes" creationdate="20220517T125541Z">
+        <seg>The &lt;g1&gt;Default priority&lt;/g1&gt; field indicates the order in which tasks are processed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pole &lt;g1&gt;XDR&lt;/g1&gt; zobrazuje existenci schéma XML dokumentu (*).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125610Z" creationid="kunes" creationdate="20220517T125610Z">
+        <seg>The &lt;g1&gt;XDR&lt;/g1&gt; field shows the existence of the XML document schema (*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12883,6 +12979,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T111124Z" creationid="kunes" creationdate="20220428T111119Z">
         <seg>For basic setup of the central database, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro základní nastavení úloh spooleru vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Úlohy Spooleru&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125433Z" creationid="kunes" creationdate="20220517T125433Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Spooler Tasks&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,6 +15289,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T120450Z" creationid="kunes" creationdate="20220516T120450Z">
         <seg>The body of the email, in turn, is the content from the &lt;g3&gt;primary key&lt;/g3&gt; field of the event item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>U IN úloh to bude Procesní agent a u OUT úloh to bude OUT agent.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125603Z" creationid="kunes" creationdate="20220517T125603Z">
+        <seg>For IN tasks it will be a Process Agent and for OUT jobs it will be an OUT agent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>U OUT úloh se pole vyplní automaticky při výběru druhu komunikace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125646Z" creationid="kunes" creationdate="20220517T125646Z">
+        <seg>For OUT tasks, the field is filled in automatically when selecting the type of communication</seg>
       </tuv>
     </tu>
     <tu>
@@ -19387,6 +19507,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115209Z" creationid="kunes" creationdate="20220421T115209Z">
         <seg>The data generated before its closure can no longer be changed or added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Úlohy spooleru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125410Z" creationid="kunes" creationdate="20220517T125410Z">
+        <seg>Spooler Tasks</seg>
       </tuv>
     </tu>
     <tu>
