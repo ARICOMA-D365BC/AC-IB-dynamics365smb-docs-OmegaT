@@ -5929,6 +5929,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Hodnoty mohou být Nikdy, Dle úlohy a Vždy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125047Z" creationid="kunes" creationdate="20220517T125047Z">
+        <seg>Values can be Never, By Task, and Always.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Hodnoty musí být nejdříve zadané v Kódech původu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T075300Z" creationid="kunes" creationdate="20220421T075300Z">
