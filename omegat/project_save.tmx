@@ -5685,6 +5685,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>In Buffer a Out Buffer</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104825Z" creationid="kunes" creationdate="20220517T104825Z">
+        <seg>In Buffer a Out Buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Infomace o účtu a kontrola platných přepravců</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113610Z" creationid="kunes" creationdate="20220411T113610Z">
@@ -6261,6 +6269,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Komunikace může probíhat jak z Bussiness Central do externího systému nebo naopak z externího systému do Bussiness Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104741Z" creationid="kunes" creationdate="20220517T104741Z">
+        <seg>Communication can take place both from Business Central to an external system or vice versa from an external system to Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Koncové datum DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105219Z" creationid="kunes" creationdate="20220419T105219Z">
@@ -6425,6 +6441,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091342Z" creationid="kunes" creationdate="20220419T091342Z">
         <seg>Exchange rate controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Kromě funkce obecného nástroje na komunikaci umožňuje ve spolupráci s modulem Elektronická fakturace poskytovat plně bezpapírovou fakturaci směrem k zákazníkům, která je uznávána i státními kontrolními orgány.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104816Z" creationid="kunes" creationdate="20220517T104816Z">
+        <seg>In addition to the function of a general communication tool, in cooperation with the Electronic Invoicing module, it allows to provide fully paperless invoicing to customers, which is also recognized by state control authorities.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,6 +6899,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112628Z" creationid="kunes" creationdate="20220419T112628Z">
         <seg>Payment cumulation settings:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Má dvě základní funkce:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104710Z" creationid="kunes" creationdate="20220517T104710Z">
+        <seg>It has two basic functions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,6 +8983,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123135Z" creationid="kunes" creationdate="20220405T123135Z">
         <seg>Subsequently, to fill in the lines, i.e. to enter &lt;g2&gt;Mandatory General Parameters&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nástroj pro různé typy komunikací a pro zpracování příchozích dokumentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104734Z" creationid="kunes" creationdate="20220517T104734Z">
+        <seg>A tool for various types of communications and for processing incoming documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13277,6 +13317,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Spooler slouží pro komunikaci systému Microsoft Dynamics Business Central s externími systémy nebo datovými zdroji.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104706Z" creationid="kunes" creationdate="20220517T104706Z">
+        <seg>Spooler is used for communication of the Microsoft Dynamics Business Central system with external systems or data sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spooler umožňuje aktuálně využívat celkem 5 komunikačních protokolů (tento počet se neustále rozrůstá).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104748Z" creationid="kunes" creationdate="20220517T104748Z">
+        <seg>Spooler currently allows the use of a total of 5 communication protocols (this number is constantly growing).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Spotřební daň</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114621Z" creationid="kunes" creationdate="20220411T114621Z">
@@ -13917,6 +13973,22 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T122959Z" creationid="kunes" creationdate="20220429T122959Z">
         <seg>This code has no other link in the system and the user can set it as he wants (company name, group of companies, type of synchronization, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento modul je postaven samostatně a nezasahuje do ostatních modulů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104826Z" creationid="kunes" creationdate="20220517T104823Z">
+        <seg>This module is built separately and does not interfere with other modules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tento modul má mnohostranné využití – při synchronizaci dat mezi systémy (katalogy, nastavení systémů v rámci holdingů), v komunikaci dotazů s externími systémy (např. pro systémy B2B nebo B2C), pro archivaci a zpracování automatických elektronických dokladů (objednávkové systémy, elektronické dodávky, fakturace, potvrzení).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104803Z" creationid="kunes" creationdate="20220517T104803Z">
+        <seg>This module has a multifaceted use – in data synchronization between systems (catalogues, system settings within holdings), in query communication with external systems (e.g. for B2B or B2C systems), for archiving and processing of automatic electronic documents (order systems, electronic deliveries, invoicing, confirmations).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18359,6 +18431,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115209Z" creationid="kunes" creationdate="20220421T115209Z">
         <seg>The data generated before its closure can no longer be changed or added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Úložiště nezpracovaných úloh a jako archív komunikačních dokumentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T104725Z" creationid="kunes" creationdate="20220517T104725Z">
+        <seg>Repository of unprocessed tasks and as an archive of communication documents.</seg>
       </tuv>
     </tu>
     <tu>
