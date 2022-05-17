@@ -9785,6 +9785,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g5&gt;Agenti&lt;/g5&gt;, kde musíte vyplnit následující pole:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T122120Z" creationid="kunes" creationdate="20220517T122120Z">
+        <seg>The &lt;g5&gt;Agents&lt;/g5&gt; page opens, where you must fill in the following fields:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se vám okno pro import, kde vyberete příslušný XML soubor.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123813Z" creationid="kunes" creationdate="20220420T123813Z">
@@ -16115,6 +16123,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Agenti&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T122037Z" creationid="kunes" creationdate="20220517T122037Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Agents&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Aktualizace stavu CreditCheck&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T112006Z" creationid="kunes" creationdate="20220419T112006Z">
@@ -18809,6 +18825,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T135423Z" creationid="kunes" creationdate="20220427T135423Z">
         <seg>parameters for electronic processing of &lt;g1&gt;Import path&lt;/g1&gt;, &lt;g2&gt;Import File Type&lt;/g2&gt;, &lt;g3&gt;Import Object Type&lt;/g3&gt;, &lt;g4&gt;Import object ID&lt;/g4&gt;, &lt;g5&gt;Import object ID Name&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>pole &lt;g1&gt;ID agenta a Popis&lt;/g1&gt; slouží k evidenčnímu rozlišení agentů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123143Z" creationid="kunes" creationdate="20220517T123143Z">
+        <seg>The &lt;g1&gt;Agent ID and Description&lt;/g1&gt; fields are used to differentiate between agents.</seg>
       </tuv>
     </tu>
     <tu>
