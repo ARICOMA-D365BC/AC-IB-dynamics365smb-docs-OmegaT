@@ -6341,6 +6341,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Komunikace In a Out Bufferu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110413Z" creationid="kunes" creationdate="20220517T110413Z">
+        <seg>Communication of In and Out Buffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Komunikace může probíhat jak z Bussiness Central do externího systému nebo naopak z externího systému do Bussiness Central.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T104741Z" creationid="kunes" creationdate="20220517T104741Z">
@@ -9421,6 +9429,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Otevře se stránka &lt;g1&gt;In Buffer&lt;/g1&gt;, kde funkci v sekci &lt;g2&gt;Související&lt;/g2&gt; použijte funkci &lt;g3&gt;Položka&lt;/g3&gt;, kde najdete následující funkce:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110726Z" creationid="kunes" creationdate="20220517T110726Z">
+        <seg>The &lt;g1&gt;In Buffer&lt;/g1&gt; page opens, where the function in &lt;g2&gt;the Related&lt;/g2&gt; section is used by &lt;g3&gt;Entry&lt;/g3&gt; function, where you will find the following functions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Otevře se stránka &lt;g1&gt;Nainstalovaná rozšíření&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130823Z" creationid="kunes" creationdate="20220411T130823Z">
@@ -12191,6 +12207,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T121201Z" creationid="kunes" creationdate="20220405T121201Z">
         <seg>To view a list of saved general parameters for a given record (in this case, fixed assets) with a filter on a given entity, do the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro zobrazení úloh komunikace mezi Out Bufferem a In Bufferem postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110419Z" creationid="kunes" creationdate="20220517T110419Z">
+        <seg>To view the communication tasks between the Out Buffer and the In Buffer, proceed as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15707,6 +15731,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T072926Z" creationid="kunes" creationdate="20220512T072926Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Helpdesk Requests (Reports and Analysis)&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;In Buffer&lt;/g4&gt; a klikněte na související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T110432Z" creationid="kunes" creationdate="20220517T110432Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;IN Buffer&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
