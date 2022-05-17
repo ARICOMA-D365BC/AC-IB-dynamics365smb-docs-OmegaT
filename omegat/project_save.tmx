@@ -5793,6 +5793,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je využíván především pro automatické periodické generování sestav, přičemž umožňuje odesílat výsledné sestavy jako přílohu e-mailu ve formátu HTML, ukládat je, nebo publikovat na SharePoint.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074246Z" creationid="kunes" creationdate="20220517T073948Z">
+        <seg>It is mainly used for automatic periodic reporting, allowing you to send the resulting reports as an e-mail attachment in HTML format, save them, or publish them to SharePoint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je však možné hodnoty definovat i u parametrů zadávaných Ručním vstupem.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220406T101643Z" creationid="kunes" creationdate="20220406T101643Z">
@@ -6725,6 +6733,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121600Z" creationid="kunes" creationdate="20220512T121600Z">
         <seg>The &lt;g1&gt;Electronic Invoicing&lt;/g1&gt; module is used for modern paperless exchange of tax documents with the customer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Fronta úloh&lt;/g1&gt; umožňuje automatizované spouštění sestav či procedur v systému Dynamics 365 Business Central v plánovaných intervalech.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074158Z" creationid="kunes" creationdate="20220517T073947Z">
+        <seg>&lt;g1&gt;Job Queue&lt;/g1&gt; module enables automated execution of reports or procedures in Dynamics 365 Business Central at scheduled intervals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17407,6 +17423,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T104544Z" creationid="kunes" creationdate="20220516T104544Z">
         <seg>Here, in &lt;g1&gt;Start Phase&lt;/g1&gt; and &lt;g2&gt;End Phase&lt;/g2&gt; boxes, enter a date formula related to the system date (TODAY).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zejména vedoucí pracovníci tak mají k dispozici aktuální výsledky či přehledy na určeném místě, aniž by museli sestavu pokaždé ručně generovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T074253Z" creationid="kunes" creationdate="20220517T074253Z">
+        <seg>Managers, in particular, have up-to-date results or overviews available at a specified location without having to manually generate the report each time.</seg>
       </tuv>
     </tu>
     <tu>
