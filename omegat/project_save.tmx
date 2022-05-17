@@ -613,6 +613,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Archivovat OUT Buffer při zpracování&lt;/g1&gt; a &lt;g2&gt;Archivovat OUT Buffer při expiraci&lt;/g2&gt; určují, kdy a jestli se mají položky OUT Bufferu archivovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120543Z" creationid="kunes" creationdate="20220517T120543Z">
+        <seg>&lt;g1&gt;Archive OUT Buffer on Processg&lt;/g1&gt; and &lt;g2&gt;Archive Iou Buffer on Expirate&lt;/g2&gt; determine when and if OUT Buffer entries should be archived.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Automaticky&lt;/g1&gt; při spuštění Asistovaného nastavení příslušného produktu (Instalace &amp; Rozšíření -&gt; Asistovaná nastavení, část Nastavit rozšíření AUTOCONT).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121958Z" creationid="kunes" creationdate="20220512T121958Z">
@@ -1703,6 +1711,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T094531Z" creationid="kunes" creationdate="20220428T094531Z">
         <seg>&lt;g1&gt;Set Fields&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nehledat příchozí zprávu v archívu&lt;/g1&gt; určuje, zda se má hledat příchozí zpráva dle jednoznačného identifikátoru GUID (ID dokumentu) v archivovaných položkách.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120744Z" creationid="kunes" creationdate="20220517T120744Z">
+        <seg>&lt;g1&gt;Dont Search IN Msg in Archiv&lt;/g1&gt; determines whether to search for incoming message by unique GUID (Document ID) in archived items.</seg>
       </tuv>
     </tu>
     <tu>
