@@ -1125,6 +1125,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;ID codeunity agenta&lt;/g1&gt; se nastaví automaticky, ale dá se přepsat na jinou.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123254Z" creationid="kunes" creationdate="20220517T123254Z">
+        <seg>&lt;g1&gt;CU Agent&lt;/g1&gt; is set automatically, but can be overridden to another.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;ID cílového systému&lt;/g1&gt; – vazba do nastavení cílových systémů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T130059Z" creationid="kunes" creationdate="20220429T130059Z">
@@ -1177,6 +1185,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124426Z" creationid="kunes" creationdate="20220411T124426Z">
         <seg>Integration Service&lt;g1&gt;Integrační služba&lt;/g1&gt; – Determines through which integration service the shipping agent is used (in this case Balikobot.cz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Interval komunikace (s)&lt;/g1&gt; slouží pro aktivní agenty.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123336Z" creationid="kunes" creationdate="20220517T123336Z">
+        <seg>&lt;g1&gt;Interaction Interval (s)&lt;/g1&gt; is used for active agents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2251,6 +2267,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Přídavné parametry komunikace&lt;/g1&gt; využívají v podstatě aktivní agenti.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123401Z" creationid="kunes" creationdate="20220517T123401Z">
+        <seg>&lt;g1&gt;Additional Iteration Parameters&lt;/g1&gt; are basically used by active agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Přírůstek čísel&lt;/g1&gt; – určuje velikost intervalu mezi čísly v číselné řadě</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T102707Z" creationid="kunes" creationdate="20220419T102707Z">
@@ -2573,6 +2597,14 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125203Z" creationid="kunes" creationdate="20220429T125203Z">
         <seg>&lt;g1&gt;Synchronization type&lt;/g1&gt; – this option takes two values – Push and Pull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Typ&lt;/g1&gt; rozlišuje agenty</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123150Z" creationid="kunes" creationdate="20220517T123150Z">
+        <seg>&lt;g1&gt;Type&lt;/g1&gt; distinguishes agents</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,6 +5953,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>IN - slouží pro příchozí komunikace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123154Z" creationid="kunes" creationdate="20220517T123154Z">
+        <seg>IN - used for incoming communications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Import směnných kurzů z ECB</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122012Z" creationid="Janousek" creationdate="20210625T131659Z">
@@ -8295,6 +8335,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Např. Diskový agent může sbírat data z více adresářů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123410Z" creationid="kunes" creationdate="20220517T123410Z">
+        <seg>For example, a disk agent can collect data from multiple directories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Např. údaj 28,35 je převeden na 1 den 4 hodiny 21 minuty.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T062719Z" creationid="kunes" creationdate="20220512T062719Z">
@@ -9391,6 +9439,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Někteří agenti mohou mít více parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123406Z" creationid="kunes" creationdate="20220517T123406Z">
+        <seg>Some agents may have multiple parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>O blížícím se konci zkušebního období informuje uživatele oznámení na Domovské stránce s odkazem na stránku &lt;g1&gt;Nákup produktu firmy AUTOCONT&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T122217Z" creationid="kunes" creationdate="20220512T122217Z">
@@ -9403,6 +9459,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T115352Z" creationid="kunes" creationdate="20220419T115352Z">
         <seg>OSS – EU regime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>OUT - prochází OUT Buffer a odesílá zprávy do okolí.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123203Z" creationid="kunes" creationdate="20220517T123203Z">
+        <seg>OUT - passes through the OUT Buffer and sends messages to the surroundings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11740,6 +11804,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro IN Agenty slouží pole &lt;g1&gt;ID výchozí úlohy&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123449Z" creationid="kunes" creationdate="20220517T123449Z">
+        <seg>For IN Agents, the &lt;g1&gt;Default Task ID&lt;/g1&gt; field is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro Výkaz DPH od roku 2018 to je &lt;g1&gt;52068861&lt;/g1&gt;, pro Výkaz DPH do roku 2017 to je &lt;g2&gt;52068860&lt;/g2&gt;, pro Kontrolní výkaz DPH &lt;g3&gt;52068903&lt;/g3&gt; a pro Souhrnný Výkaz to je &lt;g4&gt;52068870&lt;/g4&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132437Z" creationid="kunes" creationdate="20220420T132437Z">
@@ -12721,6 +12793,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Procesní - prochází úlohy v IN Bufferu, zpracovává úlohy IN Bufferu a ukládá je do OUT Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123230Z" creationid="kunes" creationdate="20220517T123230Z">
+        <seg>Procesing - passes through task in IN Buffer, processes IN Buffer task and stores them in out buffer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Prodej</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103843Z" creationid="kunes" creationdate="20220419T103843Z">
@@ -13229,6 +13309,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T131017Z" creationid="kunes" creationdate="20220509T131017Z">
         <seg>When processing a HelpDesk request, the relevant data is filled in on the request card on the Processing tab, in particular &lt;g1&gt;Solution Code&lt;/g1&gt;, &lt;g2&gt;Duration&lt;/g2&gt;, &lt;g3&gt;Processing Description&lt;/g3&gt; (max. 250 characters) and &lt;g4&gt;Code of the next responsible person&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Přijímá zprávy z okolí a ukládá je do IN Bufferu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123159Z" creationid="kunes" creationdate="20220517T123159Z">
+        <seg>It receives messages from the surroundings and stores them in the IN Buffer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15119,6 +15207,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T110909Z" creationid="kunes" creationdate="20220516T110909Z">
         <seg>Specifies how long the stage will last from the time the alert item is created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Určuje, v jakém časovém intervalu se aktivuje a vykonává činnost.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T123340Z" creationid="kunes" creationdate="20220517T123340Z">
+        <seg>Specifies the time interval in which it activates and performs the activity.</seg>
       </tuv>
     </tu>
     <tu>
