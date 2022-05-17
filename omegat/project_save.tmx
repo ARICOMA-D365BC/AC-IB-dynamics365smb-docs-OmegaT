@@ -1349,6 +1349,14 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Logovat&lt;/g1&gt; určuje, zda a jak se zapisuje do aplikačního logu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T125033Z" creationid="kunes" creationdate="20220517T125033Z">
+        <seg>&lt;g1&gt;Log&lt;/g1&gt; specifies whether and how it is written to the application log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Manipulační jednotky&lt;/g1&gt; - Tabulka manipulačních jednotek paletové přepravy</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T124747Z" creationid="kunes" creationdate="20220411T124747Z">
@@ -10908,6 +10916,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T122459Z" creationid="kunes" creationdate="20220509T122459Z">
         <seg>If the project does not already exist, you can create it directly from the request tab on the &lt;g1&gt;Actions&lt;/g1&gt; tab by using the &lt;g2&gt;Create Job&lt;/g2&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud se agentovi nepodaří úlohu zpracovat (např. 5 chyb) lze nastavit do pole Změnit na agenta ID nového agenta, který se pokusí úlohu zpracovat.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T124150Z" creationid="kunes" creationdate="20220517T124150Z">
+        <seg>If the agent fails to process the task (eg 5 errors), the ID of the new agent that will try to process the task can be set in the Change to agent field.</seg>
       </tuv>
     </tu>
     <tu>
