@@ -2355,6 +2355,18 @@ o	https://www.balikobot.cz/dokumentace/cp_ciselnik_sluzeb.pdf</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Spooler - Nastavení&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT řešení&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115829Z" creationid="kunes" creationdate="20220517T115829Z">
+        <seg>&lt;g1&gt;Spooler - Setup&lt;/g1&gt;
+&lt;g2&gt;AC Productivity Pack&lt;/g2&gt;&lt;x3/&gt;
+&lt;g4&gt;AUTOCONT Solutions&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Spooler&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142234Z" creationid="Janousek" creationdate="20210625T142224Z">
@@ -8301,8 +8313,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Nastavení Spooleru</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T082959Z" creationid="kunes" creationdate="20220504T082959Z">
-        <seg>Nastavení Spooleru</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115908Z" creationid="kunes" creationdate="20220504T082959Z">
+        <seg>Spooleru Setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -11936,6 +11948,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pro nastavení spooleru postupujte následujícím způsobem:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T120155Z" creationid="kunes" creationdate="20220517T120155Z">
+        <seg>To set up a spooler, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pro nastavení tisku štítku je potřeba nastavit ID sestavy a přidělit uživateli tiskárnu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130324Z" creationid="kunes" creationdate="20220411T130324Z">
@@ -13721,6 +13741,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112734Z" creationid="Janousek" creationdate="20210603T112734Z">
         <seg>Spooler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Spooler slouží pro komunikaci systému Business Central s externími systémy nebo datovými zdroji.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115925Z" creationid="kunes" creationdate="20220517T115925Z">
+        <seg>Spooler is used for communication of the Business Central system with external systems or data sources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18261,6 +18289,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120334Z" creationid="kunes" creationdate="20220411T120334Z">
         <seg>Basic Package Setup must be made on the &lt;g1&gt;Parcels Settings&lt;/g1&gt;page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Základní nastavení Spooleru</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220517T115952Z" creationid="kunes" creationdate="20220517T115952Z">
+        <seg>Basic Spooler settings</seg>
       </tuv>
     </tu>
     <tu>
