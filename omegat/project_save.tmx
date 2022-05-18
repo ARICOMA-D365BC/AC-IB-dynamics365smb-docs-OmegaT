@@ -4339,6 +4339,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Aktualizace: 13.05.2022</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T073728Z" creationid="kunes" creationdate="20220518T073728Z">
+        <seg>Update: 13.05.2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Aktualizaci je možné provádět manuálně dle potřeby nebo nechat systém provádět aktualizaci v pravidelných intervalech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111912Z" creationid="kunes" creationdate="20220419T111912Z">
@@ -9997,6 +10005,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T115739Z" creationid="kunes" creationdate="20220504T115739Z">
         <seg>Repeat steps 2 and 3 to complete Requirement Category 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Opravné doklady</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T073721Z" creationid="kunes" creationdate="20220518T073721Z">
+        <seg>Corrective documents</seg>
       </tuv>
     </tu>
     <tu>
