@@ -6355,6 +6355,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Interní oprava prodejní faktury</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T083235Z" creationid="kunes" creationdate="20220518T083235Z">
+        <seg>Internal correction of sales invoice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Intrastat mapování souboru</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122956Z" creationid="kunes" creationdate="20220420T122956Z">
@@ -10923,6 +10931,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T073148Z" creationid="kunes" creationdate="20220512T073148Z">
         <seg>According to the specified filters, individual request cards, delayed requests and a list of helpdesk requests are printed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Podmínkou je nastavení polí Filtr kódu původu, Typ dokladu a Filtr typu dokladu na řádku Výkazu DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T083227Z" creationid="kunes" creationdate="20220518T083227Z">
+        <seg>The condition is to set up the Origin Code Filter, Document Type, and Document Type Filter fields on the VAT Statement line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16325,6 +16341,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Typ dobropisu&lt;/g1&gt; vyberte Interní oprava.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T084756Z" creationid="kunes" creationdate="20220518T084756Z">
+        <seg>V poli &lt;g1&gt;Typ dobropisu&lt;/g1&gt; vyberte Interní oprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V poli &lt;g1&gt;Číselná řada&lt;/g1&gt; se vybere číselná řada pro nově vytvářené doklady, kterou si dopředu musíme připravit, pokud jsme tak ještě neudělali.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135624Z" creationid="kunes" creationdate="20220512T135624Z">
@@ -17373,6 +17397,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní dobropis&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T083326Z" creationid="kunes" creationdate="20220518T083326Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Sales Credit Memos&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Prodejní faktur&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101631Z" creationid="kunes" creationdate="20220414T101631Z">
@@ -17905,6 +17937,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T130723Z" creationid="kunes" creationdate="20220420T130723Z">
         <seg>Fill in the Return Date and Reconcile Date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyplňte hlavičku a řádky obvyklým způsobem.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T083348Z" creationid="kunes" creationdate="20220518T083348Z">
+        <seg>Fill in the header and rows as usual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18857,6 +18897,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T112054Z" creationid="kunes" creationdate="20220516T112054Z">
         <seg>Specify the addressee of e-mails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zadání opravných dokladů s použitím nastaveného kódu původu a případným vyplněním původního čísla dokladu umožňuje správně přiřadit nebo vyloučit tyto transakce do Výkazu DPH.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T083217Z" creationid="kunes" creationdate="20220518T083217Z">
+        <seg>Entering corrective documents using the set origin code and possibly filling in the original document number allows you to correctly assign or exclude these transactions to the VAT statement.</seg>
       </tuv>
     </tu>
     <tu>
