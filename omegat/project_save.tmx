@@ -3279,6 +3279,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Evidence vratných obalů&lt;x2/&gt;Evidence vratných obalů&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T073154Z" creationid="kunes" creationdate="20220518T073154Z">
+        <seg>&lt;x1/&gt;Pack Tracking - Return Packing&lt;x2/&gt;Pack Tracking - Return Packing&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Evidence vratných obalů&lt;x2/&gt;Evidence vratných obalů&lt;x3/&gt;
 &lt;g4&gt;Viz také&lt;/g4&gt;</seg>
       </tuv>
