@@ -13,16 +13,15 @@ ms.author: AC MartinKunes
 ---
 # Fiscal printers
 
-Modul **Fiskální tiskárny – VAROS** slouží k vytvoření a tisku pokladního dokladu na fiskální tiskárně firmy VAROS.
+The **Fiscal Printers - VAROS** module is used to create and print a cash receipt on a VAROS fiscal printer.
 
-Při účtování primárních dokladů (faktura, objednávka, dobropis) s rozpisem platby (jedním či více typy úhrad) jsou automaticky vytvářeny fiskální položky a tyto jsou pak odeslány k tisku na fiskální tiskárnu. K tisku na fiskální tiskárně dochází také při zaúčtování rozpisu platby na vytvořeném resp. zaúčtovaném dokladu (faktura, dobropis, záloha).
+When you post primary documents (invoice, order, credit note) with a payment breakdown (one or more types of remittances), fiscal entries are automatically created and sent to the fiscal printer for printing. Printing on the fiscal printer also occurs when the payment breakdown is posted on the created or posted document (invoice, credit note, prepayment).
 
-Rovněž všechny vklady a výběry hotovosti do registrační pokladny jsou evidovány a vytištěny na fiskální tiskárně.
+Also, all cash deposits and withdrawals to the cash register are recorded and printed on the fiscal printer.
 
-![Fiskální tiskrány](media/fiscal_printers.png "Fiskální tiskrány")
-**Viz také**
+![Fiscal printers](media/fiscal_printers.png "Fiscal printers")
 
-**See also**
+## See also
 
-[Nastavení - Fiskální tiskárny](ac-fiscal-printers-setup.md)  
+[Fiscal printers - Setup](ac-fiscal-printers-setup.md)  
 [Financial Pack](ac-finance-pack.md)

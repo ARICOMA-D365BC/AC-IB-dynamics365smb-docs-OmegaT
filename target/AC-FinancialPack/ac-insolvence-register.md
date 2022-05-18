@@ -13,13 +13,13 @@ ms.author: AC MartinKunes
 ---
 # Insolvency register
 
-Add-on **Insolvenční rejstřík** slouží k evidenci záznamů stahovaných z  https://isir.justice.cz o insolvenčním řízení společností.
+The **Insolvency Register** add-on is used to record records downloaded from the https://isir.justice.cz on the insolvency proceedings of companies.
 
-Je nástrojem pro další akce s kontakty společnosti, které jsou v insolvenčním řízení, např. při zadávání prodejních dokladů, jejich účtování (dodání, fakturace). Poskytuje vybraným osobám společnosti aktuální informace o nových záznamech v insolvenčním rejstříku.
+It is a tool for further actions with the company's contacts that are in insolvency proceedings, e.g. when entering sales documents, their accounting (delivery, invoicing). It provides selected persons of the company with up-to-date information on new entries in the insolvency register.
 
-![Insolvenční rejstřík](media/Insolvence_register.png "Insolvenční rejstřík")
+![Insolvency register](media/Insolvence_register.png "Insolvency register")
 
 **See also**
 
-[Nastavení - Insolvenční rejstřík](ac-insolvence-register-setup.md)  
+[Insolvency register - Setup](ac-insolvence-register-setup.md)  
 [Financial Pack](ac-finance-pack.md)

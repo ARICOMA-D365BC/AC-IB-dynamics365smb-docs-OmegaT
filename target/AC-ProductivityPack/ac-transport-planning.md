@@ -10,14 +10,14 @@ ms.workload: na
 ms.search.keywords: Czech, Transport planning, additional functions
 ms.author: v-makune
 ---
-# Doprava - Plánování
+# Transport - planning
 
-Modul Doprava – plánování rozšiřuje základní modul dopravy zejména o řízení a plánování jízd pomocí příkazů k jízdě a pomocí pultu dispečera dopravy.
-Centrem plánování dopravy je formulář Pult dispečera dopravy, který zobrazuje požadavky na dopravu nové, zaplánované i uzavřené. V řádcích jsou jednotlivé požadavky, v hlavičce pak filtry na filtrování řádků přes vozidlo, typ vozidla, stav požadavku, datum požadavku a přes globální dimenze.
+The Transport – Planning module extends the basic transport module mainly to the control and planning of journeys using driving commands and using the traffic dispatcher's desk.
+The traffic planning center is the Transport Dispatch Board form, which displays requests for new, scheduled and closed transport. In the rows there are individual requests, in the header there are filters to filter rows through the vehicle, vehicle type, request status, request date and global dimensions.
 
-![Doprava - Plánování](media/transport_planing.png "Doprava - Plánování")
+![Transport - Planning](media/transport_planing.png "Transport - Planning")
 
 **See also**
 
-[Doprava - plánování - nastavení](ac-transport-planning-setup.md)  
+[Transport - Planning - Setup](ac-transport-planning-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

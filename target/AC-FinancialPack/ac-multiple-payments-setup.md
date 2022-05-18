@@ -11,7 +11,7 @@ ms.search.keywords: Multiple payments, finance
 ms.date: 01/31/2021
 ms.author: AC MartinKunes
 ---
-# Více úhrad - nastavení
+# Multiple Payments Methods - Setup
 
 
 

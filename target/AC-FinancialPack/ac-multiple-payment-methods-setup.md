@@ -11,7 +11,7 @@ ms.search.keywords: Multiple payments, finance
 ms.date: 01/31/2021
 ms.author: AC MartinKunes
 ---
-# Více úhrad - nastavení
+# Multiple Payments Methods - Setup
 > Update 01.04.2022
 
 Before you can use the functionality of multiple payment methods in your business processes, you must make the basic module settings. These are code lists:

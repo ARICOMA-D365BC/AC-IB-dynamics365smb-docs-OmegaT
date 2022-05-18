@@ -10,16 +10,16 @@ ms.workload: na
 ms.search.keywords: Czech, Publication tasks, additional functions
 ms.author: v-makune
 ---
-# Publikování úkolů
+# Task publishing
 
-Add-on modul **Publikační úkoly** je rozšiřující modul k Publikování Sharepoint. Rozšiřuje možnosti publikování ve dvou úrovních:
-- základní publikování úkolů a jejich parametrů
-- publikování úkolů na základě rozšířených nastavení prostřednictvím publikačních šablon (vyžaduje modul Publikační šablony).
+The **Publishing Tasks** add-on module is an extension module for Sharepoint Publishing. Extends publishing capabilities at two levels:
+- basic publishing of tasks and their parameters
+- Publish tasks based on advanced settings through publishing templates (requires the Publishing Templates module).
 
-Umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat úkoly do systému SharePoint, propojit je se záznamy v tabulkách informačního systému a doplnit o uživatelsky definované parametry (metadata).
+It allows you to publish tasks to SharePoint directly from the Dynamics 365 Business Central environment, link them to records in information system tables, and supplement them with user-defined parameters (metadata).
 
 
 **See also**
 
-[Publikování úkolů - nastavení](ac-publication-tasks-setup.md)  
+[Task publishing - Setup](ac-publication-tasks-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)
