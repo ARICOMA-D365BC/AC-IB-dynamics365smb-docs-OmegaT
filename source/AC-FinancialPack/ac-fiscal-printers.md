@@ -20,9 +20,8 @@ Při účtování primárních dokladů (faktura, objednávka, dobropis) s rozpi
 Rovněž všechny vklady a výběry hotovosti do registrační pokladny jsou evidovány a vytištěny na fiskální tiskárně.
 
 ![Fiskální tiskrány](media/fiscal_printers.png "Fiskální tiskrány")
-**Viz také**
 
-**Viz také**
+##Viz také
 
 [Nastavení - Fiskální tiskárny](ac-fiscal-printers-setup.md)  
 [Financial Pack](ac-finance-pack.md)  
