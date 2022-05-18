@@ -1549,6 +1549,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Evidence vratných obalů (Vratné obaly)&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072417Z" creationid="kunes" creationdate="20220518T072417Z">
+        <seg>&lt;g1&gt;Pack Tracking - Return Packing - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - Export Výkazu DPH&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143148Z" creationid="Janousek" creationdate="20210625T142413Z">
@@ -1586,8 +1596,8 @@ The stated change is irreversible and the change of the CreditCheck status (new 
         <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220518T071959Z" creationid="kunes" creationdate="20220518T071959Z">
-        <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;&lt;x2/&gt;
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072226Z" creationid="kunes" creationdate="20220518T071959Z">
+        <seg>&lt;g1&gt;Fiscal printers - Setup&lt;/g1&gt;&lt;x2/&gt;
 &lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
@@ -3269,6 +3279,24 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Evidence vratných obalů&lt;x2/&gt;Evidence vratných obalů&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072316Z" creationid="kunes" creationdate="20220518T072316Z">
+        <seg>&lt;x1/&gt;Evidence vratných obalů&lt;x2/&gt;Evidence vratných obalů&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Fiskální tiskrány&lt;x2/&gt;Fiskální tiskrány&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072217Z" creationid="kunes" creationdate="20220518T072217Z">
+        <seg>&lt;x1/&gt;Fiscal printers&lt;x2/&gt;Fiscal printers&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Fiskální tiskrány&lt;x2/&gt;Fiskální tiskrány&lt;x3/&gt;
 &lt;g4&gt;Viz také&lt;/g4&gt;</seg>
       </tuv>
@@ -4051,6 +4079,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T085315Z" creationid="kunes" creationdate="20220504T090633Z">
         <seg>The &lt;g1&gt;Mail record&lt;/g1&gt; extends &lt;g2&gt;the Purchase&lt;/g2&gt; and &lt;g3&gt;Sales&lt;/g3&gt; modules of the Microsoft Dynamics 365 Business Central system to support the registration of incoming and outgoing mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Evidence vratných obalů&lt;/g1&gt; je rozšířením modulu Zásoby systému Dynamics 365 Business Central.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072305Z" creationid="kunes" creationdate="20220518T072305Z">
+        <seg>The &lt;g1&gt;Pack Tracking - Return Packing&lt;/g1&gt; add-on module is an extension of the Dynamics 365 Business Central Inventory module.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7299,6 +7335,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110620Z" creationid="kunes" creationdate="20220428T110620Z">
         <seg>It is possible to check whether the source record for any field in the table with the used Status Management contains the necessary data in other fields - eg if the Vendor code field is filled in the document header, then it checks whether this seller has filled in the email.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Lze pomocí něj sledovat obalová salda obchodních partnerů s vazbou na příslušné obchodní transakce (Nákup, Prodej, Příjem, Výdej, Transfer, Spotřeba a Výroba) a dále pak sledovat aktuální cenu obalů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072313Z" creationid="kunes" creationdate="20220518T072313Z">
+        <seg>It can be used to track the packaging balances of business partners with links to the relevant business transactions (Purchase, Sale, Receipt, Issue, Transfer, Consumption and Production) and then to monitor the current price of packaging.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15767,6 +15811,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220518T071502Z" creationid="kunes" creationdate="20220518T071502Z">
         <seg>It allows you to publish tasks to SharePoint directly from the Dynamics 365 Business Central environment, link them to records in information system tables, and supplement them with user-defined parameters (metadata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072308Z" creationid="kunes" creationdate="20220518T072308Z">
+        <seg>It enables monitoring of the circulation of returnable packaging and pallet management.</seg>
       </tuv>
     </tu>
     <tu>
