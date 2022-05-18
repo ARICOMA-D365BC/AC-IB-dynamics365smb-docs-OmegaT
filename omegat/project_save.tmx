@@ -775,6 +775,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Doprava - plánování - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071640Z" creationid="kunes" creationdate="20220518T071640Z">
+        <seg>&lt;g1&gt;Transport - Planning - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Doprava - plánování&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141904Z" creationid="Janousek" creationdate="20210625T141904Z">
@@ -1573,6 +1583,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071959Z" creationid="kunes" creationdate="20220518T071959Z">
+        <seg>&lt;g1&gt;Nastavení - Fiskální tiskárny&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Nastavení - HelpDesk&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T142156Z" creationid="Janousek" creationdate="20210625T142156Z">
@@ -1585,6 +1605,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T143454Z" creationid="Janousek" creationdate="20210625T140633Z">
         <seg>&lt;g1&gt;Settings - Insolvency Register&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Nastavení - Insolvenční rejstřík&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071917Z" creationid="kunes" creationdate="20220518T071827Z">
+        <seg>&lt;g1&gt;Insolvency register - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Financial Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2263,6 +2293,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T141541Z" creationid="Janousek" creationdate="20210625T141541Z">
         <seg>&lt;g1&gt;SharePoint publishing&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Publikování úkolů - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071512Z" creationid="kunes" creationdate="20220518T071512Z">
+        <seg>&lt;g1&gt;Task publishing - Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,10 +3253,28 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Doprava - Plánování&lt;x2/&gt;Doprava - Plánování&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071634Z" creationid="kunes" creationdate="20220518T071634Z">
+        <seg>&lt;x1/&gt;Transport - Planning&lt;x2/&gt;Transport - Planning&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Elektronická fakturace&lt;x2/&gt;Elektronická fakturace&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121742Z" creationid="kunes" creationdate="20220512T121742Z">
         <seg>&lt;x1/&gt;Electronic invoicing&lt;x2/&gt; Electronic invoicing&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Fiskální tiskrány&lt;x2/&gt;Fiskální tiskrány&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072034Z" creationid="kunes" creationdate="20220518T072034Z">
+        <seg>&lt;x1/&gt;Fiscal printers&lt;x2/&gt;Fiscal printers&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3265,6 +3323,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T122007Z" creationid="kunes" creationdate="20220421T075720Z">
         <seg>&lt;x1/&gt;Import of unreliable VAT payers from xml format&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Insolvenční rejstřík&lt;x2/&gt;Insolvenční rejstřík&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071852Z" creationid="kunes" creationdate="20220518T071852Z">
+        <seg>&lt;x1/&gt;Insolvency register&lt;x2/&gt;Insolvency register&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3957,6 +4023,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on &lt;g1&gt;Insolvenční rejstřík&lt;/g1&gt; slouží k evidenci záznamů stahovaných z  https://isir.justice.cz o insolvenčním řízení společností.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071834Z" creationid="kunes" creationdate="20220518T071834Z">
+        <seg>The &lt;g1&gt;Insolvency Register&lt;/g1&gt; add-on is used to record records downloaded from the https://isir.justice.cz on the insolvency proceedings of companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on Doprava řeší problematiku evidence vozidel, plánování údržby vozidel, evidence řidičů, evidence knih jízd a evidenci spotřeby pohonných hmot (včetně možnosti importu souborů o nákupech na palivové karty, např. CCS).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T123807Z" creationid="kunes" creationdate="20220427T123807Z">
@@ -4377,6 +4451,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101536Z" creationid="kunes" creationdate="20220414T101536Z">
         <seg>Customer and Goods Price Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Centrem plánování dopravy je formulář Pult dispečera dopravy, který zobrazuje požadavky na dopravu nové, zaplánované i uzavřené.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071614Z" creationid="kunes" creationdate="20220518T071614Z">
+        <seg>The traffic planning center is the Transport Dispatch Board form, which displays requests for new, scheduled and closed transport.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,8 +5185,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Doprava - Plánování</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220504T082231Z" creationid="kunes" creationdate="20220504T082231Z">
-        <seg>Doprava - Plánování</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071550Z" creationid="kunes" creationdate="20220504T082231Z">
+        <seg>Transport - planning</seg>
       </tuv>
     </tu>
     <tu>
@@ -6309,6 +6391,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Je nástrojem pro další akce s kontakty společnosti, které jsou v insolvenčním řízení, např. při zadávání prodejních dokladů, jejich účtování (dodání, fakturace).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071837Z" creationid="kunes" creationdate="20220518T071837Z">
+        <seg>It is a tool for further actions with the company's contacts that are in insolvency proceedings, e.g. when entering sales documents, their accounting (delivery, invoicing).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Je podporována i varianta regresního faktoringu, kdy faktor může pohledávku/závazek vrátit.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T114754Z" creationid="kunes" creationdate="20220420T114754Z">
@@ -6513,6 +6603,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093418Z" creationid="kunes" creationdate="20220504T093418Z">
         <seg>There is also a history of closed HelpDesk requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>K tisku na fiskální tiskárně dochází také při zaúčtování rozpisu platby na vytvořeném resp. zaúčtovaném dokladu (faktura, dobropis, záloha).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072017Z" creationid="kunes" creationdate="20220518T072017Z">
+        <seg>Printing on the fiscal printer also occurs when the payment breakdown is posted on the created or posted document (invoice, credit note, prepayment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7317,6 +7415,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Fiskální tiskárny – VAROS&lt;/g1&gt; slouží k vytvoření a tisku pokladního dokladu na fiskální tiskárně firmy VAROS.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072004Z" creationid="kunes" creationdate="20220518T072004Z">
+        <seg>The &lt;g1&gt;Fiscal Printers - VAROS&lt;/g1&gt; module is used to create and print a cash receipt on a VAROS fiscal printer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Modul &lt;g1&gt;Fronta úloh&lt;/g1&gt; umožňuje automatizované spouštění sestav či procedur v systému Dynamics 365 Business Central v plánovaných intervalech.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T074158Z" creationid="kunes" creationdate="20220517T073947Z">
@@ -7329,6 +7435,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T093214Z" creationid="kunes" creationdate="20220516T093214Z">
         <seg>The &lt;g1&gt;Notifications&lt;/g1&gt; module enables &lt;g2&gt;system notifications&lt;/g2&gt; for data and process statuses recorded in Microsoft Dynamics 365 Business Central.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul Doprava – plánování rozšiřuje základní modul dopravy zejména o řízení a plánování jízd pomocí příkazů k jízdě a pomocí pultu dispečera dopravy.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071558Z" creationid="kunes" creationdate="20220518T071558Z">
+        <seg>The Transport – Planning module extends the basic transport module mainly to the control and planning of journeys using driving commands and using the traffic dispatcher's desk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11758,6 +11872,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poskytuje vybraným osobám společnosti aktuální informace o nových záznamech v insolvenčním rejstříku.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071841Z" creationid="kunes" creationdate="20220518T071841Z">
+        <seg>It provides selected persons of the company with up-to-date information on new entries in the insolvency register.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Poslední platbu systém dopočte do celkové výše faktury.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101756Z" creationid="kunes" creationdate="20220414T101756Z">
@@ -13765,6 +13887,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Při účtování primárních dokladů (faktura, objednávka, dobropis) s rozpisem platby (jedním či více typy úhrad) jsou automaticky vytvářeny fiskální položky a tyto jsou pak odeslány k tisku na fiskální tiskárnu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072012Z" creationid="kunes" creationdate="20220518T072012Z">
+        <seg>When you post primary documents (invoice, order, credit note) with a payment breakdown (one or more types of remittances), fiscal entries are automatically created and sent to the fiscal printer for printing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Přijímá zprávy z okolí a ukládá je do IN Bufferu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T123159Z" creationid="kunes" creationdate="20220517T123159Z">
@@ -13911,6 +14041,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Rovněž všechny vklady a výběry hotovosti do registrační pokladny jsou evidovány a vytištěny na fiskální tiskárně.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T072021Z" creationid="kunes" creationdate="20220518T072021Z">
+        <seg>Also, all cash deposits and withdrawals to the cash register are recorded and printed on the fiscal printer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Rozdíl je pouze v tom, že při Vydání systém hledá dle identifikačních údajů pohybu na řádku výpisu odpovídající záznamy na vydaném platebním příkazu v řádcích exportu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T090625Z" creationid="kunes" creationdate="20220419T090625Z">
@@ -13971,6 +14109,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083048Z" creationid="kunes" creationdate="20220504T083048Z">
         <seg>Extends publishing capabilities with tools to further control and control document publication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Rozšiřuje možnosti publikování ve dvou úrovních:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071439Z" creationid="kunes" creationdate="20220518T071439Z">
+        <seg>Extends publishing capabilities at two levels:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15617,6 +15763,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat úkoly do systému SharePoint, propojit je se záznamy v tabulkách informačního systému a doplnit o uživatelsky definované parametry (metadata).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071502Z" creationid="kunes" creationdate="20220518T071502Z">
+        <seg>It allows you to publish tasks to SharePoint directly from the Dynamics 365 Business Central environment, link them to records in information system tables, and supplement them with user-defined parameters (metadata).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Umožňuje sledování oběhu vratných obalů a paletového hospodářství.|&lt;g8&gt;Evidence vratných obalů (Vratné obaly)&lt;/g8&gt;|</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210625T133113Z" creationid="Janousek" creationdate="20210625T133113Z">
@@ -16371,6 +16525,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T092323Z" creationid="kunes" creationdate="20220504T092323Z">
         <seg>On the &lt;g1&gt;Related Incoming Document&lt;/g1&gt; tab, you can create or attach or disconnect the Incoming Document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V řádcích jsou jednotlivé požadavky, v hlavičce pak filtry na filtrování řádků přes vozidlo, typ vozidla, stav požadavku, datum požadavku a přes globální dimenze.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071622Z" creationid="kunes" creationdate="20220518T071622Z">
+        <seg>In the rows there are individual requests, in the header there are filters to filter rows through the vehicle, vehicle type, request status, request date and global dimensions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19513,6 +19675,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>publikování úkolů na základě rozšířených nastavení prostřednictvím publikačních šablon (vyžaduje modul Publikační šablony).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071456Z" creationid="kunes" creationdate="20220518T071456Z">
+        <seg>Publish tasks based on advanced settings through publishing templates (requires the Publishing Templates module).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>při vkládání hodnoty do Směnných kurzů,</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T091413Z" creationid="kunes" creationdate="20220419T091413Z">
@@ -19589,6 +19759,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T113053Z" creationid="kunes" creationdate="20220419T113053Z">
         <seg>on Doc is not fulfiled, the notification is turned off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>základní publikování úkolů a jejich parametrů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071442Z" creationid="kunes" creationdate="20220518T071442Z">
+        <seg>basic publishing of tasks and their parameters</seg>
       </tuv>
     </tu>
     <tu>
