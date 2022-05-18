@@ -3989,6 +3989,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Add-on modul &lt;g1&gt;Publikační úkoly&lt;/g1&gt; je rozšiřující modul k Publikování Sharepoint.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071436Z" creationid="kunes" creationdate="20220518T071436Z">
+        <seg>The &lt;g1&gt;Publishing Tasks&lt;/g1&gt; add-on module is an extension module for Sharepoint Publishing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Add-on modul &lt;g1&gt;Publikační šablony&lt;/g1&gt; je rozšiřující modul k Publikování Sharepoint.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T083043Z" creationid="kunes" creationdate="20220504T083043Z">
@@ -9781,8 +9789,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Odstraněné funkce z AC Financial Pack</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220411T114422Z" creationid="kunes" creationdate="20220411T114422Z">
-        <seg>Odstraněné funkce z AC Financial Pack</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071110Z" creationid="kunes" creationdate="20220411T114422Z">
+        <seg>Removed features from AC Financial Pack</seg>
       </tuv>
     </tu>
     <tu>
@@ -13465,6 +13473,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220509T105906Z" creationid="kunes" creationdate="20220509T105906Z">
         <seg>Publishing a document requires &lt;g2&gt;SharePoint Publishing&lt;/g2&gt; module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Publikování úkolů</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220518T071332Z" creationid="kunes" creationdate="20220518T071332Z">
+        <seg>Task publishing</seg>
       </tuv>
     </tu>
     <tu>
