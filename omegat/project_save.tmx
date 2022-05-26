@@ -12596,6 +12596,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Poznámky k reklamaci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110534Z" creationid="kunes" creationdate="20220526T110534Z">
+        <seg>Complaint comments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Počáteční datum DPH</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T105214Z" creationid="kunes" creationdate="20220419T105214Z">
@@ -19193,6 +19201,14 @@ In the &lt;g7&gt;Status change detail&lt;/g7&gt; tab, a new record with the defa
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220404T083523Z" creationid="kunes" creationdate="20220404T083523Z">
         <seg>In order to better control the handling of cash or valuables, separate records are usually required for each user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Z propojeného původního dokladu se předvyplní základní data – &lt;g7&gt;Číslo zboží, Popis, Kód měrné jednotky, Reklamované množství, Číslo šarže,…&lt;/g7&gt;, které uživatel může změnit či upravit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110514Z" creationid="kunes" creationdate="20220526T110514Z">
+        <seg>From the linked source document, the basic data is pre-populated – &lt;g7&gt;Item number, Description, Unit of measure code, Claimed quantity, Lot number,...&lt;/g7&gt; that the user can change or modify.</seg>
       </tuv>
     </tu>
     <tu>
