@@ -5529,6 +5529,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je zde funkce &lt;g2&gt;Akce/Funkce/Změna stavu&lt;/g2&gt; pro změnu stavu workflow daného řádku reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120425Z" creationid="kunes" creationdate="20220526T120425Z">
+        <seg>There is also the &lt;g2&gt;Action/Function/Status Change&lt;/g2&gt; function to change the workflow status of the given complaint line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je zde možnost daný záznam expirovat, změnit poznámku nebo ručně odeslat do archívu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T111002Z" creationid="kunes" creationdate="20220517T111002Z">
@@ -6765,6 +6773,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T125531Z" creationid="kunes" creationdate="20220429T125531Z">
         <seg>These are specific field settings for the central database tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jedná se o stav, ve kterém jsou již všechny pole a akce nepřístupné tzn. nelze na Reklamaci již nic změnit či upravit.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120500Z" creationid="kunes" creationdate="20220526T120500Z">
+        <seg>This is a state in which all fields and actions are already inaccessible, ie. nothing can be changed or modified in the Complaint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12200,6 +12216,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí akce &lt;g1&gt;Akce/Funkce/Uzavřít reklamaci&lt;/g1&gt; se celá Reklamace přepne do &lt;g2&gt;Stav&lt;/g2&gt; = Uzavřeno a automaticky se vyplní pole &lt;g3&gt;Uzavřeno dne a Uzavřel&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120453Z" creationid="kunes" creationdate="20220526T120453Z">
+        <seg>Using the &lt;g1&gt;Action/Function/Close Complaint&lt;/g1&gt; action, the entire Complaint is switched to &lt;g2&gt;Status&lt;/g2&gt; = Closed and the &lt;g3&gt;Closed on and Closed fields are automatically filled&lt;/g3&gt; in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí funkce &lt;g1&gt;Akce/Tisk/Reklamace&lt;/g1&gt; a &lt;g2&gt;Akce/Tisk/Vyřízení reklamace&lt;/g2&gt; se spustí dvě základní sestavy pro zpracování reklamace a vyřízení reklamace (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku, rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220526T110957Z" creationid="kunes" creationdate="20220526T110957Z">
@@ -16547,6 +16571,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Uzavření reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120430Z" creationid="kunes" creationdate="20220526T120430Z">
+        <seg>Closing a complaint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Uzavřený formulář není možné vymazat ze seznamu vygenerovaných KV.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T115224Z" creationid="kunes" creationdate="20220421T115224Z">
@@ -18467,6 +18499,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vybraný řádek reklamace lze pak zobrazit akcí &lt;g1&gt;Souvisejíci/Řádek/Doklad&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120418Z" creationid="kunes" creationdate="20220526T120418Z">
+        <seg>The selected claim line can then be displayed by the &lt;g1&gt;Related/Line/Document&lt;/g1&gt; action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vybrat ID uživatele, ID sestavy 52068430 a Název tiskárny</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T130410Z" creationid="kunes" creationdate="20220411T130410Z">
@@ -19873,6 +19913,14 @@ In the &lt;g7&gt;Status change detail&lt;/g7&gt; tab, a new record with the defa
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T085107Z" creationid="kunes" creationdate="20220512T085107Z">
         <seg>Viewing the &lt;g5&gt;Closed Mail Record&lt;/g5&gt; page displays closed requests, that is, requests that have already been processed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Zobrazený přehled požadavků je možno navíc seřadit podle různých klíčů, zvl. podle Čísla reklamace, Čísla zboží, Popisu, Kódu příčiny reklamace a Zapříčinili – Středisko nebo Zaměstnanec.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120358Z" creationid="kunes" creationdate="20220526T120358Z">
+        <seg>In addition, the displayed overview of requirements can be sorted by various keys, especially by Complaint Number, Item Number, Description, Complaint Reason Code and Caused by - Center or Employee.</seg>
       </tuv>
     </tu>
     <tu>
