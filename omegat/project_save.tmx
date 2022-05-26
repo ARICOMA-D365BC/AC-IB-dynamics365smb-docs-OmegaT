@@ -2381,6 +2381,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Reklamace&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084705Z" creationid="kunes" creationdate="20220526T084507Z">
+        <seg>&lt;g1&gt;Complaints Management&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;Relace existuje&lt;/g1&gt; – pole, které určuje, zda je již definována relační vazba</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220429T132902Z" creationid="kunes" creationdate="20220429T132902Z">
@@ -3893,6 +3903,14 @@ If it is a document created from the Data Box, it is possible to have the origin
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T120343Z" creationid="kunes" creationdate="20220411T120343Z">
         <seg>&lt;x2/&gt;AC Parcels settings&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Nastavení řízení stavů&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084501Z" creationid="kunes" creationdate="20220526T084445Z">
+        <seg>&lt;x2/&gt;Status management setup&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7603,6 +7621,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T074158Z" creationid="kunes" creationdate="20220517T073947Z">
         <seg>&lt;g1&gt;Job Queue&lt;/g1&gt; module enables automated execution of reports or procedures in Dynamics 365 Business Central at scheduled intervals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul &lt;g1&gt;Reklamace&lt;/g1&gt; slouží k evidenci reklamací zboží prodaného i nakoupeného.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084953Z" creationid="kunes" creationdate="20220526T084947Z">
+        <seg>The &lt;g1&gt;Complaints&lt;/g1&gt; module is used to record complaints about goods sold and purchased.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16137,6 +16163,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T110030Z" creationid="kunes" creationdate="20220428T110030Z">
         <seg>It also allows you to monitor the current status and progress of processing and then automatically fill in forms and records with defined values or run any program actions when the status of the task (document, record) changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Umožňuje však také evidovat i reklamace interní.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085142Z" creationid="kunes" creationdate="20220526T084949Z">
+        <seg>However, it also allows you to record internal complaints.</seg>
       </tuv>
     </tu>
     <tu>
