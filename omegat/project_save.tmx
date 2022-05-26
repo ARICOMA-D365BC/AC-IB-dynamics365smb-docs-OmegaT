@@ -16851,6 +16851,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>V případě, že pole &lt;g6&gt;Typ původního dokladu&lt;/g6&gt; = Transfer lze původní doklad propojit přes pole Číslo původního dokladu (Řádky účtované dodávky transferu).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110313Z" creationid="kunes" creationdate="20220526T110313Z">
+        <seg>If the &lt;g6&gt;Source Document Type&lt;/g6&gt; = Transfer field, the original document can be linked through the Source Document number field (Transfer posted delivery lines).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>V případě, že se jedná o &lt;g4&gt;Typ&lt;/g4&gt; = Interní, pak je třeba vybrat &lt;g5&gt;Číslo položky zboží&lt;/g5&gt;, ke které se reklamace vztahuje.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220526T104415Z" creationid="kunes" creationdate="20220526T104415Z">
