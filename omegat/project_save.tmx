@@ -5017,6 +5017,22 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dispečer řádků reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115800Z" creationid="kunes" creationdate="20220526T115800Z">
+        <seg>Complaint Line Dispatcher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Dispečer řádků reklamace je dostupný:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115809Z" creationid="kunes" creationdate="20220526T115809Z">
+        <seg>The dispatcher of the complaint lines is available:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dle evidovaného odhadu (zálohový koeficient) jsou v průběhu účetního období účtovány odpočty DPH.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T104741Z" creationid="kunes" creationdate="20220419T104729Z">
@@ -6137,6 +6153,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Funkce vytvoří novou Reklamaci k zadanému číslu dodavatele a překopíruje také řádek se všemi vyplněnými údaji.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115726Z" creationid="kunes" creationdate="20220526T115726Z">
+        <seg>The function creates a new Complaint for the entered vendor number and also copies the line with all the entered data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Funkce zobrazí seznam přepravců s počtem zásilek, které ještě nebyly objednány ke svozu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112525Z" creationid="kunes" creationdate="20220411T112525Z">
@@ -6301,6 +6325,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101356Z" creationid="kunes" creationdate="20220414T101356Z">
         <seg>A hierarchical price proposal means that the price (as well as the line discount) is found in a fixed order (according to the hierarchy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Historie původního dokladu</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115735Z" creationid="kunes" creationdate="20220526T115735Z">
+        <seg>History of the source document</seg>
       </tuv>
     </tu>
     <tu>
@@ -6741,6 +6773,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T092525Z" creationid="kunes" creationdate="20220504T092525Z">
         <seg>This is a link to the &lt;g2&gt;Incoming Mail module (for more details, see the Inbox module)&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Jedná se o změny propojení řádku reklamace na původní doklad včetně informací o datu a času změny záznamu a uživateli, který změnu provedl.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115754Z" creationid="kunes" creationdate="20220526T115754Z">
+        <seg>These are changes to the link of the claim line to the original document, including information about the date and time of the change to the record and the user who made the change.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8899,6 +8939,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T084705Z" creationid="kunes" creationdate="20220512T084705Z">
         <seg>It offers an overview view of requirements with preset optional filters in the header for easier searching and orientation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nabízí přehledové zobrazení reklamací s přednastavenými volitelnými filtry v záhlaví pro snadnější vyhledávání a orientaci.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115854Z" creationid="kunes" creationdate="20220526T115854Z">
+        <seg>It offers an overview view of complaints with preset optional filters in the header for easier search and orientation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12192,6 +12240,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Řádek/Historie původního dokladu&lt;/g1&gt; se zobrazí přehled všech změn k vybranému řádku reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115750Z" creationid="kunes" creationdate="20220526T115750Z">
+        <seg>Use the &lt;g1&gt;Line / History of the original document&lt;/g1&gt; function to see an overview of all changes to the selected claim line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí funkce &lt;g1&gt;Řádek/Prodejní položky zboží&lt;/g1&gt; se zobrazí zafiltrovaný přehled položek zboží &lt;g2&gt;Typu&lt;/g2&gt; = Prodej za daného &lt;g3&gt;Zákazníka, Číslo šarže, Číslo zboží, Kód varianty&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220526T115455Z" creationid="kunes" creationdate="20220526T115455Z">
@@ -14555,6 +14611,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Reklamace lze filtrovat např. podle &lt;g1&gt;Lokace hlavičky&lt;/g1&gt;, &lt;g2&gt;Příčiny reklamace&lt;/g2&gt;, &lt;g3&gt;Datumu vytvoření&lt;/g3&gt;, podle &lt;g4&gt;Uživatele, který reklamaci Vytvořil&lt;/g4&gt; či podle &lt;g5&gt;stavu Řízení stavů&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120313Z" creationid="kunes" creationdate="20220526T115856Z">
+        <seg>Complaints can be filtered, for example, by &lt;g1&gt;Header Location&lt;/g1&gt;, &lt;g2&gt;Complaint Cause&lt;/g2&gt;, &lt;g3&gt;Creation Date&lt;/g3&gt;, &lt;g4&gt;User who created the complaint,&lt;/g4&gt; or &lt;g5&gt;Status Management status&lt;/g5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Režim OSS se na prodejním dokladu zapíná na základě následujících informací:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110201Z" creationid="kunes" creationdate="20220419T110201Z">
@@ -15721,6 +15785,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T084659Z" creationid="kunes" creationdate="20220512T084659Z">
         <seg>This page provides a summary view of unclosed mail records cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Tato stránka umožňuje souhrnný pohled na všechny reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115845Z" creationid="kunes" creationdate="20220526T115845Z">
+        <seg>This page allows you to take a summary view of all Complaint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17559,6 +17631,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T123248Z" creationid="kunes" creationdate="20220420T123248Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Intrastat Journals&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Dispečer řádků reklamace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115834Z" creationid="kunes" creationdate="20220526T115834Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Complaint Line Dispatcher&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
