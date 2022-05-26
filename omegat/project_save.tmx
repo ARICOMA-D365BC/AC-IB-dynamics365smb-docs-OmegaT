@@ -14885,6 +14885,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Sledování a řízení postupu reklamace tedy může být podpořeno přepínáním stavů workflow se všemi jeho možnostmi, jako např. informování uživatelů mailem, automatické nastavování polí či řízení přístupu vybraným uživatelům k jednotlivým stavům workflow (&lt;g1&gt;detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T112038Z" creationid="kunes" creationdate="20220526T112038Z">
+        <seg>Monitoring and control of the complaint process can therefore be supported by switching workflow states with all its options, such as informing users by e-mail, automatic field settings or controlling access to selected users to individual workflow states (&lt;g1&gt;for more details see.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Sledování zásilek</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T112900Z" creationid="kunes" creationdate="20220411T112900Z">
@@ -18643,6 +18651,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vytvořit řádek vyřízení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T114302Z" creationid="kunes" creationdate="20220526T114302Z">
+        <seg>Create Fullilment Line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vytvořit šablonu workflow pro Helpdesk.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093511Z" creationid="kunes" creationdate="20220504T093511Z">
@@ -20943,6 +20959,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092630Z" creationid="kunes" creationdate="20220428T092630Z">
         <seg>WorkFlow - State Management - Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řízení stavů&lt;/g1&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T112042Z" creationid="kunes" creationdate="20220526T112042Z">
+        <seg>State management&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
