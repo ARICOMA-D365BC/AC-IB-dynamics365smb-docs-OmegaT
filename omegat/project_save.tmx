@@ -3271,6 +3271,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Důvody reklamace&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082616Z" creationid="kunes" creationdate="20220526T082616Z">
+        <seg>&lt;x1/&gt;Complaint Reasons&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Elektronická fakturace&lt;x2/&gt;Elektronická fakturace&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T121742Z" creationid="kunes" creationdate="20220512T121742Z">
@@ -6691,6 +6699,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>K nastavení důvodů reklamace uživatelů se dostanete následovně:</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082521Z" creationid="kunes" creationdate="20220526T082448Z">
+        <seg>To set the reasons for a user complaint, follow these steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>K tisku na fiskální tiskárně dochází také při zaúčtování rozpisu platby na vytvořeném resp. zaúčtovaném dokladu (faktura, dobropis, záloha).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220518T072017Z" creationid="kunes" creationdate="20220518T072017Z">
@@ -8075,6 +8091,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T122529Z" creationid="kunes" creationdate="20220420T122529Z">
         <seg>On the &lt;g1&gt;Data Exchange Definition&lt;/g1&gt; page, choose &lt;g2&gt;Field Mapping&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Důvody reklamace&lt;/g1&gt; vyberte akci Nový a poté zadejte &lt;g2&gt;Kód&lt;/g2&gt;, &lt;g3&gt;Popis&lt;/g3&gt; a &lt;g4&gt;Kód lokace&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082602Z" creationid="kunes" creationdate="20220526T082602Z">
+        <seg>On &lt;g1&gt;Complaint Reasons&lt;/g1&gt; page choose New action, and then enter &lt;g2&gt;Code&lt;/g2&gt;, &lt;g3&gt;Description&lt;/g3&gt;, and &lt;g4&gt;Location Code&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14133,6 +14157,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Příčiny reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082634Z" creationid="kunes" creationdate="20220526T082634Z">
+        <seg>Complaint Causes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Raben</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104349Z" creationid="kunes" creationdate="20220407T104349Z">
@@ -17789,6 +17821,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Důvody reklamace&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082540Z" creationid="kunes" creationdate="20220526T082540Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Complaint Reasons&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;,zadejte &lt;g4&gt;Nastavení reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220526T081712Z" creationid="kunes" creationdate="20220526T081124Z">
@@ -20307,8 +20347,16 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       <tuv lang="cs-CZ">
         <seg>Číselník &lt;g1&gt;Důvodů reklamace&lt;/g1&gt; obsahuje pole &lt;g2&gt;Kód&lt;/g2&gt;, &lt;g3&gt;Popis&lt;/g3&gt; a &lt;g4&gt;Kód lokace&lt;/g4&gt;.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220526T082447Z" creationid="kunes" creationdate="20220526T082447Z">
-        <seg>The &lt;g1&gt;Complaint Reasons&lt;/g1&gt; code list contains &lt;g2&gt;the Code&lt;/g2&gt;, &lt;g3&gt;Description&lt;/g3&gt;, and &lt;g4&gt;Location Code&lt;/g4&gt; fields.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082510Z" creationid="kunes" creationdate="20220526T082447Z">
+        <seg>The &lt;g1&gt;Complaint Reasons&lt;/g1&gt; code list contains &lt;g2&gt;Code&lt;/g2&gt;, &lt;g3&gt;Description&lt;/g3&gt;, and &lt;g4&gt;Location Code&lt;/g4&gt; fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselník &lt;g1&gt;Příčiny reklamace&lt;/g1&gt; obsahuje pole &lt;g2&gt;Kód&lt;/g2&gt;, &lt;g3&gt;Popis&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082758Z" creationid="kunes" creationdate="20220526T082758Z">
+        <seg>The &lt;g1&gt;Complaints Causes&lt;/g1&gt; code list contains fields &lt;g2&gt;Code&lt;/g2&gt;, &lt;g3&gt;Description&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
