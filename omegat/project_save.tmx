@@ -3897,6 +3897,16 @@ If it is a document created from the Data Box, it is possible to have the origin
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Nastavení řízení stavů&lt;x3/&gt;
+&lt;g4&gt;Viz také&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084236Z" creationid="kunes" creationdate="20220526T084236Z">
+        <seg>&lt;x2/&gt;Status Management Setup&lt;x3/&gt;
+&lt;g4&gt;See Also&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x2/&gt;Odborné způsobilosti řidiče&lt;x3/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T125007Z" creationid="kunes" creationdate="20220427T125007Z">
