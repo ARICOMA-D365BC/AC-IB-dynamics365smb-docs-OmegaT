@@ -8855,6 +8855,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na řádku reklamace lze vyplnit pole &lt;g1&gt;Kód příčiny reklamace&lt;/g1&gt; (výběr z číselníku &lt;g2&gt;Příčiny reklamace&lt;/g2&gt;), &lt;g3&gt;Zapříčinil – Středisko&lt;/g3&gt; (výběr z číselníku &lt;g4&gt;Hodnot dimenzí – STŘEDISKO&lt;/g4&gt;), &lt;g5&gt;Zapříčinil – Zaměstnanec&lt;/g5&gt; (výběr z číselníku &lt;g6&gt;Zaměstnanci&lt;/g6&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T111358Z" creationid="kunes" creationdate="20220526T111358Z">
+        <seg>On the complaint line, you can fill in the fields &lt;g1&gt;Complaint Cause Code&lt;/g1&gt; (selection from &lt;g2&gt;the Complaints Causes&lt;/g2&gt; code list), &lt;g3&gt;Caused by – Department&lt;/g3&gt; (selection from &lt;g4&gt;the Dimension Values – CENTER&lt;/g4&gt;) fields&lt;g5&gt;, Caused by the Employee&lt;/g5&gt; (selection from &lt;g6&gt;the Employees&lt;/g6&gt; code list).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nabídka tiskových sestav přiřazených modulu HelpDesk:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T072454Z" creationid="kunes" creationdate="20220512T072454Z">
@@ -14181,6 +14189,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114948Z" creationid="kunes" creationdate="20220411T114948Z">
         <seg>Shipping agents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Přes akci &lt;g7&gt;Řádek/Změna stavu&lt;/g7&gt; lze jednotlivý řádek reklamace procesně přesunout do dalšího definovaného stavu workflow a přes akci &lt;g8&gt;Akce/Funkce/Změna stavu&lt;/g8&gt; změnit stav celého dokladu reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T112026Z" creationid="kunes" creationdate="20220526T112026Z">
+        <seg>Through the &lt;g7&gt;Line/Change status&lt;/g7&gt; action, an individual complaint line can be procedurally moved to the next defined workflow state, and through the &lt;g8&gt;Action/Functions/Status Change&lt;/g8&gt; action, change the status of the entire claim document.</seg>
       </tuv>
     </tu>
     <tu>
