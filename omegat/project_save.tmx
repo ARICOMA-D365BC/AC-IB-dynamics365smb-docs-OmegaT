@@ -315,6 +315,16 @@ In connection with this functionality, the printouts of sales or service documen
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Z tohoto stavu se již nelze vrátit do předchozího &lt;g2&gt;Stavu&lt;/g2&gt; – V řešení nebo Nový.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120508Z" creationid="kunes" creationdate="20220526T120508Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+From this state, you can no longer revert to the previous &lt;g2&gt;State&lt;/g2&gt; - In Solution or New.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;&lt;x2/&gt;
 Pokud se chystáte importovat poskytnuté soubory parametrizace EKO-KOM, je nutné založit Výkaz obalů s kódem &lt;g3&gt;EKO-KOM&lt;/g3&gt;.</seg>
       </tuv>
@@ -2369,6 +2379,16 @@ The stated change is irreversible and the change of the CreditCheck status (new 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T103854Z" creationid="kunes" creationdate="20220419T103854Z">
         <seg>&lt;g1&gt;QR code for payment on the sales invoice&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;g1&gt;Reklamace - nastavení&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T120525Z" creationid="kunes" creationdate="20220526T120525Z">
+        <seg>&lt;g1&gt;Complaints Setup&lt;/g1&gt;&lt;x2/&gt;
+&lt;g3&gt;Productivity Pack&lt;/g3&gt;</seg>
       </tuv>
     </tu>
     <tu>
