@@ -8241,6 +8241,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Nastavení řízení stavů&lt;/g1&gt; zadejte do pole &lt;g2&gt;Číslo tabulky&lt;/g2&gt; číslo 52068271, které označuje tabulku Hlavička reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084201Z" creationid="kunes" creationdate="20220526T084201Z">
+        <seg>On the &lt;g1&gt;Status Mgt. Setup&lt;/g1&gt; page enter 52068271 in the &lt;g2&gt;Table Number&lt;/g2&gt; field, which identifies the Complaint Header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Na stránce &lt;g1&gt;Nastavení řízení stavů&lt;/g1&gt; zadejte do pole &lt;g2&gt;Číslo tabulky&lt;/g2&gt; číslo 52068298, které označuje tabulku Helpdesk požadavek.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T120446Z" creationid="kunes" creationdate="20220504T120446Z">
@@ -9583,6 +9591,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140704Z" creationid="kunes" creationdate="20220512T140704Z">
         <seg>Settings status management for Mail Records</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Nastavení řízení stavů pro Reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084116Z" creationid="kunes" creationdate="20220526T084116Z">
+        <seg>Status Management settings for Complaints</seg>
       </tuv>
     </tu>
     <tu>
@@ -12612,6 +12628,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T132437Z" creationid="kunes" creationdate="20220420T132437Z">
         <seg>For VAT Report from 2018 it is &lt;g1&gt;52068861&lt;/g1&gt;, for VAT Report until 2017 it is &lt;g2&gt;52068860&lt;/g2&gt;, for VAT Control Report &lt;g3&gt;52068903&lt;/g3&gt; nd for Summary Report that is &lt;g4&gt;52068870&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pro aktivní řádek lze specifikovat &lt;g11&gt;Akce Řízení stavů&lt;/g11&gt;, &lt;g12&gt;Kontrolovaná pole&lt;/g12&gt; a &lt;g13&gt;Nastavovaná pole&lt;/g13&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084102Z" creationid="kunes" creationdate="20220526T084102Z">
+        <seg>For the active row, you can specify &lt;g11&gt;State Control Actions&lt;/g11&gt;, &lt;g12&gt;Checked Fields&lt;/g12&gt;, and &lt;g13&gt;Set Fields&lt;/g13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16571,6 +16595,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T120502Z" creationid="kunes" creationdate="20220504T120502Z">
         <seg>In the &lt;g1&gt;Status Management templates&lt;/g1&gt;field, select the appropriate template for status control for HelpDesk requests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V poli &lt;g1&gt;Šablony Řízení stavů&lt;/g1&gt; vyberte příslušnou šablonu pro řízení stavů pro Reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084214Z" creationid="kunes" creationdate="20220526T084214Z">
+        <seg>In the &lt;g1&gt;Status management template&lt;/g1&gt; field select the appropriate status management template for Complaint.</seg>
       </tuv>
     </tu>
     <tu>
