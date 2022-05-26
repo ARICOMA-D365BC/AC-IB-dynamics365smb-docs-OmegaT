@@ -10587,6 +10587,14 @@ These data are updated manually using the "Resynchronize master data" function.<
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po importu modulu je třeba provést Nastavení reklamací na stránce – &lt;g1&gt;Nastavení reklamací&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081658Z" creationid="kunes" creationdate="20220526T081119Z">
+        <seg>After importing the module, you need to perform the Complaints Settings on the page - &lt;g1&gt;Complaints Setup&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po importu modulu je třeba provést vytvoření Šablony evidence pošty na stránce – &lt;g1&gt;Šablony evidence pošty&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135245Z" creationid="kunes" creationdate="20220512T135245Z">
@@ -17737,6 +17745,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220428T092848Z" creationid="kunes" creationdate="20220428T092848Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Status Management Templates&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;,zadejte &lt;g4&gt;Nastavení reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081124Z" creationid="kunes" creationdate="20220526T081124Z">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;,zadejte &lt;g4&gt;Nastavení reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
     </tu>
     <tu>
