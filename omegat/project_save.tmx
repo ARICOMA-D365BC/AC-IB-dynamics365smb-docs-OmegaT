@@ -3967,6 +3967,16 @@ Using the &lt;g5&gt;Mail Related Documents&lt;/g5&gt; function or the &lt;g6&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x3/&gt;Stavy řízení stavů&lt;x4/&gt;
+Pro každý stav řízení stavů je třeba nadefinovat &lt;g5&gt;Code&lt;/g5&gt;, &lt;g6&gt;Popis&lt;/g6&gt; a &lt;g7&gt;Filtr dalšího stavu&lt;/g7&gt;, který určuje, do jakých dalších stavů je možné z daného stavu přejít.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T083600Z" creationid="kunes" creationdate="20220526T083600Z">
+        <seg>&lt;x3/&gt;Status Management Templates&lt;x4/&gt;
+For each state control state it is necessary to define &lt;g5&gt;Code&lt;/g5&gt;, &lt;g6&gt;Description&lt;/g6&gt; and &lt;g7&gt;Additional state filter&lt;/g7&gt;, which determines which other states it is possible to go from the given state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x3/&gt;Účtoskupiny pro faktoring&lt;x4/&gt;|
 |&lt;g5&gt;Náhradní účto skupiny zákazníka&lt;/g5&gt;|Je nutné založit nové kombinace náhrad účto skupin zákazníka (dostupné ze stránky Náhr.</seg>
       </tuv>
@@ -9921,6 +9931,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Některé stavy mohou být označeny jako &lt;g10&gt;Konečný stav&lt;/g10&gt;, z něhož se už nepokračuje do žádného dalšího stavu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T084033Z" creationid="kunes" creationdate="20220526T084033Z">
+        <seg>Some states may be labeled as &lt;g10&gt;Final Status&lt;/g10&gt;, from which no further state is progressed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Některé stavy mohou být označeny jako &lt;g1&gt;Konečný stav&lt;/g1&gt;, z něhož se už nepokračuje do žádného dalšího stavu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140613Z" creationid="kunes" creationdate="20220428T094209Z">
@@ -11221,6 +11239,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
         <seg>Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na funkci &lt;g1&gt;Šablona →Stavy Řízení stavů&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140034Z" creationid="kunes" creationdate="20220512T140034Z">
+        <seg>To specify individual states for the newly created state control, click &lt;g1&gt;Template function → Status Management Statuses&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud chcete zadat jednotlivé stavy nově vytvořeného řízení stavů, kliknete na funkci &lt;g1&gt;Šablona&lt;/g1&gt; →&lt;g2&gt;Stavy Řízení stavů&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T083513Z" creationid="kunes" creationdate="20220526T083513Z">
         <seg>To specify individual states for the newly created state control, click &lt;g1&gt;Template function → Status Management Statuses&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -13771,6 +13797,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Právě jeden ze stavů musí být označen jako &lt;g8&gt;Výchozí stav&lt;/g8&gt; (zaškrtnutím pole &lt;g9&gt;Výchozí stav&lt;/g9&gt;).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T083826Z" creationid="kunes" creationdate="20220526T083604Z">
+        <seg>Just one of the states must be marked as &lt;g8&gt;Default Status&lt;/g8&gt; (by checking the &lt;g9&gt;Default Status check box&lt;/g9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Průvodce vložení obecných parametrů</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220405T123109Z" creationid="kunes" creationdate="20220405T123109Z">
@@ -15239,6 +15273,14 @@ The parameterisation files can be uploaded to the system using the &lt;g5&gt;Rap
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T140604Z" creationid="kunes" creationdate="20220512T140604Z">
         <seg>The status marked in this way is filled in when creating a new Mail Record document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Takto označený stav se vyplní při založení nového dokumentu Reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T083838Z" creationid="kunes" creationdate="20220526T083838Z">
+        <seg>The status marked in this way will be filled in when creating a new Complaints document.</seg>
       </tuv>
     </tu>
     <tu>
