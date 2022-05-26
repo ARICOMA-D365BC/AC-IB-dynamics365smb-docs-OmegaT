@@ -5449,6 +5449,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Dále je možno &lt;g1&gt;Řádek vyřízení reklamace&lt;/g1&gt; procesovat a měnit jeho stav přes akci – &lt;g2&gt;Akce/Funkce/Změna stavu&lt;/g2&gt;, případně změnit &lt;g3&gt;Kód způsobu vyřízení&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115404Z" creationid="kunes" creationdate="20220526T115404Z">
+        <seg>It is also possible to process &lt;g1&gt;Complaint Fulfilment Line&lt;/g1&gt; and change its status via an action – &lt;g2&gt;Action/Function/Request Status Change&lt;/g2&gt;, or change the &lt;g3&gt;Complaint Fulfilment Methods&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Dále je možno vyplněním tabulky T4002916 OUT Buffer Dokument odeslat více souborů příloh v jednom e-mailu z jedné položky OUT Bufferu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T131118Z" creationid="kunes" creationdate="20220517T131118Z">
@@ -7541,6 +7549,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121409Z" creationid="kunes" creationdate="20220427T121409Z">
         <seg>For example, you can create a table with the following values:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Lze tedy k jednomu řádku reklamace vytvořit více řádků vyřízení, a to vždy se specifickým kódem vyřízení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115255Z" creationid="kunes" creationdate="20220526T115255Z">
+        <seg>It is therefore possible to create multiple settlement lines for one line of the complaint, always with a specific settlement code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18567,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220420T131016Z" creationid="kunes" creationdate="20220420T131016Z">
         <seg>Print amounts in currency – prints amounts in the currency of posted documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořené řádky vyřízení se z reklamace otevřou přes akci &lt;g1&gt;Řádek/Řádky vyřízení reklamace&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115319Z" creationid="kunes" creationdate="20220526T115319Z">
+        <seg>The created settlement lines are opened from the complaint via the &lt;g1&gt;Line/Complaint Fulfilment Line&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
