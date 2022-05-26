@@ -6747,8 +6747,8 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       <tuv lang="cs-CZ">
         <seg>Jedná se o Řádky poznámek na kartě požadavku – tyto strukturované poznámky obsahují pole Datum, Poznámka (100 znaků) a Kód.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220506T090824Z" creationid="kunes" creationdate="20220506T090824Z">
-        <seg>These are Request Comment Line on the request card—these structured notes contain the Date, Note (100 characters), and Code fields.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110655Z" creationid="kunes" creationdate="20220506T090824Z">
+        <seg>These are the Note Lines on the request card—these structured notes contain the Date, Note (100 characters), and Comment fields.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16479,6 +16479,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220506T090802Z" creationid="kunes" creationdate="20220506T090656Z">
         <seg>Users can enter comment lines available as &lt;g1&gt;Related/Mail/Comments&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživatelé mohou zadat řádkové poznámky dostupné jako funkce &lt;g1&gt;Související/Reklamace/Poznámky&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110622Z" creationid="kunes" creationdate="20220526T110622Z">
+        <seg>Users can enter line notes available as &lt;g1&gt;Related/Complaints/Comments&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
