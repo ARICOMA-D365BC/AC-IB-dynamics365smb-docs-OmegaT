@@ -3531,6 +3531,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;x1/&gt;Nastavení reklamací&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081833Z" creationid="kunes" creationdate="20220526T081833Z">
+        <seg>&lt;x1/&gt;Complaints Setup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;x1/&gt;Nastavení služby CreditCheck&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T111810Z" creationid="kunes" creationdate="20220419T111810Z">
@@ -3887,6 +3895,14 @@ The approval request can be approved using the function - &lt;g4&gt;Related/Post
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T082617Z" creationid="kunes" creationdate="20220512T082617Z">
         <seg>&lt;x2/&gt;Attached documents&lt;x3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>&lt;x2/&gt;Vytvořená číslená řada&lt;x3/&gt;</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081926Z" creationid="kunes" creationdate="20220526T081926Z">
+        <seg>&lt;x2/&gt;Created numbered series&lt;x3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5479,6 +5495,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220414T101239Z" creationid="kunes" creationdate="20220414T101239Z">
         <seg>The reason may be that the user has checked this partner and does not consider the issue for which this condition is listed to be important, so he will cancel it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Důvody reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T082414Z" creationid="kunes" creationdate="20220526T082414Z">
+        <seg>Complaint Reasons</seg>
       </tuv>
     </tu>
     <tu>
@@ -8115,6 +8139,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T105746Z" creationid="kunes" creationdate="20220504T105746Z">
         <seg>On the &lt;g1&gt;Helpdesk Settings&lt;/g1&gt; page, on the &lt;g2&gt;General&lt;/g2&gt; tab, you can choose whether to fill in request categories 1-3, the default priority, and whether you need to enter new requests using the wizard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Na stránce &lt;g1&gt;Nastavení reklamací&lt;/g1&gt; je třeba v záložce &lt;g2&gt;Číslování&lt;/g2&gt; vybrat číselnou řadu pro nově vytvářené doklady - &lt;g3&gt;Čísla interních reklamací&lt;/g3&gt;, &lt;g4&gt;Čísla prodejních reklamací&lt;/g4&gt;, &lt;g5&gt;Čísla nákupních reklamací&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081819Z" creationid="kunes" creationdate="20220526T081819Z">
+        <seg>On &lt;g1&gt;Complaints Setup&lt;/g1&gt; page, on the &lt;g2&gt;Numbering&lt;/g2&gt; tab, it is necessary to select a number sequence for newly created documents - &lt;g3&gt;Internal Complaint Nos.&lt;/g3&gt;, &lt;g4&gt;Sales Complaints Nos.&lt;/g4&gt;, &lt;g5&gt;Purchase Complaints Nos&lt;/g5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14069,6 +14101,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Příklad vytvořené číselné řady &lt;g1&gt;(detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081913Z" creationid="kunes" creationdate="20220526T081913Z">
+        <seg>An example of a created number sequence &lt;g1&gt;(for more details, see.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Příklad vytvořené číselné řady:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T110039Z" creationid="kunes" creationdate="20220504T110039Z">
@@ -17751,8 +17791,8 @@ of the primary key fields).</seg>
       <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;,zadejte &lt;g4&gt;Nastavení reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220526T081124Z" creationid="kunes" creationdate="20220526T081124Z">
-        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;,zadejte &lt;g4&gt;Nastavení reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081712Z" creationid="kunes" creationdate="20220526T081124Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Complaints Setup&lt;/g4&gt; and then choose the related link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19695,6 +19735,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>modul - Číselné řady)&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081920Z" creationid="kunes" creationdate="20220526T081920Z">
+        <seg>Number sequences)&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>modul - Číselné řady&lt;/g1&gt;):</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135741Z" creationid="kunes" creationdate="20220512T135741Z">
@@ -20237,6 +20285,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220407T104343Z" creationid="kunes" creationdate="20220407T104343Z">
         <seg>Česká pošta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Číselnou řadu si musíme připravit, pokud jsme tak ještě neudělali.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081850Z" creationid="kunes" creationdate="20220526T081850Z">
+        <seg>We have to prepare a number sequence if we haven't already done so.</seg>
       </tuv>
     </tu>
     <tu>
