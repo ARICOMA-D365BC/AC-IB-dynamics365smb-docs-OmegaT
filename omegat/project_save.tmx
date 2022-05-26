@@ -7497,6 +7497,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Lze sledovat proces reklamace od založení reklamace, evidenci jednotlivých stavů reklamace, vytváření řádků vyřízení a poskytuje také základní tisky k reklamaci a vyřízení reklamace.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085151Z" creationid="kunes" creationdate="20220526T085151Z">
+        <seg>It is possible to monitor the complaint process since the complaint was created, records of individual claim statuses, creation of settlement lines and also provides basic prints for the complaint and settlement of the complaint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Lze tak například vytvořit tabulku s těmito hodnotami:</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121409Z" creationid="kunes" creationdate="20220427T121409Z">
@@ -7679,6 +7687,14 @@ The module establishes a separate packaging record linked to the inventory area 
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220516T093233Z" creationid="kunes" creationdate="20220516T093233Z">
         <seg>The module can work off-line, as it does not respond to an immediate change in the data, but &lt;g3&gt;sends information at scheduled intervals&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Modul je provázán na více úrovních se sledováním pomocí modulu Řízení stavů (workflow).</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085200Z" creationid="kunes" creationdate="20220526T085200Z">
+        <seg>The module is linked at multiple levels with monitoring using the State Management (workflow) module.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10855,6 +10871,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T113652Z" creationid="kunes" creationdate="20220411T113652Z">
         <seg>After verifying your account, the message &lt;g1&gt;Service connection successful.&lt;/g1&gt; will pop up and you'll see information about your account and Active Carriers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Po provedení potřebných nastavení lze vytvářet doklady &lt;g1&gt;Reklamace&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085243Z" creationid="kunes" creationdate="20220526T085238Z">
+        <seg>Once you've made the necessary settings, you can create &lt;g1&gt;Complaints&lt;/g1&gt; documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17731,6 +17755,14 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled reklamací&lt;/g4&gt; a poté vyberte související odkaz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085339Z" creationid="kunes" creationdate="20220526T085339Z">
+        <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Complaint List&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Vyberte ikonu &lt;x1/&gt;Žárovky, která otevře funkci Řekněte mi&lt;x2/&gt;Řekněte mi, co chcete dělat&lt;x3/&gt;, zadejte &lt;g4&gt;Přehled uzavřených helpdesk požadavků&lt;/g4&gt; a poté vyberte související odkaz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T073213Z" creationid="kunes" creationdate="20220512T073213Z">
@@ -18391,6 +18423,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T090933Z" creationid="kunes" creationdate="20220504T090933Z">
         <seg>Create a new Mail Record Card</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvoření nové Reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085205Z" creationid="kunes" creationdate="20220526T085205Z">
+        <seg>Creating a new Complaint</seg>
       </tuv>
     </tu>
     <tu>
