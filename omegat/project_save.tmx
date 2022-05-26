@@ -9863,6 +9863,14 @@ The module establishes a separate packaging record linked to the inventory area 
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Nejprve je třeba do řádku zadat &lt;g1&gt;Kód důvodu reklamace&lt;/g1&gt;, který specifikuje důvod reklamace pro daný řádek.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T103849Z" creationid="kunes" creationdate="20220526T103849Z">
+        <seg>You must first enter the &lt;g1&gt;Complaint Reason Code&lt;/g1&gt;in the line, which specifies the reason for the line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Nejprve je třeba nastavit šablonu řízení stavů &lt;g1&gt;(detailněji viz.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135830Z" creationid="kunes" creationdate="20220512T135830Z">
