@@ -7553,6 +7553,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Lze využít funkce &lt;g1&gt;Vytvořit řádek vyřízení&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T114354Z" creationid="kunes" creationdate="20220526T114354Z">
+        <seg>You can use the &lt;g1&gt;Create Fulfilment Line&lt;/g1&gt; function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Lázeňství, hotelnictví a wellness</seg>
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112853Z" creationid="Janousek" creationdate="20210603T112853Z">
@@ -16487,6 +16495,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T121336Z" creationid="kunes" creationdate="20220427T121336Z">
         <seg>User-specified group of schedule elements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Uživateli se zobrazí dotaz na &lt;g2&gt;Množství k vyřízení a kód způsobu vyřízení&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115243Z" creationid="kunes" creationdate="20220526T115243Z">
+        <seg>The user is asked about the &lt;g2&gt;Quantity on Fulfilment Lines and the code of the processing method&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
