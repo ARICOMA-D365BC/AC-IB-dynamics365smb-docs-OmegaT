@@ -11976,6 +11976,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pole &lt;g2&gt;Číslo původního dokladu&lt;/g2&gt; (Účtované řádky nákupní příjemky, Řádky účtované příjemky vratky) lze propojit pro jednotlivý &lt;g3&gt;Typ&lt;/g3&gt; = Nákup, Prodej.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T103952Z" creationid="kunes" creationdate="20220526T103952Z">
+        <seg>The &lt;g2&gt;Source document number&lt;/g2&gt; field (Purchase receipt posted lines, Invoice return receipt lines) can be linked for each &lt;g3&gt;Type&lt;/g3&gt; = Purchase, Sales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pole &lt;g2&gt;Číslo&lt;/g2&gt; se vyplní automaticky dalším číslem z číselné řady.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T091251Z" creationid="kunes" creationdate="20220504T091251Z">
@@ -16839,6 +16847,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220401T124557Z" creationid="kunes" creationdate="20220401T124557Z">
         <seg>If Enable EET registration is enabled, the Register EET action is available on the payment schedule, resp. Cancel EET (see &lt;g1&gt;Payment Methods Settings&lt;/g1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>V případě, že se jedná o &lt;g4&gt;Typ&lt;/g4&gt; = Interní, pak je třeba vybrat &lt;g5&gt;Číslo položky zboží&lt;/g5&gt;, ke které se reklamace vztahuje.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T104415Z" creationid="kunes" creationdate="20220526T104415Z">
+        <seg>If it is &lt;g4&gt;Type&lt;/g4&gt; = Internal, then you need to select the &lt;g5&gt;Item ledger Entry No.&lt;/g5&gt; to which the complaint relates.</seg>
       </tuv>
     </tu>
     <tu>
