@@ -3249,6 +3249,14 @@ The Receivables Status field, located on the Receivable Information Card page, i
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>&lt;g4&gt;Číslo původu&lt;/g4&gt; (číslo dodavatele, zákazníka, zaměstnance) je specifikováno dle vybraného Typy dokladu.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T085952Z" creationid="kunes" creationdate="20220526T085952Z">
+        <seg>&lt;g4&gt;Source No.&lt;/g4&gt; (number of the vendor, customer, employee) is specified according to the selected Document Type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>&lt;g7&gt;Pole ID zdrojového systému&lt;/g7&gt; nám v IN Bufferu ukazuje odkud (z jakého systému) daný záznam pochází.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T105712Z" creationid="kunes" creationdate="20220517T105712Z">
@@ -14129,6 +14137,14 @@ Elements in the report can be grouped into positions on the report.</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Přes řádky reklamace uživatel propojuje doklad reklamace s původními doklady.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T103739Z" creationid="kunes" creationdate="20220526T103739Z">
+        <seg>Through the complaint lines, the user links the claim document with the original documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Přesunuto, Smazáno nebo Nahrazeno?</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T114020Z" creationid="kunes" creationdate="20220411T114020Z">
@@ -18843,6 +18859,16 @@ of the primary key fields).</seg>
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Všechny údaje v bílých polích lze editovat (je tedy možné vyplnit či změnit pole &lt;g5&gt;Číslo kontaktu&lt;/g5&gt;, &lt;g6&gt;Kontakt, Požadované datum ukončení, Telefon, E-mail,…&lt;/g6&gt;
+V záložce &lt;g7&gt;Detail změny stavu&lt;/g7&gt; se po založení objeví nový záznam s výchozím stavem podle definice v šabloně řízení stavů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T090043Z" creationid="kunes" creationdate="20220526T090043Z">
+        <seg>All data in the white fields can be edited (so it is possible to fill in or change the fields &lt;g5&gt;Contact number&lt;/g5&gt;, &lt;g6&gt;Contact, Required end date, Phone, E-mail,…&lt;/g6&gt;
+In the &lt;g7&gt;Status change detail&lt;/g7&gt; tab, a new record with the default status as defined in the status control template will appear after creation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Všichni agenti jsou buď tzv. pasivní, nebo aktivní.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T125322Z" creationid="kunes" creationdate="20220517T125322Z">
@@ -20765,6 +20791,14 @@ Returnable packaging records are an extension of the Inventory module in Dynamic
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T083629Z" creationid="kunes" creationdate="20220512T083629Z">
         <seg>Rows are filtered:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Řádky reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T090049Z" creationid="kunes" creationdate="20220526T090049Z">
+        <seg>Complaint Lines</seg>
       </tuv>
     </tu>
     <tu>
