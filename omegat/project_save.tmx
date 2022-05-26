@@ -9203,8 +9203,8 @@ The module establishes a separate packaging record linked to the inventory area 
       <tuv lang="cs-CZ">
         <seg>Nastavení reklamací</seg>
       </tuv>
-      <tuv lang="en-US" changeid="kunes" changedate="20220509T085355Z" creationid="kunes" creationdate="20220509T085355Z">
-        <seg>Nastavení reklamací</seg>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T081057Z" creationid="kunes" creationdate="20220509T085355Z">
+        <seg>Complaints settings</seg>
       </tuv>
     </tu>
     <tu>
