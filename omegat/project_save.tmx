@@ -12184,6 +12184,22 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Vytvořit nákupní reklamaci&lt;/g1&gt; lze z Prodejní reklamace vytvořit reklamaci Nákupní.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115710Z" creationid="kunes" creationdate="20220526T115710Z">
+        <seg>You can use &lt;g1&gt;Create Purchase Complaint&lt;/g1&gt; feature to create a Purchase Complaint from a Sales Complaint.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Řádek/Prodejní položky zboží&lt;/g1&gt; se zobrazí zafiltrovaný přehled položek zboží &lt;g2&gt;Typu&lt;/g2&gt; = Prodej za daného &lt;g3&gt;Zákazníka, Číslo šarže, Číslo zboží, Kód varianty&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115455Z" creationid="kunes" creationdate="20220526T115455Z">
+        <seg>The &lt;g1&gt;Item Line/Item ledger Entries&lt;/g1&gt; function displays a filtered list of item items of &lt;g2&gt;Type&lt;/g2&gt; = Sales for the &lt;g3&gt;customer, Lot number, Item number, Variant code&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Pomocí funkce Odebrat ze svozu se změní stav z &lt;g4&gt;Ke svozu&lt;/g4&gt; na &lt;g5&gt;Nová&lt;/g5&gt;.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220411T111041Z" creationid="kunes" creationdate="20220411T111041Z">
@@ -13853,6 +13869,14 @@ Elements in the report can be grouped into positions on the report.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110024Z" creationid="kunes" creationdate="20220419T110024Z">
         <seg>Sales order,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Prodejní položky zboží</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115415Z" creationid="kunes" creationdate="20220526T115415Z">
+        <seg>Sales Item Ledger Entry</seg>
       </tuv>
     </tu>
     <tu>
@@ -18687,6 +18711,14 @@ of the primary key fields).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220504T093502Z" creationid="kunes" creationdate="20220504T093502Z">
         <seg>Create request categories (optionally if they are tracked).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Vytvořit nákupní reklamaci</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T115624Z" creationid="kunes" creationdate="20220526T115624Z">
+        <seg>Create a purchase complaint</seg>
       </tuv>
     </tu>
     <tu>
