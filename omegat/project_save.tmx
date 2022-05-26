@@ -11083,6 +11083,14 @@ The assignment is made on the relevant Item cars, choose Actions/Item/&lt;g3&gt;
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Po vytvoření Reklamace je možno ji dále zpracovávat a procesovat a následně ji pak přepnout např. do nového &lt;g1&gt;Stavu&lt;/g1&gt; = V řešení.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T111211Z" creationid="kunes" creationdate="20220526T111211Z">
+        <seg>After creating a Complaint, it is possible to further process and process it and then switch it, for example, to a new &lt;g1&gt;Status&lt;/g1&gt; = In solution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Po vytvoření finální nákupní faktury a přiřazení uhrazené nákupní zálohy je v případě přeplatku na záloze možné vložit další řádek s částkou přeplatku a příznakem Určeno pro vrácení zálohy (příznak je následně i na řádku zaúčtované faktury).</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220419T110429Z" creationid="kunes" creationdate="20220419T110429Z">
@@ -11404,6 +11412,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220517T111236Z" creationid="kunes" creationdate="20220517T111236Z">
         <seg>If the given record is in the state Processed = No, it is possible to run the task manually from the form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pokud je instalován modul &lt;g1&gt;Publikování SharePoint&lt;/g1&gt;, pak je možné u každé &lt;g2&gt;Reklamace&lt;/g2&gt; pomocí funkce &lt;g3&gt;Související/Dokumenty/Publikovat&lt;/g3&gt; publikovat dokument a pomocí funkce &lt;g4&gt;Zobrazit&lt;/g4&gt; zobrazit publikovaný dokument &lt;g5&gt;(detailněji viz.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110926Z" creationid="kunes" creationdate="20220526T110926Z">
+        <seg>If the &lt;g1&gt;SharePoint Publishing&lt;/g1&gt; module is installed, then it is possible to publish a document using the &lt;g3&gt;Related/Documents/Publish&lt;/g3&gt; function for each &lt;g2&gt;Complaint&lt;/g2&gt; and view the published document using the &lt;g4&gt;Show&lt;/g4&gt; function &lt;g5&gt;(for more details, see.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12100,6 +12116,14 @@ The data used in the statement can be filtered, e.g. by Posting Date, Packing St
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220427T120448Z" creationid="kunes" creationdate="20220427T120448Z">
         <seg>Choose the &lt;x1/&gt;Lightbulb that opens the Tell Me feature.&lt;x2/&gt;Tell me what you want to do&lt;x3/&gt;, icon, enter &lt;g4&gt;Packing Statements&lt;/g4&gt; and then choose the related link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Pomocí funkce &lt;g1&gt;Akce/Tisk/Reklamace&lt;/g1&gt; a &lt;g2&gt;Akce/Tisk/Vyřízení reklamace&lt;/g2&gt; se spustí dvě základní sestavy pro zpracování reklamace a vyřízení reklamace (do vstupního filtru se nabídne číslo aktuálně zobrazeného požadavku, rozsah tisku lze pak blíže specifikovat prostřednictvím filtrů a parametrů.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110957Z" creationid="kunes" creationdate="20220526T110957Z">
+        <seg>Using the &lt;g1&gt;Function Action/Print/Complaint&lt;/g1&gt; and &lt;g2&gt;Action/Print/Complaint Fulfilment&lt;/g2&gt;, two basic reports for processing the complaint and settling the complaint are launched (the number of the currently displayed request is offered to the input filter, the print range can then be specified in more detail through filters and parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19749,6 +19773,14 @@ In the &lt;g7&gt;Status change detail&lt;/g7&gt; tab, a new record with the defa
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Zpracování reklamace</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T111004Z" creationid="kunes" creationdate="20220526T111004Z">
+        <seg>Complaint processing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Způsob (jaké tabulky, pole) a směr synchronizace jsou v NAV parametrizovatelné.|&lt;g9&gt;Centrální číselníky&lt;/g9&gt;|
 |Obecné parametry umožňuje přidat ke kartám v systému Dynamics 365 Business Central neomezené množství nových parametrů pro účely podrobného třídění a filtrování.|&lt;g10&gt;Obecné parametry&lt;/g10&gt;|
 |HelpDesk rozšiřuje možnosti systému Dynamics 365 Business Central o centralizovanou evidenci, řízení a vyhodnocování požadavků.|&lt;g11&gt;HelpDesk&lt;/g11&gt;|
@@ -20171,6 +20203,14 @@ In the &lt;g7&gt;Status change detail&lt;/g7&gt; tab, a new record with the defa
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220512T135741Z" creationid="kunes" creationdate="20220512T135741Z">
         <seg>Number series&lt;/g1&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>modul – SharePoint)&lt;/g5&gt;.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220526T110932Z" creationid="kunes" creationdate="20220526T110932Z">
+        <seg>module – SharePoint)&lt;/g5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
