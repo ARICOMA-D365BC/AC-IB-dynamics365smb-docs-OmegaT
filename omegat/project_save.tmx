@@ -5133,6 +5133,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
     </tu>
     <tu>
       <tuv lang="cs-CZ">
+        <seg>Do pole &lt;g1&gt;Původní číslo prodejní faktury&lt;/g1&gt; vložte nebo vyberte číslo opravované faktury.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220601T080103Z" creationid="kunes" creationdate="20220601T080103Z">
+        <seg>Do pole &lt;g1&gt;Původní číslo prodejní faktury&lt;/g1&gt; vložte nebo vyberte číslo opravované faktury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
         <seg>Do pole &lt;g1&gt;Vzorec data SK&lt;/g1&gt; zadejte hodnotu &lt;g2&gt;1D&lt;/g2&gt; pro zajištění funkčnosti posunu datumu při importu.</seg>
       </tuv>
       <tuv lang="en-US" changeid="kunes" changedate="20220421T084858Z" creationid="kunes" creationdate="20220420T122617Z">
@@ -5785,6 +5793,14 @@ In the  &lt;g8&gt;Status&lt;/g8&gt; a new record will appear after creation with
       </tuv>
       <tuv lang="en-US" changeid="Janousek" changedate="20210603T112755Z" creationid="Janousek" creationdate="20210603T112755Z">
         <seg>Production Tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="cs-CZ">
+        <seg>Evidence nářadí a pomůcek - Nastavení</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="kunes" changedate="20220601T080009Z" creationid="kunes" creationdate="20220601T080009Z">
+        <seg>Evidence nářadí a pomůcek - Nastavení</seg>
       </tuv>
     </tu>
     <tu>
